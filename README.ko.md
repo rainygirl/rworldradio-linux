@@ -128,3 +128,7 @@ cargo run --release --example play_stream  -- "BBC Radio 4" 8   # ALSA로 재생
 ## 라이선스
 
 MIT - [LICENSE](LICENSE) 참고.
+
+## AI 기여 고지
+
+이 프로그램은 Claude와 함께 작업해 만들었습니다.

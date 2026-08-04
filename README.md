@@ -135,3 +135,7 @@ Both accept a station name (or part of one), or a URL directly.
 ## License
 
 MIT - see [LICENSE](LICENSE).
+
+## AI Disclaimer
+
+This application was produced by a human working with Claude.

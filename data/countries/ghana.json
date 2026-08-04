@@ -1,0 +1,932 @@
+[
+  {
+    "name": "057 radio",
+    "url": "https://audio.alter-media.hr/9052/stream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 0.4050354898245666,
+    "lon": 9.438943917524226,
+    "language": ""
+  },
+  {
+    "name": "360Africa Radio",
+    "url": "https://node-10.zeno.fm/5gyngmysfzzuv?rj-ttl=5&rj-tok=AAABdx05YS8AqTsc1KFbnTJr2A",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "ADUM RADIO",
+    "url": "http://stream.zeno.fm/dmn9atfb7ehvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "ATL FM 100.5MHz",
+    "url": "https://atlfm1005.radioca.st/stream?type=http&nocache=231",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 5.105533,
+    "lon": -1.2916649,
+    "language": "akan,english"
+  },
+  {
+    "name": "Adom Fm",
+    "url": "https://mmg.streamguys1.com/AdomFM-mp3?key=9099965b0e49394af3be11b42a71f0faa90378311d2d85f5983495217e350f0a4636df5ecf5ea3f63e53cb9026d89102&awparams=playerid%3ASGplayer%3B&amsparams=playerid%3ASGplayer%3Bskey%3A1609841442537%3B&aw_0_req.gdpr=true&us_privacy=1YNN",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "akan"
+  },
+  {
+    "name": "Agoo 96.9 FM",
+    "url": "https://agoofm-atunwadigital.streamguys1.com/agoofm",
+    "codec": "MP3",
+    "bitrate": 112,
+    "needsResolve": false,
+    "lat": 6.5553674,
+    "lon": -0.772545,
+    "language": "akan,english"
+  },
+  {
+    "name": "Ahenfie FM 106.1MHz",
+    "url": "https://radio.localstreamgh.com/listen/ahenfie_radio_/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 6.6901316,
+    "lon": -1.621192,
+    "language": "akan,english"
+  },
+  {
+    "name": "Ahotor Fm",
+    "url": "https://node-07.zeno.fm/bbpfy9pk21zuv?rj-ttl=5&rj-tok=AAABdtJi4QkAQOQEu89yxCY6mw",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "akan"
+  },
+  {
+    "name": "Akomapa FM",
+    "url": "http://mounthoreb1.primcast.com:8210/",
+    "codec": "MP3",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "akan"
+  },
+  {
+    "name": "Akomapa FM",
+    "url": "https://stream.streamgenial.stream/cxxs2usduv8uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 7.452943,
+    "lon": -2.5904775,
+    "language": "akan,english"
+  },
+  {
+    "name": "Akomapa FM",
+    "url": "http://mounthoreb1.primcast.com:8210/;",
+    "codec": "MP3",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "akan,english"
+  },
+  {
+    "name": "Amen FM",
+    "url": "https://ice7.securenetsystems.net/AMENFM",
+    "codec": "AAC+",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Angel FM",
+    "url": "https://atunwadigital.streamguys1.com/angelfm",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "akan"
+  },
+  {
+    "name": "Asaase Radio 99.5FM Accra",
+    "url": "http://stream.radiojar.com/cyg76xcvp0hvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 5.5763893,
+    "lon": -0.1683574,
+    "language": "akan,english"
+  },
+  {
+    "name": "Asempa Fm",
+    "url": "https://mmg.streamguys1.com/AsempaFM-mp3?key=23f81ad063fc94d769b3f56668d742562a0645bb7ba0f5633dbce7d73d151195adfd4a7b4b2afeeff7fb81cf4ef6e790&awparams=playerid%3ASGplayer%3B&amsparams=playerid%3ASGplayer%3Bskey%3A1609843961148%3B&aw_0_req.gdpr=true&us_privacy=1YNN",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "akan"
+  },
+  {
+    "name": "Asenteman Radio",
+    "url": "https://node-31.zeno.fm/whaba8v8d4duv?rj-ttl=5&rj-tok=AAABdtY3N84AAc3outs3-ohyeA",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "akan,english"
+  },
+  {
+    "name": "B-Zar Radio",
+    "url": "https://node-22.zeno.fm/mbzfkyrfkzzuv?rj-ttl=5&rj-tok=AAABdyiX_LoAerhRUzCmxkUzTg",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Box Lofi Radio",
+    "url": "https://stream.zeno.fm/tabzverz0fctv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bramcom Radio Online",
+    "url": "https://node-30.zeno.fm/5k38xxf1v7zuv?rj-ttl=5&rj-tok=AAABdx0o9UAAN89Op-WH21jpBw",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "akan,english"
+  },
+  {
+    "name": "Cape FM",
+    "url": "https://stream.zeno.fm/qpq7hygy77zuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 5.1306428,
+    "lon": -1.275772,
+    "language": "akan,english,fante"
+  },
+  {
+    "name": "ChinaGhana Fm",
+    "url": "https://stream.zeno.fm/3w43axr9mg0uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Citi FM",
+    "url": "https://citi973fm.radioca.st/index.html:80/;stream.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 6.594760977509223,
+    "lon": -1.40625,
+    "language": "english"
+  },
+  {
+    "name": "Connect Fm",
+    "url": "https://node-04.zeno.fm/13tbqr42u8quv?rj-ttl=5&rj-tok=AAABdxzzpuYA9jSATDr69lNONQ",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "akan,english"
+  },
+  {
+    "name": "Dadi Fm",
+    "url": "https://node-04.zeno.fm/afzd4f4nq7zuv?rj-ttl=5&rj-tok=AAABdyiroWQAN3agP4vCJME8ig",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "akan,english"
+  },
+  {
+    "name": "Evangelist Oduro Radio",
+    "url": "https://listen.openstream.co/4103/audio",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 6.5553674,
+    "lon": -0.772545,
+    "language": "akan,english"
+  },
+  {
+    "name": "Fruitful Radio",
+    "url": "https://node-09.zeno.fm/zavpry0xx7zuv?rj-ttl=5&rj-tok=AAABdx1fAO8AKVWNGL-5qa1y9A",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "akan,english"
+  },
+  {
+    "name": "GBC Uniiq 95.7 FM",
+    "url": "https://mediagh.us:2000/stream/uniiqfm",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 5.5763152,
+    "lon": -0.1923989,
+    "language": "english"
+  },
+  {
+    "name": "GBC Uniiq 95.7 FM",
+    "url": "http://173.249.50.205:8004/",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "GHERLA",
+    "url": "http://89.39.189.52:8000/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Ghana Music Radio",
+    "url": "https://streaming.radio.co/s92f890821/listen",
+    "codec": "AAC",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "akan,english"
+  },
+  {
+    "name": "Ghana Waves Radio",
+    "url": "https://node-10.zeno.fm/pg5c7zx3p0quv?rj-ttl=5&rj-tok=AAABdtd3XeAAU1f9o-yKlGaPXg",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "akan,english"
+  },
+  {
+    "name": "HANA RADIO - Ghana",
+    "url": "https://stream.zeno.fm/qqaz1l2tujvuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Happy Fm",
+    "url": "https://atunwadigital.streamguys1.com/happyfm989accra",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "akan,english"
+  },
+  {
+    "name": "Hello Fm",
+    "url": "https://atunwadigital.streamguys1.com/hellofm",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "akan"
+  },
+  {
+    "name": "Hitz 103.9 FM",
+    "url": "https://mmg.streamguys1.com/HitzFM-mp3?",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Infinity Radio GH",
+    "url": "https://node-04.zeno.fm/5bpw8cyuvueuv?rj-ttl=5&rj-tok=AAABdyhgHMUAgpzXpPbAOefU_g",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "akan,english"
+  },
+  {
+    "name": "Info Radio 91.1 FM",
+    "url": "http://stream.zeno.fm/ey34mac27vzuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Info Radio Ghana",
+    "url": "https://node-27.zeno.fm/ey34mac27vzuv?rj-ttl=5&rj-tok=AAABdyidjk4ACEJncwCTuO-dTg",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "akan,english"
+  },
+  {
+    "name": "Jesus Temple Radio",
+    "url": "https://mediagh.us:2020/stream/temple",
+    "codec": "MP3",
+    "bitrate": 80,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Jet Radio Online",
+    "url": "https://node-12.zeno.fm/9564yrw5v2quv?rj-ttl=5&rj-tok=AAABdyhKbi0A1qfGCMk-0cwJfw",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "akan,english"
+  },
+  {
+    "name": "Joy Fm",
+    "url": "https://mmg.streamguys1.com/JoyFM-mp3?key=8689cc761932e3151f94ddbdbfdf4aa0f4000234b5caeaaa179a2fc0d59a4be9b8b774c3653cb14d1fd76f5cbf80e482&awparams=playerid%3ASGplayer%3B&amsparams=playerid%3ASGplayer%3Bskey%3A1609840716923%3B&aw_0_req.gdpr=true&us_privacy=1YNN",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Kasapa Fm",
+    "url": "https://node-14.zeno.fm/3eh6htuyk8quv?rj-ttl=5&rj-tok=AAABdtNl8EgAdZnDMY_58aoknA",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "akan,english"
+  },
+  {
+    "name": "Kastle FM",
+    "url": "https://stream.zeno.fm/evaq9ab4k0hvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 5.110311,
+    "lon": -1.248063,
+    "language": "akan,english,fante"
+  },
+  {
+    "name": "Kente Radio",
+    "url": "https://streamer.radio.co:80/s362651905/listen",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "akan,english"
+  },
+  {
+    "name": "Kobbyros Radio",
+    "url": "https://node-27.zeno.fm/47nz3zut26duv?rj-ttl=5&rj-tok=AAABdxz5j_4AWgh97W7_GikV2Q",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "akan,english"
+  },
+  {
+    "name": "Kok Radio",
+    "url": "https://node-09.zeno.fm/z5xgdb10tueuv?rj-ttl=5&rj-tok=AAABdyhRNhYAD5pHHiZ5Z5lGsQ",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "akan,english"
+  },
+  {
+    "name": "Kyebi Radio",
+    "url": "https://stream.zenolive.com/ep91zyvc9zquv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 6.1654285,
+    "lon": -0.5927483,
+    "language": "akan,english"
+  },
+  {
+    "name": "Lamp Radio",
+    "url": "https://radio.steprotech.com:8260/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 5.806503442401451,
+    "lon": -0.3154706954956055,
+    "language": "english,twi"
+  },
+  {
+    "name": "LiveXtra Fm",
+    "url": "https://node-29.zeno.fm/7586sp6mua0uv?rj-ttl=5&rj-tok=AAABdtK_vI8AwopbZYmWFHLrNw",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Luv Fm",
+    "url": "https://mmg.streamguys1.com/LuvFM-mp3?key=64c68f3397eadf448520da5c47847f30b48defff1ca52821a9d5817e516774af24fe51fe4829d41ccf1b4b9d0eca1eec&awparams=playerid%3ASGplayer%3B&amsparams=playerid%3ASGplayer%3Bskey%3A1609844133655%3B&aw_0_req.gdpr=true&us_privacy=1YNN",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "akan,english"
+  },
+  {
+    "name": "Medeamaa Fm",
+    "url": "https://node-06.zeno.fm/249ba9e1q0quv?rj-ttl=5&rj-tok=AAABdtdDxiMA0rjBvr_iSBVYvg",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "akan"
+  },
+  {
+    "name": "Mereshena Radio",
+    "url": "http://stream.zeno.fm/gms1ucq58ehvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Meyah Radio",
+    "url": "https://radio.steprotech.com:8120/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 6.6925715417695315,
+    "lon": -1.6204811436245838,
+    "language": "akan,english,twi"
+  },
+  {
+    "name": "Moonlite Fm",
+    "url": "https://stream.lensnetworks.com/proxy/moonlite?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "akan,english"
+  },
+  {
+    "name": "Neat Fm",
+    "url": "https://atunwadigital.streamguys1.com/neatfm",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "akan"
+  },
+  {
+    "name": "Nhyira 104.5 FM",
+    "url": "https://mmg.streamguys1.com/NhyiraFM-mp3?key=63d8990dfe4438ae984fd70d2d2b4bd31c842c474987bd810ac0e8e0fd62e8cf2015661105cced63ccfdca89a8422ab1",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 6.5553674,
+    "lon": -0.772545,
+    "language": "akan,english"
+  },
+  {
+    "name": "Nhyira Fm",
+    "url": "https://mmg.streamguys1.com/NhyiraFM-mp3?key=b37c365ed033b3e65a85fc860f6611ee8562838eeb6e0489764968a4153d826217219cfacc395f2cc2389573fb59870a&awparams=playerid%3ASGplayer%3B&amsparams=playerid%3ASGplayer%3Bskey%3A1609844395217%3B&aw_0_req.gdpr=true&us_privacy=1YNN",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "akan"
+  },
+  {
+    "name": "Nyatefe Radio",
+    "url": "https://node-26.zeno.fm/gagafyhmh5zuv?rj-ttl=5&rj-tok=AAABdyiJ2-cAWkd2Hxi7W-MVNQ",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Obrempon Fm",
+    "url": "https://node-10.zeno.fm/qr6xwu5v44zuv?rj-ttl=5&rj-tok=AAABdyhUhlwA1VQOJp-Xu7rfSg",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "akan,english"
+  },
+  {
+    "name": "Okay Fm",
+    "url": "http://okayfm.atunwadigital.streamguys1.com/okayfm",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "akan"
+  },
+  {
+    "name": "Oman Fm",
+    "url": "https://omanfm-atunwadigital.streamguys1.com/omanfm?amsparams=playerid%3ASGplayer%3Bskey%3A1611555812774%3B&awparams=playerid%3ASGplayer%3Bplayerid%3ASGplayer%3Bplayerid%3ASGplayer%3B&aw_0_req.gdpr=true&us_privacy=1YNN&aw_0_req.gdpr=true&us_privacy=1YNN&aw_0_req.gdpr=true&us_privacy=1YNN",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "akan,english"
+  },
+  {
+    "name": "Onioo Radio",
+    "url": "https://node-33.zeno.fm/d079m8zuhnruv?rj-ttl=5&rj-tok=AAABdyi4XhAAre7yjzkNex1DrA",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "akan,english"
+  },
+  {
+    "name": "Opemsuo FM",
+    "url": "https://opemsuofm-atunwadigital.streamguys1.com/opemsuofm",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 6.7031278,
+    "lon": -1.6148341,
+    "language": "akan,english"
+  },
+  {
+    "name": "Oroko Radio",
+    "url": "https://oroko-radio.radiocult.fm/stream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Parousia Radio",
+    "url": "https://radio.parousiaempire.org:8000/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 4.891375070657007,
+    "lon": -1.7523193359375002,
+    "language": "akan,english,french"
+  },
+  {
+    "name": "Parousia Radio",
+    "url": "https://node-28.zeno.fm/vg1ax9tvz1zuv.aac?rj-ttl=5&rj-tok=AAABdx0OKOIATeRO4Na-9X5L0g",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Peace FM",
+    "url": "https://peacefm-atunwadigital.streamguys1.com/peacefm?amsparams=playerid%3ASGplayer%3Bskey%3A1611468493100%3B&awparams=playerid%3ASGplayer%3Bplayerid%3ASGplayer%3Bplayerid%3ASGplayer%3B&us_privacy=1YNN&us_privacy=1YNN&us_privacy=1YNN",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "akan"
+  },
+  {
+    "name": "PentRadio 100.1 FM",
+    "url": "https://stream.zeno.fm/3zqct1ury8quv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 6.698561,
+    "lon": -1.623309,
+    "language": "akan,english"
+  },
+  {
+    "name": "PentRadio 107.9 FM - Takoradi",
+    "url": "https://stream.zeno.fm/84f29pevuxhvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 4.927456,
+    "lon": -1.749022,
+    "language": "akan,english"
+  },
+  {
+    "name": "Pure FM",
+    "url": "http://purefm.atunwadigital.streamguys1.com/purefm",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "REHIC Radio",
+    "url": "https://node-30.zeno.fm/hqbxxmq50tzuv.aac?rj-ttl=5&rj-tok=AAABdx0hJUsAyPXElTSQSUWYnQ",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "akan,english"
+  },
+  {
+    "name": "Radio NED",
+    "url": "https://node-35.zeno.fm/qsa068q31tzuv?rj-ttl=5&rj-tok=AAABdx1DLUoAU00UG7izXej_Bw",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "akan,english"
+  },
+  {
+    "name": "Rainbow Radio",
+    "url": "https://node-15.zeno.fm/wv4tseqxk8quv?rj-ttl=5&rj-tok=AAABdtKQ-zAApp8i1nvprbjDlw",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Reach The World Radio",
+    "url": "https://node-18.zeno.fm/u90nayh18qzuv?rj-ttl=5&rj-tok=AAABdyhi7LYAp7dB7UVHFbOhnA",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "akan,english"
+  },
+  {
+    "name": "Restorer Radio",
+    "url": "https://node-06.zeno.fm/ygz5xb1ed2zuv?rj-ttl=5&rj-tok=AAABdyiB-8oACqDk5fgjllK25A",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "SHATTA Movement",
+    "url": "https://stream-167.zeno.fm/pbnss8oxyluuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwYm5zczhveHlsdXV2IiwiaG9zdCI6InN0cmVhbS0xNjcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImZrWXBkQ2VPUTBDUmJmZUFDMDhjZnciLCJpYXQiOjE3NDcyMTQ2NzcsImV4cCI6MTc0NzIxNDczN30.AGbFH1RVlS4MAdUn9q-5qSWEE4-YfMZgvl_7CiSQaQw&adtonosListenerId=01JV71Q20NNP0MDXMTT3Q4XWAC&aw_0_req_lsid=d1db44d6929b282ed2a68e0472f0de3c",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Sankofa Radio",
+    "url": "https://ssl.nexuscast.com:8060/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "akan"
+  },
+  {
+    "name": "Sankofa Radio",
+    "url": "https://ssl.nexuscast.com:8060/stream?hash=1687731061009.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Secret Fm Online",
+    "url": "https://node-17.zeno.fm/rgts3k9c37zuv?rj-ttl=5&rj-tok=AAABdyhxwJwAaqeEVj3BmJOfZw",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "akan,english"
+  },
+  {
+    "name": "Skyy Power FM",
+    "url": "https://node-13.zeno.fm/8ct99fxeq8quv?rj-ttl=5&rj-tok=AAABdteLwYoAcoGfvNmnU_W30w",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "akan,english"
+  },
+  {
+    "name": "Sompa 101.1FM Tarkwa",
+    "url": "https://stream.zeno.fm/ey5mddtbdfeuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 5.310935,
+    "lon": -1.992426,
+    "language": "akan,english"
+  },
+  {
+    "name": "Sompa 106.5FM Accra",
+    "url": "https://stream-281.zeno.fm/55sg1lh4pqquv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 5.6424482,
+    "lon": -0.2435186,
+    "language": "akan,english"
+  },
+  {
+    "name": "Sompa 93.1FM Kumasi",
+    "url": "https://sunny-radio-server.cloud-ip.cc/radio/sunnyradio?t=1782488511159",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 5.5700234,
+    "lon": -0.2005562,
+    "language": "akan,english"
+  },
+  {
+    "name": "Sompa 93.1FM Kumasi",
+    "url": "https://stream.zeno.fm/erjhljewkybuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 6.698561,
+    "lon": -1.623309,
+    "language": "akan,english"
+  },
+  {
+    "name": "Sweet Melodies",
+    "url": "http://sweetmelodies.tk/stream1",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "TW Radio 88.9 FM",
+    "url": "https://a00.w3gradle.com/a21.mp3",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 5.1074261,
+    "lon": -1.2417067,
+    "language": "akan,english"
+  },
+  {
+    "name": "Torq Radio",
+    "url": "https://s4.radio.co/se63becd16/listen",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Wooden Radio",
+    "url": "https://stream-177.zeno.fm/9ux8wtex9qzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI5dXg4d3RleDlxenV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ing1bkVDYXc3U0s2SWthYXB2N1AzS2ciLCJpYXQiOjE3Nzg3NjEwNDAsImV4cCI6MTc3ODc2MTEwMH0.bpcOy_nBeZB2AShOKKJe3ETFoaWPT7_F3o6Vhn3K0dQ",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "akan,english"
+  },
+  {
+    "name": "YFm 979 Takoradi",
+    "url": "https://atunwadigital.streamguys1.com/yfm979takoradi",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "akan,english"
+  },
+  {
+    "name": "YFm Accra",
+    "url": "https://atunwadigital.streamguys1.com/yfm1079accra",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "akan,english"
+  },
+  {
+    "name": "Yediem Radio",
+    "url": "https://radio.steprotech.com:8130/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,twi"
+  },
+  {
+    "name": "Yfm Fm",
+    "url": "https://atunwadigital.streamguys1.com/yfm1025kumasi",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Zaa Radio",
+    "url": "http://stream.zaaradio.com:60700/Zaa",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  }
+]

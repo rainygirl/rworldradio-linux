@@ -1,0 +1,82 @@
+[
+  {
+    "name": "RSI Rete Uno 94.1 (News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s103304",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio FM1 87.8 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s103303",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Liechtenstein 103.7 (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s15148",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Vaterland",
+    "url": "https://radiostream.radiobutler.com/7e9d5eb6-9249-4c7a-9f1c-6d4b9c7a48a8",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 47.132648150913866,
+    "lon": 9.52300661804579,
+    "language": ""
+  },
+  {
+    "name": "Radio Vaterland (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s339504",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "SRF 1 Ostschweiz 88.2 (US News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s103299",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "SRF 2 Kultur 91.7 (Classical)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s15145",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "SRF 3 98.6 (Euro Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s15147",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

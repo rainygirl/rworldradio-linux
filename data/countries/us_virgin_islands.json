@@ -1,0 +1,72 @@
+[
+  {
+    "name": "107.9 FM Da Vybe",
+    "url": "https://ice3.securenetsystems.net/WLDV",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "BRN Radio - Arabic Channel",
+    "url": "http://192.241.185.108:8094/stream",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Beach Bar Radio",
+    "url": "https://streaming.radio.co/s23d2a636c/listen",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "american english"
+  },
+  {
+    "name": "From The Heart Radio",
+    "url": "https://global2.citrus3.com:2020/stream/fromtheheartradio",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 33.880783515062205,
+    "lon": -83.11019514966783,
+    "language": "english"
+  },
+  {
+    "name": "WSTX-AM 970 Christiansted",
+    "url": "http://wstxradio2.serverroom.net:8340/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "WSTX-FM 100.3 Christiansted",
+    "url": "http://wstxradio.serverroom.net:7490/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "WTJX",
+    "url": "https://quarrel.streamguys1.com:7405/wtjxfm",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

@@ -1,0 +1,2072 @@
+[
+  {
+    "name": "100,3FM South Canterbury",
+    "url": "http://uk4-vn.mixstream.net:8066/stream/1/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "2XS FM",
+    "url": "https://2xsfm.cloudlink.nz/stream-proxy.php",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "2XS FM 106 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s350761",
+    "codec": "mp3",
+    "bitrate": 256,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "2XS FM Palmerston North",
+    "url": "http://125.236.204.178:8001/listen.mp3",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": -40.351306184941095,
+    "lon": 175.61388015747073,
+    "language": ""
+  },
+  {
+    "name": "531pi - AAC",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/531PIAAC_SC",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,pacifica multi ethnic"
+  },
+  {
+    "name": "531pi - MP3",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/531PI_SC",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,fijian,samoan,te reo maori"
+  },
+  {
+    "name": "8K.NZ",
+    "url": "http://radio8k.out.airtime.pro:8000/radio8k_a",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "91.2 Oamaru FM",
+    "url": "https://usa1-vn.mixstream.net/8096/listen.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "93 5 Eagle Radio",
+    "url": "https://az10.yesstreaming.net:8680/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "93 5 The Eagle",
+    "url": "https://streaming.live365.com/a88592",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "95bFM - 256Kbps MP3",
+    "url": "https://streams.95bfm.com/stream95",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "95bFM - 64kbps AAC+",
+    "url": "https://streams.95bfm.com/stream128",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "95bFM - FLAC",
+    "url": "https://streams.95bfm.com/stream112",
+    "codec": "OGG",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "AWA FM",
+    "url": "https://wowza.iwi.radio/icecast-to-hls/ngrp:AwaFM.stream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 63,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,te reo"
+  },
+  {
+    "name": "Access Radio Taranaki 104.4FM",
+    "url": "https://live.accessmedia.nz/Taranaki.stream_aac/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 150,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Akaroa World Radio",
+    "url": "https://n07.radiojar.com/k0t12bsns1duv?rj-ttl=5&rj-tok=AAABf7nGP10A7NK4A0_6v63i4w",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Amped AI",
+    "url": "https://amped-ai1.azuracast.tgnz.net/listen/amped_ai/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Anthemz",
+    "url": "https://mediaworks.streamguys1.com/anthemz-chc-high_icy",
+    "codec": "AAC",
+    "bitrate": 130,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,english uk"
+  },
+  {
+    "name": "Arrow FM",
+    "url": "https://live.accessmedia.nz/ArrowFM.stream/playlist.m3u8",
+    "codec": "MP3",
+    "bitrate": 134,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Arrow FM 92.7",
+    "url": "https://live.accessmedia.nz/ArrowFM.stream_aac/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 150,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Auckland 80's",
+    "url": "https://servidor34.brlogic.com:7138/live",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": -36.74592752103735,
+    "lon": 174.72656250000003,
+    "language": "english"
+  },
+  {
+    "name": "Bandwagon Radio",
+    "url": "https://streaming.radio.co/scfae3b30e/listen",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bay FM 100.7",
+    "url": "https://s38.myradiostream.com:8876/;;?listening-from-radio-garden=1686796930",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "BeachFM 106.3",
+    "url": "http://s8.myradiostream.com:58408/",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": -40.907696344555966,
+    "lon": 174.99956131057849,
+    "language": "english"
+  },
+  {
+    "name": "Beagle 88.1",
+    "url": "https://stream.beagleradio.co.nz/stream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": -35.72126659255408,
+    "lon": 174.32079792022705,
+    "language": "english"
+  },
+  {
+    "name": "Big River FM",
+    "url": "http://bigriver.broadcast.co.nz/bigriverfm.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bollybop",
+    "url": "https://s3.radio.co/s2f19d44d0/listen",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hindi"
+  },
+  {
+    "name": "Brian FM 105.6 Nelson NZ",
+    "url": "https://ais-sa1.streamon.fm/7358_128k.aac/playlist.m3u8?",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -41.32815138300663,
+    "lon": 173.21319580078125,
+    "language": ""
+  },
+  {
+    "name": "Brian FM 105.6 Nelson NZ",
+    "url": "https://ais-sa1.streamon.fm/7358_128k.aac/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -41.32072582082497,
+    "lon": 173.28186035156253,
+    "language": ""
+  },
+  {
+    "name": "Brian FM 91.2 Wanganui NZ",
+    "url": "https://ais-sa1.streamon.fm/7100_128k.aac",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -39.933053977491255,
+    "lon": 175.0523328781128,
+    "language": ""
+  },
+  {
+    "name": "CFM Coromandel",
+    "url": "https://stream.cfm.co.nz/low",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Channel X",
+    "url": "https://mediaworks.streamguys1.com/chx_net_icy",
+    "codec": "AAC",
+    "bitrate": 130,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,english uk"
+  },
+  {
+    "name": "Chill-Radio",
+    "url": "https://media-sov.musicradio.com/Chill",
+    "codec": "AAC",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Classic1027",
+    "url": "http://edge.iono.fm/xice/49_high.aac",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Coast",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/NZME_07AAC.m3u8",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Coast Access Radio",
+    "url": "https://live.accessmedia.nz/Coast.stream_aac/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 150,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Coast Access Radio MP3",
+    "url": "https://live.accessmedia.nz/Coast.stream/playlist.m3u8",
+    "codec": "MP3",
+    "bitrate": 134,
+    "needsResolve": false,
+    "lat": -40.87694182532185,
+    "lon": 175.0644850730828,
+    "language": "english"
+  },
+  {
+    "name": "Coast FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_07AAC.m3u8?aw_0_1st.playerid=iHeartRadioWebPlayer&aw_0_1st.skey=9774168307&clientType=web&companionAds=false&deviceName=web-desktop&dist=iheart&host=webapp.NZ&listenerId=&playedFrom=157&pname=live_profile&profileId=9774168307&stationid=6193&terminalId=162&territory=NZ",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Compass FM",
+    "url": "http://stream.compassfm.org.nz:8000/Compass_FM_104.9",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Cool Blue Taupo",
+    "url": "http://falcon.shoutca.st:8166/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Country Radio Invercargill 105.2FM",
+    "url": "http://countryradio2.no-ip.org:8000/;",
+    "codec": "MP3",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Dave FM",
+    "url": "http://davefmradio.no-ip.org:8000/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Drop FM",
+    "url": "https://s2.radio.co/s7649837db/listen",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "East FM",
+    "url": "https://listen.eastfm.nz/stream-aac-64",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": -36.89493,
+    "lon": 174.93232,
+    "language": "english"
+  },
+  {
+    "name": "East FM",
+    "url": "https://listen.eastfm.nz/stream.aac",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -36.89493,
+    "lon": 174.93232,
+    "language": "english"
+  },
+  {
+    "name": "East FM",
+    "url": "https://listen.eastfm.nz/stream.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -36.89493,
+    "lon": 174.93232,
+    "language": "english"
+  },
+  {
+    "name": "Easy 80s",
+    "url": "http://procyon.shoutca.st:8032/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Flava",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_08AAC.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": -36.84588942887061,
+    "lon": 174.8031234741211,
+    "language": "english"
+  },
+  {
+    "name": "Free FM 89 Hamilton",
+    "url": "https://live.accessmedia.nz/FreeFM.stream_aac/chunklist_w1448621681.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "FreshFM",
+    "url": "https://live.accessmedia.nz/Fresh.stream_aac/chunklist_w1462567576.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Gaia FM (New Zealand)",
+    "url": "https://s2.stationplaylist.com:9000/gaiafm.aac",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -37.68903678658054,
+    "lon": 176.1404101388368,
+    "language": ""
+  },
+  {
+    "name": "Gaia FM New Zealand",
+    "url": "http://s2.stationplaylist.com:9000/gaiafm.aac",
+    "codec": "AAC+",
+    "bitrate": 80,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Galaxy 107 FM  Kawerau",
+    "url": "http://s39.myradiostream.com:14858/;listen.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "George FM",
+    "url": "https://mediaworks.streamguys1.com/george_net_icy",
+    "codec": "AAC",
+    "bitrate": 131,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "George FM",
+    "url": "https://digitalstreams.mediaworks.nz/george_net/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 130,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "George FM - Chillsville",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CHILLSVILLE_S01.aac",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "George FM - Club Classics",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/GEORGEFM_CC_S01.aac",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "George FM - Cocktail Hour",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/COCKTAILHOUR_S01AAC.aac",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "George FM - DnB",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/GEORGE_DNB_S01.aac",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "George FM - Latest Bangers",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/GEORGEFRESHHITS_S01.aac",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Gold Sport AM",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/NZME_06AAC.m3u8",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Gone Country",
+    "url": "https://usa10.fastcast4u.com:6010/;?type=http&nocache=1676417570",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Heads FM Mangawhai 106.4",
+    "url": "https://headsfm.radioca.st/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Humm Radio",
+    "url": "https://mediaworks.streamguys1.com/humm_net_icy",
+    "codec": "AAC",
+    "bitrate": 130,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,indian"
+  },
+  {
+    "name": "JAZZ CAFE",
+    "url": "https://radio.wanderingsheep.net:8000/jazzcafe",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -39.15051403380312,
+    "lon": 176.13281250000003,
+    "language": "english"
+  },
+  {
+    "name": "JAZZGROOVE.org - Smooth Jazz (64k)",
+    "url": "http://streams.radiomast.io/4fdf004c-c2f3-49c1-bdb1-22e208d48780",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Jazz Cafe",
+    "url": "http://radio.wanderingsheep.tv:8000/jazzcafe",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "KIX FM",
+    "url": "https://stream.kixfm.co.nz/listen/kixfm/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -41.3234954647835,
+    "lon": 174.81326803101808,
+    "language": ""
+  },
+  {
+    "name": "Keep Laughing Forever Radio",
+    "url": "http://carol.epichosts.co.uk:8610/autodj.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -37.98953375384658,
+    "lon": 176.91833496093753,
+    "language": ""
+  },
+  {
+    "name": "Kiwi Folk Radio",
+    "url": "https://streamer.radio.co/sde527a41e/listen",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Lake FM 89.6 | (Classic Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s333979",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "LibertyNZ on The Wireless",
+    "url": "https://stream.zeno.fm/lamr6x1fxrruv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Life FM - AAC",
+    "url": "https://rhema-radio.streamguys1.com/rhema-lifefm.aac",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Life FM - MP3",
+    "url": "https://rhema-radio.streamguys1.com/rhema-lifefm.mp3",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MAD FM Auckland 106.7",
+    "url": "https://madfm-gecko.radioca.st/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "MPR Manawatu People's Radio",
+    "url": "https://live.accessmedia.nz/MPR.stream/playlist.m3u8",
+    "codec": "MP3",
+    "bitrate": 134,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Magic",
+    "url": "https://digitalstreams.mediaworks.nz/mmusic_net/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 130,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Magic FM",
+    "url": "https://mediaworks.streamguys1.com/magic_net_icy",
+    "codec": "AAC",
+    "bitrate": 130,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,english uk"
+  },
+  {
+    "name": "Mai FM",
+    "url": "https://ais-sa1.streamon.fm/7102_128k.aac",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Mai FM",
+    "url": "https://mediaworks.streamguys1.com/mai_net_icy",
+    "codec": "AAC",
+    "bitrate": 129,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,kiwi,te reo"
+  },
+  {
+    "name": "Maunganui FM",
+    "url": "https://radio.mmc.school.nz/listen/mmc_radio/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Mix FM 87.9, Wellington, New Zealand",
+    "url": "https://stream.mixfm.nz/",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "More FM - Bay of Plenty",
+    "url": "https://mediaworks.streamguys1.com/more-tga-high_icy",
+    "codec": "AAC",
+    "bitrate": 130,
+    "needsResolve": false,
+    "lat": -37.68495892891954,
+    "lon": 176.166128218174,
+    "language": "english"
+  },
+  {
+    "name": "More FM - Nelson",
+    "url": "https://mediaworks.streamguys1.com/more-nsn-high_icy",
+    "codec": "AAC",
+    "bitrate": 130,
+    "needsResolve": false,
+    "lat": -41.27074094086323,
+    "lon": 173.28263282775882,
+    "language": "english"
+  },
+  {
+    "name": "Mountainside FM",
+    "url": "http://stream.nrgkits.co.nz:5000/mountainside",
+    "codec": "OGG",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Mouthfull Radio",
+    "url": "https://mouthfull-radio.radiocult.fm/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Mushroom Escape",
+    "url": "https://cast3.my-control-panel.com/proxy/jonatha1/escape?1664781783632",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Mushroom Escape",
+    "url": "http://65.108.124.70:8676/escape",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Mushroom FM",
+    "url": "http://65.108.124.70:8676/live",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "New Zealand Net Radio",
+    "url": "https://radio.nznetradio.net.nz/stream3",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Newstalk ZB",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_01AAC.m3u8?aw_0_1st.playerid=iHeartRadioWebPlayer&aw_0_1st.skey=9631949606&clientType=web&companionAds=false&deviceName=web-desktop&dist=iheart&host=webapp.NZ&listenerId=&playedFrom=157&pname=live_profile&profileId=9631949606&stationid=6187&terminalId=162&territory=NZ",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Newstalk ZB",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_41AAC.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Newstalk ZB Christchurch",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/NZME_41AAC.m3u8",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Newstalk ZB Wellington",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/NZME_31AAC.m3u8",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Niu FM - AAC",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NIUFMAAC_SC",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,pacific"
+  },
+  {
+    "name": "Niu FM - MP3",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NIUFM_SC",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,pacific"
+  },
+  {
+    "name": "OAR 105.4FM Dunedin",
+    "url": "https://live.accessmedia.nz/Otago.stream/playlist.m3u8",
+    "codec": "MP3",
+    "bitrate": 134,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "OAR FM - Otago Access Radio",
+    "url": "https://live.accessmedia.nz/Otago.stream_aac/chunklist_w1332745084.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Oamaru Heritage Radio",
+    "url": "http://202.9.116.204:8000/ohrweb",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "One Christian Radio",
+    "url": "https://radio.wanderingsheep.net:33001/onechristianradio",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "One Double-X",
+    "url": "https://radio.e-cast.co.nz/1xxone/stream.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Paekakariki",
+    "url": "http://icecast.groundtruth.co.nz:8000/paekakfm.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Paekakariki 88.2FM",
+    "url": "https://icecast.groundtruth.co.nz/paekakfm.aac",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Plains FM 96.9",
+    "url": "https://live.accessmedia.nz/plains.stream/playlist.m3u8",
+    "codec": "MP3",
+    "bitrate": 134,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Plains FM 96.9",
+    "url": "http://live.accessmedia.nz/plains.stream_aac/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 150,
+    "needsResolve": false,
+    "lat": 28.723629275173927,
+    "lon": 33.04687500000001,
+    "language": ""
+  },
+  {
+    "name": "Planet FM 104.6 - AAC",
+    "url": "https://live.accessmedia.nz/PlanetFM.stream_aac/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 150,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Planet FM 104.6 - MP3",
+    "url": "https://live.accessmedia.nz/PlanetFM.stream/playlist.m3u8",
+    "codec": "MP3",
+    "bitrate": 134,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Positively Morrinsville 87.7FM",
+    "url": "https://c16.radioboss.fm:8262/stream?1652324863134",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Power Hit FM 87.8 - Christchurch, NZ",
+    "url": "http://listen.powerhitfm.co.nz:16100/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": -43.53108396635563,
+    "lon": 172.63691782951358,
+    "language": ""
+  },
+  {
+    "name": "Q97",
+    "url": "https://radio.e-cast.co.nz/q97/stream.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "RAG-FM 107.7FM",
+    "url": "https://cast6.asurahosting.com/proxy/ragfmcom/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "RDU",
+    "url": "https://rdu985fm-gecko.radioca.st/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "RDU 98.5FM",
+    "url": "http://rdu985fm-gecko.radioca.st:8247/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RNZ Concert AAC (128kbps)",
+    "url": "http://radionz-ice.streamguys.com/Concert_aac128",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "RNZ Concert MP3",
+    "url": "http://radionz-ice.streamguys.com/concert.mp3",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "RNZ National AAC (128kbps)",
+    "url": "http://radionz-ice.streamguys.com/National_aac128",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RNZ Pacific AAC (64kbps)",
+    "url": "http://radionz-ice.streamguys.com/international_aac64",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RNZ Pacific MP3",
+    "url": "http://radionz-ice.streamguys.com/international.mp3",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,te reo maori"
+  },
+  {
+    "name": "RNZ Parliament MP3 (Sanctuary outside Parliament hours)",
+    "url": "http://radionz-ice.streamguys.com/parliament.mp3",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "ROVA CHILL HOP",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ROVA_CHILLHOP_S01AAC.aac?dist=?n=de33099414fdd83859df",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RadiJohan",
+    "url": "http://69.30.214.54:13740/;?type=http&nocache=1708209708?0.5747864581171453",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Radio - X",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM02AAC65_SC?dist=onlineradiobox",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Radio A",
+    "url": "https://play.radioking.io/radio-a-music",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio A - Nelson NZ",
+    "url": "https://listen.radioking.com/radio/106324/stream/145267",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -41.282037755340546,
+    "lon": 173.27533721923828,
+    "language": ""
+  },
+  {
+    "name": "Radio Bay FM 100.7",
+    "url": "https://s38.myradiostream.com:8876/;;?listening-from-radio-garden=1686969300",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Radio Bolly Bop",
+    "url": "http://s3.radio.co/s2f19d44d0/listen",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hindi"
+  },
+  {
+    "name": "Radio BurgerFuel",
+    "url": "https://s3.radio.co/s9909bd65f/listen",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Radio Central 91.9 (Sports)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s350541",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Chinese FM90.6",
+    "url": "https://s26.myradiostream.com/:20274/listen.mp3?nocache=1628504081",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Control 99.4FM",
+    "url": "https://michae14-gecko.radioca.st/stream",
+    "codec": "AAC",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,te reo maori"
+  },
+  {
+    "name": "Radio Ferrymead 1413 AM",
+    "url": "https://s2.stationplaylist.com:9440/listen.aac?1780841789005",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Hauraki",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_04AAC_SC",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Hauraki",
+    "url": "https://23163.live.streamtheworld.com/NZME_04AAC/HLS/playlist.m3u8?aw_0_1st.playerid=iHeartRadioWebPlayer&aw_0_1st.skey=12121006026&clientType=web&companionAds=false&deviceName=web-desktop&dist=iheart&host=webapp.NZ&listenerId=&playedFrom=157&pname=live_profile&profileId=12121006026&stationid=6191&terminalId=162&territory=NZ",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": -36.84687849935388,
+    "lon": 174.7590118646622,
+    "language": "english"
+  },
+  {
+    "name": "Radio Hauraki",
+    "url": "https://23163.live.streamtheworld.com/NZME_04AAC/HLS/playlist.m3u8",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": -36.84685274238634,
+    "lon": 174.75900650024417,
+    "language": "english"
+  },
+  {
+    "name": "Radio Hawkes Bay",
+    "url": "https://live.accessmedia.nz/Kidnappers.stream/playlist.m3u8",
+    "codec": "MP3",
+    "bitrate": 134,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Radio Hydra",
+    "url": "https://streaming.radio.co/sed9109681/listen",
+    "codec": "AAC",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Radio KPS (Kauri Park School)",
+    "url": "http://202.150.97.198:8000/;",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,te reo maori"
+  },
+  {
+    "name": "Radio Kidnappers",
+    "url": "https://live.accessmedia.nz/Kidnappers.stream_aac/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 151,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Radio New Zealand National",
+    "url": "http://radionz-ice.streamguys.com/national.mp3",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Ngāti Porou",
+    "url": "https://wowza.iwi.radio/icecast-to-hls/ngrp:NgatiPorou.stream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 63,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,te reo"
+  },
+  {
+    "name": "Radio Robotic",
+    "url": "https://stream.zeno.fm/x4hneey2vwzuv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Robotic",
+    "url": "https://stream.zeno.fm/rhscse2a41zuv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Radio Samoa 1593 (Local News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s9696",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Samoa 1593am",
+    "url": "http://radiosamoa.stream.broadcast.co.nz:8000/rsamoa48k",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,gagana samoa"
+  },
+  {
+    "name": "Radio Sangeet Masti",
+    "url": "https://servidor19-4.brlogic.com:7304/live?source=website",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hindi"
+  },
+  {
+    "name": "Radio Spice (Auckland, New Zealand)",
+    "url": "http://stream9.broadcast.co.nz:8000/radiospicewebsiteaudio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "punjabi"
+  },
+  {
+    "name": "Radio Te Aroha 88FM",
+    "url": "https://c2.radioboss.fm:18440/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Radio Universo FM",
+    "url": "https://stationplaylist.com:7140/listen.aac",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio one 91 fm",
+    "url": "https://play.r1.co.nz/live",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Radioactive.FM 88.6",
+    "url": "https://radio123-gecko.radioca.st/radioactivefm",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": -41.29216980401187,
+    "lon": 174.77877330912636,
+    "language": "english"
+  },
+  {
+    "name": "Radiowave NZ",
+    "url": "https://stream.radiowavenz.com/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -36.84843,
+    "lon": 174.7622,
+    "language": "english"
+  },
+  {
+    "name": "Radiowave NZ",
+    "url": "https://stream.radiowavenz.com/stream-aac",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -36.84843,
+    "lon": 174.7622,
+    "language": "english"
+  },
+  {
+    "name": "Radiowave NZ",
+    "url": "https://stream.radiowavenz.com/stream-aac-low",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": -36.84843,
+    "lon": 174.7622,
+    "language": "english"
+  },
+  {
+    "name": "Raglan Community Radio",
+    "url": "https://s36.myradiostream.com/20712/;?type=http&nocache=1738237589?0.8271986316497546",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Raglan Communtiy Radio",
+    "url": "https://s36.myradiostream.com/20712/;?type=http&nocache=1738237956",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -37.80028223408415,
+    "lon": 174.87002849578855,
+    "language": "english"
+  },
+  {
+    "name": "Retro Hit Radio",
+    "url": "https://riphel02.radioca.st/;",
+    "codec": "AAC+",
+    "bitrate": 80,
+    "needsResolve": false,
+    "lat": -36.86317362230059,
+    "lon": 174.7324848175049,
+    "language": ""
+  },
+  {
+    "name": "Retro Hit Radio",
+    "url": "http://riphel02.radioca.st/stream",
+    "codec": "AAC+",
+    "bitrate": 80,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Retro Hit Radio",
+    "url": "https://riphel02.radioca.st/stream",
+    "codec": "AAC+",
+    "bitrate": 80,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Rhema - MP3",
+    "url": "https://rhema-radio.streamguys1.com/rhema.mp3",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Rush FM",
+    "url": "http://rushbroadcasting.serverroom.us:5204/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Sanctuary - AAC",
+    "url": "https://rhema-radio.streamguys1.com/rhema-sanctuary.aac",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Sanctuary - MP3",
+    "url": "https://rhema-radio.streamguys1.com/rhema-sanctuary.mp3",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "SayHiFM",
+    "url": "https://play.radioking.io/sayhifm",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -37.040665453418654,
+    "lon": 174.92066860198975,
+    "language": "bisaya,cebuano,english,filipino,illonggo,tagalog"
+  },
+  {
+    "name": "Ski FM",
+    "url": "https://s2.radio.co/s6436891bc/listen",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Sleep Radio",
+    "url": "https://cast4.my-control-panel.com/proxy/sleeprad/stream?1721309187745",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Smooth 105.6FM",
+    "url": "https://servidor26.brlogic.com:7110/live",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Southern Cross Country",
+    "url": "https://sxcountry.radioca.st/stream",
+    "codec": "AAC+",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Sport Nation - AAC",
+    "url": "https://sen.streamguys1.com/SENZ-AAC/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 66,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Sub FM",
+    "url": "https://fmsub.radioca.st/stream?type=http&nocache=140",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Switch FM Gisborne",
+    "url": "http://s8.myradiostream.com:56886/listen.m4a",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "TLC Radio Northland",
+    "url": "http://203.118.136.79:88/broadwave.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "TYFM",
+    "url": "https://radio.parkplacesounds.co.nz/listen/tyfm/apps/mtr",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Tahu FM",
+    "url": "https://icast1.streamcom.net/TahuFM",
+    "codec": "AAC",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,māori"
+  },
+  {
+    "name": "Tautoko FM",
+    "url": "https://icast1.streamcom.net/J_Tautoko.aac",
+    "codec": "AAC",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Te Hiku Radio",
+    "url": "http://libreice.tehiku.radio:8000/tehikufm_ogg",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Te Reo Irirangi O Ngāti Kahungunu",
+    "url": "https://wowza.iwi.radio/icecast-to-hls/ngrp:Kahungunu.stream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 63,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,te reo"
+  },
+  {
+    "name": "The Breeze 93.4",
+    "url": "https://mediaworks.streamguys1.com/breeze-akl-high_icy",
+    "codec": "AAC",
+    "bitrate": 130,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "The Cheese",
+    "url": "https://station.thecheese.co.nz/hls/the_cheese/live.m3u8",
+    "codec": "AAC",
+    "bitrate": 52,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "The Cheese",
+    "url": "https://station.thecheese.co.nz/listen/the_cheese/128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "engilsh"
+  },
+  {
+    "name": "The Cheese FLAC",
+    "url": "https://station.thecheese.co.nz/listen/the_cheese/flac",
+    "codec": "OGG",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "The Edge",
+    "url": "https://digitalstreams.mediaworks.nz/edge_net/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 130,
+    "needsResolve": false,
+    "lat": -36.846016494844946,
+    "lon": 174.75006401538852,
+    "language": "english"
+  },
+  {
+    "name": "The Generator",
+    "url": "https://s1.myradiostream.com/:14268/;?type=http&nocache=1608640718?0.7458407789862892",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "The Generator FM",
+    "url": "https://s1.myradiostream.com/14268/stream/1/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "The Hits",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_71AAC.m3u8?aw_0_1st.playerid=iHeartRadioWebPlayer&aw_0_1st.skey=9774168307&clientType=web&companionAds=false&deviceName=web-desktop&dist=iheart&host=webapp.NZ&listenerId=&playedFrom=157&pname=live_profile&profileId=9774168307&stationid=6204&terminalId=162&territory=NZ",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "The Most Fm",
+    "url": "http://gordon.mostfm.com:8000/high",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "The Platform Kiwi",
+    "url": "https://streaming.shoutcast.com/the-platformlive",
+    "codec": "AAC",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": -40.2023706029768,
+    "lon": 175.27457794832068,
+    "language": ""
+  },
+  {
+    "name": "The Rhythm 89FM",
+    "url": "http://stream.zeno.fm/7v9aaqeqhs8uv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "The Rock",
+    "url": "https://digitalstreams.mediaworks.nz/rock_net/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 130,
+    "needsResolve": false,
+    "lat": -36.84603710059265,
+    "lon": 174.75007742643356,
+    "language": "english"
+  },
+  {
+    "name": "The Rock - NZ's #1 rock radio station",
+    "url": "https://digitalstreams.mediaworks.nz/rock_net_icy",
+    "codec": "AAC",
+    "bitrate": 129,
+    "needsResolve": false,
+    "lat": -36.87788876938578,
+    "lon": 174.7673492676169,
+    "language": ""
+  },
+  {
+    "name": "The Sound",
+    "url": "https://digitalstreams.mediaworks.nz/sound_net/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 130,
+    "needsResolve": false,
+    "lat": -36.87625639620818,
+    "lon": 174.81719970703128,
+    "language": "english"
+  },
+  {
+    "name": "Tiri 2",
+    "url": "https://servidor34-4.brlogic.com:7138/live?source=website",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "UP FM 107.5",
+    "url": "https://stream.upfm.live/radio/8000/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Vinyl Radio NZ",
+    "url": "https://s40.myradiostream.com:17794/listen.aac?",
+    "codec": "AAC+",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": -36.88884741531178,
+    "lon": 174.77325439453128,
+    "language": "english"
+  },
+  {
+    "name": "WCR 87.6 FM",
+    "url": "http://stream2.nrgkits.co.nz:5000/wcrfm",
+    "codec": "MP3",
+    "bitrate": 170,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Wandering Sheep Radio - Christian Smooth Jazz",
+    "url": "http://radio.wanderingsheep.tv:8021/christianjazz",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Wandering Sheep Radio - Hope Alive",
+    "url": "http://radio.wanderingsheep.tv:8012/hopealive",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Wellington Access Radio",
+    "url": "https://live.accessmedia.nz/Wellington.stream/playlist.m3u8",
+    "codec": "MP3",
+    "bitrate": 134,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "West FM Swing Radio",
+    "url": "http://westfm.freeddns.org:8000/westfm",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "World FM Tawa 88.2",
+    "url": "http://www.worldfm.co.nz:8882/worldfm.aac",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "XS80s",
+    "url": "http://s1.myradiostream.com:12508/listen.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "ZFM Global",
+    "url": "http://nebula.shoutca.st:8545/stream/1/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "ZM Wellington (new)",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_33AAC.m3u8",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": -41.27278259499812,
+    "lon": 174.7760226743494,
+    "language": ""
+  },
+  {
+    "name": "https://www.newstalkzb.co.nz/",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/NZME_11AAC.m3u8",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "iHeartCountry New Zealand",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_09AAC.m3u8",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "jakemusic",
+    "url": "https://camera.jakebriggs.com/jakemusic",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": -41.150274918271016,
+    "lon": 175.01237869262695,
+    "language": ""
+  },
+  {
+    "name": "metalradio.co.nz",
+    "url": "http://curiosity.shoutca.st:9073/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "新西兰中文广播电台 FM90.6 Radio Chinese",
+    "url": "https://s26.myradiostream.com:20274/listen.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "cantonese,chinese,hakka,hokkien"
+  }
+]

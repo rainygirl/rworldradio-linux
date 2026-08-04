@@ -1,0 +1,62 @@
+[
+  {
+    "name": "AFRICA RADIO - MANU DIBANGO FOREVER 102.6 (World Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s36601",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Capp FM 99.6 (African Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s150107",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DIMusic Trance Club  🇧🇯",
+    "url": "http://stream1.dimusic.club:11534/rw?type=.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "ORTB Radio Bénin",
+    "url": "https://listen.radioking.com/radio/47608/stream/84430",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 9.36540155366242,
+    "lon": 2.5285720825195317,
+    "language": "french"
+  },
+  {
+    "name": "ORTB Radio Parakou",
+    "url": "https://listen.radioking.com/radio/51919/stream/88927",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 9.382804217392255,
+    "lon": 2.511287927627564,
+    "language": "french"
+  },
+  {
+    "name": "Radio Cotonou 94.3",
+    "url": "https://stream.zeno.fm/o9bspgm4y78vv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  }
+]

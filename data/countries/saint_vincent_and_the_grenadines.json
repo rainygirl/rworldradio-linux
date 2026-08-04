@@ -1,0 +1,122 @@
+[
+  {
+    "name": "BDS NICE RADIO SVG",
+    "url": "http://us1.carihost.com:8380/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Boom SVG 106.9",
+    "url": "https://streaming.shoutcast.com/boom106-9",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Caribbean Love Radio",
+    "url": "https://radio.sttreams.cc/listen/cariloveradio/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Hot 97 FM",
+    "url": "https://usa7.fastcast4u.com/proxy/hot97svg?mp=/1",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 13.16900708469288,
+    "lon": -61.22766494750977,
+    "language": ""
+  },
+  {
+    "name": "Magic 103.7 FM SVG",
+    "url": "https://video1.getstreamhosting.com:8388/stream",
+    "codec": "MP3",
+    "bitrate": 100,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "NBC Radio SVG",
+    "url": "https://us1.carihost.com:2020/stream/NBCSVG/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Old School 94.1 FM",
+    "url": "https://ec3.yesstreaming.net:4245/stream",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Reggae141",
+    "url": "http://hestia2.cdnstream.com/1301_128",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "SVG West Radio",
+    "url": "https://stream.zeno.fm/5ugy5k31qf9uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Star FM 98.3 & 104.7 Kingstown",
+    "url": "http://starradio.serverroom.net:6688/",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Sweet Radio SVG",
+    "url": "https://streaming.radio.co/sdf4651481/listen",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "WE FM 99.9 SVG",
+    "url": "https://video1.getstreamhosting.com:2000/stream/8260",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  }
+]

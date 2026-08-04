@@ -1,0 +1,802 @@
+[
+  {
+    "name": "103 (FM 103.1)",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CRC_103_1AAC.aac",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "1047hit",
+    "url": "https://live.turadio.stream:7004/stream;",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 9.90846497693732,
+    "lon": -84.00690972805025,
+    "language": ""
+  },
+  {
+    "name": "106.3FM - Pura Vida FM | (Christian Rock)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s161703",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "95.5 Jazz",
+    "url": "https://streaming.radio.co/s36bd2a451/listen",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "95.5 Jazz | (Jazz)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s13186",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "959 Conexion",
+    "url": "https://29308.live.streamtheworld.com/CRC_959AAC.aac?_=",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 9.95345592648759,
+    "lon": -84.1124787926674,
+    "language": "spanish"
+  },
+  {
+    "name": "98.3FM - STEREO VISION | (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s10495",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Amor FM 93.9",
+    "url": "https://player.hostingtico.com/proxy/8094",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Amplify Radio 95.5 (80's)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s357734",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Avance Radio",
+    "url": "https://radios.solumedia.com:6512/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Azul 99.9 FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CRC_999AAC.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Bahía Puntarenas 107.9FM | (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s350832",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "CLUB DANCE MUSIC",
+    "url": "https://stream.zeno.fm/5x4sda9kxtzuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "CRC 89.1 RADIO",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CRC_89_1AAC.aac",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Centro 96.3 | (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s353055",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Classics Pop & Rock",
+    "url": "http://c9.radioboss.fm:8035/stream",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,spanish"
+  },
+  {
+    "name": "Colosal FM 88.3",
+    "url": "https://5eac7b031d945.streamlock.net/canal3/canal3/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 4837,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Columbia Estereo 92.7 (Baladas)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s50052",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Columbia Estéreo 92.7 FM",
+    "url": "https://s5.radio.co/sca838cc60/listen",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Columbia Radio 98.7 (Sports Talk & News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s25102",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Conexiones del Ayer",
+    "url": "https://stream.conexionpositivaradio.com/listen/conexiones_del_ayer/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 10.462844596691864,
+    "lon": -84.037435933658,
+    "language": "spanish"
+  },
+  {
+    "name": "Conexión Positiva Radio",
+    "url": "https://stream.conexionpositivaradio.com/listen/conexion_positiva/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 10.422148035326188,
+    "lon": -84.10317363133466,
+    "language": "spanish"
+  },
+  {
+    "name": "Dabar",
+    "url": "https://a1.asurahosting.com:8720/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 9.428975524195389,
+    "lon": -83.64325046539308,
+    "language": ""
+  },
+  {
+    "name": "Dabar Radio",
+    "url": "https://a1.asurahosting.com:8720/radio.mp3/;",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Elite radio 88.5 FM",
+    "url": "https://stream20.usastreams.com/8008/stream",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "FCN Radio (Christian Contemporary)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s100449",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "FRECUENCIA CCI",
+    "url": "https://streaming.radio.co/s6729aeaac/listen",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 9.983841159750735,
+    "lon": -84.09943465873693,
+    "language": "spanish"
+  },
+  {
+    "name": "Faro del Caribe  97.1 FM | (Christian Contemporary)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s354564",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Faro del Caribe 97.1 FM y 1080 AM",
+    "url": "https://sp.unoredcdn.net/8032/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "IQ Radio",
+    "url": "http://rtvhd.net:9942/;stream/1",
+    "codec": "AAC+",
+    "bitrate": 112,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,spanish"
+  },
+  {
+    "name": "IQ Radio 105.5 FM",
+    "url": "http://rtvhd.net:9942/;",
+    "codec": "AAC+",
+    "bitrate": 112,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Influencia Positiva Radio",
+    "url": "https://panel.gruponovaradial.com/listen/influencia_positiva_radio/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "La Cultural Nicoya 88.3 (Latin Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s192086",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Life FM 89.5 (Christian Contemporary)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s143180",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MCC Radio",
+    "url": "https://stream-178.zeno.fm/ufd5gasyvn0tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1ZmQ1Z2FzeXZuMHR2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiNjBXQm9kOXBTNk9sOTJPS0U2TWkwQSIsImlhdCI6MTc2ODQ1MzgxOSwiZXhwIjoxNzY4NDUzODc5fQ.8YRqvkfmj_ymKvvGjQeMfw4xvsUog85ZwthDc40tCOo",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Mundo Rock Radio",
+    "url": "https://as100.globalhost1.com/8046/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Nueve Cuatro Siete - 94.7 FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CRC_947AAC.aac?_=819140",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Osa Radio Online",
+    "url": "https://radioscr.digitaltvcr.xyz/listen/osaonline/osaradio",
+    "codec": "AAC",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Planet 107.5",
+    "url": "https://stream20.usastreams.com/8094/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Puerto Limón Radio",
+    "url": "http://puertolimonradio-rowrigos.radioca.st:8733/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Punto 9 Radio CR 107.9 (70's)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s344793",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Q'Teja 91.5 FM | (Salsa Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s249812",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO 1075",
+    "url": "http://65.60.45.74:8400/;stream/1;",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO MIX CR 88 (Classical)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s337744",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio 88 Stereo 88.7 (Latin Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s10749",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio America HD 780 (Tropical)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s6142",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio BestMusic 90.1 FM | (Latin Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s196714",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Cartago 850 (Spanish Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s155776",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Casino",
+    "url": "https://host.rowrigo.com/listen/radiocasino/radiocasino",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Casino 98.3 (Baladas)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s9913",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Costa",
+    "url": "https://sonicpanel.globalstream.pro:10979/;",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Diria (Local News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s235208",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Dos (2) Costa Rica",
+    "url": "https://s5.radio.co/sd515b7b34/listen",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 9.973178696440334,
+    "lon": -84.0864009654375,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Dos 99.5 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s13187",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Faro Del Caribe 97.1 FM / 1080 AM | (Christian Contemporary)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s86520",
+    "codec": "mp3",
+    "bitrate": 256,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Frecuencia Tierra",
+    "url": "http://68.235.35.243:9008/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Hit",
+    "url": "https://live.turadio.stream:7004/stream?type=http&nocache=596",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 9.853412487032084,
+    "lon": -83.74469639222177,
+    "language": ""
+  },
+  {
+    "name": "Radio María Costa Rica - 100.7 FM",
+    "url": "http://dreamsiteradiocp2.com:8044/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio María Costa Rica 610 (Religious Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s150648",
+    "codec": "mp3",
+    "bitrate": 32,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Mil Recuerdos Stereo",
+    "url": "https://sechin.grupocentroserver.com/radio/8060/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 9.836442317442208,
+    "lon": -84.09484863281251,
+    "language": ""
+  },
+  {
+    "name": "Radio Musical 97.5",
+    "url": "https://live.turadio.stream:7005/stream?type=http&nocache=596",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Nosara",
+    "url": "https://sonicpanel.zonaradio.net/8038/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 9.968264477934454,
+    "lon": -85.64476847648622,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Omega 105.1 (Cumbia)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s82770",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Omega 105.1 FM",
+    "url": "http://rtvhd.net:9932/stream",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Omega 105.1 FM",
+    "url": "https://centova.hostingtico.com:7008/;",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Revolución",
+    "url": "https://stream.zeno.fm/ftcx2988uwzuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 9.924504857894236,
+    "lon": -84.07403469085695,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Sideral 1340 (Tropical/Tropical Cumbia/Meren)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s10340",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Sinfonola",
+    "url": "https://live.turadio.stream:7006/",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Sinfonola 90.3 (Latin Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s158637",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Uncion 106.7 fm | (Christian Contemporary)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s25054",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Señal Radio Elite",
+    "url": "https://stream20.usastreams.com/8008/;",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Stereo Bahía 107.9 FM | (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s350830",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Super Radio 102.3",
+    "url": "http://superradio.rtvhd.net:8010/stream/1/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,spanish"
+  },
+  {
+    "name": "Super Radio FM 102.3 (Tropical)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s178157",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Tamarindo Radio",
+    "url": "http://s1.voscast.com:11392/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Teletica Radio",
+    "url": "https://g2qd375ol7an-hls-live.5centscdn.com/Radio/eae835e83c0494a376229f254f7d3392.sdp/chunks.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 9.938763279696108,
+    "lon": -84.10764276981355,
+    "language": "spanish"
+  },
+  {
+    "name": "Tiquicia Rock",
+    "url": "https://usa19.fastcast4u.com:5860/;?type=http&nocache=1690470873",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 10.062881986408186,
+    "lon": -84.07562255859376,
+    "language": "english,spanish"
+  },
+  {
+    "name": "Urbano 106 - 105.9 FM - San José, Costa Rica",
+    "url": "https://usa18.fastcast4u.com/proxy/rmoohhrw?mp=/1",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 9.934955669920658,
+    "lon": -84.07957077026369,
+    "language": "spanish"
+  },
+  {
+    "name": "Urbano 106 105.9",
+    "url": "https://usa18.fastcast4u.com/proxy/rmoohhrw?mp=/stream/1/",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,spanish"
+  },
+  {
+    "name": "onda digital fm sancarlos",
+    "url": "https://radio.serviciosderadio.com/listen/onda_digital_fm_costa_rica/radio.aac",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  }
+]

@@ -1,0 +1,6102 @@
+[
+  {
+    "name": "100 Rock",
+    "url": "https://100rock.stream.laut.fm/100rock",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "100,8 Insania FM Makassar",
+    "url": "https://stream-sg1.galuhmedia.co.id/listen/insaniamakassar/1008makassar",
+    "codec": "AAC",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "101 Jak FM Streaming Online – Jakarta",
+    "url": "https://wz.mari.co.id:1936/web_jakfm/jakfm/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 41,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "101.1 Insania FM Sumbawa",
+    "url": "https://stream-sg1.galuhmedia.co.id/listen/insaniasumbawa/1011sumbawa",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "101.4 FM I-Radio JAKARTA",
+    "url": "https://stream.radiojar.com/4ywdgup3bnzuv?1739561339",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "101.5 cakrawala FM surabaya",
+    "url": "http://streaming.cakrawalafm.net:8040/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "102.7 MQFM Bandung",
+    "url": "https://mqfmstreaming.kamil.web.id/;",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "1027 MTB FM 102.7 (Easy Listening)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s343967",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "1027 MTB FM Surabaya |",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s344073",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "104.2 MSTRI FM",
+    "url": "https://c2.siar.us:8120/live",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "106.1 Geronimo FM",
+    "url": "https://ig.idstreamer.com:8090//live",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "107 Dakta FM",
+    "url": "http://175.103.48.4:9302/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "181.FM Rock 181",
+    "url": "https://listen.181fm.com/181-rock_128k.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "1921 BALI HEADBANGER",
+    "url": "https://stream.zeno.fm/vbyq86vnsp8uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "1921 Baliheadbanger Music",
+    "url": "http://stream.zeno.fm/vbyq86vnsp8uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bahasa indonesia,english"
+  },
+  {
+    "name": "666 Forgotten Castle",
+    "url": "https://stream.zeno.fm/j9tx7izezf4vv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,indonesian"
+  },
+  {
+    "name": "80s Metal FM",
+    "url": "https://ais-edge81-bigr-dal03.cdnstream.com/5257_128",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "87,6 Insania FM Mataram",
+    "url": "https://stream-sg1.galuhmedia.co.id/listen/insaniamataram/876mataram",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "88,7 Insania FM Sorong",
+    "url": "https://stream-sg1.galuhmedia.co.id/listen/insaniasorong/887sorong",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "88.0  Mustang FM Jakarta",
+    "url": "http://103.246.184.62:1935/noice_mustangfm/mustangfm/chunklist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian"
+  },
+  {
+    "name": "88.6 Rhema FM | (Christian Contemporary)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s135640",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "889 FMberlin",
+    "url": "https://889fmberlin.stream.laut.fm/889fmberlin",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "89.2 FM Jakarta, Campur sari",
+    "url": "https://a8.siar.us/listen/campursari/stream",
+    "codec": "AAC",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian"
+  },
+  {
+    "name": "90.1 radio Media FM surabaya",
+    "url": "http://streaming.radiomediafm.com:8400/;",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "92,5 Insania FM Luwuk",
+    "url": "https://stream-sg1.galuhmedia.co.id/listen/insanialuwuk/925luwuk",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "95.1 Kiss FM",
+    "url": "http://103.246.184.62:1935/noice_kisfm/kisfm/chunklist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bahasa indonesia"
+  },
+  {
+    "name": "95.9 smart FM jakarta",
+    "url": "https://cast2.my-control-panel.com/proxy/radioso3/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian"
+  },
+  {
+    "name": "96,3 Medan FM",
+    "url": "https://sc.medanfm.id/;",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "96.1 FM - Radio Bravo FM Kebumen",
+    "url": "https://stream.swadesifm.com/radio/8090/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian,jawa"
+  },
+  {
+    "name": "97.1 RDI FM - Jakarta",
+    "url": "http://8.215.206.157:8004/;",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "97.2 My Radio FM - Banjarbaru",
+    "url": "https://a3.alhastream.com:5038/radio",
+    "codec": "AAC",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "97.9 Insania FM Gorontalo",
+    "url": "https://stream-sg1.galuhmedia.co.id/listen/insaniagorontalo/979gorontalo",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "98,4 Suara Giri FM Gresik",
+    "url": "http://streaming.girifm.com:8010/;stream.nsv",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "ACDC",
+    "url": "https://stream.pcradio.app/ac_dc-hi",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "AMANDIT FM",
+    "url": "https://live.amanditfm.com/listen/amanditfm/onair",
+    "codec": "AAC",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "ARB FM JAKARTA",
+    "url": "https://void.idserverhost.com/8018/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian"
+  },
+  {
+    "name": "AXR Jakarta",
+    "url": "http://22283.live.streamtheworld.com/AXR_JAKARTA_SC",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Akurat FM Solo",
+    "url": "http://c1.siar.us:9350/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bahasa indonesia"
+  },
+  {
+    "name": "Al-Faruq Purwokerto Banyumas <24kb aac+>",
+    "url": "http://alfaruq.radioislam.my.id:12000/",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": -7.509854031004886,
+    "lon": 109.07569885253908,
+    "language": "arabic,bahasa indonesia,indonesian"
+  },
+  {
+    "name": "Alternatif radio jakarta",
+    "url": "https://void.idserverhost.com/8016/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -7.070261537250449,
+    "lon": 108.44411104917528,
+    "language": "bahasa indonesia"
+  },
+  {
+    "name": "Andika FM Kediri",
+    "url": "http://andikafm.onlivestreaming.net:1057/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian"
+  },
+  {
+    "name": "Anime FM",
+    "url": "https://animefm.stream.laut.fm/animefm",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Ardan",
+    "url": "https://stream.rcs.revma.com/ugpyzu9n5k3vv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Arif Channel",
+    "url": "https://ig.idstreamer.com/listen/arif_channel/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -5.407003256473646,
+    "lon": 105.25799609022562,
+    "language": "indonesian"
+  },
+  {
+    "name": "At 40",
+    "url": "https://at40.stream.laut.fm/at40",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Avenged Sevenfold",
+    "url": "https://stream.pcradio.app/avenged_sevenfold-hi",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "B 104.6 FM",
+    "url": "https://play.bilitonesefm.com/listen/radiobfm/stream",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "BENS RADIO",
+    "url": "https://streaming.bensradio.com:8522/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "BIMASAKTI FM KEBUMEN",
+    "url": "https://i.klikhost.com:9622/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": -7.665733360223762,
+    "lon": 109.65834975242616,
+    "language": "indonesian"
+  },
+  {
+    "name": "BRAYA RADIO",
+    "url": "https://live.brayaradio.com/listen/brayaradio/stream",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bahana FM Ngawi",
+    "url": "http://bahanafm.onlivestreaming.net:10450/live",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bahasa indonesia"
+  },
+  {
+    "name": "Bahtera Yudha FM Surabaya",
+    "url": "http://streaming.bahterayudhafm.com:8050/;rojer.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -7.301446478281644,
+    "lon": 112.73895263671876,
+    "language": "bahasa indonesia"
+  },
+  {
+    "name": "Balai Budaya Minomartani FM",
+    "url": "https://stream-155.zeno.fm/kchb1gp3a1duv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJrY2hiMWdwM2ExZHV2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InhKeGtmZGJKUXpxVDlYVnp0SEg4SFEiLCJpYXQiOjE3NzEzODAwNjIsImV4cCI6MTc3MTM4MDEyMn0.BHMIYwNRyjr35E_2KgS9nmA6vYLHHhWZpfHGGEYSrn0&1771380061722",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bandung Death Metal Syndicate",
+    "url": "https://stream.zeno.fm/t9wdzppre5zuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,indonesian"
+  },
+  {
+    "name": "Bass FM 93.2 Salatiga",
+    "url": "http://live.bassfm.id/",
+    "codec": "MP3",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian"
+  },
+  {
+    "name": "Beat Radio Bali",
+    "url": "https://c1.siar.us/radio/8030/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Beat Radio Dangdut",
+    "url": "https://stream.beatradioid.com:8000//dangdut",
+    "codec": "AAC",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bharata Radio",
+    "url": "https://c1.siar.us:8800/live",
+    "codec": "AAC",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bintan Radio (96.5 FM)",
+    "url": "http://202.43.230.4:8000/live",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 0.9978254119037532,
+    "lon": 104.5116090774536,
+    "language": "indonesian"
+  },
+  {
+    "name": "Bob Marley",
+    "url": "https://stream.pcradio.ru/bob_marley-hi",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Brava Radio",
+    "url": "http://n04.radiojar.com/5k7t0rq3bnzuv.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Brava Radio",
+    "url": "https://stream.radiojar.com/5k7t0rq3bnzuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Brava Radio 103.8 FM Jakarta",
+    "url": "http://stream.radiojar.com/5k7t0rq3bnzuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bahasa indonesia,indonesian"
+  },
+  {
+    "name": "CANDISEWU FM KLATEN",
+    "url": "https://i.klikhost.com:9614/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": -7.712647946026958,
+    "lon": 110.5967854124287,
+    "language": "indonesian"
+  },
+  {
+    "name": "CLASSY NetRadio",
+    "url": "https://streaming.classynetradio.com:8000/classySD",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": -7.262218696628073,
+    "lon": 112.79498638235964,
+    "language": "english,indonesian"
+  },
+  {
+    "name": "CNN Indonesia",
+    "url": "https://live.cnnindonesia.com/livecnn/smil:cnntv/chunklist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 384,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "CNN Indonesia TV",
+    "url": "http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w275412545_b384000_sleng.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bahasa indonesia"
+  },
+  {
+    "name": "COCOJO RADIO",
+    "url": "https://live.cocojoradio.com/listen/cocojoradio/cocojoradio",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Cakra Radio Bandung 90.5 FM",
+    "url": "https://stream.zeno.fm/yoengdcdzyauv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian"
+  },
+  {
+    "name": "Camajaya FM",
+    "url": "https://ssg.streamingmurah.com:8078/;",
+    "codec": "MP3",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian"
+  },
+  {
+    "name": "Camajaya FM 102.6 (90's)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s163109",
+    "codec": "mp3",
+    "bitrate": 32,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Campursari FM",
+    "url": "https://streaming.campursarifm.com/listen/campursari/campursari892",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Citra FM Wonosobo 98.8 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s190459",
+    "codec": "mp3",
+    "bitrate": 40,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "City Radio 959 FM",
+    "url": "https://live.cityradio.id/cityradio.ogg",
+    "codec": "OGG",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "City Radio Mandarin",
+    "url": "https://digital.cityradio.id/;",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "City Radio Mandarin",
+    "url": "https://live.cityradio.id/cr-mandarin.ogg",
+    "codec": "OGG",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "CityRadio 959 FM",
+    "url": "https://sc.cityradio.id/;",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Classic Rock",
+    "url": "https://classicrock.stream.laut.fm/classicrock",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Classy 103.4 | (Variety)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s141949",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Classy FM",
+    "url": "http://stream.classyfm.co.id:1034/stream.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Comfy Radio",
+    "url": "https://station.comfyradio.id/listen/comfyradio/radio.mp3",
+    "codec": "AAC",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Cosmic Indo",
+    "url": "https://stream.zeno.fm/jw6ys87h2dguv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bahasa indonesia,english"
+  },
+  {
+    "name": "Cosmo Radio 101.9 FM Bandung",
+    "url": "http://scg.streamingmurah.com:8074/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian"
+  },
+  {
+    "name": "Cosmopolitan",
+    "url": "https://n0c.radiojar.com/u7d8heq3bnzuv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian"
+  },
+  {
+    "name": "Cosmopolitan 90.4 FM Jakarta",
+    "url": "http://stream.radiojar.com/u7d8heq3bnzuv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian"
+  },
+  {
+    "name": "DANGDUT",
+    "url": "https://stream.zeno.fm/sgvq5xniobhuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DEHILLS RADIO",
+    "url": "https://live.dehills.id/listen/dehills/stream",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DENGERIN MUSIK INDONESIA",
+    "url": "https://stream.denger.in/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DJ BARU",
+    "url": "https://stream.zeno.fm/iwcyhq56nwiuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DJATIFM 103.6 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s183454",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DNA FM JEPARA",
+    "url": "https://sc.dnafm.net/listen/dnafm/live",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Dahlia Bandung 101.5 FM",
+    "url": "https://svara-stream.radioddns.net/bandung_dahliafm",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Dakwatul Musthofa FM 107.1 (Religious Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s152173",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Damu Lumajang",
+    "url": "https://stream.radiodakwahmustofa.com:8724/damu",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -8.141320156877532,
+    "lon": 113.23025445453824,
+    "language": "indonesian,javanese"
+  },
+  {
+    "name": "Dangdut2",
+    "url": "https://stream.zeno.fm/vwhplynnpfjtv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Dark Symphony Radio",
+    "url": "https://streaming.live365.com/a02267",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Delta 99.2 FM Makassar",
+    "url": "https://stream.radioalikhwan.com/listen/delta_fm_makassar/hd",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian"
+  },
+  {
+    "name": "Delta FM",
+    "url": "https://stream.rcs.revma.com/k02rmq48kxcwv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": -6.28073736455765,
+    "lon": 106.7966902256012,
+    "language": "indonesian"
+  },
+  {
+    "name": "Delta FM Bandung",
+    "url": "https://stream-pd-bdg.dimasalfaridzi.my.id/delta",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian"
+  },
+  {
+    "name": "Delta FM Jakarta",
+    "url": "http://s1.cloudmu.id:8030/radio.mp3",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": -6.160203552983322,
+    "lon": 106.81287274787508,
+    "language": "indonesian"
+  },
+  {
+    "name": "Delta FM | Hits Terenak",
+    "url": "https://s1.cloudmu.id/listen/delta_fm/radio.mp3",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Diozz FM",
+    "url": "https://stream-ssl.arenastreaming.com:8046/live",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Djati FM",
+    "url": "https://stream.heartline.co.id:8443/djati_aceh",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": 5.523885279668583,
+    "lon": 95.31422585248949,
+    "language": "bahasa indonesia"
+  },
+  {
+    "name": "Dua Tujuh FM",
+    "url": "http://uk16freenew.listen2myradio.com:13460/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -2.552546125167814,
+    "lon": 120.3756539042812,
+    "language": "bahasa indonesia"
+  },
+  {
+    "name": "EL JHON FM Palembang",
+    "url": "http://103.28.149.117:8032/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "EL JOHN PEKANBARU 102.6 (Travel)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s358803",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "EL SHADDAI FM SOLO",
+    "url": "http://shaddai.onlivestreaming.net:9130/live",
+    "codec": "AAC",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "ELEGAN RADIO",
+    "url": "https://a3.alhastream.com:1265/eleganradio",
+    "codec": "AAC",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "ELPAS 88.6 FM || Bogor Jawa Barat Indonesia",
+    "url": "https://live.elpasradio.com/listen/elpasradio/stream",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Elgangga FM",
+    "url": "https://b.alhastream.com:5140/radio",
+    "codec": "AAC",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": -6.241215329915618,
+    "lon": 106.99040597188288,
+    "language": "indonesian"
+  },
+  {
+    "name": "Elshifa Radio Subang 100.2 (Islamic Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s182766",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Fajri FM",
+    "url": "https://ars.mitradio.com:8000/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "FeMale Radio",
+    "url": "https://stream.rcs.revma.com/9thenqqd2ncwv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Female FM",
+    "url": "http://onlineradiobox.com/json/id/female/play",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Female Radio",
+    "url": "https://s1.cloudmu.id/listen/female_radio/radio.mp3",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Firza MPC Radio",
+    "url": "https://mpc1.mediacp.eu/stream/firzaradio",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 0.5357080409033635,
+    "lon": 99.89170075161384,
+    "language": ""
+  },
+  {
+    "name": "Firza Medan Radio",
+    "url": "http://stream.zeno.fm/vtoxx0qaqeltv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 3.5853269814011863,
+    "lon": 98.668212890625,
+    "language": "indonesian"
+  },
+  {
+    "name": "Firza Radio Madina",
+    "url": "http://stream.zeno.fm/p63ug1un92quv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian"
+  },
+  {
+    "name": "Firza Radio Padang",
+    "url": "https://stream-029.zeno.fm/ptkeryrsu0ttv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": -0.9316034630393696,
+    "lon": 100.38395240670071,
+    "language": ""
+  },
+  {
+    "name": "Firza Radio Tapsel",
+    "url": "http://stream.zeno.fm/ol4zzo5bvistv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 1.1605768413194508,
+    "lon": 99.31735089048745,
+    "language": ""
+  },
+  {
+    "name": "Fourtyfive Radio Jakarta 107.8",
+    "url": "https://a5.siar.us/listen/fourtyfiveradio/stream",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Free FM - Jakarta",
+    "url": "https://rocafmadrid.radioca.st/stream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Fresh Radio",
+    "url": "https://relay.gemini101fm.com/listen/fresh_radio/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Fress FM",
+    "url": "http://streaming.fressfm.com:11185/stream",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bahasa indonesia"
+  },
+  {
+    "name": "GCD Yogyakarta 98,6FM",
+    "url": "https://streamingjs.citrahost.com/gcdfm",
+    "codec": "AAC",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "GCD Yogyakarta 98.6 FM",
+    "url": "https://studio1.indostreamers.com:8014/stream/1/",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "GEMINI 101 FM",
+    "url": "https://relay.gemini101fm.com/listen/gemini_fm/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "GERONIMO 106.1 FM | (World Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s47846",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "GOLDEN HITS FM",
+    "url": "https://i.klikhost.com:9134/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": -6.1335607933076055,
+    "lon": 106.83070600032806,
+    "language": "indonesian"
+  },
+  {
+    "name": "Gadingharjo Core",
+    "url": "http://79.120.77.11:8002/blackmetal",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,indonesian"
+  },
+  {
+    "name": "Gajahmada FM",
+    "url": "https://server.radioimeldafm.co.id:8040/gajahmadafm",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -6.988860403368155,
+    "lon": 110.42049407958986,
+    "language": "indonesian"
+  },
+  {
+    "name": "Galau Jikan FM",
+    "url": "https://radio.gjfm.my.id/listen/gjfm/siaran",
+    "codec": "AAC",
+    "bitrate": 80,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Galuh Media Streaming Cianjur Indonesia",
+    "url": "https://stream-sg1.galuhmedia.co.id/listen/galuhmedia/stream",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Gema Surya FM Ponorogo",
+    "url": "https://r5.siar.us:9420/aac.m4a?_=1",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Gen 103.1 FM Surabaya",
+    "url": "http://103.246.184.62:1935/noice_genfmsby/gensbyic.stream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 42,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Gen 98.7 FM",
+    "url": "https://ic.mari.co.id:8443/genfm",
+    "codec": "AAC+",
+    "bitrate": 56,
+    "needsResolve": false,
+    "lat": -6.179270261853959,
+    "lon": 106.82693481445314,
+    "language": "bahasa indonesia,indonesian"
+  },
+  {
+    "name": "Gen 98.7 FM Jakarta",
+    "url": "http://103.246.184.62:1935/noice_genfm/genfm/chunklist_w279187457.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian"
+  },
+  {
+    "name": "Gen 98.7 FM Jakarta",
+    "url": "http://103.246.184.62:1935/noice_genfm/genfm/chunklist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian"
+  },
+  {
+    "name": "Genta FM Bali",
+    "url": "http://stream.werdimedia.com:8200/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Global Radio Bandung 89.7 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s187480",
+    "codec": "mp3",
+    "bitrate": 32,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Global Radio Jakarta",
+    "url": "http://202.147.199.98/;?1737921496499",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": -6.202933365110455,
+    "lon": 106.776123046875,
+    "language": "indonesian"
+  },
+  {
+    "name": "Gobers Radio",
+    "url": "https://sx.alhasmedia.com/radio/8140/radio",
+    "codec": "AAC",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Golden Hits FM",
+    "url": "https://i.klikhost.com:8272/;",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": -6.133704803446778,
+    "lon": 106.83070600032806,
+    "language": "indonesian"
+  },
+  {
+    "name": "Gothic",
+    "url": "https://gothic.stream.laut.fm/gothic",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Gothica",
+    "url": "https://gothica.stream.laut.fm/gothica",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Guns N' Roses",
+    "url": "https://stream02.pcradio.biz/guns_n_roses-hi",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "HANG 106FM",
+    "url": "http://185.47.62.52:8000/listen.mp3",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "HANG106FM",
+    "url": "https://streamline.hangfm.id:8000/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "HARLEY RADIO SHOW",
+    "url": "https://live.harleyradioshow.com/listen/harleyradio/harleyradio",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Hang 106 FM",
+    "url": "http://185.47.62.52:8000/listen.mp3/stats?sid=1&json=1&callback=jQuery1124046759743595637016_1677813104799&_=1677813104800",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Hard Rock FM",
+    "url": "https://n06.radiojar.com/7csmg90fuqruv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,indonesian"
+  },
+  {
+    "name": "Hard Rock Heaven",
+    "url": "https://ais-sa2.cdnstream1.com/1521_128",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "HardRock-FM",
+    "url": "https://fmradionet1.com:8000/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Hardrock 87.6 FM Jakarta",
+    "url": "http://stream.radiojar.com/7csmg90fuqruv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bahasa indonesia,indonesian"
+  },
+  {
+    "name": "Harmoni FM Blitar",
+    "url": "http://cbnradio.streamguys1.com/praise-128K",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bahasa indonesia"
+  },
+  {
+    "name": "Heartline Tangerang",
+    "url": "https://stream.heartline.co.id:8443/heartline_tangerang",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": -6.22898573245831,
+    "lon": 106.58783465623858,
+    "language": "bahasa indonesia"
+  },
+  {
+    "name": "Hitradio 4 Ever",
+    "url": "https://hitradio4ever.stream.laut.fm/hitradio4ever",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Hits Unikom Radio",
+    "url": "https://streaming.hitsunikomradio.com/",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Hitz 91.2 FM Belitung",
+    "url": "https://play.bilitonesefm.com/listen/radiohitzfm/stream",
+    "codec": "AAC",
+    "bitrate": 94,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Hot 93.2 FM",
+    "url": "http://103.246.184.62:1935/noice_hotfm/hotfm/chunklist_w167204702.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian"
+  },
+  {
+    "name": "Hot 93.2 FM",
+    "url": "https://wz.mari.co.id:1936/web_hotfm/hotfm/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 43,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian"
+  },
+  {
+    "name": "Hot 93.2 FM Jakarta",
+    "url": "https://ic.mari.co.id:8443/hotfm",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": -6.179270261853959,
+    "lon": 106.82899475097658,
+    "language": "bahasa indonesia,indonesian"
+  },
+  {
+    "name": "I Love Music - I♥K-POP",
+    "url": "https://ilm.stream35.radiohost.de/ilm-ilovekpop_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzgwMTY0MDU5JmQ9MWVlZGM0N2JjNWFmMjJkMDE4OWE",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "I Love Music - I♥TOP 100 CHARTS",
+    "url": "https://ilm.stream35.radiohost.de/ilm_ilovetop100charts_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzgwMTYzOTIyJmQ9NTg3NWVlNzczYmM1MTYyMDMyYzU",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "I-Radio Jakarta",
+    "url": "http://stream.radiojar.com/4ywdgup3bnzuv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bahasa indonesia,indonesian"
+  },
+  {
+    "name": "ISTARA FM SURABAYA",
+    "url": "https://live.radioistara.com/listen/radioistara/radioistara",
+    "codec": "AAC",
+    "bitrate": 80,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Imelda FM",
+    "url": "https://server.radioimeldafm.co.id:8030/imeldafm",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,indonesian"
+  },
+  {
+    "name": "Imelda FM 104.4 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s140318",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Inayah Radio Suryalaya",
+    "url": "https://s3.alhastream.com/listen/station_38/radio",
+    "codec": "AAC",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Insania FM Ternate",
+    "url": "https://stream-sg1.galuhmedia.co.id/listen/insaniaternate/876ternate",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Iradio FM",
+    "url": "http://n03.radiojar.com/4ywdgup3bnzuv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian"
+  },
+  {
+    "name": "J Nation",
+    "url": "https://j-nation.stream.laut.fm/j-nation",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "J-Pop Powerplay",
+    "url": "https://kathy.torontocast.com:3560/stream/1/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "J-Pop Project Radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM10AAC139.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "JAK 101 FM",
+    "url": "https://ic.mari.co.id:8443/jakfm",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": -6.210216667168668,
+    "lon": 106.83160722255708,
+    "language": "indonesian"
+  },
+  {
+    "name": "JAM BICARA",
+    "url": "https://sv3.alhasmedia.com:8240/radio",
+    "codec": "AAC",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "JPI FM Solo",
+    "url": "https://i.klikhost.com/9618/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": -7.562634199132438,
+    "lon": 110.80896659960013,
+    "language": "indonesian"
+  },
+  {
+    "name": "Jagakarsa Smooth Jazz",
+    "url": "https://stream-285.surfernetwork.com/5g0h3pgds8quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI1ZzBoM3BnZHM4cXV2IiwiaG9zdCI6InN0cmVhbS0yODUuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJVa0s0X0dyRlFybUpzNnRKX3BOV3dBIiwiaWF0IjoxNzg0MjE0OTUzLCJleHAiOjE3ODQyMTUwMTN9.m1W_9nSS2-nJAaY5lYy7ADtQA6jIn6lXPMN6YWrBi04",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Jagakarsa Smooth Jazz - Jakarta",
+    "url": "https://stream-286.zeno.fm/5g0h3pgds8quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI1ZzBoM3BnZHM4cXV2IiwiaG9zdCI6InN0cmVhbS0yODYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ijl6NUpkYmk2UVEyWmg1QUpRVVg5bHciLCJpYXQiOjE3Nzc1NDk4NjksImV4cCI6MTc3NzU0OTkyOX0.37H31oPo3EHdUDVAhBw2wogpLEvFDAgsOtEQ9lWSDyE",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": -6.325456707231355,
+    "lon": 106.82004690170288,
+    "language": ""
+  },
+  {
+    "name": "Jagakarsa smooth jazz",
+    "url": "https://stream.zenolive.com/u8fk7pgds8quv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Jak 101 FM",
+    "url": "http://103.246.184.62:1935/noice_jakfm/jakfm/chunklist_w1246572933.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian"
+  },
+  {
+    "name": "Jak FM 101",
+    "url": "https://wz.mari.co.id:1936/noice_jakfm/jakfm/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 41,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Japanese Music ID",
+    "url": "https://stream.japanesemusicid.com/live/1/;",
+    "codec": "AAC+",
+    "bitrate": 3,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Japanimradio Music",
+    "url": "https://stream.zeno.fm/swoxwhtmuo4uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Jiz 89.5 FM",
+    "url": "https://pu.klikhost.com/proxy/jizfm/stream",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian"
+  },
+  {
+    "name": "Joss 885 AM",
+    "url": "https://stream.swadesifm.com/radio/8000/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian"
+  },
+  {
+    "name": "K-Lite FM Bandung",
+    "url": "https://svara-stream.radioddns.net/bandung_klitefm_acc",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "KAJ Radioline",
+    "url": "https://c1.siar.us/radio/8050/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "KBR Jakarta",
+    "url": "https://pu.klikhost.com/proxy/kbr/kbr",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -6.5469369195487985,
+    "lon": 106.69690266251564,
+    "language": "indonesian"
+  },
+  {
+    "name": "KBR68H",
+    "url": "http://pu.klikhost.com:8056/kbr",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -6.179331060386684,
+    "lon": 106.8266773223877,
+    "language": "english,indonesian"
+  },
+  {
+    "name": "KIARA 4U",
+    "url": "https://eu1.fastcast4u.com/proxy/kiarafm?mp=/1",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": -0.9189393883401892,
+    "lon": 100.43109187390657,
+    "language": "bahasa indonesia"
+  },
+  {
+    "name": "KIARA FM IKIP PADANG",
+    "url": "https://stream.zeno.fm/cn1fanz7hkeuv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": -0.9494798736058476,
+    "lon": 100.42156267154498,
+    "language": ""
+  },
+  {
+    "name": "KIARA MPC RADIO",
+    "url": "http://mpc1.mediacp.eu/stream/kiara-radio",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -0.9382283078036966,
+    "lon": 100.41227726731452,
+    "language": "bahasa indonesia"
+  },
+  {
+    "name": "KIS FM",
+    "url": "https://stream.radiokis.id/kisfm2",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "KISI FM BOGOR",
+    "url": "http://live.kisifm.com/kisifm",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "KISS FM Jember",
+    "url": "https://i.klikhost.com/8894/;stream.aac?1737215476182",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "KLCBS",
+    "url": "https://streaming.klcbs.id/listen/klcbs/klcbsfm-hd",
+    "codec": "AAC",
+    "bitrate": 80,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "KLCBS",
+    "url": "https://streaming.klcbsofficial.com/listen/klcbs/klcbs",
+    "codec": "AAC",
+    "bitrate": 80,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "KLCBS 100.4 (Jazz)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s351087",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "KLCBS Fusion",
+    "url": "https://streaming.klcbsofficial.com/listen/fusion/klcbs-fusion",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -6.920156177834871,
+    "lon": 107.60404586791994,
+    "language": "english,indonesian"
+  },
+  {
+    "name": "KLCBS New Age",
+    "url": "https://streaming.klcbsofficial.com/listen/newage/klcbs-newage",
+    "codec": "AAC",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": -6.922475769001182,
+    "lon": 107.60490417480467,
+    "language": "english,indonesian"
+  },
+  {
+    "name": "KLCBS Tropical",
+    "url": "https://streaming.klcbsofficial.com/listen/tropical/klcbs-tropical",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,indonesian"
+  },
+  {
+    "name": "KPFM Balikpapan",
+    "url": "https://pu.klikhost.com/proxy/kpfmbpn/stream",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "KRADIO HSS",
+    "url": "https://live.kradionews.com/listen/kradio/stream",
+    "codec": "AAC",
+    "bitrate": 80,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Kawaii Music",
+    "url": "https://kawaii-music.stream.laut.fm/kawaii-music",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Kei FM Batam 102.3 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s158545",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Kharisma FM Kediri",
+    "url": "http://stream.kharismafm.com:9550/kharismafm",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": -7.817445250331671,
+    "lon": 112.01454162597658,
+    "language": "indonesian,javanese"
+  },
+  {
+    "name": "Kis 95.1 FM",
+    "url": "http://103.246.184.62:1935/noice_kisfm/kisfm/chunklist_w1678859544.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian"
+  },
+  {
+    "name": "Kis FM 95.1",
+    "url": "https://ic.mari.co.id:8443/kisfm",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": -6.176979625756715,
+    "lon": 106.82659149169923,
+    "language": "bahasa indonesia,indonesian"
+  },
+  {
+    "name": "Kiss Fm Medan 105.0 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s89858",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Klik Radio",
+    "url": "https://pu.klikhost.com/proxy/klikhost/autodj",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Koplo FM",
+    "url": "https://stream.zeno.fm/uvlmugvqrnkvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian,javanese"
+  },
+  {
+    "name": "Korea, Today & Tomorrow",
+    "url": "https://worldradio.gscdn.kbs.co.kr/worldradio_192_4_48038494.aac",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Kosmonita FM Malanf",
+    "url": "http://202.58.200.26:1055/live",
+    "codec": "AAC",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "LIVE - RRI PRO 2 Tanjung Pinang",
+    "url": "https://stream-node2.rri.co.id/streaming/21/9221/rritjpinangpro2.mp3",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "LPPL BATARA",
+    "url": "https://a5.siar.us/listen/lpplbatara/stream",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "LPPL RADIO KOTA BATIK FM",
+    "url": "https://studio1.indostreamers.com:8010/stream/1/",
+    "codec": "AAC+",
+    "bitrate": 24,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "LPPL Radio Multatuli FM 89 (Variety)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s357048",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Liiur FM 90.9 (World Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s190428",
+    "codec": "mp3",
+    "bitrate": 32,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Linkin Park - Радио Maximum",
+    "url": "https://maximum-linkinpark.hostingradio.ru/linkinpark96.aacp",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Linkin Park Radio",
+    "url": "https://linkinpark-radio.stream.laut.fm/linkin_park-radio",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Lodiko MuLo",
+    "url": "https://stream-063.zeno.fm/sktzuxbiw5qvv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Lodiko Sodonyo",
+    "url": "https://stream-047.zeno.fm/nztzeroxluuuv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 3.954349100817964,
+    "lon": 98.19729376584291,
+    "language": ""
+  },
+  {
+    "name": "Loker Musik Indonesia",
+    "url": "https://stream.lokermusik.com/listen/lokermusik/lokermusik",
+    "codec": "AAC",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Looks Radio",
+    "url": "https://proxy.rctiplus.com/?name=http://8.215.206.157:8010/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Lopo Par85",
+    "url": "https://stream-047.zeno.fm/wbwfh9niu2fvv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Luhak Nan Tuo 102.5 FM",
+    "url": "https://stream2.jejestreaming.com:8100/stream",
+    "codec": "MP3",
+    "bitrate": 56,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "M Radio",
+    "url": "https://c4.siar.us/proxy/mradio/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "M-Stream Indo",
+    "url": "https://stream.zeno.fm/iln4upodbvuuv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MERDEKA",
+    "url": "https://azuracast.suzananet.com/listen/merdeka_fm/radio",
+    "codec": "AAC+",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MFM 101.3",
+    "url": "https://mfm.isowae.com:8443/studio.mp3",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MGTRADIO",
+    "url": "https://sukmben.radiogentara.com/listen/mgtradio/mgtradio",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MGTRADIO",
+    "url": "http://s1.gntr.net/listen/mgtradio/mgtradio",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MGTRADIO 101.1 (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s14498",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MGTRadio",
+    "url": "https://s1.gntr.net/listen/mgtradio/mgtradio",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MNC Trijaya FM",
+    "url": "https://proxy.rctiplus.com/?name=http://8.215.206.157:8002/;",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MNCU RADIO",
+    "url": "http://8.215.206.157:8042/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MOST Radio",
+    "url": "https://wz.mari.co.id:1936/web_mostfm/mostfm/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 43,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MTB FM Surabaya",
+    "url": "https://103.123.98.58/listen/1027_mtb_fm_surabaya/radio.mp3",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Madinah FM 99.9 (Religious Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s346600",
+    "codec": "mp3",
+    "bitrate": 48,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Mandalika Radio Lombok",
+    "url": "https://stream.mandalikafmlombok.com/",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Marilyn Manson Radio",
+    "url": "https://stream.pcradio.ru/Marilyn_Manson-hi",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Mash",
+    "url": "https://mash.stream.laut.fm/mash",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Megadeth",
+    "url": "https://stream.pcradio.ru/megadeth-hi",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Megaswara Bogor",
+    "url": "https://server.adyadigitalteknologi.com:8010/1",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Megaswara Kulonprogo 93.8 (Music Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s165107",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Mendhut FM",
+    "url": "http://c4.siar.us:8790/;",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": -7.57176647038714,
+    "lon": 110.82321166992188,
+    "language": "bahasa indonesia,bahasa jawa"
+  },
+  {
+    "name": "Mercury FM",
+    "url": "https://svara-stream.radioddns.net/surabaya_mercuryfm-aac",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Merdeka FM",
+    "url": "http://streaming.merdekafm.com:8020/;stream.nsv",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Metal Hammer",
+    "url": "https://metal-hammer.stream.laut.fm/metal-hammer",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MetalFM",
+    "url": "http://channels.fluxfm.de/metal-fm/stream.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Metalcore",
+    "url": "https://metalcore.stream.laut.fm/metalcore",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Metallica",
+    "url": "https://stream.pcradio.app/Metallica-hi",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Metrum Radio",
+    "url": "https://ssg.streamingmurah.com:8400/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Mettaswara 2000",
+    "url": "https://mettaswara.com:8700//theonest",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Mettaswara Campursari",
+    "url": "https://mettaswara.com:8700/cps",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Mettaswara Dangdut",
+    "url": "https://mettaswara.com:8700/d4d",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": -6.582419037959305,
+    "lon": 106.929931640625,
+    "language": "indonesian"
+  },
+  {
+    "name": "Mettaswara DhutKop Remix",
+    "url": "https://mettaswara.com:8700/mix",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Mettaswara Hits",
+    "url": "https://mettaswara.com:8700/hits",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Mettaswara Indo 2000",
+    "url": "https://mettaswara.com:8700//indo00",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Mettaswara Indonesia",
+    "url": "https://mettaswara.com:8700/indo",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Mettaswara Indonesia Gold",
+    "url": "https://mettaswara.com:8700//disco",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Mettaswara Java",
+    "url": "https://mettaswara.com:8700//java",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Mettaswara Koplo",
+    "url": "https://mettaswara.com:8700//koplo",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": -6.202298736337668,
+    "lon": 106.82148523628712,
+    "language": "javanese"
+  },
+  {
+    "name": "Mettaswara Relax",
+    "url": "https://mettaswara.com:8700//metta",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Mettaswara Smooth",
+    "url": "https://mettaswara.com:8700/smooth",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Mettaswara SoftRock",
+    "url": "https://mettaswara.com:8700/slowrock",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Mettaswara TOP 40",
+    "url": "https://mettaswara.com:8700/theone",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Mettaswara Throwback 80",
+    "url": "https://mettaswara.com:8700//mettatrow",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Montini 106 FM Manado",
+    "url": "https://stream.montiniradio.com:8443/manado_radiomontini_dual?ver=338735",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Mosh Head Black Metal ID",
+    "url": "https://moshhead-blackmetal.stream.laut.fm/moshhead-blackmetal",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,german,indonesian"
+  },
+  {
+    "name": "Most 105.8 FM Jakarta",
+    "url": "https://wz.mari.co.id:1936/web_mostfm/mostfm/chunklist_w405836415.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": -6.232029472638188,
+    "lon": 106.81732177734376,
+    "language": "bahasa indonesia,indonesian"
+  },
+  {
+    "name": "Most 1058",
+    "url": "https://ic.mari.co.id:8443/mostfm",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": -6.180635572250769,
+    "lon": 106.82350158691408,
+    "language": "bahasa indonesia,indonesian"
+  },
+  {
+    "name": "Most Radio 105.8 FM",
+    "url": "http://103.246.184.62:1935/noice_mostfm/mostfm/chunklist_w118038145.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian"
+  },
+  {
+    "name": "Most Radio FM 105.8 Jakarta",
+    "url": "https://wz.mari.co.id:1936/noice_mostfm/mostfm/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 43,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Motion FM",
+    "url": "https://cast1.my-control-panel.com/proxy/radioso4/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Muarasipongi",
+    "url": "http://stream.zeno.fm/eus8arb1mkeuv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian"
+  },
+  {
+    "name": "Munston Radio",
+    "url": "https://c1.alhastream.com:4240/radio?refresh=1733401765361",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Mustang 88 FM",
+    "url": "https://ic.mari.co.id:8443/mustangfm",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "NADAPA DIGITAL PRO 1",
+    "url": "https://ssg.streamingmurah.com:8116/:8000/;?download=false",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "NADAPA DIGITAL PRO 2",
+    "url": "https://ssg.streamingmurah.com:8110/:6000/;?download=false",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Ncs Radio",
+    "url": "https://ncsradio.stream.laut.fm/ncsradio",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Nindy Radio 98.2 FM",
+    "url": "http://radio.garden/api/ara/content/listen/823zxnHk/channel.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,indonesian"
+  },
+  {
+    "name": "Norrm",
+    "url": "https://listen.norrm.com/default",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bahasa indonesia,english"
+  },
+  {
+    "name": "Nur FM Rembang",
+    "url": "https://ssi.streamingmurah.com:8002/live",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bahasa indonesia,bahasa jawa,indonesian,java,javanese,jawa"
+  },
+  {
+    "name": "Nusa FM",
+    "url": "https://stream.zeno.fm/n5tergcf4v8uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bahasa indonesia"
+  },
+  {
+    "name": "Onix Radio",
+    "url": "https://pu.klikhost.com/proxy/onixradio/stream",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bahasa indonesia,english,indonesian"
+  },
+  {
+    "name": "Otaku World",
+    "url": "https://otaku-world.stream.laut.fm/otaku-world",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "PARAMUDA Radio Bandung",
+    "url": "https://i.klikhost.com/8332/;",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "PAS FM JAKARTA",
+    "url": "http://i.klikhost.com:8266/stream/;",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "PAS FM Jakarta",
+    "url": "https://i.klikhost.com/8266/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": -6.160972485642176,
+    "lon": 106.81852424169804,
+    "language": "indonesian"
+  },
+  {
+    "name": "PASFM Pati",
+    "url": "http://scg.streamingmurah.com:8886/mp3/;",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "PASS FM Cilegon",
+    "url": "https://eradio.web.id/passfm",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "PEACE RADIO 102.4FM",
+    "url": "https://svara-stream.radioddns.net/ciamis_pissfm_stereo",
+    "codec": "AAC+",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "POLARIS FM",
+    "url": "https://i.klikhost.com/9604/stream.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian"
+  },
+  {
+    "name": "POP FM Jogja",
+    "url": "https://i.klikhost.com:9154/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian"
+  },
+  {
+    "name": "POP FM Semarang",
+    "url": "https://i.klikhost.com:9612/stream.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": -6.986463867082162,
+    "lon": 110.44791698455812,
+    "language": "indonesian"
+  },
+  {
+    "name": "PRO 1 RRI MAKASSAR",
+    "url": "https://stream-node0.rri.co.id/streaming/22/9022/rrimakasarpro1.mp3",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian"
+  },
+  {
+    "name": "PSB Radio",
+    "url": "https://a4.siar.us/listen/psbradio/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "PTPN Solo",
+    "url": "https://ssg.streamingmurah.com:8040/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Paddygrooves",
+    "url": "https://a12.siar.us/radio/8230/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -8.403010285244465,
+    "lon": 115.23578613996509,
+    "language": ""
+  },
+  {
+    "name": "Pandu Musik Radio",
+    "url": "https://usa3.fastcast4u.com/proxy/pandumusikradio?mp=/1",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": -6.895700294456438,
+    "lon": 112.05303763135448,
+    "language": "indonesian"
+  },
+  {
+    "name": "Pandu Musik Radio",
+    "url": "https://fpsnew2.listen2myradio.com:2199/listen.php?ip=212.84.160.3&port=5182&type=ice&mount=stream",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": -6.89568811701056,
+    "lon": 112.0529919856503,
+    "language": ""
+  },
+  {
+    "name": "Pejuang Kopi",
+    "url": "https://stream.zeno.fm/sthgzynfcd0uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian"
+  },
+  {
+    "name": "Pendopo Nusantara FM",
+    "url": "https://stream-157.zeno.fm/n5tergcf4v8uv?zs=uFe_dzMYTQa3K-vQ8r7log",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": -7.963097174753473,
+    "lon": 110.59782028198244,
+    "language": ""
+  },
+  {
+    "name": "Phoenix Radio Bali",
+    "url": "https://live.phoenixradiobali.com:8250/phoenixradio",
+    "codec": "AAC",
+    "bitrate": 56,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Play FM 97.5 (Variety)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s131664",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Prambors 102.2 102.0 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s89407",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Prambors 102.2 105.1 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s89408",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Prambors 102.2 89.3 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s89413",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Prambors 102.2 | (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s10612",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Prambors Bandung 98.4 FM",
+    "url": "https://stream-pd-bdg.dimasalfaridzi.my.id/prambors",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian"
+  },
+  {
+    "name": "Prambors FM",
+    "url": "https://stream.rcs.revma.com/h77wwp48kxcwv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "id"
+  },
+  {
+    "name": "Prambors FM 98.4 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s89411",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Prambors FM Jakarta 102.2",
+    "url": "https://s1.cloudmu.id/listen/prambors/radio.mp3?age=18%2B",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Prambors FM Jakarta 102.2",
+    "url": "http://103.24.105.90:9300/pjkt",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -6.17558647088173,
+    "lon": 106.8272049793689,
+    "language": "english,indonesian"
+  },
+  {
+    "name": "Prambors FM Solo 99.2 FM",
+    "url": "https://s1.cloudmu.id/listen/prambors/radio.mp3?city=Surakarta",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": -7.572396079044959,
+    "lon": 110.82938075065611,
+    "language": ""
+  },
+  {
+    "name": "Prambors Makassar 105.1 FM",
+    "url": "https://s1.cloudmu.id/listen/prambors_makassar/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian"
+  },
+  {
+    "name": "Prameswara 103.9 FM Lamongan",
+    "url": "http://prameswarafm.onlivestreaming.net:10390/live",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "PrimaFM 95.8",
+    "url": "http://live.primafmindramayu.com:9580/primafm",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Pro 5 Makassar",
+    "url": "https://stream.streamaudio.de:8000/teststream3",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Pro1 RRI Jakarta",
+    "url": "https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro1.mp3",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Prombes Radio",
+    "url": "https://sv.prombesradio.my.id/listen/prombes_radio/radio.mp3",
+    "codec": "AAC",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Prosalina FM",
+    "url": "https://i.klikhost.com/8618/stream?1708788698312",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "R-lisa FM",
+    "url": "https://a4.siar.us/radio/8360/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "R2B Rembang",
+    "url": "https://i.klikhost.com:8892/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIKS FM SEMARANG",
+    "url": "https://i.klikhost.com:9620/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian"
+  },
+  {
+    "name": "RADIKS FM SEMARANG",
+    "url": "https://i.klikhost.com:9620/;",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian"
+  },
+  {
+    "name": "RADIO AIRMEN FM 107.9 MHZ",
+    "url": "https://void.idserverhost.com:8024/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO ALTERNATIF FM 98.1 MHZ JAKARTA",
+    "url": "https://void.idserverhost.com:8016/stream/1/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO CBB 105.4 FM",
+    "url": "http://45.32.103.238:8056/live",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO CMN | STREAM HITS | NO 1",
+    "url": "https://stream.coolkas.com/listen/radiocmn/radiocmn",
+    "codec": "AAC",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO DMS AMBON",
+    "url": "https://a3.alhastream.com:1290/dms",
+    "codec": "AAC",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO DUTA FM AMBON",
+    "url": "https://asv.alhastream.com:1265/rdafm?1730896063069",
+    "codec": "AAC",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO HANG BATAM 106.0 (Asian Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s100288",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO JENG SRI FM 107.2 | (Easy Listening)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s339808",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO SALVATOR",
+    "url": "https://live.radiosalvator.com/listen/radiosalvator/radiosalvator",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO STREAMING SEHATI",
+    "url": "https://c4.siar.us:8092/autodj",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bahasa indonesia"
+  },
+  {
+    "name": "RAS",
+    "url": "https://i.klikhost.com/9006/stream",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian"
+  },
+  {
+    "name": "RASI 906 FM |MAGETAN",
+    "url": "http://rasifm.onlivestreaming.net:9060/live",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RASIKA FM USA SEMARANG",
+    "url": "https://svara-stream.radioddns.net/rasikafm_stereo",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -7.129274152620208,
+    "lon": 110.4018259048462,
+    "language": ""
+  },
+  {
+    "name": "RDI 97.1 FM Jakarta",
+    "url": "http://202.147.199.99:8000/stream",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian"
+  },
+  {
+    "name": "REM FM Universitas Negeri Semarang",
+    "url": "https://a2.siar.us/listen/remfm/stream",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "REPLAY NEWS - Bahasa Indonesia",
+    "url": "https://replaynewsin.ice.infomaniak.ch/replaynewsin-128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian"
+  },
+  {
+    "name": "RMK Radio Ciamis",
+    "url": "https://ini.radiomasakini.com/listen/rmk/rmk",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RPK 96.3 FM Jakarta",
+    "url": "https://streaming.classynetradio.com:8040/rpkfm?ver=74753",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RRI - Pro 1 Surabaya",
+    "url": "https://stream-node0.rri.co.id/streaming/18/9018/rrisurabayapro1.mp3",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RRI Channel 5",
+    "url": "https://stream-node1.rri.co.id/streaming/41/8941/chlima.mp3",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian"
+  },
+  {
+    "name": "RRI Ende 100.5 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s180105",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RRI PRO 1 PALEMBANG",
+    "url": "https://stream-node0.rri.co.id/streaming/13/9013/rripalembangpro1.mp3",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RRI PRO 1 Surakarta",
+    "url": "https://stream-node1.rri.co.id/streaming/19/9219/rrisurakartapro1.mp3",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": -7.558584894362663,
+    "lon": 110.82201540470123,
+    "language": ""
+  },
+  {
+    "name": "RRI PRO 3",
+    "url": "https://stream-node0.rri.co.id/streaming/14/9014/kbrn.mp3",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RRI PRO 4 Palembang",
+    "url": "https://stream-node0.rri.co.id/streaming/13/9013/rripalembangpro4.mp3",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RRI Pro 1 - Kupang",
+    "url": "https://stream-node2.rri.co.id/streaming/13/9213/rrikupangpro1.mp3",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bahasa indonesia,indonesian"
+  },
+  {
+    "name": "RRI Pro 1 98.3 FM Tanjungpinang",
+    "url": "https://stream-node2.rri.co.id/streaming/21/9221/rritjpinangpro1.mp3",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 0.9087855014561992,
+    "lon": 104.46594178676608,
+    "language": "bahasa indonesia,indonesian"
+  },
+  {
+    "name": "RRI Pro 1 Bandung",
+    "url": "https://stream-node0.rri.co.id/streaming/15/9015/rribandungpro1.mp3",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bahasa indonesia,indonesian"
+  },
+  {
+    "name": "RRI Pro 1 Jakarta 91.2 FM",
+    "url": "http://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro1.mp3",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": -6.173042113477907,
+    "lon": 106.82238578796388,
+    "language": "indonesian"
+  },
+  {
+    "name": "RRI Pro 1 Manado",
+    "url": "https://stream-node1.rri.co.id/streaming/40/9040/rrimanadopro1.mp3",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 1.4812125847298063,
+    "lon": 124.85064178705215,
+    "language": "indonesian"
+  },
+  {
+    "name": "RRI Pro 1 Sungailiat",
+    "url": "https://stream-node2.rri.co.id/streaming/14/9314/rrisngliatpro1.mp3",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": -1.8931147695481256,
+    "lon": 106.10370934009552,
+    "language": "indonesian"
+  },
+  {
+    "name": "RRI Pro 1 Tanjungpinang",
+    "url": "https://stream-node2.rri.co.id/streaming/21/9221/rritjpinangpro4.mp3",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 0.9087629736690032,
+    "lon": 104.46559309959412,
+    "language": "bahasa indonesia"
+  },
+  {
+    "name": "RRI Pro 1 Yogyakarta",
+    "url": "https://stream-node0.rri.co.id/streaming/17/9017/rrijogjapro1.mp3",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": -7.787989364083526,
+    "lon": 110.36899566650392,
+    "language": "indonesian"
+  },
+  {
+    "name": "RRI Pro 2 - Purwokerto",
+    "url": "https://stream-node0.rri.co.id/streaming/19/9119/rripurwokertopro2.mp3",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RRI Pro 2 Bandung",
+    "url": "https://stream-node0.rri.co.id/streaming/15/9015/rribandungpro2.mp3",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bahasa indonesia,indonesian"
+  },
+  {
+    "name": "RRI Pro 2 Jakarta",
+    "url": "https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro2.mp3",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -6.173055446761134,
+    "lon": 106.82237505912782,
+    "language": "indonesian"
+  },
+  {
+    "name": "RRI Pro 2 Jakarta 105 FM",
+    "url": "http://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro2.mp3",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": -6.1730714467005505,
+    "lon": 106.82233214378358,
+    "language": "indonesian"
+  },
+  {
+    "name": "RRI Pro 2 Makassar",
+    "url": "https://stream-node0.rri.co.id/streaming/22/9022/rrimakasarpro2.mp3",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RRI Pro 2 Manado",
+    "url": "https://stream-node1.rri.co.id/streaming/40/9040/rrimanadopro2.mp3",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 1.4812018594787093,
+    "lon": 124.8506471514702,
+    "language": ""
+  },
+  {
+    "name": "RRI Pro 2 Sungailiat",
+    "url": "https://stream-node2.rri.co.id/streaming/14/9314/rrisngliatpro2.mp3",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": -1.894122729392456,
+    "lon": 106.10405266284944,
+    "language": "indonesian"
+  },
+  {
+    "name": "RRI Pro 2 Yogyakarta",
+    "url": "https://stream-node0.rri.co.id/streaming/17/9017/rrijogjapro2.mp3",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": -7.778823653142427,
+    "lon": 110.387921333313,
+    "language": "indonesian"
+  },
+  {
+    "name": "RRI Pro 3",
+    "url": "https://stream-node0.rri.go.id/streaming/14/9014/kbrn.mp3",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RRI Pro 4 Ambon",
+    "url": "https://stream-node2.rri.co.id/streaming/15/9315/rriambonpro4.mp3",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bahasa indonesia,indonesian"
+  },
+  {
+    "name": "RRI Pro 4 Bandung",
+    "url": "https://stream-node0.rri.co.id/streaming/15/9015/rribandungpro4.mp3",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bahasa indonesia,bahasa sunda,indonesian"
+  },
+  {
+    "name": "RRI Pro 4 Jakarta",
+    "url": "https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro4.mp3",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -6.173026113537613,
+    "lon": 106.82232946157455,
+    "language": "indonesian"
+  },
+  {
+    "name": "RRI Pro 4 Jakarta 92.8 FM",
+    "url": "http://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro4.mp3",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": -6.173031446851099,
+    "lon": 106.82236164808276,
+    "language": "indonesian"
+  },
+  {
+    "name": "RRI Pro 4 Manado",
+    "url": "https://stream-node1.rri.co.id/streaming/40/9040/rrimanadopro4.mp3",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 1.4812061495136974,
+    "lon": 124.8506659269333,
+    "language": ""
+  },
+  {
+    "name": "RRI Pro 4 Yogyakarta",
+    "url": "https://stream-node0.rri.co.id/streaming/17/9017/rrijogjapro4.mp3",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": -7.788029226117188,
+    "lon": 110.36893665790558,
+    "language": "indonesian"
+  },
+  {
+    "name": "RRI Pro1 Banjarmasin",
+    "url": "https://stream-node0.rri.co.id/streaming/19/9019/rribanjarmasinpro1.mp3",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": -3.328349487814732,
+    "lon": 114.60798096101968,
+    "language": "bahasa indonesia"
+  },
+  {
+    "name": "RRI Pro1 Purwokerto",
+    "url": "https://stream-node0.rri.co.id/streaming/19/9119/rripurwokertopro1.mp3",
+    "codec": "AAC+",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RRI Voice of Indonesia",
+    "url": "https://stream-node0.rri.co.id/streaming/25/9125/voi.mp3",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radar CBS Tegal",
+    "url": "https://a5.siar.us/radio/8010/radio",
+    "codec": "AAC",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": -6.861964085806682,
+    "lon": 109.14637000998484,
+    "language": "indonesian"
+  },
+  {
+    "name": "Radio 4 You TV",
+    "url": "https://streamsrv2.nets-sr.com:19360/4youtv/4youtv.m3u8",
+    "codec": "AAC",
+    "bitrate": 140,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio ANDIKA",
+    "url": "https://r5.siar.us:1057/andikafm",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio ANDIKA 105.7 (News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s149533",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio AR Bali",
+    "url": "https://live.radioarbali.com:8450/radioar",
+    "codec": "AAC",
+    "bitrate": 56,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Adzan FM Bandung",
+    "url": "https://radioadzanfmbandung.com/streamer",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Andy",
+    "url": "https://stream.zeno.fm/w6tqbtdvt4zuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Asa FM",
+    "url": "https://stream.zeno.fm/2x8c8cnq2zhvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Assunnah Cirebon 92.3 (Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s117571",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Bantul 89.10 FM",
+    "url": "https://stream.swadesifm.com/radio/8130/radio.mp3",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian"
+  },
+  {
+    "name": "Radio Bass FM 93.2 (Religious Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s150004",
+    "codec": "mp3",
+    "bitrate": 32,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Bercahaya 94.3 FM Cilacap",
+    "url": "https://bercahayafm.my.id/listen/stream/live",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Bintang Tenggara",
+    "url": "https://asv.alhastream.com:4070/rbtfm",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Bodeh26Fm 93.15 (Asian Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s270147",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Bola",
+    "url": "https://live.radiobola.co.id/listen/radiobola/stream",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Budi Luhur",
+    "url": "https://c2.siar.us/listen/radiobudiluhur/stream",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio CBB",
+    "url": "https://stream01-ssl.arenastreaming.com:8056/live",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio CDBS",
+    "url": "https://a1.siar.us/listen/radiocdbs/stream",
+    "codec": "AAC",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Cahaya Islam",
+    "url": "https://pstnet37.shoutcastnet.com:10514/stream",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Cosmo Bandung 101.9 (World Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s134299",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Dakwah Islam",
+    "url": "https://i.klikhost.com/8260/;radio.mp3",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Dangdut 97.1 FM Jakarta",
+    "url": "http://202.147.199.99:8000/;",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Dangdut Indonesia",
+    "url": "http://202.147.199.99:8000/",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Dangdut Indonesia",
+    "url": "http://202.147.199.99:8000/;stream/1",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Dangdut Indonesia 97.1 (Variety)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s144768",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Elfara Malang",
+    "url": "http://c4.siar.us:8123/live",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Elshinta Bandung",
+    "url": "https://stream-ssl.arenastreaming.com:8005/bandung",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Elshinta Surabaya",
+    "url": "https://stream-ssl.arenastreaming.com:8030/surabaya",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Gema Randik",
+    "url": "https://gemarandik.mubakab.go.id:8443/stream",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Gentara",
+    "url": "https://s1.gntr.net/listen/radio_gentara/gentara",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Gentara",
+    "url": "https://s1.gntr.net/listen/radio_gentara/gentara64",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Gentara Campursari",
+    "url": "https://s1.gntr.net/listen/gentara_campursari/radio",
+    "codec": "AAC",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Hang FM",
+    "url": "http://185.47.62.52:8000/",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian"
+  },
+  {
+    "name": "Radio Hidayah 103.4 FM",
+    "url": "https://radioislamindonesia.com/radiohidayah.mp3",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian"
+  },
+  {
+    "name": "Radio Ichthus",
+    "url": "http://svara-stream.radioddns.net/ichthusfm",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Idola Semarang",
+    "url": "https://livestreaming.radioidola.com/live.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Idola Semarang",
+    "url": "https://stream.radioidola.com/listen/idolafm/live",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Imelda FM",
+    "url": "https://server.radioimeldafm.co.id/listen/imeldafm/imeldafm",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Indah Siar Cirebon",
+    "url": "https://az2.radioislam.my.id:8150/;stream.nsv",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": -6.738455385800187,
+    "lon": 108.56171250343324,
+    "language": "arabic,bahasa indonesia,indonesian"
+  },
+  {
+    "name": "Radio Internet Indonesia (radio-i2.com)",
+    "url": "https://live.radio-i2.com/8014/stream?ver=130520",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Islam Belitung",
+    "url": "https://az4.radioislam.my.id:8200/radio.mp3?1731934970718",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Islam Malang 1",
+    "url": "http://malang.radioislam.my.id:11132/",
+    "codec": "MP3",
+    "bitrate": 24,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian"
+  },
+  {
+    "name": "Radio Islam Malang 1",
+    "url": "http://siaran.radioislam.my.id:11132/",
+    "codec": "MP3",
+    "bitrate": 24,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian"
+  },
+  {
+    "name": "Radio KLIK FM",
+    "url": "https://radio.dukahosting.com:7046/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Kardopa",
+    "url": "https://i.klikhost.com/8602/;stream.mp3",
+    "codec": "MP3",
+    "bitrate": 24,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Kasih",
+    "url": "https://onlineradiobox.com/json/id/kasih/play",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Kasih",
+    "url": "https://hello.citrus3.com:2020/stream/radiokasih",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Kencana Bandung 96.8 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s190859",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Kita 94.3 FM Cirebon Indonesia",
+    "url": "https://sunnah.radio.yufid.com/;stream.mp3;",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Kita Cirebon Indonesia",
+    "url": "http://live.radiosunnah.net/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Kita FM 94.3 Cirebon Indonesia | (Islamic Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s276981",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Klik FM Surabaya",
+    "url": "https://c1.alhastream.com:3210/radio",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Kotaperak 94,6FM",
+    "url": "http://streaming.radiokotaperak.com:8000/kotaperak",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Kotaperak Yogyakarta 94.6 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s190888",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Latanza",
+    "url": "https://ssg.streamingmurah.com:9300/;",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Losta FM Blitar 89.2 MHz",
+    "url": "https://stream.zeno.fm/ar3nv92ahfhvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian"
+  },
+  {
+    "name": "Radio Manggarai 88",
+    "url": "https://radiomanggarai88.online/listen/rm88/radio.mp3",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Muara Jakarta",
+    "url": "http://45.64.97.82:8778/stream/1/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Music Indonesia",
+    "url": "https://stream.zeno.fm/wvq442iwm6ztv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,indonesian"
+  },
+  {
+    "name": "Radio Nafiri 107.1 (Christian Contemporary)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s89263",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Nuansa FM Bojonegoro 1043 (Pop Country)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s358682",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Online Sulita",
+    "url": "http://198.178.123.8:7082/;",
+    "codec": "MP3",
+    "bitrate": 24,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Online Sulita",
+    "url": "http://198.178.123.8:7082/",
+    "codec": "MP3",
+    "bitrate": 24,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio PRO FM Purwakarta",
+    "url": "https://ig.idstreamer.com:8020/stream",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Patria 102.6 FM Indonesia",
+    "url": "https://streaming.radiopatria.net/radio/8000/patria",
+    "codec": "AAC",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Pelita Kasih 96.3 (New Age Spirituality Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s89532",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Pinguin FM",
+    "url": "https://live.radiopinguinfm.com:8350/;stream.mp3",
+    "codec": "AAC+",
+    "bitrate": 56,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Purwodadi FM",
+    "url": "http://103.119.139.41:9000/;",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": -7.085887892078276,
+    "lon": 110.91952440617143,
+    "language": "bahasa indonesia,javanese"
+  },
+  {
+    "name": "Radio Rhema Surgawi",
+    "url": "https://sv7.crownmediacenter.my.id:8050/radio.aac",
+    "codec": "AAC",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Rodja 756 (Religious Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s123997",
+    "codec": "mp3",
+    "bitrate": 87,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Rodja 756 AM",
+    "url": "https://radioislamindonesia.com/rodja.mp3?_=2",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Rodja 756 AM",
+    "url": "https://radioislamindonesia.com/rodja-low.mp3?_=1",
+    "codec": "MP3",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Rodja 756 AM & 100.1 FM",
+    "url": "http://live2.radiorodja.com:8000/;stream.mp3",
+    "codec": "MP3",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Rumah Oma",
+    "url": "https://radiorumahoma.com:30443/;",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bahasa indonesia,english"
+  },
+  {
+    "name": "Radio Sayang Quran",
+    "url": "https://radio.sayangquran.com/listen/radiosq/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Serambi FM Banda Aceh",
+    "url": "http://live.serambifm.com:8902/;",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Seribatu",
+    "url": "http://radioseribatu.out.airtime.pro:8000/radioseribatu_a",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Sholawat",
+    "url": "https://stream.zeno.fm/us5bsznu3rptv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": -7.432475023114795,
+    "lon": 112.70269067958,
+    "language": "indonesian"
+  },
+  {
+    "name": "Radio Silaturahim",
+    "url": "https://rasil720.online/stream",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Suara Al-Iman 846 AM Surabaya",
+    "url": "https://radioislamindonesia.com/aliman.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bahasa indonesia,indonesian"
+  },
+  {
+    "name": "Radio Suara Al-Iman 846 AM Surabaya 774 (Islamic Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s117576",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Suara Banjar",
+    "url": "https://streamrsb.banjarkab.go.id/stream.ogg",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Suara Bumi Lasinrang (SBL FM) 92.4 (Music News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s352039",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Suara Quran Lombok 100.0 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s185180",
+    "codec": "mp3",
+    "bitrate": 24,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Swara Semarang",
+    "url": "https://server.radioimeldafm.co.id/radio/8010/swarasemarang",
+    "codec": "MP3",
+    "bitrate": 112,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian,javanese"
+  },
+  {
+    "name": "Radio Tarbiyah Sunnah",
+    "url": "https://radioislamindonesia.com/tarbiyah.mp3?_=1",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Tidar Sakti",
+    "url": "https://pu.klikhost.com/proxy/tidarsakti/stream",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio VOSS Voice Of Sabilurrosyad",
+    "url": "https://live.voss.my.id/listen/voss/voss",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Waton Muni",
+    "url": "https://stream.zeno.fm/z2y9glm5bi7uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Wijang Songko",
+    "url": "https://static-s8.xajist.com:8787/live?title=Hello%20Dangdut%20RWS&timestamp=1701054762",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": -7.816084719816567,
+    "lon": 112.01316833496097,
+    "language": "indonesian"
+  },
+  {
+    "name": "Radio Wisata FM",
+    "url": "https://c2.siar.us:9889/live",
+    "codec": "AAC",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Xtra FM Singkil",
+    "url": "https://i.klikhost.com/8864/;?1730902274150",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RadioQu Bogor",
+    "url": "https://ssg.streamingmurah.com:8398/stream",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": -6.612083671356852,
+    "lon": 106.7952606501058,
+    "language": "indonesian"
+  },
+  {
+    "name": "RadioStream FM",
+    "url": "https://radiofm.ytrvpvt.workers.dev/stream",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Rajawali Radio - Bandung, Indonesia",
+    "url": "http://128.199.251.123:1027/;",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": -6.913307709449947,
+    "lon": 107.57587888960592,
+    "language": "bahasa indonesia,english"
+  },
+  {
+    "name": "Rama FM Bandung 104.7 FM",
+    "url": "https://i.klikhost.com/8330/;",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Retjo Buntung",
+    "url": "http://45.64.97.82:9940/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -7.792375701377496,
+    "lon": 110.36779403686523,
+    "language": ""
+  },
+  {
+    "name": "Retjo Buntung 99.4 FM",
+    "url": "http://45.64.97.82:9940/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Retjo Buntung FM",
+    "url": "https://ssg.streamingmurah.com:9940/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Retjo Buntung FM 99.4 (Family)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s1379",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Retrosquad Radio",
+    "url": "https://radio.retrosquad.id/listen/retrosquad/mid",
+    "codec": "AAC",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Rodja Bandung 104.3 FM",
+    "url": "https://radioislamindonesia.com/rodja-bandung.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Rodja Majalengka 93.1 FM | (Religion & Spirituality)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s347477",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Ronggohadi 97.8 FM Lamongan",
+    "url": "https://c3.siar.us/proxy/ronggohadifm/stream",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "SB FM tembang kenangan",
+    "url": "https://stream.zeno.fm/d16n50mkzhhvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian"
+  },
+  {
+    "name": "SISNET RADIO",
+    "url": "https://i.klikhost.com/8716/stream?1709089914379",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "SSFM 100",
+    "url": "https://c5.siar.us/proxy/ssfm/stream",
+    "codec": "AAC+",
+    "bitrate": 56,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "STI FM Nunukan",
+    "url": "https://live.stifmnunukan.com/listen/stifm/stream",
+    "codec": "AAC",
+    "bitrate": 80,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,indonesian"
+  },
+  {
+    "name": "SUARA GRATIA FM",
+    "url": "https://ssg.streamingmurah.com:8224/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "SUARA SALIRA",
+    "url": "https://live.suarasalira.com/listen/suarasalira/stream",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": -7.3451524,
+    "lon": 108.096183,
+    "language": ""
+  },
+  {
+    "name": "SUN FM 103.5MHZ Banjarmasin",
+    "url": "https://a1.siar.us/listen/sunfm/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "SWARA BERSUJUD",
+    "url": "https://a2.siar.us/listen/swarabersujud/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "SWARA MAPPI FM",
+    "url": "https://a2.alhastream.com/listen/station_13/radio",
+    "codec": "AAC",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Sabaton Radio",
+    "url": "https://stream.pcradio.ru/sabaton-hi",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Safasindo FM",
+    "url": "https://radio.safasindo.com/listen/radio_safasindo/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian,minang"
+  },
+  {
+    "name": "Sananta FM Tegal",
+    "url": "http://i.klikhost.com:8500/;super.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": -6.874884517414498,
+    "lon": 109.12982574140187,
+    "language": "bahasa indonesia"
+  },
+  {
+    "name": "Sangkakala 1062 (Gospel)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s141663",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Scorpions",
+    "url": "https://stream.pcradio.app/Scorpions-hi",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Sebayu FM Tegal",
+    "url": "https://radio-streaming.tegalkota.go.id/stream.mp3",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": -6.873550862170931,
+    "lon": 109.14415383864812,
+    "language": "indonesian,javanese"
+  },
+  {
+    "name": "Sensasi FM",
+    "url": "https://stream.radiojar.com/4ywdgup3bnzuv.mp3",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Serambi FM 90.2 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s89909",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Sindo Radio 104.6 (News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s148720",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Sindo Radio Bandung 91.3 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s189723",
+    "codec": "mp3",
+    "bitrate": 32,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Sindo Trijaya 104.6 FM Jakarta",
+    "url": "http://202.147.199.101:8000/;stream.nsv",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Singosari FM Brebes (Official Station)",
+    "url": "http://uk14freenew.listen2myradio.com:28270/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bahasa indonesia"
+  },
+  {
+    "name": "Slawi FM Tegal",
+    "url": "https://i.klikhost.com/9032/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -6.9924568590669685,
+    "lon": 109.13267898838969,
+    "language": "bahasa jawa"
+  },
+  {
+    "name": "Slipknot",
+    "url": "https://stream.pcradio.app/SlipKnot-hi",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Smart FM Balikpapan",
+    "url": "https://cast3.asurahosting.com/proxy/radios32/stream",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bahasa indonesia,english,indonesian"
+  },
+  {
+    "name": "SmartRadio Indonesia",
+    "url": "http://radio.forumcerdas.net:8000/",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bahasa indonesia,indonesian"
+  },
+  {
+    "name": "SmartRadio Indonesia",
+    "url": "http://radio.forumcerdas.net:8000/;",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bahasa indonesia,indonesian"
+  },
+  {
+    "name": "Solopos FM",
+    "url": "https://live.solopos.com:2020/8002/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": -7.5465904165200755,
+    "lon": 110.77913224697114,
+    "language": ""
+  },
+  {
+    "name": "Sonora 92.0 FM Jakarta",
+    "url": "https://cast1.my-control-panel.com/proxy/radioso1/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -6.175853157987424,
+    "lon": 106.82642088428476,
+    "language": "indonesian"
+  },
+  {
+    "name": "Sonora 92.0 FM Jakarta",
+    "url": "https://sonora-radio.arenastreaming.com/8130/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Sonora 97.4 FM Yogyakarta",
+    "url": "https://cast3.asurahosting.com/proxy/radios28/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -7.795357339791491,
+    "lon": 110.37139892578126,
+    "language": "bahasa indonesia,indonesian"
+  },
+  {
+    "name": "Sonora FM Bandung",
+    "url": "https://streamingv2.shoutcast.com/sonora-bandung",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian"
+  },
+  {
+    "name": "Sonora FM Palembang",
+    "url": "https://cast2.my-control-panel.com/proxy/radios21/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Spirit Online",
+    "url": "https://a11.asurahosting.com:7470/spirit_online",
+    "codec": "AAC",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Spirit Online",
+    "url": "https://radio.spirittoc.com:8060/spirit_online",
+    "codec": "AAC",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "StarStream Radio - Alternative Rock 2010 to Now",
+    "url": "https://streaming.live365.com/a72059",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "StarStream Radio - Rock 90's and 00's",
+    "url": "https://streaming.live365.com/a65639",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "StarStream Radio - The Classic Rock Rewind",
+    "url": "https://streaming.live365.com/a76931",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "StarStream Radio - The Vinyl Vibe",
+    "url": "https://streaming.live365.com/a29175",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Start Radio Tangerang",
+    "url": "http://listen.staradio1073fm.net:8070/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": -6.175466307181999,
+    "lon": 106.66573406837418,
+    "language": "indonesian"
+  },
+  {
+    "name": "Streaming Murah",
+    "url": "https://ssg.streamingmurah.com:7777/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Style 94.6 FM Tasikmalaya",
+    "url": "https://stream-sg1.galuhmedia.co.id:9460/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Suara Al Jihad FM Banjarmaein",
+    "url": "http://i.klikhost.com:8044/;stream.mp3",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Suara Giri",
+    "url": "https://streaming.girifm.com:8010/;",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Suara Giri 98.4 FM",
+    "url": "http://streaming.girifm.com:8010/",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Suara Gracia FM",
+    "url": "https://pu.klikhost.com/proxy/gracia/stream",
+    "codec": "AAC",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Suara Gratia 95.9 (Christian Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s143068",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Suara Inspirasi",
+    "url": "https://audiostreamserver.indonesiastreaming.com/suarainspirasi",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Suara Kasih 107.8FM Madiun | (Christian Contemporary)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s142663",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Suara Mekarindah",
+    "url": "http://stream.zeno.fm/d2k0ptw4kkeuv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian"
+  },
+  {
+    "name": "Suara Muslim 93.8 (Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s157772",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Suara Muslim Surabaya",
+    "url": "http://pu.klikhost.com:8052/",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian"
+  },
+  {
+    "name": "Suara Muslim Surabaya",
+    "url": "http://pu.klikhost.com:8052/stream/1/",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": -7.269775252375036,
+    "lon": 112.75062561035158,
+    "language": ""
+  },
+  {
+    "name": "Suara Pasuruan",
+    "url": "https://radiostream.pasuruankab.go.id/?type=https",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Suara Soneta",
+    "url": "https://a2.siar.us//listen//suarasoneta//radio.mp3",
+    "codec": "AAC",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": -8.215047618823062,
+    "lon": 114.3735122680664,
+    "language": "indonesian"
+  },
+  {
+    "name": "Suara Tabalong",
+    "url": "http://scg.streamingmurah.com:8208/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Sunda Radio",
+    "url": "https://sundaradio.com/live/sundaradio",
+    "codec": "AAC",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Suzana FM 91.3",
+    "url": "https://streaming.suzanafm.com:8000/;stream.mp3",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Swara Kendal",
+    "url": "https://i.klikhost.com/8822/;",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Swara Radio",
+    "url": "https://s3.radio.co/s162c52c51/listen",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Swara Semarang",
+    "url": "https://server.radioimeldafm.co.id/listen/swarasemarang/swarasemarang",
+    "codec": "MP3",
+    "bitrate": 112,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Synchronize Radio",
+    "url": "https://streaming.shoutcast.com/synchronizeradio",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": -6.311242039759671,
+    "lon": 106.79038166999815,
+    "language": "bahasa indonesia,english,indonesian"
+  },
+  {
+    "name": "THE ROCKIN LIFE - BALI",
+    "url": "https://stream.radiojar.com/9k28wsbu5k8uv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "THE ROCKIN LIFE - BANDUNG",
+    "url": "https://stream.radiojar.com/fnex9bkswk8uv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "THE ROCKIN LIFE - JAKARTA",
+    "url": "https://stream.radiojar.com/7csmg90fuqruv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,indonesian"
+  },
+  {
+    "name": "Tarakan FM",
+    "url": "https://live.tarakanfm.com/listen/tarakanfm/stream",
+    "codec": "AAC",
+    "bitrate": 80,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Tarbiyah Sunnah",
+    "url": "https://radioislamindonesia.com/tarbiyah.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Tebet Radio Jakarta",
+    "url": "https://stream-ssl.arenastreaming.com:8066/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": -6.213555284065307,
+    "lon": 106.82543214876206,
+    "language": ""
+  },
+  {
+    "name": "The Metallica Report",
+    "url": "https://streaming.live365.com/a92114",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "The Rock! (Hard Rock)",
+    "url": "https://listen.181fm.com/181-hardrock_128k.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Tidar Sakti FM Batu",
+    "url": "http://pu.klikhost.com:8770/stream",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "TikTok Hits",
+    "url": "https://tiktokhits.funstream.net/listen/tiktokhits/radio.aac",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Top FM 95.1 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s151678",
+    "codec": "mp3",
+    "bitrate": 32,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Topfm",
+    "url": "http://streaming.topfm951.net:9510/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Toss FM",
+    "url": "https://stream.zeno.fm/gzrrn7tyafhvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Trangkil FM",
+    "url": "https://i.klikhost.com/8228/;radio",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": -7.663612122128149,
+    "lon": 111.33422374259682,
+    "language": "indonesian,javanese"
+  },
+  {
+    "name": "Trax FM",
+    "url": "https://traxfm.radioca.st/live",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Trax FM - Jakarta",
+    "url": "https://stream.radiojar.com/rrqf78p3bnzuv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "TraxFM Jakarta",
+    "url": "https://stream.radiojar.com/rrqf78p3bnzuv.mp3",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Trend Digital Radio",
+    "url": "https://ig.idstreamer.com:8010/stream",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Trendy FM Manado 93.6 (Asian Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s183327",
+    "codec": "mp3",
+    "bitrate": 174,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "UTAINDO Radio",
+    "url": "https://s1.gntr.net/listen/utaindo_radio/utaindo-aac",
+    "codec": "AAC",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Unisi Radio",
+    "url": "http://studio1.indostreamers.com:8002/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "V Radio",
+    "url": "http://202.147.199.100:8000/;stream.nsv",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian"
+  },
+  {
+    "name": "V Radio - Jakarta",
+    "url": "http://8.215.206.157:8008/;",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "V Radio - Jakarta",
+    "url": "https://proxy.rctiplus.com/?name=http://8.215.206.157:8008/;",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "V Radio Jakarta 106.6 (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s188219",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "V.O.S Radio SMANSA-MOZAR",
+    "url": "https://sv7.alhastream.com/radio/8050/radio",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "VOKS RADIO BANDUNG",
+    "url": "https://svara-stream.radioddns.net/bandung_voksradio",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "VOKS Radio Bali",
+    "url": "https://a3.alhastream.com:4000/radio",
+    "codec": "OGG",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -8.6360564593332,
+    "lon": 115.22173136472703,
+    "language": "indonesian"
+  },
+  {
+    "name": "VOKS Radio Bali 102 FM",
+    "url": "https://a3.alhastream.com:4010/radio",
+    "codec": "OGG",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -8.636048503938081,
+    "lon": 115.2217608690262,
+    "language": "indonesian"
+  },
+  {
+    "name": "VOKS Radio Bandung 91.7 (Entertainment & Media)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s329462",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Venus FM makassar",
+    "url": "https://stream.zeno.fm/3wiuocujuobtv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Vocaloid Radio",
+    "url": "http://curiosity.shoutca.st:8019/stream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Voks Radio Bali 102 FM",
+    "url": "https://c.alhastream.com:5145/radio",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian"
+  },
+  {
+    "name": "Voks Radio Bali 99.3 FM",
+    "url": "https://svara-stream.radioddns.net/bali_voksradio_993fm",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian"
+  },
+  {
+    "name": "Voks Radio Bali 99.3 FM",
+    "url": "https://c.alhastream.com:5147/radio",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian"
+  },
+  {
+    "name": "Voks Radio Jogja 105.3 FM",
+    "url": "https://svara-stream.radioddns.net/yogyakarta_voksradio",
+    "codec": "AAC",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian"
+  },
+  {
+    "name": "Volare 103.4 (Indie Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s121298",
+    "codec": "mp3",
+    "bitrate": 112,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Volcano",
+    "url": "https://volcano.out.airtime.pro/volcano_a",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Warna 91.6 FM Padang",
+    "url": "https://a5.siar.us/listen/warna91.6fmpadang/stream",
+    "codec": "AAC",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Wawa Radio 101.2",
+    "url": "https://securestream.casthost.net:8219/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,indonesian"
+  },
+  {
+    "name": "Wijaya FM 103.5 FM Surabaya",
+    "url": "http://wijayafm.onlivestreaming.net:9880/stream?",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian"
+  },
+  {
+    "name": "XD RADIO 90.2 FM",
+    "url": "https://c4.siar.us:8068/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "YASIKA FM JOGJA",
+    "url": "https://i.klikhost.com:9610/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": -7.824605027187979,
+    "lon": 110.36864161491395,
+    "language": "indonesian"
+  },
+  {
+    "name": "YASKI Radio",
+    "url": "https://stream.heartline.co.id:8443/radio_yaski_stereo",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": -6.229108385638328,
+    "lon": 106.58780783414842,
+    "language": "bahasa indonesia"
+  },
+  {
+    "name": "Youngsters Radio",
+    "url": "https://live.youngstersradio.com/listen/youngsters/stream",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Z 99.9 FM",
+    "url": "https://svara-stream.radioddns.net/jakarta_z999fm_aac",
+    "codec": "AAC+",
+    "bitrate": 80,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "ZENITH FM SALATIGA",
+    "url": "https://i.klikhost.com:9616/stream",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": -7.333682166086867,
+    "lon": 110.49802064895631,
+    "language": "indonesian"
+  },
+  {
+    "name": "_Wawa Radio 101.2 FM",
+    "url": "https://xn--tmz.xn--6frz82g/streams",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,indonesian,java"
+  },
+  {
+    "name": "ananda radio bandung",
+    "url": "http://sx.alhasmedia.com/radio/8220/radio",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian"
+  },
+  {
+    "name": "elshinta  jakarta",
+    "url": "https://stream-ssl.arenastreaming.com:8000/jakarta",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "hard rock FM surabaya",
+    "url": "https://n0c.radiojar.com/yg8ne2v80k8uv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian"
+  },
+  {
+    "name": "iSWARA BANDUNG",
+    "url": "https://stream.radiojar.com/u6ppe6hswk8uv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "iSWARA BANJARMASIN",
+    "url": "https://stream.radiojar.com/qfqd2aw80k8uv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "iSWARA JAKARTA",
+    "url": "https://stream.radiojar.com/4ywdgup3bnzuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "iSWARA MAKASSAR",
+    "url": "https://stream.radiojar.com/seqmzfeu5k8uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "iSWARA MEDAN",
+    "url": "https://stream.radiojar.com/hkuevehswk8uv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "iSWARA SEMARANG",
+    "url": "https://stream.radiojar.com/fr9zqhv80k8uv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "iSWARA SURABAYA",
+    "url": "https://stream.radiojar.com/yg8ne2v80k8uv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "inspiradio",
+    "url": "https://listen.inspiradio.id/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "jak 101 FM",
+    "url": "http://103.246.184.62:1935/noice_jakfm/jakfm/chunklist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "mandarin station",
+    "url": "https://stream01-ssl.arenastreaming.com:8043/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": -6.160366051075441,
+    "lon": 106.81875407695772,
+    "language": "bahasa indonesia"
+  },
+  {
+    "name": "mettaswara slow rock",
+    "url": "https://mettaswara.com:8700//slowrock",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian"
+  },
+  {
+    "name": "mtafm 107.9 (Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s136872",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "radio pensiunan",
+    "url": "https://pu.klikhost.com/proxy/radiopensiunan/stream",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indonesian"
+  },
+  {
+    "name": "radio suara itmi",
+    "url": "https://radio.itmi.or.id:8190/radio",
+    "codec": "AAC",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bahasa indonesia"
+  },
+  {
+    "name": "trax fm semarang",
+    "url": "http://n0f.radiojar.com/fr9zqhv80k8uv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": -6.99867452414757,
+    "lon": 110.42942047119142,
+    "language": "indonesian,javanese"
+  }
+]

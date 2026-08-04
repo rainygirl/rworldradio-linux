@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Ajyal - Palestine",
+    "url": "https://streamer.mada.ps:8208/ajyal",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Amen24",
+    "url": "https://rstream.hadara.ps/proxy/amen24/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Amen24أمن 94.2 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s348611",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Athan FM 88.9 (Islamic Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s183070",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Athan Radio 90.3 (Arabic Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s181974",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "BurjFM 104.2 (Arabic Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s263424",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "CAMP Radio",
+    "url": "https://listen.camp:9000/campradio.ogg",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Gaza FM 100.9 (Arabic Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s154577",
+    "codec": "mp3",
+    "bitrate": 56,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Quran Radio 96.9 (Islamic Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s17630",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Quran Radio Station-Nablus",
+    "url": "http://www.quran-radio.org:8002/",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Quran Radio Station-Nablus 96.9 (Islamic Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s348025",
+    "codec": "mp3",
+    "bitrate": 48,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio AlHara",
+    "url": "http://n02.radiojar.com/78cxy6wkxtzuv?1634328730=&rj-tok=AAABfIWfHK4AlWz8Q03vJJQdWw&rj-ttl=5",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic,english"
+  },
+  {
+    "name": "Radio Angham 92.6 (Arabic Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s113171",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Bethlehem 2000 89.6 (Variety)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s138027",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Mawwal 101.7 (Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s110239",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Orient Bethlehem 98.7 (Arabic Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s231094",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Sawa Egypt 94.2 (Arabic Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s7167",
+    "codec": "mp3",
+    "bitrate": 160,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Raya FM",
+    "url": "https://rstream.hadara.ps/proxy/raya/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Raya FM 96.4 (Middle Eastern Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s109975",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "TMFM 97.7 (Arabic Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s7166",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "seba",
+    "url": "http://213.6.93.254:8000/sebafm",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "إذاعة صوت الغد 105.0 (Arabic Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s192588",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "راديو أجيال 103.4 (Arabic Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s98835",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "راديو نغم 99.7 (Arabic Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s210488",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

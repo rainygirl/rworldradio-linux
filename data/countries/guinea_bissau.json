@@ -1,0 +1,22 @@
+[
+  {
+    "name": "RFI Afrique 94.7 (World Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s16144",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Rádio Voz da Guiné",
+    "url": "https://stream-179.zeno.fm/iwioelqe6qwtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJpd2lvZWxxZTZxd3R2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicVpxdXZZMzFSUUNvN2J1SmxsUklWdyIsImlhdCI6MTc2ODQzNjQ3NSwiZXhwIjoxNzY4NDM2NTM1fQ.hHtFTV1kLjF7sjmHCGvmVtddxNmP-QKpaerZkzRTZeQ",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "portuguese"
+  }
+]

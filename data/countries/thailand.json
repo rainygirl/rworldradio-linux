@@ -1,0 +1,982 @@
+[
+  {
+    "name": "101.5 Chula Radio",
+    "url": "http://radio11.plathong.net:7590/;stream.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "106 Family News Radio",
+    "url": "https://radio11.plathong.net/7138/;stream.mp3",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "90 rakthai",
+    "url": "http://radio11.plathong.net:8896/;stream.mp3",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "thai"
+  },
+  {
+    "name": "90.5 Smart News มิติข่าว",
+    "url": "http://live3.smartbomb.co.th:8624/;stream.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "91.5 FM Panzer Radio Station",
+    "url": "http://radio.servradio.com:9398/;stream.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "94 Bangkok Smile",
+    "url": "http://fm94.tv5.co.th:8000/fm94ch3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "97qfm",
+    "url": "https://cdn-th2.livestreaming.in.th/shoutcast/8610",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "thai"
+  },
+  {
+    "name": "Anurak Radio 104.75 (World Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s110232",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "BKK.FM",
+    "url": "https://rsas.bkk.fm/radio",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 13.685060157552996,
+    "lon": 100.6144452095032,
+    "language": ""
+  },
+  {
+    "name": "BKK.FM",
+    "url": "https://streams.radiomast.io/a0f4514e-9045-4114-a4cf-17eb3246785a",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Best Radio FM. 89.0 MHz.",
+    "url": "https://80sv2.hostpleng.com/?url=http://112.121.150.133:8198/;",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "thai"
+  },
+  {
+    "name": "Bluewave 97",
+    "url": "https://80sv2.hostpleng.com/?url=http://112.121.151.133:8109/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "thai"
+  },
+  {
+    "name": "Bluewave 97 (CR)",
+    "url": "http://112.121.151.133:8109/live",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "thai"
+  },
+  {
+    "name": "Chili Radio Thailand",
+    "url": "https://stream.chiliradio.app/chiliclassics",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": 18.74279420049168,
+    "lon": 98.9402961730957,
+    "language": ""
+  },
+  {
+    "name": "Chula Radio Plus",
+    "url": "https://media.curadio.chula.ac.th/live/liveradio128/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 914,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "City Radio Pattaya",
+    "url": "https://media.onair.one:8200/stream/1/?v=1769497160087",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "City Radio Pattaya 90.25 (Asian Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s88656",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "CityLife 93.75 (Easy Listening)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s144687",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Cool fahrenheit",
+    "url": "https://coolism-web.cdn.byteark.com/;stream/1",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "thai"
+  },
+  {
+    "name": "Cool fahrenheit",
+    "url": "https://coolism-web3rd.cdn.byteark.com/stream/1/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "thai"
+  },
+  {
+    "name": "DPCloudev",
+    "url": "http://azuracast.saber.proxy.damp11113.xyz/listen/systest/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DPRadio",
+    "url": "https://azuracast.saber.proxy.damp11113.xyz/listen/systest/radio.ogg",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,thai"
+  },
+  {
+    "name": "FAT93 93.0 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s175780",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "FM 100.5 | (News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s7210",
+    "codec": "mp3",
+    "bitrate": 163,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "FM 91",
+    "url": "https://www.fm91bkk.com:8900/;stream.mp3",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "FM 93.50 MHz บ้านใหม่ เรดิโอ",
+    "url": "https://radio10.plathong.net/7590/;stream.mp3",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "thai"
+  },
+  {
+    "name": "FM91.75 WatPakBo | (Buddhist Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s189272",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "FM94.75 WatNaiRong | (Buddhist Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s193275",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "FMPRAMONG Chiang Rai FM103.00 MHz. | (Asian Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s140625",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Fabulous 103",
+    "url": "https://fabulous.thailandstreaming.net/fabulous.mp3",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Flex 104.5",
+    "url": "https://streaming.flexconnect.net/voiceflex/voiceflex/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 130,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "thai"
+  },
+  {
+    "name": "GBN DMC Radio TV (Religion & Spirituality)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s102290",
+    "codec": "mp3",
+    "bitrate": 66,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "GOLD Radio",
+    "url": "https://streaming.live365.com/a94344",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 7.848094274648355,
+    "lon": 98.30510120306715,
+    "language": ""
+  },
+  {
+    "name": "GREAT 93 93.0 (Easy Listening)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s246671",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "GREAT 93 | ONAIR 93.0 (Easy Listening)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s344945",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "HappyTime Chiang Mai 98.0 (World Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s65478",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Isan FM 98",
+    "url": "http://radio11.plathong.net:8900/stream.mp3",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "thai"
+  },
+  {
+    "name": "JS 100",
+    "url": "http://103.246.19.203:8004/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "JS100",
+    "url": "http://103.246.19.203:8004/stream?type=http&nocache=145",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "thai"
+  },
+  {
+    "name": "JS100Radio | (News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s343227",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "KKU Radio FM103MHz 103.0",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s272291",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "KRB Radio 1",
+    "url": "https://radio1.ohmi-design.com/8086/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "thai"
+  },
+  {
+    "name": "KRB Radio 2",
+    "url": "https://nontawat3664.i234.me:8443/stream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "thai"
+  },
+  {
+    "name": "KRB Radio 3",
+    "url": "https://pakeefm.org/stream/300006/",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "thai"
+  },
+  {
+    "name": "Keangun Radio เขียนกันเรดิโอ",
+    "url": "https://radio9.plathong.net/7054/;stream.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Looktung Eing",
+    "url": "https://inter.lannaradio.com/radio/8000/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MCOT 100.5",
+    "url": "https://lcdn.mcot.net/RadioLive/smil:fm1005_live.smil/playlist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 2000,
+    "needsResolve": false,
+    "lat": 13.824911923077472,
+    "lon": 100.513916015625,
+    "language": ""
+  },
+  {
+    "name": "MCOT Chumphon (Amphoe Lang Suan) FM 104.75",
+    "url": "https://lb-media.mcot.net/RegionRadio/ChumphonLangsuan.stream_aac/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "thai"
+  },
+  {
+    "name": "MCOT Loei FM 100.00",
+    "url": "https://lb-media.mcot.net/RegionRadio/Loei.stream_aac/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "thai"
+  },
+  {
+    "name": "MCOT Radio Chiangmai FM100.75",
+    "url": "https://live-org-01-cdn.mcot.net/RegionRadio/ChiangMai.stream_aac/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 18.79930299460819,
+    "lon": 99.02365453227932,
+    "language": "thai"
+  },
+  {
+    "name": "MCOT Satellite (Formerly AM 1494)",
+    "url": "http://rstream.mcot.net:8000/Radio_Sat",
+    "codec": "MP3",
+    "bitrate": 185,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "thai"
+  },
+  {
+    "name": "MCOT อุดรธานี",
+    "url": "http://rstream.mcot.net:9044/;.mp3",
+    "codec": "MP3",
+    "bitrate": 185,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "thai"
+  },
+  {
+    "name": "MUNforward 93.0 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s163456",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Mcot Radio Buriram 92.0 FM",
+    "url": "http://rstream.mcot.net:9050/",
+    "codec": "MP3",
+    "bitrate": 185,
+    "needsResolve": false,
+    "lat": 14.99460190210596,
+    "lon": 103.10761717992536,
+    "language": "thai"
+  },
+  {
+    "name": "Mommaemradio",
+    "url": "http://112.121.150.133:9386/autodj",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Pattaya People Radio 96.0 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s99091",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Phuket LIVE 89.5",
+    "url": "https://4118.radio4.thzhost.com/",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Phuket Live Radio 89.5 FM | (News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s153444",
+    "codec": "mp3",
+    "bitrate": 48,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "R Thailand 93.5 | (Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s228887",
+    "codec": "mp3",
+    "bitrate": 32,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "R Thailand 97.0 | (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s228889",
+    "codec": "mp3",
+    "bitrate": 32,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO ECUASTEREO 103.9 FM 88.0 (Smooth Jazz)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s25155",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Rad Radio",
+    "url": "http://radio1.serverradio.net:8592/;?type=http",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "thai"
+  },
+  {
+    "name": "Radio Red Phuket",
+    "url": "https://stream.chiliradio.app/radiored",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": 7.543435254790085,
+    "lon": 99.06166076660158,
+    "language": "english,thai"
+  },
+  {
+    "name": "Radio Samui Online",
+    "url": "https://stream.mixadance.fm/radiosamui",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Radio Thailand Bangkok 92.5 (News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s17459",
+    "codec": "mp3",
+    "bitrate": 32,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Thailand Chiangmai 93.25 (Art)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s1699",
+    "codec": "mp3",
+    "bitrate": 24,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Thailand Phetchabun 891 (Government)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s68293",
+    "codec": "mp3",
+    "bitrate": 44,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Trip Phuket 89.75 (Variety)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s155167",
+    "codec": "mp3",
+    "bitrate": 80,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RequestRadio Dance",
+    "url": "https://cast.requestradio.in.th:850//stream/3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "thai"
+  },
+  {
+    "name": "RequestRadio Inter",
+    "url": "https://cast.requestradio.in.th:840//stream/3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "thai"
+  },
+  {
+    "name": "RequestRadio เพื่อชีวิต",
+    "url": "https://cast.requestradio.in.th:830/stream/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "thai"
+  },
+  {
+    "name": "Smooth 105.5 (RStream)",
+    "url": "http://rstream.mcot.net:8000/fm1055",
+    "codec": "MP3",
+    "bitrate": 185,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "thai"
+  },
+  {
+    "name": "Surf Radio",
+    "url": "https://stream.surf.radio/surf1025",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Thai PBS TV",
+    "url": "http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "thai"
+  },
+  {
+    "name": "ThaiRadio 96.5 thinking",
+    "url": "https://live-org-01-cdn.mcot.net/radiocdn_edge/fm965.stream_aac/chunklist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 13.73013030785206,
+    "lon": 100.46722412109376,
+    "language": ""
+  },
+  {
+    "name": "Top News",
+    "url": "https://live.topnews.co.th/hls/topnews.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 300,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "thai"
+  },
+  {
+    "name": "Top News (Live1 - Low 240p)",
+    "url": "https://live.topnews.co.th/hls/topnews_a_240.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "thai"
+  },
+  {
+    "name": "Top News (Mobile Stream)",
+    "url": "https://live3.topnews.co.th/hls/mobile_v1.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 300,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "thai"
+  },
+  {
+    "name": "Top Radio 93.5 (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s289643",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Voice of navy 5 Pattaya 104.75 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s181191",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Voice of navy 5 Sattahip 720 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s180984",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Voice of navy 7 Nakhon Phanom (Local Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s182900",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Yes Radio 107.5 (Asian Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s114326",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Yesterday 106.5",
+    "url": "http://radio4.thzhost.com:4122/",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "banmai radio",
+    "url": "https://radio10.plathong.net/7590/;stream.mp3?type=http",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": 7.006361632032991,
+    "lon": 100.4670524597168,
+    "language": "ภาษาไทย"
+  },
+  {
+    "name": "fm99",
+    "url": "https://northernlive.mcot.net/fm99/voice.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "requestradio",
+    "url": "http://27.254.142.208:8300/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "thai"
+  },
+  {
+    "name": "requestradio String",
+    "url": "http://27.254.142.208:8100/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "requestradio/looktung/",
+    "url": "http://27.254.142.208:8300/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "thai"
+  },
+  {
+    "name": "talay 90.25FM",
+    "url": "https://stream.talay.asia/talay",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 12.57681412480778,
+    "lon": 99.94791669276093,
+    "language": "thai"
+  },
+  {
+    "name": "บ้านธัมมะ",
+    "url": "https://radio10.plathong.net/7238/;stream.mp3",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 13.696218031027946,
+    "lon": 100.48633153506672,
+    "language": "thai,ภาษาไทย"
+  },
+  {
+    "name": "ลูกทุ่งเน็ตเวิร์ค",
+    "url": "http://media.login.in.th:8200/;stream.mp3",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "thai"
+  },
+  {
+    "name": "วัดปากบ่อ",
+    "url": "http://radio1.siamlivehost.com:8001/;",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "thai"
+  },
+  {
+    "name": "วัดป่าไทรงาม",
+    "url": "https://radio10.plathong.net/7110/;stream.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "thai"
+  },
+  {
+    "name": "วิทยุวัดนายโรง",
+    "url": "http://103.7.56.219:4106/",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "thai"
+  },
+  {
+    "name": "วิทยุเสียงอิสลาม",
+    "url": "https://radio12.plathong.net/7234/;stream.mp3",
+    "codec": "MP3",
+    "bitrate": 80,
+    "needsResolve": false,
+    "lat": 13.740985851385403,
+    "lon": 100.51702855098144,
+    "language": "thai"
+  },
+  {
+    "name": "สวพ.91",
+    "url": "http://122.155.16.48:8955/;stream.mp3",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "thai"
+  },
+  {
+    "name": "สังฆทานธรม",
+    "url": "https://cdn-th2.livestreaming.in.th/shoutcast/8615",
+    "codec": "MP3",
+    "bitrate": 40,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "thai"
+  }
+]

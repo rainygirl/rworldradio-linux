@@ -1,0 +1,332 @@
+[
+  {
+    "name": "Ain FM",
+    "url": "https://radio.ainfm.site/ainfm",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 31.946102859028283,
+    "lon": 35.93627929687501,
+    "language": ""
+  },
+  {
+    "name": "Alnas FM",
+    "url": "http://stream.zeno.fm/yawenmfp64zuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Beat FM",
+    "url": "https://securestreams2.autopo.st:1242/live",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Beat FM 102.5 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s93558",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bliss.jo 104.2 (Euro Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s93614",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Hayat FM",
+    "url": "https://dc1.serverse.com/proxy/kjxwtpdt/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 31.998182513109327,
+    "lon": 35.87960958480836,
+    "language": ""
+  },
+  {
+    "name": "Hayat FM 104 (Islamic Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s93656",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Hussain fm",
+    "url": "http://s2.voscast.com:10444/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "JRRadio",
+    "url": "https://jrtv-live.ercdn.net/jrradio/englishradiovideo.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "JUFM 94.9 | (Educational)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s176788",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Jordan Melody FM",
+    "url": "http://s3.voscast.com:9966/",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Jordan Radio (Main)",
+    "url": "https://jrtv-live.ercdn.net/jrradio/jordanradiovideo.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Mazaj FM",
+    "url": "https://mazajfm.ice.infomaniak.ch/mazajfm-192.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Melody Jordan Radio",
+    "url": "http://s3.voscast.com:9966/;stream1686938227998",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Mood FM",
+    "url": "https://securestreams2.autopo.st:1241/live",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Quran Radio (JO)",
+    "url": "https://jrtv-live.ercdn.net/jrradio/quranradio.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 31.905120355500863,
+    "lon": 35.9337204694748,
+    "language": "arabic"
+  },
+  {
+    "name": "Radio Dahab",
+    "url": "https://dahab.ice.infomaniak.ch/dahab-192.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Hala 102.1 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s183411",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Orient 88.3 (Asian Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s14202",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Sawa Jordan (Levant) 98.1 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s14204",
+    "codec": "mp3",
+    "bitrate": 160,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Rotana Radio Jordan 90.5 (Arabic Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s134274",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Rotana Radio Jordan 99.9 (Arabic Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s93633",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Rotana Tarab 107.5 (Nostalgia)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s257050",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Watan FM 100.3 (Arabic Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s93684",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Watan FM 92.7 (Arabic Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s93695",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Watar FM 88.3 (Dance & Electronic)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s257113",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Yaqeen Radio 103.7 (Islamic Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s199080",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Yarmouk University FM",
+    "url": "https://yufm.yu.edu.jo/broadwave.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 32.066748709505674,
+    "lon": 36.09565396764134,
+    "language": "arabic"
+  },
+  {
+    "name": "noursat jordan",
+    "url": "http://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8",
+    "codec": "AAC,H.264",
+    "bitrate": 563,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "راديو فن 97.7 (Arabic Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s142626",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "عالطريق مع لينا ومعن 101.7 (Arabic Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s156238",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "عالطريق مع لينا ومعن 95.3 (Arabic Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s65920",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "مونت كارلو الدولية / Monte Carlo Doualiya 106.2 (Arabic Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s18541",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

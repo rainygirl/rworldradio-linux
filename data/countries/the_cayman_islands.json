@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Abdulbasit Abdulsamad",
+    "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Big Fish 95.5FM",
+    "url": "https://ice41.securenetsystems.net/BIGFISH",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Island FM - The Rhythm Of Cayman",
+    "url": "https://iriefm-hurleysmedia.radioca.st/stream?_=912521",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Paradise Radio",
+    "url": "https://www.radiostreamcast.com/listen/paradise_radio/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 19.29247395983515,
+    "lon": -81.2996006011963,
+    "language": ""
+  },
+  {
+    "name": "Paradise Radio",
+    "url": "https://radiostreamcast.com/listen/paradise_radio/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 19.331878440818787,
+    "lon": -81.19857788085939,
+    "language": "english"
+  },
+  {
+    "name": "Paradise Radio",
+    "url": "https://www.radiostreamcast.com/listen/paradise_radio/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 19.278208157278453,
+    "lon": -81.33499503135681,
+    "language": ""
+  },
+  {
+    "name": "Rooster 101",
+    "url": "https://rooster101-hurleysmedia.radioca.st/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 19.29344355510806,
+    "lon": -81.37232065200806,
+    "language": "american english"
+  },
+  {
+    "name": "X107.1",
+    "url": "https://ice23.securenetsystems.net/X1071?playSessionID=C8803655-9BCC-E3A9-EB64CD924FCD83A6",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Z99 - Cayman Islands",
+    "url": "https://z99-hurleysmedia.radioca.st/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Z99 Grand Cayman",
+    "url": "https://z99-hurleysmedia.radioca.st/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Z99 Grand Cayman",
+    "url": "https://z99-hurleysmedia.radioca.st/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

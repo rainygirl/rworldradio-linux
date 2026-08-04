@@ -1,0 +1,822 @@
+[
+  {
+    "name": "988 FM",
+    "url": "https://28103.live.streamtheworld.com/988_FMAAC.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 3.1333457105560716,
+    "lon": 101.64083617757768,
+    "language": ""
+  },
+  {
+    "name": "ALL FM [91.9]",
+    "url": "https://stream.zeno.fm/srrbpsu3tbdvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "ANAstation",
+    "url": "https://stream.zeno.fm/tf79rp6qg48uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Ai FM",
+    "url": "https://28153.live.streamtheworld.com/AI_FMAAC.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 3.1388306481105968,
+    "lon": 101.65842994968284,
+    "language": ""
+  },
+  {
+    "name": "Alam MayaFM",
+    "url": "http://192.99.8.192:3142/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Alam Seni FM",
+    "url": "http://s1.cmesolution.my:6178/stream.mp3",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Asyik FM",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FM.mp3",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "malay"
+  },
+  {
+    "name": "BFM 89.9",
+    "url": "https://stream.rcs.revma.com/s91qy9p0zs3vv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "BIGCOWFM 大牛网络电台 马来西亚中文网络电台",
+    "url": "https://tune.tunzilla.com/http://onairnow.ddns.net:8000/chinese.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "CITYPlus FM",
+    "url": "https://stream.rcs.revma.com/9ykdmcawe1bwv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese,mandarin"
+  },
+  {
+    "name": "Ceritera FM",
+    "url": "http://live.ceriterafm.my:8000/",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "malay"
+  },
+  {
+    "name": "DJ DUGEM",
+    "url": "https://stream.zeno.fm/ooaqxeogpfdvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "malay"
+  },
+  {
+    "name": "Delima FM",
+    "url": "http://167.114.131.90:5610/;",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Dunia Muzik FM",
+    "url": "http://185.109.169.80:8009/stream",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "ERA FM",
+    "url": "https://n17a-eu.rcs.revma.com/crec9cmbv4uvv/23_11p2ghidfhj2d02/playlist.m3u8?rj-ttl=5&rj-tok=AAABlF2WiCgAJUPufokb6G0b3Q",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Eight无限 FM",
+    "url": "https://stream.rcs.revma.com/qp0xrd9mtd3vv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese,mandarin"
+  },
+  {
+    "name": "FAKHRULNOIR FM",
+    "url": "https://stream.zeno.fm/z53ycf1iwhnvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "FFM",
+    "url": "http://167.114.131.90:5968/ffm",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "malay"
+  },
+  {
+    "name": "Fly FM",
+    "url": "https://stream.rcs.revma.com/q17aka9mtd3vv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "GOXUAN",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RAKITAAAC.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "GeGar Muzik FM",
+    "url": "https://usa3.fastcast4u.com/proxy/gegarmuzikfm?mp=/1",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Gegar Musik FM",
+    "url": "http://167.114.131.90:5316/stream/1/",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Gemersik FM",
+    "url": "http://gemersikfm.iradio.work:8000/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Gold",
+    "url": "https://ss1.audiorama.com.mx:6584/https://radiomalaysia.net/gold-fm.html",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "HITZ | Malaysia's #1 Hit Music Station - All the hitz, all the time!",
+    "url": "https://stream-eu-a.rcs.revma.com/488kt4sbv4uvv/68_1txzsglqw5l3t02/playlist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "HITZ | Malaysia's #1 Hit Music Station - All the hitz, all the time!",
+    "url": "https://stream.rcs.revma.com/488kt4sbv4uvv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 3.0256694725067166,
+    "lon": 101.700439453125,
+    "language": "english"
+  },
+  {
+    "name": "IKIM FM",
+    "url": "https://ais-sa8.cdnstream1.com/5035/playlist.m3u8",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": 3.1234738101749353,
+    "lon": 101.65853898552274,
+    "language": ""
+  },
+  {
+    "name": "ILA FM",
+    "url": "http://s1.cmesolution.my:5442/",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "malay"
+  },
+  {
+    "name": "Impian FM",
+    "url": "http://167.114.131.90:6156/stream/1/",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "JEI FM",
+    "url": "https://usa3.fastcast4u.com/proxy/jeifm?mp=/1",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Jazz Lounge",
+    "url": "http://eu8.fastcast4u.com:5068/;",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "KCFM Radio",
+    "url": "http://www.kcfm.org:8000/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "malay"
+  },
+  {
+    "name": "Kelantan FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KELANTAN_FMAAC.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "malay"
+  },
+  {
+    "name": "Keningau FM",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/KENINGAU_FM.mp3",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Klasik FM 101,1 MHz",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIK.mp3",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "malay"
+  },
+  {
+    "name": "LITE FM Malaysia",
+    "url": "https://stream.rcs.revma.com/bn4ex8sbv4uvv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "LTFM Radio",
+    "url": "http://live.ltfmonline.com:8000/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "malay"
+  },
+  {
+    "name": "LTR FM Radio Music",
+    "url": "https://stream.zeno.fm/p1ddt1trwchvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Langkawi FM",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/LANGKAWI_FM.mp3",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MIB radio",
+    "url": "https://stream.zeno.fm/bm557kzmr18uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MIX 94.5 FM Malaysia",
+    "url": "https://n28a-eu.rcs.revma.com/v5pq3htbv4uvv/40_wqselj3z5ieg02/playlist.m3u8?rj-ttl=5&rj-tok=AAABjkaPjccA_nBeuk7GvQZBZg",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MY FM",
+    "url": "https://n38a-eu.rcs.revma.com/hc3unrtbv4uvv/56_1t996oveblvvv02/playlist.m3u8?rj-ttl=5&rj-tok=AAABkBt1aCUAlkmmsnXss9i2gw",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MYFM (101.80)",
+    "url": "https://n38a-eu.rcs.revma.com/hc3unrtbv4uvv/56_1t996oveblvvv02/playlist.m3u8?rj-ttl=5&rj-tok=AAABjmQzlooA5VQ0LCn-yOlhmQ",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 3.1510645156499124,
+    "lon": 101.69270642703442,
+    "language": ""
+  },
+  {
+    "name": "Melody FM Malaysia",
+    "url": "https://n09.rcs.revma.com/2u1n6dtbv4uvv/9_11l86ncot7z1w02/playlist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Music Vault FM",
+    "url": "https://stream.zeno.fm/zqxbxkviipcvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MyFriends Station",
+    "url": "https://cast3.asurahosting.com/proxy/myfriend/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "malay"
+  },
+  {
+    "name": "Nasheed FM",
+    "url": "http://stereo.nasyidfm.com:8000/",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "malay"
+  },
+  {
+    "name": "Nasional FM 88,5 MHz",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/NASIONAL_FM.mp3",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "malay"
+  },
+  {
+    "name": "PBN Radio Nurani",
+    "url": "https://stream.zeno.fm/2uyfsr25sm0uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Pahang FM",
+    "url": "https://28163.live.streamtheworld.com/PAHANG_FMAAC.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 3.789415311597767,
+    "lon": 103.31619948148727,
+    "language": "malay"
+  },
+  {
+    "name": "REDfm",
+    "url": "https://22273.live.streamtheworld.com/RED_FMAAC.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 1.5539071244928604,
+    "lon": 110.34106582403184,
+    "language": "chinese,english"
+  },
+  {
+    "name": "Raaga",
+    "url": "https://n06.rcs.revma.com/1ut6qwtbv4uvv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Raaga 99 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s348042",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio",
+    "url": "http://ssl.geckohost.nz:9191/autodj",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio KPKT",
+    "url": "http://listen.kpkt.gov.my:8000/stream",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "malay"
+  },
+  {
+    "name": "Radio Klate Kito",
+    "url": "http://s6.voscast.com:9748/",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Maya Online",
+    "url": "http://s1.cmesolution.my:5266/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Rosak",
+    "url": "https://radiorosak.radioca.st/stream",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "malay"
+  },
+  {
+    "name": "Red FM",
+    "url": "https://22253.live.streamtheworld.com/RED_FMAAC.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese,english"
+  },
+  {
+    "name": "Rentak Pelangi Muzik FM",
+    "url": "http://stream.tujuh.my:8006/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Rentak Pelangi MuzikFM",
+    "url": "http://stream.tujuh.my/proxy/rpmfm/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Repair Segala",
+    "url": "https://stream.zeno.fm/0245ew03ekhvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Sabah FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SABAH_FMAAC.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Sinar FM",
+    "url": "https://n08a-eu.rcs.revma.com/azatk0tbv4uvv/8_1ksmof3jo7vso02/playlist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 3.039268983588948,
+    "lon": 101.69195260875358,
+    "language": ""
+  },
+  {
+    "name": "SkyChatzFM",
+    "url": "http://java.skychatz.org:8080/;stream/1",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 1.5023798387201324,
+    "lon": 103.73840332031251,
+    "language": ""
+  },
+  {
+    "name": "Slow Rock 90'",
+    "url": "https://stream.zeno.fm/hiut6cwfoneuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "malay"
+  },
+  {
+    "name": "Stay.FM",
+    "url": "https://stayfm.com:8443/archive",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Suria fm",
+    "url": "https://mifntechnology.github.io/siaranMy/radio/SuriaFm/playlist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 3.1561994128869655,
+    "lon": 101.6857910086401,
+    "language": "malay"
+  },
+  {
+    "name": "THR Gegar",
+    "url": "https://n09.rcs.revma.com/cn0zcqsbv4uvv/9_1i7eg69ua9k0u02/playlist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 3.147382937007095,
+    "lon": 101.69734954833986,
+    "language": "english,malay"
+  },
+  {
+    "name": "THR Gegar Pilihan #1 Pantai Timur",
+    "url": "https://stream-eu-a.rcs.revma.com/cn0zcqsbv4uvv/36_1nbhrvq7qpz1h02/playlist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 6.091077649751559,
+    "lon": 102.24220275878908,
+    "language": "kelantanese malay,malay"
+  },
+  {
+    "name": "TMM2 FM",
+    "url": "https://stream.zeno.fm/mq0pxfsf0chvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Terengganu FM",
+    "url": "https://22243.live.streamtheworld.com/TERENGGANU_FMAAC_SC",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "malay"
+  },
+  {
+    "name": "Traxx FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TRAXX_FMAAC_SC",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Vision.FM",
+    "url": "http://cloud.tujuh.my:8018/stream?type=.mp3/",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "malay"
+  },
+  {
+    "name": "WAI FM Bidayuh",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/WAI_FM_BK.mp3",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "malay"
+  },
+  {
+    "name": "WAI FM IBAN",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/WAI_FM_IBAN.mp3",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "malay"
+  },
+  {
+    "name": "Wadah FM",
+    "url": "https://19183.live.streamtheworld.com/WARNA942FMAAC.aac",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "malay"
+  },
+  {
+    "name": "Wheelerz Net Radio",
+    "url": "http://167.114.131.90:5448/stream/",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "malay"
+  },
+  {
+    "name": "Zayan",
+    "url": "https://n04.rcs.revma.com/7ww2a4tbv4uvv/4_vpzncxu6ffle02/playlist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 3.143301408318498,
+    "lon": 101.61392211914064,
+    "language": "malay"
+  },
+  {
+    "name": "ai fm",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC_SC",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "era sarawak",
+    "url": "https://n10.rcs.revma.com/bkqfqkrbv4uvv/10_6dkcmkt5m85u02/playlist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "goXuan",
+    "url": "https://n07a-eu.rcs.revma.com/xt9nhzsbv4uvv/7_1kpxic2j08fx102/playlist.m3u8?rj-ttl=5&rj-tok=AAABkBoH3fsAEu93wxYlLEnxBQ",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

@@ -1,0 +1,332 @@
+[
+  {
+    "name": "A2Z RADIO",
+    "url": "https://listen.radioking.com/radio/1743/stream/125",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bengali"
+  },
+  {
+    "name": "AL-QURAN BANGLA",
+    "url": "http://66.45.232.131:9994/;stream/1/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bengali"
+  },
+  {
+    "name": "AL-QURAN BANGLA",
+    "url": "http://66.45.232.131:9994/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bengali"
+  },
+  {
+    "name": "Bangladesh Betar 102.5 (New Wave)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s14374",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bangladesh Betar 103.2 (New Wave)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s136373",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bangladesh Betar 106.5 (New Wave)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s136375",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bangladesh Betar 95.5 (New Wave)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s136376",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bangladesh Betar AM 693 (African Rhythms)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s234668",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Capital FM 94.8 (Indian Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s285853",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Dhaka FM 90.4",
+    "url": "http://118.179.219.244:8000/;?n=d70ecddb2aebf420177c",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bangla"
+  },
+  {
+    "name": "Jago FM 94.4",
+    "url": "http://139.59.86.99:12496/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Mellow Bangla",
+    "url": "https://radio.mellowbangla.com/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 23.753532023215765,
+    "lon": 90.384521484375,
+    "language": "bengali,english,hindi"
+  },
+  {
+    "name": "Muhammad Siddiq al-Minshawi",
+    "url": "https://qurango.net/radio/mohammed_siddiq_alminshawi",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Peoples Radio 91.6 (Dance & Electronic)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s160808",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Peoples Radio 91.6 FM",
+    "url": "https://s3.myradiostream.com:14498/listen.mp3",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Bhumi",
+    "url": "https://stream-156.zeno.fm/be5bqmk1k18uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJiZTVicW1rMWsxOHV2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjB1c0x1ZURGVEhTR0EwSDE1N2VBVmciLCJpYXQiOjE3MzU0NTM5MjQsImV4cCI6MTczNTQ1Mzk4NH0.vjlgqsHzQRt-_2T0LIHscJkAVHXd8hYV8Z6NDvvEWYk",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 23.768312898727075,
+    "lon": 90.4001933404244,
+    "language": "bangla"
+  },
+  {
+    "name": "Radio Bhumi 92.8 (Classical)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s260643",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Foorti Chattogram 88.0 (Classical)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s122537",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio GoonGoon",
+    "url": "https://audio.streamcast.xyz/listen/radiogoongoon/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bangla,bengali"
+  },
+  {
+    "name": "Radio JKKNIU",
+    "url": "https://stream.zeno.fm/risgdzpf1cxtv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 24.57940672541511,
+    "lon": 90.37453694217032,
+    "language": ""
+  },
+  {
+    "name": "Radio Mahananda 98.8 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s233322",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Shadhin",
+    "url": "https://stream-157.zeno.fm/eabgu655puquv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlYWJndTY1NXB1cXV2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ijh6NzR2TE5jUmJLV1pzMExqQWpYcmciLCJpYXQiOjE3Mjc1NDQwMjYsImV4cCI6MTcyNzU0NDA4Nn0.nm5A8Sbpg2aM811icSh5Au4Wigql4rOzRb0eKDW8Hz4",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bangla"
+  },
+  {
+    "name": "Radio Shadhin 92.4 FM | (World Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s192648",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Today 88.6 (Asian Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s136385",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Today 89.6 (Asian Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s65686",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Ullash",
+    "url": "http://stream.zeno.fm/gpgkgp9mp18uv.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Vivid Voice",
+    "url": "https://stream.zeno.fm/xuin6ocdc2juv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bengali,english,hindi,urdu"
+  },
+  {
+    "name": "Rajshahi FM",
+    "url": "https://stream.zeno.fm/nxfshdayjrdvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 24.366830792260316,
+    "lon": 88.59433637691852,
+    "language": ""
+  },
+  {
+    "name": "S-Radio",
+    "url": "https://as1.digitalsynapsebd.com/proxy/zkpnarpg/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Uttorbango Betar",
+    "url": "http://stream.zeno.fm/spqbxkqxdf9uv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 25.774325175029897,
+    "lon": 89.23658967018129,
+    "language": "bangla"
+  },
+  {
+    "name": "dhakaFM 90.4 (African Rhythms)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s178796",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "বাংলাদেশ বেতার ঢাকা ক",
+    "url": "http://as1.digitalsynapsebd.com:8582/;",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bangla"
+  },
+  {
+    "name": "বাংলাদেশ বেতার বানিজ্যিক কার্যক্রম",
+    "url": "http://as1.digitalsynapsebd.com:8741/;",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bangla"
+  }
+]

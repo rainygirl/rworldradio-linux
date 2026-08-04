@@ -1,0 +1,42 @@
+[
+  {
+    "name": "2020 Vision Radio",
+    "url": "http://perseus.shoutca.st:8218/;",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Sugar City 90.3 FM",
+    "url": "http://104.131.13.48:8000/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "VON Radio",
+    "url": "http://vonradio.streamon.fm:8000/vonradio-24k.aac?type=.mp3/;stream.mp3",
+    "codec": "AAC",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "ZIZ Radio",
+    "url": "http://media.slactech.com:8014/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

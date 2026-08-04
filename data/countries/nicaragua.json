@@ -1,0 +1,692 @@
+[
+  {
+    "name": "CAWtv",
+    "url": "https://stream.zeno.fm/m8aakwyw9u8uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Clasica 101.9 Fm | (Oldies Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s346432",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Fiesta Latina 89.1 FM",
+    "url": "https://radios.solumedia.com/6596/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Hotmusic Radio 90.1 (Pop Latino)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s10985",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "JerusalenFM 104.9 (Christian Contemporary)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s198683",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "La Nueva Radio Ya 600 (Spanish Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s13261",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "La Nueva Radio | Nicaragua",
+    "url": "https://stream.zenolive.com/axr92qawesmtv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "La Sandino 107.5 (News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s13259",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "La Voz del Norte",
+    "url": "https://stream.zeno.fm/cbd1wweamzzuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Levantate el show 104.7 (Tropical/Tropical Cumbia/Meren)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s163141",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Masaya Rebelde",
+    "url": "https://stream.zeno.fm/bhutktvbfv8uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Mi Querida 96.5 FM | (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s340484",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Monimbo Radio",
+    "url": "https://stream.zeno.fm/nrj4lkdpwfgtv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Monumental 96.5 - Transmitiendo desde Jinotega, Nicaragua | (Latin Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s178361",
+    "codec": "mp3",
+    "bitrate": 160,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Nicaragua Reggae Radio.com",
+    "url": "http://online.radiodifusion.net:8054/stream/1/",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Nova FM 100.7",
+    "url": "https://d269h0m26cgrwi.cloudfront.net/index.m3u8",
+    "codec": "AAC",
+    "bitrate": 149,
+    "needsResolve": false,
+    "lat": 12.151675428607696,
+    "lon": -86.29623413085939,
+    "language": "spanish"
+  },
+  {
+    "name": "RADIO MOGOTÓN 100 (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s356719",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO RUMBA 505",
+    "url": "http://212.84.160.3:11143/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO W 96.1 FM | (Urbano Latino)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s226508",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio 580 | (70's)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s124508",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio 800 AM 801290453211890",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s267839",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio ABC Stereo 102.1 (Romántica)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s181780",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio ABC Stereo 99.7 (Romántica)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s181779",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Activa 101.1 FM | (Classic Rock)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s178081",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Comunidad",
+    "url": "https://stream.zeno.fm/q70e6btc2d0uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Conexión Romántica",
+    "url": "https://stream-177.zeno.fm/uauw712byzzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1YXV3NzEyYnl6enV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiR3o3MjJ4dVZUYUt5TGhRVEVHMU5tQSIsImlhdCI6MTc3MjEyNTE3MCwiZXhwIjoxNzcyMTI1MjMwfQ.iR99fkwDfQ5ihnMOhIJSAX8XgR6Qje6nkKFY9n7xNqY",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 11.994578267110109,
+    "lon": -86.2890146556595,
+    "language": ""
+  },
+  {
+    "name": "Radio Corporación 97.5 (Conservative Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s13260",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Cristo Viene Masaya Nicaragua",
+    "url": "https://stream.zeno.fm/axxgbszqxhhvv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 12.07351523939546,
+    "lon": -86.1018490791321,
+    "language": ""
+  },
+  {
+    "name": "Radio Estereo Música",
+    "url": "http://stream.zeno.fm/8mwf6ssgtceuv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Estrella del Mar",
+    "url": "https://streamer.radio.co/sd5242d0b6/listen",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Fabulosa FM 99.3 (Public Radio)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s330433",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Futura 91.3 (Urbano Latino)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s148339",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Futura 91.3 FM",
+    "url": "https://stream.zeno.fm/iwmolyow6tivv?acu-uid=1469781385678&an-uid=1444844712984803121&eps-uid=AQAKT2wC_8GTDAJFpMzgAQEBAQEBAQCas9CecQEBAJ-ob9li&dot-uid=0cdf2402006ee032d0563f05&triton-uid=cookie%3Ac4825948-af2b-4f4d-91ce-fcf10aefa67e&amb-uid=8780094149879046545&dbm-uid=CAESEFCprZXSSNyR45iPimNW0aE&cto-uid=75bb7246-fac3-4c5c-b5b2-2c4243818b80-695f129b-5048&bsw-uid=30527924-e7be-4c95-9d53-825822263bc8&dyn-uid=4386634410199989600&ttd-uid=c65bc204-3fcf-4476-91ce-cc0deda500f2&adtonosListenerId=01KEPSBTXMGEEJ2Q175N0Y3CSK&aw_0_req_lsid=196b4b4bc1d1ac4f52fcf98eeff4e532",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Hermanos",
+    "url": "https://stream.zenolive.com/vq7z0a3u7mruv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Hermanos Matagalpa 92.3 (Religious Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s239365",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Hosanna 1000 (Education Podcasts)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s175621",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Juan Pablo Segundo 97.7 fm",
+    "url": "https://dc2.serverse.com:8040/stream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Juvenil 101.5 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s114616",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Juventud Somotillo 94.9 (Latin Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s202146",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Kiss 92.9 FM Matagalpa | (Reggaeton)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s114658",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio La Mega Matiguas 102.1 (Media)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s221378",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio La Tuani 100.3 (Urbano Latino)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s152727",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Maria Nicaragua 99.9 (Catholic Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s50059",
+    "codec": "mp3",
+    "bitrate": 48,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Nica 94.10 | (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s194500",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Notimat Matagalpa 99.3 (Romanian Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s204757",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Nueva Vision 92.5 (Christian Contemporary)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s358076",
+    "codec": "mp3",
+    "bitrate": 44,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Ondas de Luz 94.3 (Gospel)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s152063",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Restauracion 107.9 Fm | (Religious Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s355073",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Samaria 105.3 FM | (Christian Spanish)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s352794",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio San Rafael 105.5 Fm | (Religious Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s345395",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Sendas FM",
+    "url": "http://74.91.125.187:8028/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Stereo Madriz 92.9 (Latin Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s178901",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Stereo Mundo 91.9 FM",
+    "url": "https://ssl.hostingtico.com:8138/smundo2014",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "castellano. español"
+  },
+  {
+    "name": "Radio Stereo Mundo 91.9 FM. | (Christian Spanish)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s352130",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio URACCAN Siuna 94.1 (Variety)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s239858",
+    "codec": "mp3",
+    "bitrate": 32,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Uraccan Rosita 94.5 (World Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s123045",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Vandalica Nicaragua",
+    "url": "https://stream.zeno.fm/caq3fwn1fnruv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Vision de Dios 106.9 (Christian Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s330414",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Rock FM 105.5",
+    "url": "https://securestream.us/radio/8050/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": 12.142029767830698,
+    "lon": -86.26548757221977,
+    "language": "english"
+  },
+  {
+    "name": "Shock Fm 99.5 | (Christian Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s346433",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Stereo Beso - 94.5 FM | (Latin Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s240544",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Stereo Beso 94.5 FM",
+    "url": "https://a9.asurahosting.com:7140/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 13.104358434235907,
+    "lon": -86.36228352785112,
+    "language": "spanish"
+  },
+  {
+    "name": "Stereo Beso 94.5 FM",
+    "url": "https://a9.asurahosting.com:7140/",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 13.104342760070198,
+    "lon": -86.36228352785112,
+    "language": "spanish"
+  },
+  {
+    "name": "Stereo Fe! Nicaragua 100.8 (Christian Spanish)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s191331",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Stereo Romance 105.3 (Tropical)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s85715",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Stereo Sur 106.9 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s264765",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Super Hits Nicaragua 94.9 (Reggaeton)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s172791",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "The Sound of the Caribbean",
+    "url": "https://a10.asurahosting.com:8570/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Viva 98.3 Fm | (Romántica)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s346431",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

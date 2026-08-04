@@ -1,0 +1,272 @@
+[
+  {
+    "name": "DK FM 107.9 (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s120878",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Hereti FM",
+    "url": "http://iis.ge:8000/hereti.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "georgian"
+  },
+  {
+    "name": "LF Radio",
+    "url": "https://rtn.cdnstream1.com/2582_96.aac",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Marneuli FM",
+    "url": "http://stream.it-solutions.ge:8000/mp3-radiomarneulifm",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Mutant Radio",
+    "url": "https://listen.radioking.com/radio/282820/stream/328621",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio 2 - Tbilisi FM 100,9",
+    "url": "https://tv.cdn.xsg.ge/gpb-radio2/tracks-a1/index.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "georgian"
+  },
+  {
+    "name": "Radio Amra",
+    "url": "https://streamer.radio.co/s34b5469e0/listen",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Positive 104.3 (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s214605",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Red Wine Radio",
+    "url": "https://stream.zeno.fm/pcbduafehg0uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 41.8045480004199,
+    "lon": 41.77448272705079,
+    "language": ""
+  },
+  {
+    "name": "Soothing cafe",
+    "url": "http://5.180.81.227:8010/soothingcafe",
+    "codec": "MP3",
+    "bitrate": 112,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "azerbaijani,english,georgian,russian,turkish"
+  },
+  {
+    "name": "Soothing jazz",
+    "url": "http://193.111.125.15:8020/soothingjazz",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "azerbaijani,english,georgian,russian,turkish"
+  },
+  {
+    "name": "Soothing radio",
+    "url": "http://5.180.81.227:8020/soothingradio",
+    "codec": "MP3",
+    "bitrate": 112,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "azerbaijani,english,georgian,russian,turkish"
+  },
+  {
+    "name": "Tbilisi FM 93,5",
+    "url": "http://iis.ge:8000/radiotbilisi.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "georgian"
+  },
+  {
+    "name": "Арадио Sputnik Аҧсны",
+    "url": "https://icecast-rian.cdnvideo.ru/voicesuh",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "ავტორადიო (Avtoradio)",
+    "url": "https://tv.cdn.xsg.ge/cld9-0386/avtoradio/tracks-a1/mono.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 41.7388078696385,
+    "lon": 44.76891786942451,
+    "language": "georgian"
+  },
+  {
+    "name": "არ დაიდარდო (Ar Daidardo)",
+    "url": "https://tv.cdn.xsg.ge/cld9-0386/ardaidardo/tracks-a1/mono.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 41.73880706901734,
+    "lon": 44.76894566761298,
+    "language": "georgian"
+  },
+  {
+    "name": "რადიო აჭარა (Radio Adjara)",
+    "url": "https://edge.mixlr.com/channel/bzorq",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 41.64880059661444,
+    "lon": 41.63240054046656,
+    "language": "georgian"
+  },
+  {
+    "name": "რადიო იმედი (Radio Imedi)",
+    "url": "https://tv.cdn.xsg.ge/radioimedi/stream01/shoutcast",
+    "codec": "AAC+",
+    "bitrate": 135,
+    "needsResolve": false,
+    "lat": 41.76921360764239,
+    "lon": 44.776777801008656,
+    "language": "georgian"
+  },
+  {
+    "name": "რადიო კომერსანტი (Radio Commersant)",
+    "url": "https://radio.cdn.xsg.ge/fm-commersant-95.5/tracks-a1/mono.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 41.70985986046434,
+    "lon": 44.785509429918406,
+    "language": "georgian"
+  },
+  {
+    "name": "რადიო ობიექტივი (Radio Obieqtivi)",
+    "url": "https://nue01-edge01.itdc.ge/fm-obieqtivi-105.1/mono.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 41.698246083606335,
+    "lon": 44.801979822078295,
+    "language": "georgian"
+  },
+  {
+    "name": "რადიო პალიტრა (Radio Palitra)",
+    "url": "https://radiostream.palitra.ge/stream.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 41.72533202424088,
+    "lon": 44.77317217037659,
+    "language": "georgian"
+  },
+  {
+    "name": "რადიო პოზიტივი (Radio Positive)",
+    "url": "https://stream.radiojar.com/sr4vzamzfnruv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 41.722008866332665,
+    "lon": 44.80086362853513,
+    "language": "georgian"
+  },
+  {
+    "name": "რადიო სივრცე (Radio Sivrce)",
+    "url": "https://proxy.streamer.mediabox.ge/ice/8000/sivrce",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 41.73160952097743,
+    "lon": 44.74243478491454,
+    "language": "georgian"
+  },
+  {
+    "name": "რადიო ფორტუნა (Radio Fortuna)",
+    "url": "https://tv.cdn.xsg.ge/cld9-0386/fortuna/tracks-a1/mono.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 41.73879906329409,
+    "lon": 44.768934529349664,
+    "language": "georgian"
+  },
+  {
+    "name": "რადიო ჩევნებური (Radio Chveneburi)",
+    "url": "https://radio.cdn.xsg.ge/cld9-1050/chveneburi/tracks-a1/mono.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 41.73879906329409,
+    "lon": 44.76903139149434,
+    "language": "georgian"
+  },
+  {
+    "name": "რადიო ჩვენებური",
+    "url": "https://radio.cdn.xsg.ge/cld9-1050/chveneburi/index.m3u8",
+    "codec": "AAC",
+    "bitrate": 240,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "georgian"
+  },
+  {
+    "name": "უცნობი FM (Ucnobi FM)",
+    "url": "http://149.3.104.166:8000/stream.ogg",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 41.71465406686155,
+    "lon": 44.7780532122452,
+    "language": "georgian"
+  }
+]

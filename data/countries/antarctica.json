@@ -1,0 +1,102 @@
+[
+  {
+    "name": "FunkyUncleFm",
+    "url": "http://funkyunclefm.net:8000/fufm",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Gachi Station #1",
+    "url": "https://stream.zeno.fm/y513614qvzzuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese,english,english/russian,russian,ukrainian"
+  },
+  {
+    "name": "Gachi Station #2",
+    "url": "https://stream.zeno.fm/p7ume1dmbd0uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese,english,english/russian,russian,украина,язык: русский"
+  },
+  {
+    "name": "Gachi Station #3",
+    "url": "https://stream.zeno.fm/cucqe20mixktv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "american english,english,english/russian,russian,язык: русский"
+  },
+  {
+    "name": "Gachi Station (Ukrainian playlist) #1",
+    "url": "https://stream.zeno.fm/bmb6ihzfbpdtv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "ukrainian"
+  },
+  {
+    "name": "Radio X",
+    "url": "https://stream.radiox.sk:8443/mood.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "american english,english"
+  },
+  {
+    "name": "UKNova",
+    "url": "http://uknr.org:8000/",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "kbs",
+    "url": "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3Njg2MzE5NzB9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=ZA4umX8mR18ETck7hGVZNm9Juwc31Dv6QEhMGt--kU01l9lEsaa0Q4Wxja6wWLVHw7PFuKgeh8i7Zs1bkysVNZ6EGmBQLIzFi7WbLw8t2m-Pkbwrzo~unViiyUDiQGdYQNjKzkdFXreaqAkcoSkvYVsukbZptGOqb-bIyMtwKfWpbXAGlaqrYCZdYAkkGDa2dqneDGM8f~6WxamboHt8j5MRjZm9glAU-zDDBtdyaI6gZlRj41K~8QC6aKrOSqGU3vkpxwmzLs-PTU2WJf0PXMiXtgsMwkJF3I3jdSiZX4N3Awv4-XC3GNwLpQW8AtH4GKJEjcyJ1SPgdNY8BxPe~A__",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "korean"
+  },
+  {
+    "name": "lassulus radio",
+    "url": "http://radio.lassul.us/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "pastacast",
+    "url": "https://radio.nudel.cc/listen/pastacast/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

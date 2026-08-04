@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Abdulbasit Abdulsamad",
+    "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Radio Maria Democratic Rep. Congo",
+    "url": "https://dreamsiteradiocp2.com/proxy/rmrepdemcongo?mp=/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

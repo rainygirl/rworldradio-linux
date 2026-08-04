@@ -1,0 +1,852 @@
+[
+  {
+    "name": "ABC Hiru FM 96.7 (Asian Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s14427",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "ABC Shaa FM 91.1 (World Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s184924",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Anow Radio Hd+ Tamil",
+    "url": "https://onair.punnagairadio.com/anowradiohd/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "tamil"
+  },
+  {
+    "name": "CIR",
+    "url": "http://220.247.234.207:8000/cirstream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Classic Radio",
+    "url": "https://cp11.serverse.com/proxy/classic/stream",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "sinhala"
+  },
+  {
+    "name": "DreamzLanka FM",
+    "url": "https://radio-station.hadawatha.lk/listen/dreamzlanka-fm/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 6.083183133190492,
+    "lon": 80.644393598992,
+    "language": ""
+  },
+  {
+    "name": "E FM",
+    "url": "http://207.148.74.192:7860/stream.mp3",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "FM Derana 92.2 (Asian Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s102016",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "FOX 91.4 FM",
+    "url": "http://142.132.250.174:7673/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "colombo"
+  },
+  {
+    "name": "FOX 91.4 | (Dance & Electronic)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s212868",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Gee FM",
+    "url": "https://stream.zeno.fm/jiylwkly3ufvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 6.927940551936512,
+    "lon": 79.84489917755127,
+    "language": ""
+  },
+  {
+    "name": "Gold FM",
+    "url": "https://radio.lotustechnologieslk.net:2020/stream/goldfmgarden",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Gold FM - 93.2 Backup",
+    "url": "https://radio.lotustechnologieslk.net:8000/",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 8.125850796317135,
+    "lon": 81.12304687500001,
+    "language": ""
+  },
+  {
+    "name": "Gold FM 93 / 93.2 93.0 (Classic Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s14408",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Golden Maple Radio",
+    "url": "http://s46.myradiostream.com:11156/listen.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "sinhala"
+  },
+  {
+    "name": "GumNada",
+    "url": "https://stream-016.zeno.fm/e7ztn80wttzuv?zs=nxo70rmaQ_iSyHrb1K_FQQ",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "sinhala"
+  },
+  {
+    "name": "Hadawatha FM",
+    "url": "https://radio-station.hadawatha.lk/listen/hadawatha-fm/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 6.0802581406162215,
+    "lon": 80.56621982348385,
+    "language": ""
+  },
+  {
+    "name": "Hiru FM",
+    "url": "https://radio.lotustechnologieslk.net:2020/stream/hirufmgarden",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "sinhala"
+  },
+  {
+    "name": "Hiru FM",
+    "url": "https://radio.lotustechnologieslk.net:2020/stream/hirufmgarden/stream/1/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Hiru FM",
+    "url": "https://radio.lotustechnologieslk.net:2020/stream/hirufmgarden?1707015384",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Isira TNL",
+    "url": "http://124.43.10.122:8080/live",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 6.936583083799221,
+    "lon": 79.85515594482423,
+    "language": "sinhala"
+  },
+  {
+    "name": "Jothi FM",
+    "url": "https://radio-station.hadawatha.lk/listen/jothi-fm/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 5.946569968017562,
+    "lon": 80.54875832770695,
+    "language": "english,english uk,sinhala"
+  },
+  {
+    "name": "Kandurata Sevaya Kandy",
+    "url": "http://220.247.227.20:8000/kandystream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 7.291523480436037,
+    "lon": 80.63496097743567,
+    "language": ""
+  },
+  {
+    "name": "Kiss FM 96.9 | (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s134656",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Kiss FM Sri Lanka",
+    "url": "https://srv02.onlineradio.voaplus.com/kissfm",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Kothmale FM",
+    "url": "https://s11.myradiostream.com:25116/listen.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "sinhala"
+  },
+  {
+    "name": "LAKHANDA RADIO",
+    "url": "https://cp12.serverse.com/proxy/itnfm?mp=/stream&1707017036",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Lakhanda",
+    "url": "https://cp12.serverse.com/proxy/itnfm?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "sinhala"
+  },
+  {
+    "name": "Laksara",
+    "url": "https://5a1178b42cc03.streamlock.net/laksara/laksara/chunklist_w1617919055.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "sinhala"
+  },
+  {
+    "name": "Lakviru Radio",
+    "url": "http://cp11.serverse.com:7643/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Lankasri fm",
+    "url": "http://media2.lankasri.fm/;stream.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 7.871604438888354,
+    "lon": 80.47535789588488,
+    "language": "tamil"
+  },
+  {
+    "name": "Legends 96.6 FM",
+    "url": "https://mbc.thestreamtech.com:8585/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Life 87.8 Sri Lanka",
+    "url": "https://srv02.onlineradio.voaplus.com/lite878",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch colombo"
+  },
+  {
+    "name": "Lite 87.8",
+    "url": "https://lite878.com/wp-content/uploads/2020/12/spotifydown.com-Better-Place-From-TROLLS-Band-Together.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "NETH FM",
+    "url": "https://cp11.serverse.com/proxy/nethfm/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Parani Gee",
+    "url": "http://151.80.42.191:8288/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "sinhala"
+  },
+  {
+    "name": "Pirai FM",
+    "url": "http://220.247.234.207:8000/piraistream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 7.212141252255086,
+    "lon": 81.8542481514023,
+    "language": "tamil"
+  },
+  {
+    "name": "Punnagai Radio",
+    "url": "https://onair.punnagairadio.com/8146/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 7.394865638000718,
+    "lon": 81.81655883789062,
+    "language": "tamil"
+  },
+  {
+    "name": "Radio Plus Hitz",
+    "url": "https://altair.streamerr.co/stream/8054",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "sinhala"
+  },
+  {
+    "name": "Radio Plus Sri Lanka",
+    "url": "https://altair.streamerr.co/stream/8036",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "sinhala"
+  },
+  {
+    "name": "Rajarata Sewaya",
+    "url": "http://220.247.227.20:8000/rajaratastream",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "sinhala"
+  },
+  {
+    "name": "Ran FM",
+    "url": "http://207.148.74.192:7860/ran.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "sinhala"
+  },
+  {
+    "name": "Ran FM",
+    "url": "https://a3.asurahosting.com/listen/ranfm/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "sinhala"
+  },
+  {
+    "name": "Rangiri Sri Lanka",
+    "url": "https://rangiri.radioca.st/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "sinhala"
+  },
+  {
+    "name": "Rangiri Sri Lanka Radio 107.2 (Religious Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s102458",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Real Radio Sri Lanka 97.1",
+    "url": "https://srv02.onlineradio.voaplus.com/realfm",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "colombo,spanish"
+  },
+  {
+    "name": "SLBC -City FM",
+    "url": "http://220.247.227.20:8000/citystream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "sinhala"
+  },
+  {
+    "name": "SLBC -Radio Sri Lanka",
+    "url": "http://220.247.227.20:8000/RSLstream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "sinhala"
+  },
+  {
+    "name": "SLBC -Swadeshiya Sewaya",
+    "url": "http://220.247.227.6:8000/Snsstream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "sinhala"
+  },
+  {
+    "name": "SLBC -Welanda Sewaya",
+    "url": "http://220.247.227.6:8000/Scomstream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "sinhala"
+  },
+  {
+    "name": "SLBC City FM 89.6 (Asian Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s44978",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "SLBC Radio Sri Lanka 97.4 (News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s123883",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "SLBC Sinhala Commercial Service 93.3 (News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s87305",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "SLBC Sinhala National Service 98.3 (News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s55288",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "SLBC Tamil National Service",
+    "url": "https://stream-32.zeno.fm/xekhrn4zetzuv?zs=KXT1gTNYSemcxyslV6-vdA",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "SLBC Tamil National Service 102.3 (Tamil Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s44977",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "SLBC Thendral FM",
+    "url": "http://220.247.227.20:8000/Threndralstream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "SLBC Thendral Fm 105.6 (Tamil Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s14424",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Shakthi Fm",
+    "url": "https://mbc.thestreamtech.com:8086/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 6.882217070841797,
+    "lon": 79.91987228393556,
+    "language": "tamil"
+  },
+  {
+    "name": "Shree FM 99.0 (Asian Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s106773",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Siragugal Fm Tamil Srilanka",
+    "url": "https://sonic-ca.instainternet.com/siragugalfm/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 6.685243122682312,
+    "lon": 80.39932250976564,
+    "language": "tamil"
+  },
+  {
+    "name": "Sirasa FM",
+    "url": "http://live.trusl.com:1170/;",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "sinhala"
+  },
+  {
+    "name": "Sitha FM",
+    "url": "http://shaincast.caster.fm:48148/listen.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "sinhala"
+  },
+  {
+    "name": "Sitha FM 88.6 (Classic Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s203470",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Siyath Fm",
+    "url": "https://srv01.onlineradio.voaplus.com/siyathafm",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "sinhala"
+  },
+  {
+    "name": "Siyatha FM",
+    "url": "http://live.trusl.com:1170/;?type=http&nocache=0",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Sky Radio",
+    "url": "https://cp11.serverse.com/proxy/skyradio/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 6.933924764174401,
+    "lon": 79.85069274902345,
+    "language": "english"
+  },
+  {
+    "name": "Sooriyan FM 103.6 (Tamil Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s8571",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Sooriyan Fm Sri Lanka",
+    "url": "https://radio.lotustechnologieslk.net:8006/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 6.931974619929592,
+    "lon": 79.84370559453966,
+    "language": "tamil"
+  },
+  {
+    "name": "Sri FM",
+    "url": "http://207.148.74.192:7860/stream2.mp3",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 6.934606387087914,
+    "lon": 79.86373901367188,
+    "language": "sinhala"
+  },
+  {
+    "name": "Star FM Srilanka",
+    "url": "https://stream.starfm.lk:12025/stream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Sun FM",
+    "url": "https://radio.lotustechnologieslk.net:2020/stream/sunfmgarden",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "The One Radio",
+    "url": "http://uk15freenew.listen2myradio.com:6122/stream",
+    "codec": "AAC",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "sinhala"
+  },
+  {
+    "name": "Tube Tamil FM Radio டியூப் தமிழ் எஃப்.எம் பண்பலை ரேடியோ",
+    "url": "http://s2.voscast.com:12084/;stream1619441439791/1",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "tamil"
+  },
+  {
+    "name": "V FM",
+    "url": "http://dc1.serverse.com:7178/stream/1/",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "sinhala"
+  },
+  {
+    "name": "Wellon Radio Cafe",
+    "url": "https://wellonradio.out.airtime.pro/wellonradio_a",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "WoW රේඩියෝ",
+    "url": "https://cp11.serverse.com/proxy/wowradio/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 6.932561515388951,
+    "lon": 79.84554290771486,
+    "language": ""
+  },
+  {
+    "name": "Y FM",
+    "url": "https://mbc.thestreamtech.com:7032/index.html",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Y FM",
+    "url": "http://live.trusl.com:1180/;",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "sinhala"
+  },
+  {
+    "name": "Y FM - Hi-Res",
+    "url": "https://mbc.thestreamtech.com:7032/",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "sinhala"
+  },
+  {
+    "name": "Yes FM",
+    "url": "http://live.trusl.com:1150/",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Yes FM Online",
+    "url": "http://live.trusl.com:1150/;",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "bestcoast.fm",
+    "url": "http://streams.radio.co/sea5dddd6b/listen",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "freefm.lk",
+    "url": "https://stream-49.zeno.fm/1tcs4fbw7rquv?zs=uMl9BSttRSuqxlf3fWqc8g",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "sinhala"
+  },
+  {
+    "name": "தமிழீழ வானொலி -​ Tamil​ Eelam Radio (North​ &​ East)​",
+    "url": "http://stream.zeno.fm/c6mgmtfg8e9uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

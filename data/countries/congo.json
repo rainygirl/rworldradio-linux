@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Kutura FM 93.1 (Culture)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s346268",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Maria Democratic Rep. Congo",
+    "url": "https://dreamsiteradiocp2.com/proxy/rmrepdemcongo?mp=/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "name": "2dayFM 104.0 Suva",
+    "url": "http://peridot.streamguys.com:7150/2Day",
+    "codec": "AAC+",
+    "bitrate": 24,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Bula FM",
+    "url": "http://peridot.streamguys.com:7150/Bula",
+    "codec": "AAC+",
+    "bitrate": 24,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "fijian"
+  },
+  {
+    "name": "Fiji Gold FM 100.4 Suva",
+    "url": "http://peridot.streamguys.com:7150/Gold",
+    "codec": "AAC+",
+    "bitrate": 24,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Radio Fiji One",
+    "url": "http://peridot.streamguys.com:7150/RFOne",
+    "codec": "AAC+",
+    "bitrate": 24,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "fijian"
+  },
+  {
+    "name": "Radio Fiji Two",
+    "url": "http://peridot.streamguys.com:7150/RFTwo",
+    "codec": "AAC+",
+    "bitrate": 24,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Viti FM 102.8 (Gospel)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s50367",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

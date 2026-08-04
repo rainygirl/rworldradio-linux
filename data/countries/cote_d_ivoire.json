@@ -1,0 +1,52 @@
+[
+  {
+    "name": "AFRICA RADIO - MANU DIBANGO FOREVER 91.1 (World Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s16121",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "EB FM 95 (Entrepreneurship)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s341055",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "La Voix de l'Evangile 102.5 (Religious Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s259914",
+    "codec": "mp3",
+    "bitrate": 32,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Al Bayane 95.7 (Islamic Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s89579",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Jam 99.3 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s8971",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

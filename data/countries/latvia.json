@@ -1,0 +1,1242 @@
+[
+  {
+    "name": "Alise Plus",
+    "url": "http://fm2inet.aliseplus.lv:8080/",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 55.875618993946354,
+    "lon": 26.52133941650391,
+    "language": "russian"
+  },
+  {
+    "name": "Alise Plus 101.6 (European Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s81087",
+    "codec": "mp3",
+    "bitrate": 256,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Chillax",
+    "url": "https://streams.chillaxfm.lv/chillax",
+    "codec": "AAC+",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "latvian"
+  },
+  {
+    "name": "Chillax FM",
+    "url": "https://streams.chillaxfm.lv/chillaxfm",
+    "codec": "AAC+",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 56.934581443136246,
+    "lon": 24.117345664878844,
+    "language": "latvian"
+  },
+  {
+    "name": "Divu Krastu Radio",
+    "url": "https://live.dkradio.lv/01",
+    "codec": "AAC",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 55.82062438838889,
+    "lon": 26.509724019416065,
+    "language": "latvian"
+  },
+  {
+    "name": "EHR",
+    "url": "https://stream.ehrhiti.lv:8000/ehr.aac",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "EHR Dance",
+    "url": "http://stream.europeanhitradio.com:8000/Stream_24.mp3",
+    "codec": "MP3",
+    "bitrate": 112,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "latvian"
+  },
+  {
+    "name": "EHR Darbam",
+    "url": "http://stream.ehrhiti.lv:8000/Stream_23.mp3",
+    "codec": "MP3",
+    "bitrate": 112,
+    "needsResolve": false,
+    "lat": 56.949311098554794,
+    "lon": 24.105099882780372,
+    "language": "latvian"
+  },
+  {
+    "name": "EHR Festivālu Hiti",
+    "url": "http://stream.ehrhiti.lv:8000/Stream_73.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 56.94918179829204,
+    "lon": 24.105136486199587,
+    "language": "latvian"
+  },
+  {
+    "name": "EHR Fresh",
+    "url": "http://stream.europeanhitradio.com:8000/Stream_25.aac",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "EHR Fresh",
+    "url": "http://stream.ehrhiti.lv:8000/Stream_25.mp3",
+    "codec": "MP3",
+    "bitrate": 112,
+    "needsResolve": false,
+    "lat": 56.94931191996546,
+    "lon": 24.105211350923565,
+    "language": "latvian"
+  },
+  {
+    "name": "EHR Gold",
+    "url": "http://stream.ehrhiti.lv:8000/Stream_64.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 56.94933866508655,
+    "lon": 24.105116588647228,
+    "language": "latvian"
+  },
+  {
+    "name": "EHR Ice Ice Party",
+    "url": "http://stream.ehrhiti.lv:8000/Stream_67.mp3",
+    "codec": "MP3",
+    "bitrate": 112,
+    "needsResolve": false,
+    "lat": 56.949146133214455,
+    "lon": 24.10525146392261,
+    "language": "latvian"
+  },
+  {
+    "name": "EHR Party Service",
+    "url": "http://stream.ehrhiti.lv:8000/Stream_12.mp3",
+    "codec": "MP3",
+    "bitrate": 112,
+    "needsResolve": false,
+    "lat": 56.94905252043763,
+    "lon": 24.10558846255661,
+    "language": "latvian"
+  },
+  {
+    "name": "EHR Remixes",
+    "url": "http://stream.ehrhiti.lv:8000/Stream_32.mp3",
+    "codec": "MP3",
+    "bitrate": 112,
+    "needsResolve": false,
+    "lat": 56.94926037391176,
+    "lon": 24.105363624487644,
+    "language": "latvian"
+  },
+  {
+    "name": "EHR Rise & Shine",
+    "url": "http://stream.ehrhiti.lv:8000/Stream_36.mp3",
+    "codec": "MP3",
+    "bitrate": 112,
+    "needsResolve": false,
+    "lat": 56.94937685706336,
+    "lon": 24.105614364371064,
+    "language": "latvian"
+  },
+  {
+    "name": "EHR TOP 40",
+    "url": "http://stream.europeanhitradio.com:8000/Stream_27.mp3",
+    "codec": "MP3",
+    "bitrate": 112,
+    "needsResolve": false,
+    "lat": 56.94936653587653,
+    "lon": 24.10508614843731,
+    "language": "latvian"
+  },
+  {
+    "name": "EHR TOP-40",
+    "url": "http://stream.europeanhitradio.com:8000/Stream_27.aac",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "EHR iDeal Music",
+    "url": "http://stream.ehrhiti.lv:8000/Stream_78.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 56.949168404249455,
+    "lon": 24.10558744438658,
+    "language": "latvian"
+  },
+  {
+    "name": "EHR+",
+    "url": "https://stream.ehrhiti.lv:8000/khr.aac",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Eiropas Hītu Radio",
+    "url": "http://stream.europeanhitradio.com:8000/ehr.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "latviešu"
+  },
+  {
+    "name": "European Hit Radio",
+    "url": "http://stream.europeanhitradio.com:8000/ehr.aac",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "latvian"
+  },
+  {
+    "name": "European Hit Radio - Dance",
+    "url": "http://stream.europeanhitradio.com:8000/Stream_24.aac",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "latvian"
+  },
+  {
+    "name": "European Hit Radio - Darbam",
+    "url": "http://stream.europeanhitradio.com:8000/Stream_23.aac",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "European Hit Radio - Eurochart",
+    "url": "http://stream.europeanhitradio.com:8000/Stream_31.aac",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "latvian"
+  },
+  {
+    "name": "European Hit Radio - Latviešu Hiti",
+    "url": "http://stream.europeanhitradio.com:8000/Stream_22.aac",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "latvian"
+  },
+  {
+    "name": "European Hit Radio - Party Service",
+    "url": "http://stream.europeanhitradio.com:8000/Stream_12.aac",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "latvian"
+  },
+  {
+    "name": "European Hit Radio - Russkie Hiti",
+    "url": "http://stream.europeanhitradio.com:8000/khr.aac",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "russian"
+  },
+  {
+    "name": "European Hit Radio - SuperHits",
+    "url": "http://stream.europeanhitradio.com:8000/Stream_21.aac",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "latvian"
+  },
+  {
+    "name": "IvoFm",
+    "url": "https://ivofm.lv/radio",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "latvian"
+  },
+  {
+    "name": "KurmisLV",
+    "url": "http://www.kurmislv.info:8000/live-kurmislv-hq.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Kurzemes Radio",
+    "url": "http://31.170.16.6:8000/",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Kurzemes Radio 106.4 (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s10480",
+    "codec": "mp3",
+    "bitrate": 160,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "LRADIO BALTIJA",
+    "url": "http://balticom-238-238.balticom.lv/live.aac",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "LRMAROCKRADIO",
+    "url": "https://c22.radioboss.fm:18318/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "LV Radio 1",
+    "url": "http://lr1mp1.latvijasradio.lv:8012/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "LV Radio 2",
+    "url": "http://lr2mp1.latvijasradio.lv:8002/",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "LV Radio 4",
+    "url": "http://lr4mp1.latvijasradio.lv:8020/",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Latgales Radio",
+    "url": "http://www.radiolg.lv:8000/128_aac",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "latvian"
+  },
+  {
+    "name": "Latviešu hiti",
+    "url": "https://stream.ehrhiti.lv:8000/Stream_22.aac",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Latvijas Kristigais Radio 101.8 (World Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s1725",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Latvijas Kristīgais Radio",
+    "url": "https://radio.lkr.lv/;?type=http&nocache=40",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "latvian"
+  },
+  {
+    "name": "Latvijas Radio 1",
+    "url": "http://lr1mp1.latvijasradio.lv:8012/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "latvian"
+  },
+  {
+    "name": "Latvijas Radio 1",
+    "url": "https://60766ff53d5e6.streamlock.net/liveALR1/mp4:LR1/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Latvijas Radio 1",
+    "url": "https://muste.latvijasradio.lv/shoutcast/mp4:lr1a.stream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 129,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "latvian"
+  },
+  {
+    "name": "Latvijas Radio 2",
+    "url": "http://lr2mp1.latvijasradio.lv:8002/;",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "latvian"
+  },
+  {
+    "name": "Latvijas Radio 2",
+    "url": "https://muste.latvijasradio.lv/shoutcast/mp4:lr2a.stream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "latvian"
+  },
+  {
+    "name": "Latvijas Radio 2 100.7 (Classical)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s170261",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Latvijas Radio 2 101.0 (Classical)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s170259",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Latvijas Radio 2 101.5 (Classical)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s2217",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Latvijas Radio 2 91.5 (Classical)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s16682",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Latvijas Radio 3 - Klasika",
+    "url": "http://lr3mp0.latvijasradio.lv:8004/;",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "latvian"
+  },
+  {
+    "name": "Latvijas Radio 3 - Klasika",
+    "url": "https://60766ff53d5e6.streamlock.net/liveALR3/mp4:klasika/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Latvijas Radio 4",
+    "url": "http://lr4mp1.latvijasradio.lv:8020/;",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "russian"
+  },
+  {
+    "name": "Latvijas Radio 5",
+    "url": "http://lr5mp1.latvijasradio.lv:8012/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Latvijas Radio 5",
+    "url": "http://lr5mp1.latvijasradio.lv:8016/",
+    "codec": "AAC",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": 56.94986856223457,
+    "lon": 24.1060745716095,
+    "language": ""
+  },
+  {
+    "name": "Lustīgs Radio",
+    "url": "http://stream.lustigsradio.lv/live",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 56.664742696509194,
+    "lon": 22.494065909978076,
+    "language": "english,latvian"
+  },
+  {
+    "name": "Mix FM 102,7",
+    "url": "https://live.relaxfm.lv/07",
+    "codec": "AAC",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 56.93365198654328,
+    "lon": 24.11382414298644,
+    "language": "english,russian"
+  },
+  {
+    "name": "NewDanceRadio",
+    "url": "http://stream.newdanceradio.ru/",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "russian"
+  },
+  {
+    "name": "NewDanceRadio",
+    "url": "https://stream.newdanceradio.lv/mp3_192",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "russian"
+  },
+  {
+    "name": "Njoyradio",
+    "url": "https://live.njoyradio.lv/02",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Nordic Chillout Indie",
+    "url": "https://listen.radioking.com/radio/768542/stream/835766",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Nordic Chillout Radio",
+    "url": "https://play.radioking.io/nordic-chillout-radio/736489",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 56.810151288894936,
+    "lon": 24.157520933023907,
+    "language": "english"
+  },
+  {
+    "name": "RADIO MARIA LATVIA",
+    "url": "http://dreamsiteradiocp2.com:8046/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "latvian"
+  },
+  {
+    "name": "RADIO7 Latvija 89.9 (Rock)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s207097",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RETRO FM Latvia 92.3 (Rock)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s306868",
+    "codec": "mp3",
+    "bitrate": 124,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RETRO FM Latvia 94.5 (Rock)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s282799",
+    "codec": "mp3",
+    "bitrate": 124,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RETRO FM Latvia 99.4 (Rock)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s306867",
+    "codec": "mp3",
+    "bitrate": 124,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio 7",
+    "url": "https://listen.radio7.lv:2053/Radio7",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 57.15314098163238,
+    "lon": 24.85566079616547,
+    "language": "latvian,latviešu"
+  },
+  {
+    "name": "Radio 7",
+    "url": "http://stream.radio7.lv:8024/Radio7",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "latvian"
+  },
+  {
+    "name": "Radio ENERGY.LV",
+    "url": "http://www.radioenergy.lv:8000/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "latvian"
+  },
+  {
+    "name": "Radio ENERGY.LV - Russian",
+    "url": "http://www.radioenergy.lv:9000/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "russian"
+  },
+  {
+    "name": "Radio Liepāja",
+    "url": "https://stream.radioliepaja.lv/live/playlist.m3u8",
+    "codec": "MP4",
+    "bitrate": 160000,
+    "needsResolve": false,
+    "lat": 56.509948250398374,
+    "lon": 21.006430685520176,
+    "language": "english,latvian"
+  },
+  {
+    "name": "Radio Melodija",
+    "url": "https://live.relaxfm.lv/08",
+    "codec": "AAC",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 56.934337883606126,
+    "lon": 24.11770612965959,
+    "language": "russian"
+  },
+  {
+    "name": "Radio NABA",
+    "url": "http://nabamp0.latvijasradio.lv:8016/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "latvian"
+  },
+  {
+    "name": "Radio Nemiers",
+    "url": "https://stream.radionemiers.com/nmrs/playlist.m3u8",
+    "codec": "MP4",
+    "bitrate": 128000,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Pik 100 FM",
+    "url": "http://91.90.255.85:8000/01",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 56.934390018586065,
+    "lon": 24.11765890129749,
+    "language": "russian"
+  },
+  {
+    "name": "Radio Roks",
+    "url": "https://live.relaxfm.lv/06",
+    "codec": "AAC",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio SWH",
+    "url": "http://80.232.162.149:8000/swh96mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "latvian"
+  },
+  {
+    "name": "Radio SWH - Spin FM",
+    "url": "http://80.232.162.149:8000/spin96mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "latvian"
+  },
+  {
+    "name": "Radio SWH 105.2 (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s6688",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio SWH Gold",
+    "url": "http://80.232.162.149:8000/gold96mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "latvian"
+  },
+  {
+    "name": "Radio SWH Gold 90",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s334530",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio SWH LV",
+    "url": "https://live.radioswh.lv:8443/swh_lv",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "latvian"
+  },
+  {
+    "name": "Radio SWH Plus 105.7 (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s6689",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio SWH Rock",
+    "url": "http://80.232.162.149:8000/rock96mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "latvian"
+  },
+  {
+    "name": "Radio SWH Rock 89.2 (Classic Rock)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s2940",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio SWH+",
+    "url": "https://live.radioswh.lv:8443/plusmp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio SWH+",
+    "url": "http://80.232.162.149:8000/plus96mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "russian"
+  },
+  {
+    "name": "Radio Skonto Plus",
+    "url": "https://stream.radioskontoplus.lv:8443/st128",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio TEV",
+    "url": "https://stream.radiotev.lv:8443/radiov",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "latvian"
+  },
+  {
+    "name": "Radio TEV",
+    "url": "http://stream.radiotev.lv:8002/radiov",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "latvian"
+  },
+  {
+    "name": "Radio Talsi .:: Electronic ::.",
+    "url": "http://kuums.lv:6555/;",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 57.244799258696794,
+    "lon": 22.590288280216967,
+    "language": "english"
+  },
+  {
+    "name": "Radio Talsi .:: Future ::.",
+    "url": "http://kuums.lv:7555/;",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 57.244892136106905,
+    "lon": 22.59057558857523,
+    "language": "english"
+  },
+  {
+    "name": "Radio Talsi .:: Lounge ::.",
+    "url": "http://kuums.lv:5555/;",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 57.24511504107803,
+    "lon": 22.590352110606347,
+    "language": "english"
+  },
+  {
+    "name": "Radio Talsi .:: Misc ::.",
+    "url": "http://radio.kuums.lv:4555/;",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 57.24511504107803,
+    "lon": 22.590368012998304,
+    "language": "english"
+  },
+  {
+    "name": "Radio Viens",
+    "url": "https://radioviens.lv/live",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "latvian"
+  },
+  {
+    "name": "Relax",
+    "url": "https://live.relaxfm.lv/02",
+    "codec": "AAC",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Retro FM",
+    "url": "https://23613.live.streamtheworld.com/RETRO_FM.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 56.94874422660217,
+    "lon": 24.10594250465449,
+    "language": ""
+  },
+  {
+    "name": "Retro FM 70s 80s 90s",
+    "url": "https://25443.live.streamtheworld.com/RETRO_LATVIJA_FM_70_80_90S.mp3",
+    "codec": "MP3",
+    "bitrate": 112,
+    "needsResolve": false,
+    "lat": 56.94901260958089,
+    "lon": 24.105317572542347,
+    "language": ""
+  },
+  {
+    "name": "Retro FM Disco",
+    "url": "https://22653.live.streamtheworld.com/RETRO_FM_LATVIJA_DISCO.mp3",
+    "codec": "MP3",
+    "bitrate": 112,
+    "needsResolve": false,
+    "lat": 56.94885657426357,
+    "lon": 24.104784454937647,
+    "language": ""
+  },
+  {
+    "name": "Retro FM Latvija",
+    "url": "https://stream.ehrhiti.lv:8000/Stream_RE.aac",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "SWH LV 100 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s341660",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "SWH SPIN 94.6 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s341661",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Schlager Time Radio",
+    "url": "http://schlagers.org:8760/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 56.936384036830894,
+    "lon": 24.108303025362947,
+    "language": "german"
+  },
+  {
+    "name": "Skonto",
+    "url": "https://stream.radioskonto.lv:8443/stereo",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Spin FM 90.0 (World Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s156885",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Star FM Latvia",
+    "url": "https://live.advailo.com/audio/live/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 149,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Star Fm",
+    "url": "http://starfm.live.advailo.com/audio/mp3/icecast.audio",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "latvian"
+  },
+  {
+    "name": "StarFM",
+    "url": "https://live.advailo.com/audio/mp3/icecast.audio",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 56.943176390447704,
+    "lon": 24.093017578125004,
+    "language": ""
+  },
+  {
+    "name": "Super FM 96.8 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s156888",
+    "codec": "mp3",
+    "bitrate": 117,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "SuperHits",
+    "url": "https://stream.ehrhiti.lv:8000/Stream_21.aac",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "TOP radio",
+    "url": "https://topradio.live.advailo.com/topradio/mp3/icecast.audio",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 56.958437707931544,
+    "lon": 24.057148282896332,
+    "language": "english,latvian,russian"
+  },
+  {
+    "name": "TOP radio lv",
+    "url": "https://live.advailo.com/topradio/live/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 130,
+    "needsResolve": false,
+    "lat": 56.9494431543708,
+    "lon": 24.105131291726455,
+    "language": "latvia"
+  },
+  {
+    "name": "Talsi Lounge",
+    "url": "http://radio.kuums.lv:5555/;",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "latvian"
+  },
+  {
+    "name": "Talsi Remix",
+    "url": "http://radio.kuums.lv:5555/",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "latvian"
+  },
+  {
+    "name": "Tīrkultūra",
+    "url": "https://s3.radio.co/s216811754/listen",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "XO.FM",
+    "url": "https://live.xo.fm/xofm128",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "latvian"
+  },
+  {
+    "name": "XO.FM",
+    "url": "https://live.xo.fm/xofm256",
+    "codec": "AAC",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": 56.84376480282131,
+    "lon": 24.124609263756817,
+    "language": ""
+  },
+  {
+    "name": "Your City Padio",
+    "url": "https://c28.radioboss.fm:18234/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 56.94934118931528,
+    "lon": 24.10466626024022,
+    "language": "latvian"
+  },
+  {
+    "name": "Your City Radio",
+    "url": "https://c34.radioboss.fm:8234/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "gradio.lv ONE",
+    "url": "https://stream.gradio.lv/gradio-one.mp4a",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 56.53933611058803,
+    "lon": 21.18825495243073,
+    "language": "english,latvian"
+  },
+  {
+    "name": "Авторадио Латвия",
+    "url": "https://live.relaxfm.lv/03",
+    "codec": "AAC",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "russian"
+  },
+  {
+    "name": "Ретро FM Рига (Retro FM)",
+    "url": "https://live.retrofm.lv/retrofmlatvia",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "russian"
+  }
+]

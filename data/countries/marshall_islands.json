@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Offworld Radio",
+    "url": "https://a4.asurahosting.com:7310/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  }
+]

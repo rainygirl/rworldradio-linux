@@ -1,0 +1,542 @@
+[
+  {
+    "name": "ACHKID FM",
+    "url": "https://stream.zeno.fm/7nqu31p6xg0uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic,moroccan arabic,standard moroccan amazigh"
+  },
+  {
+    "name": "ASWAT MAROC 100.4 (Media & Entertainment Podcasts)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s354927",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Adwaafm",
+    "url": "http://stream.zeno.fm/5bxh2nh0x1zuv?1681882617017",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 33.55486735534346,
+    "lon": -7.546340497210623,
+    "language": "arabic"
+  },
+  {
+    "name": "Aswat FM",
+    "url": "https://broadcast.ice.infomaniak.ch/aswat-high.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic,english"
+  },
+  {
+    "name": "Atlantic Radio",
+    "url": "https://atlantic-sonic.nindohost.net:9300/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Aziz Mustaphi",
+    "url": "https://d3ctxlq1ktw2nl.cloudfront.net/production/2022-0-3/240607172-44100-2-afb2485b0c30e.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "CAP RADIO",
+    "url": "https://listen.radioking.com/radio/710810/stream/776366",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic,french"
+  },
+  {
+    "name": "Chada FM",
+    "url": "https://stream.bodkas.com/playlist?id=chadafmradio",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Chada FM 100.8 (African Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s105673",
+    "codec": "mp3",
+    "bitrate": 112,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Fayroz",
+    "url": "https://stream.zeno.fm/zv3e5wykprhvv.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "HIT RADIO",
+    "url": "https://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MA:-Hit Radio Maroc",
+    "url": "https://stream.zeno.fm/une3a02mb",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MA:-Radio Sawt Alamal",
+    "url": "https://stream.zeno.fm/d4u7zbqh5qruv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MEDI 1 RADIO",
+    "url": "https://cdn.live.easybroadcast.io/live/83_medi1radio-maghreb_8s9i4bn/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic,french,moroccan arabic"
+  },
+  {
+    "name": "MEDINA FM",
+    "url": "https://medinafm.ice.infomaniak.ch/medinafm-64.mp3",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic,french,moroccan arabic"
+  },
+  {
+    "name": "MFM RADIO",
+    "url": "https://a5.asurahosting.com:7980/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic,french"
+  },
+  {
+    "name": "MFM Radio Maroc 106.0 (Arabic Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s198316",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MRC:-Hip Hop Soul Radio \tRadio Music",
+    "url": "https://stream.zeno.fm/k7cdrm450s8uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MRC:-Radio Adwaa ATFAL 4",
+    "url": "https://stream.zeno.fm/8wrs2bh0x1zuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MRC:-Radio Adwaa FM 2",
+    "url": "https://stream.zeno.fm/5bxh2nh0x1zuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MRC:-Radio Adwaa MaZika 5",
+    "url": "https://stream.zeno.fm/ezxx195gq2zuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MRC:-Radio Adwaa Music 3",
+    "url": "https://stream.zeno.fm/x4451xh0x1zuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MRC:-Radio plus",
+    "url": "https://stream.radio.co/s8cc7a5da4/listen",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MRC:-Sawt Al Amal",
+    "url": "http://stream.zeno.fm/qgw73bqh5qruv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Marrakech Plus",
+    "url": "https://cast5.my-control-panel.com/proxy/marrakec/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic,french,moroccan arabic"
+  },
+  {
+    "name": "Med Radio",
+    "url": "http://medradio.ice.infomaniak.ch/medradio-128.mp3",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 32.886650903668865,
+    "lon": -7.558593750000001,
+    "language": "arabic"
+  },
+  {
+    "name": "Medi 1 Classique",
+    "url": "http://live.medi1.com/Classique",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic,french"
+  },
+  {
+    "name": "Medi 1 Radio Andalouse",
+    "url": "http://live.medi1.com/Andalouse",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Medi1 Hits",
+    "url": "https://cdn.live.easybroadcast.io/medi1radio/Hits",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Medi1 Tarab",
+    "url": "http://live.medi1.com/Tarab",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 34.98978483670261,
+    "lon": -5.51513671875,
+    "language": "arabic"
+  },
+  {
+    "name": "Medi1 dj",
+    "url": "http://live.medi1.com/Dj",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Ness Radio",
+    "url": "https://radio.nessradio.net:8212/nessradio-hd",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Only rai",
+    "url": "http://onlyrai.ice.infomaniak.ch/onlyrai-high.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Aswat",
+    "url": "http://broadcast.ice.infomaniak.ch/aswat-high.mp3?.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Radio Atbir",
+    "url": "https://stream-156.zeno.fm/bqdbb6hd0neuv?zs=VGAZo-zKSX-08bLa8RiUVg",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "tachelhite"
+  },
+  {
+    "name": "Radio Azawan",
+    "url": "https://az-maroc.ice.infomaniak.ch/az-maroc-64.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Azawan 88.9 (Arabic Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s357585",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Manarat",
+    "url": "https://listen.radioking.com/radio/252934/stream/297385",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 33.979381685000966,
+    "lon": -6.859416961669923,
+    "language": "arabic"
+  },
+  {
+    "name": "Radio Mars",
+    "url": "https://radiomars.ice.infomaniak.ch/radiomars-128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Mars 91.2 (Sports Talk & News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s135875",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Plus Agadir FM 92.4",
+    "url": "https://stream-158.zeno.fm/bqdbb6hd0neuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 30.42307791561479,
+    "lon": -9.584541320800785,
+    "language": "french,moroccan arabic,standard moroccan amazigh"
+  },
+  {
+    "name": "Radio Sawt Alamal",
+    "url": "https://stream.zeno.fm/qgw73bqh5qruv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic,french,moroccan arabic"
+  },
+  {
+    "name": "Radio Star Maroc FM",
+    "url": "https://a2.asurahosting.com:6100/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic,french,moroccan arabic"
+  },
+  {
+    "name": "Rap Lbeldi Maroc - Hip Hop Music from Morocco FR AR",
+    "url": "https://stream.zeno.fm/ivdufrl7q0quv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 33.79312909288509,
+    "lon": -7.415771484375001,
+    "language": "english,french,moroccan arabic"
+  },
+  {
+    "name": "Skyrock Casablanca",
+    "url": "https://icecast.skyrock.net/s/casa_aac_64k",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic,english,french"
+  },
+  {
+    "name": "U RADIO",
+    "url": "https://uradio-aac.ice.infomaniak.ch/uradio.aac",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic,french,moroccan arabic"
+  },
+  {
+    "name": "Yabiladi Azawan Amazigh",
+    "url": "https://radio.yabiladi.com:9002/;stream.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,francaise"
+  },
+  {
+    "name": "Yabiladi Chaabi Maroc",
+    "url": "https://radio.yabiladi.com:8102/;stream.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,francaise"
+  },
+  {
+    "name": "Yabiladi Radio",
+    "url": "https://radio.yabiladi.com:8002/;stream.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,francaise"
+  },
+  {
+    "name": "ZINE BLADI",
+    "url": "https://asmaki.ma:8000/radio.mp3",
+    "codec": "AAC",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic,moroccan arabic"
+  },
+  {
+    "name": "aswatalweb",
+    "url": "http://78.129.252.13:24460/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "bldi",
+    "url": "http://beldifm.hf.ma/radio/8000/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "ادكار الصباح 156 (Arabic Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s355981",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "ميد راديو المغرب 106 (Arts & Entertainment News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s354904",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

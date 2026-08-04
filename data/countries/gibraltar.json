@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Alpha FM",
+    "url": "https://ice.fabricahost.com.br/alphafm1021",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "BFBS Gibraltar",
+    "url": "http://edge-audio-03-gos2.sharp-stream.com/ssvcbfbs7.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "GBC Radio Gibraltar",
+    "url": "https://sh.uk.audio-stream.com/proxy/gibralta?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Radio Gibraltar Plus 100.5",
+    "url": "https://s2.myradiostream.com/32910/listen.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RadioGibraltar MW",
+    "url": "https://sh.uk.audio-stream.com/proxy/matorr00?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

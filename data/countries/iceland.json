@@ -1,0 +1,302 @@
+[
+  {
+    "name": "80's Bylgjan",
+    "url": "http://icecast.365net.is:8000/orb80s.aac",
+    "codec": "AAC+",
+    "bitrate": 131,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "icelandic"
+  },
+  {
+    "name": "80´s Flash Back",
+    "url": "http://ice-11.spilarinn.is/80flashback",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Apparatid",
+    "url": "http://icecast.365net.is:8000/orbApparatid.aac",
+    "codec": "AAC+",
+    "bitrate": 130,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "icelandic"
+  },
+  {
+    "name": "Bylgjan",
+    "url": "http://icecast.365net.is:8000/orbbylgjan.aac",
+    "codec": "AAC+",
+    "bitrate": 131,
+    "needsResolve": false,
+    "lat": 64.18276350794666,
+    "lon": -21.884765625,
+    "language": "icelandic"
+  },
+  {
+    "name": "Country Bylgjan",
+    "url": "http://icecast.365net.is:8000/orbFmExtra.aac",
+    "codec": "AAC+",
+    "bitrate": 130,
+    "needsResolve": false,
+    "lat": 64.09352633755087,
+    "lon": -21.86141967773438,
+    "language": "icelandic"
+  },
+  {
+    "name": "FM Trölli 103.7 (Rock)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s203903",
+    "codec": "mp3",
+    "bitrate": 256,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "FlashBack 91.9 (90's)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s211678",
+    "codec": "mp3",
+    "bitrate": 224,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Flashback 60s",
+    "url": "https://ice-11.spilarinn.is/60flashback",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Fred Film Radio-26 Íslenska",
+    "url": "https://s10.webradio-hosting.com/proxy/fredradiois/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "icelandic"
+  },
+  {
+    "name": "Gull Bylgjan 90.9 Reykjavik",
+    "url": "http://icecast.365net.is:8000/orbGullBylgjan.aac",
+    "codec": "AAC+",
+    "bitrate": 129,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "icelandic"
+  },
+  {
+    "name": "K 100",
+    "url": "https://ice-11.spilarinn.is/kaninnmobile",
+    "codec": "MP3",
+    "bitrate": 170,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "K100 100.5 (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s118732",
+    "codec": "mp3",
+    "bitrate": 191,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "KissFM 104,5 104.5 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s211677",
+    "codec": "mp3",
+    "bitrate": 160,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Létt Bylgjan",
+    "url": "http://icecast.365net.is:8000/orbLettBylgjan.aac",
+    "codec": "AAC+",
+    "bitrate": 97,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "icelandic"
+  },
+  {
+    "name": "Radio Bodun 105.5 Reykjavik",
+    "url": "http://radio.bodun.is:8000/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "icelandic"
+  },
+  {
+    "name": "Restro 89,5",
+    "url": "http://ice-11.spilarinn.is/retromobile",
+    "codec": "MP3",
+    "bitrate": 170,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "icelandic"
+  },
+  {
+    "name": "Retro 895 89.5 (Classic Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s264022",
+    "codec": "mp3",
+    "bitrate": 188,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Rondó",
+    "url": "https://ruv-radio-live.akamaized.net/streymi/rondo/rondo.m3u8",
+    "codec": "AAC",
+    "bitrate": 352,
+    "needsResolve": false,
+    "lat": 64.14388034700936,
+    "lon": -21.93557739257813,
+    "language": ""
+  },
+  {
+    "name": "RÚV Rás 1 92.4 (Arts & Culture)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s2541",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RÚV Rás 2",
+    "url": "http://netradio.ruv.is/ras2.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RÚV Rás 2 90.1 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s2542",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Rás 1",
+    "url": "http://netradio.ruv.is/ras1.aac",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Rás2",
+    "url": "http://netradio.ruv.is/ras2.aac",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 64.09860708598023,
+    "lon": -21.914978027343754,
+    "language": ""
+  },
+  {
+    "name": "Sudurland FM 96.3 | (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s141225",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Suðurland FM",
+    "url": "https://ice-11.spilarinn.is/xsudurlandfm",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 63.94790932594013,
+    "lon": -21.01044595241547,
+    "language": "icelandic"
+  },
+  {
+    "name": "Trolli FM 103.7 Siglufjordu",
+    "url": "http://live.trolli.is:8200/;",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "icelandic"
+  },
+  {
+    "name": "Utvarp Saga 99.4 (Variety)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s16499",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Visir \"FM957\" 95.7 Reykjavik",
+    "url": "http://icecast.365net.is:8000/orbFm957.aac",
+    "codec": "AAC+",
+    "bitrate": 131,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "icelandic"
+  },
+  {
+    "name": "X977",
+    "url": "http://icecast.365net.is:8000/orbXid.aac",
+    "codec": "AAC+",
+    "bitrate": 131,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "icelandic"
+  },
+  {
+    "name": "Útvarp Saga",
+    "url": "https://stream.utvarpsaga.is/Hljodver",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 64.14003957306845,
+    "lon": -21.90259306150723,
+    "language": "icelandic"
+  }
+]

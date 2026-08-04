@@ -1,0 +1,2702 @@
+[
+  {
+    "name": "&#1056;&#1072;&#1076;&#1080;&#1086; FM+",
+    "url": "http://31.13.223.148:8000/fmplus.ogg",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 42.655425080737515,
+    "lon": 23.37346536712757,
+    "language": "bulgarian"
+  },
+  {
+    "name": "1 Rock Bulgaria",
+    "url": "http://31.13.223.148:8000/1_rock.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bulgarian,english"
+  },
+  {
+    "name": "ALMA MATER",
+    "url": "http://a1.vizitec.com:8000/almamater",
+    "codec": "AAC",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": 42.69767701227864,
+    "lon": 23.33445339297168,
+    "language": ""
+  },
+  {
+    "name": "ARHEA ORG",
+    "url": "http://stream.zeno.fm/na6nbx6qqwzuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 42.70894684727844,
+    "lon": 23.274785620072993,
+    "language": "english"
+  },
+  {
+    "name": "Avto Radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AVTORADIOAAC_L.aac",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "BG Estrada",
+    "url": "https://play.global.audio/bgestrada",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 42.6977,
+    "lon": 23.3219,
+    "language": "bulgarian"
+  },
+  {
+    "name": "BG Radio",
+    "url": "http://stream.metacast.eu/bgradio128",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "BG Radio",
+    "url": "http://stream.radioreklama.bg/bgradio128",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bulgarian"
+  },
+  {
+    "name": "BG Rap Radio",
+    "url": "https://home.radionrg.com/hls/bgrapradio/live.m3u8",
+    "codec": "AAC",
+    "bitrate": 140,
+    "needsResolve": false,
+    "lat": 42.69732757174469,
+    "lon": 23.32152938283955,
+    "language": "bulgarian,english"
+  },
+  {
+    "name": "BG Rap Radio",
+    "url": "https://home.radionrg.com/listen/bgrapradio/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "BNR - Hristo Botev",
+    "url": "http://stream.bnr.bg:8012/hristo-botev.aac",
+    "codec": "AAC+",
+    "bitrate": 36,
+    "needsResolve": false,
+    "lat": 42.68438661361791,
+    "lon": 23.33271056413651,
+    "language": "bulgarian"
+  },
+  {
+    "name": "BNR Burgas",
+    "url": "http://stream.bnr.bg:8037/radio-burgas.aac",
+    "codec": "AAC+",
+    "bitrate": 36,
+    "needsResolve": false,
+    "lat": 42.51830412592329,
+    "lon": 27.48703269754769,
+    "language": ""
+  },
+  {
+    "name": "BNR Horizont",
+    "url": "https://play.global.audio/testb.aac?dist=RADIOPLAY",
+    "codec": "AAC",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "BNR Radio Shumen",
+    "url": "http://stream.bnr.bg:8033/radio-shumen.aac",
+    "codec": "AAC+",
+    "bitrate": 36,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bulgarian"
+  },
+  {
+    "name": "BNR Sofia (high)",
+    "url": "http://stream.bnr.bg:8030/radio-sofia.aac",
+    "codec": "AAC+",
+    "bitrate": 36,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bulgarian"
+  },
+  {
+    "name": "BNR Stara Zagora",
+    "url": "http://82.103.99.99:8000/radiosz",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bulgarian"
+  },
+  {
+    "name": "BNR Varna",
+    "url": "http://broadcast.masters.bg:8000/live",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Bad Rock Radio 1",
+    "url": "https://play-radio0.jump.bg:7028/live",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bad Rock Radio-Classic Rock",
+    "url": "https://radio.jump.bg:7489/live",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bad Rock Radio-Hard & Heavy Rock",
+    "url": "https://radio.jump.bg:7049/live",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "BadRock Classic Rock",
+    "url": "https://play-radio0.jump.bg:7489/live",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "BadRock Hard & Heavy",
+    "url": "https://play-radio0.jump.bg:7049/live",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "BadRock Radio",
+    "url": "https://radio.jump.bg:7028/live",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 42.05294057731879,
+    "lon": 25.584883689880375,
+    "language": ""
+  },
+  {
+    "name": "BadRock Radio National",
+    "url": "https://radiocp.jump.bg/proxy/stan1?mp=/live",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Badrock Classic Rock",
+    "url": "https://streams.badrockradio.net/classic-rock",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 42.695751184674286,
+    "lon": 23.322429656982425,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Badrock Golden Era",
+    "url": "https://streams.badrockradio.net/golden-era",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 42.6967900665959,
+    "lon": 23.32200050354004,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Badrock Hard & Heavy",
+    "url": "https://streams.badrockradio.net/hard-heavy",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 42.696741769813976,
+    "lon": 23.322129249572757,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Badrock National",
+    "url": "https://streams.badrockradio.net/national",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 42.695906919504274,
+    "lon": 23.320970535278324,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Balkan Radio",
+    "url": "https://samcloud.spacial.com/api/listen?sid=99064&m=sc&rid=175019&t=ssl",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 42.69724675116208,
+    "lon": 23.321986165031547,
+    "language": "bulgarian,english,greek,macedonian,serbian"
+  },
+  {
+    "name": "Bar Friends Pernik",
+    "url": "http://79.98.108.170:8278/autodj",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bg Estrada",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/BG_ESTRADAAAC_L.aac?dist=onlineradiobox",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": 42.78006430208889,
+    "lon": 23.40984521463053,
+    "language": ""
+  },
+  {
+    "name": "Braille FM",
+    "url": "https://radio.jump.bg:7181/live",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bumerang FM",
+    "url": "http://185.20.88.1:8010/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Chanove",
+    "url": "http://radio.chanove.com:8000/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Cherveniat Papagal",
+    "url": "https://stream-64.zeno.fm/80qzq207rm0uv?zs=_xFVUn2nS3qDiPZ-lCCmIQ",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "City Bulgaria",
+    "url": "http://31.13.223.148:8000/city.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bulgarian,english"
+  },
+  {
+    "name": "City HipHop R&B",
+    "url": "https://play.global.audio/cityrabhi.aac",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 42.6977,
+    "lon": 23.3219,
+    "language": ""
+  },
+  {
+    "name": "City HipHop RaB",
+    "url": "https://play.global.audio/cityrab.aac",
+    "codec": "AAC",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": 42.6977,
+    "lon": 23.3219,
+    "language": ""
+  },
+  {
+    "name": "City Latin",
+    "url": "https://play.global.audio/citylatinhi.aac",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 42.6977,
+    "lon": 23.3219,
+    "language": "bulgarian"
+  },
+  {
+    "name": "City Latin",
+    "url": "https://play.global.audio/citylatin.aac",
+    "codec": "AAC",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": 42.6977,
+    "lon": 23.3219,
+    "language": ""
+  },
+  {
+    "name": "City Radio",
+    "url": "http://play.global.audio/cityhi.aac",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 42.666920172929025,
+    "lon": 23.296899595964423,
+    "language": "bulgarian"
+  },
+  {
+    "name": "City Radio Bulgaria",
+    "url": "https://play.global.audio/city.opus",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 42.69051116998241,
+    "lon": 23.30886840820313,
+    "language": "bulgarian,english"
+  },
+  {
+    "name": "Classic FM",
+    "url": "https://cdn.bweb.bg/radio/classic-fm.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DJ ZONE House Radio",
+    "url": "https://stream.djzone.mobi/?nocache=1772715340631",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DJ Zone House",
+    "url": "http://162.244.80.106:11181/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DanPen Radio",
+    "url": "https://server.danpenradio.net/listen/danpen_radio/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Darik",
+    "url": "https://a12.asurahosting.com/listen/darik_radio/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 42.69918540836335,
+    "lon": 23.341228082963116,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Darik Nostalgie",
+    "url": "https://a10.asurahosting.com:7600/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Dark Wave Radomir",
+    "url": "https://dwrstream.eu/",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 42.54949862439245,
+    "lon": 22.960578213120485,
+    "language": ""
+  },
+  {
+    "name": "Deep House Radio",
+    "url": "https://home.radionrg.com/hls/deephouse/live.m3u8",
+    "codec": "AAC",
+    "bitrate": 140,
+    "needsResolve": false,
+    "lat": 42.69732757174469,
+    "lon": 23.32178369442658,
+    "language": "american english,english"
+  },
+  {
+    "name": "Deep Lounge",
+    "url": "https://radio.jump.bg/proxy/georgi18/stream",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Deep Radio Europe",
+    "url": "http://79.98.108.174:8000/stream",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": 42.669108067689685,
+    "lon": 23.31779479980469,
+    "language": "bulgaria,english"
+  },
+  {
+    "name": "Deluxe Radio Bulgaria | HQ",
+    "url": "https://play.radiomaxxfm.com/deluxe-high",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "EILO Techno Radio",
+    "url": "https://eilo.org/streamer.php?ch=techno",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "EILO Trance Radio",
+    "url": "https://eilo.org/streamer.php?ch=trance",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "EYE SEE CHAOS RADIO STATION",
+    "url": "https://radio.eyeseechaos.net/listen/eye_see_chaos_radio/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Easy Radio",
+    "url": "http://live.easyradio.bg/flac",
+    "codec": "OGG",
+    "bitrate": 16,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Easy Radio",
+    "url": "https://live.easyradio.bg/flac",
+    "codec": "OGG",
+    "bitrate": 16,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Easy Radio",
+    "url": "https://live.easyradio.bg/aac?type=.mp3",
+    "codec": "AAC",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Easy Radio BG",
+    "url": "https://live.easyradio.bg/192?type=.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bulgarian"
+  },
+  {
+    "name": "EasyRadio.Bg (FLAC)",
+    "url": "https://c30.radioboss.fm:8758/live",
+    "codec": "OGG",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Eilo Radio - Progressive Radio",
+    "url": "http://eilo.org:8000/progressive",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Energy 90s",
+    "url": "https://play.global.audio/energy-90s",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Energy NRJ Bulgaria",
+    "url": "http://play.global.audio/nrj128",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 42.666689,
+    "lon": 23.296918,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Energy NRJ Bulgaria 00s Only",
+    "url": "http://play.global.audio/energy-00s.aac",
+    "codec": "AAC",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": 42.666689,
+    "lon": 23.296918,
+    "language": ""
+  },
+  {
+    "name": "Energy NRJ Bulgaria 90s Only",
+    "url": "http://play.global.audio/energy-90s",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 42.666689,
+    "lon": 23.296918,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Energy NRJ Bulgaria 90s Only (aac)",
+    "url": "http://play.global.audio/energy-90s.aac",
+    "codec": "AAC",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": 42.666689,
+    "lon": 23.296918,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Energy NRJ Bulgaria 90s Only (ogg)",
+    "url": "http://play.global.audio/energy-90s.ogg",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 42.666689,
+    "lon": 23.296918,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Eternal Radio",
+    "url": "http://79.98.108.170:8217/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Euronews Bulgaria",
+    "url": "https://play.euronews.bg/stream?1710950223133",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 42.64777911664752,
+    "lon": 23.33493463829088,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Extreme Deep House",
+    "url": "http://whsh4u-panel.com:14113/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Extreme Deep House Radio",
+    "url": "https://whsh4u-panel.com/proxy/yfryujzw/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "FM +",
+    "url": "http://193.108.24.21:8000/fmplus",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "FolkBG",
+    "url": "http://listen.folkbg.net:8002/folkbg",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "FolkBG Player 2",
+    "url": "http://folkbg.ombadmin.com:8001/folkbg",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Fred Film Radio(Български език)",
+    "url": "https://s10.webradio-hosting.com/proxy/fredradiobg/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Fresh Bulgaria",
+    "url": "http://31.13.223.148:8000/fresh.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Fresh!",
+    "url": "http://193.108.24.21:8000/fresh",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Glarus Retro FM",
+    "url": "https://radio.comnet.bg:12301/radio-glarus-retro.mp3",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Hot Dance",
+    "url": "http://listen.hotget.net:810/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Hot Hits FM",
+    "url": "https://live.hothitsfm.com/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "House Music Radio",
+    "url": "https://home.radionrg.com/hls/housemusic/live.m3u8",
+    "codec": "AAC",
+    "bitrate": 140,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "american english,english"
+  },
+  {
+    "name": "Jazz FM",
+    "url": "https://cdn.bweb.bg/radio/jazz-fm.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bulgarian"
+  },
+  {
+    "name": "KATRA FM",
+    "url": "https://live.katrafm.com/",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "KATRA FM",
+    "url": "http://www.katrafm.com:8000/live",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bulgarian"
+  },
+  {
+    "name": "KISS LOUNGE RADIO",
+    "url": "https://nova-radio.neterra.tv/kiss",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "KOLEDNOTO RADIO",
+    "url": "https://play.global.audio/radio1-koleda.aac",
+    "codec": "AAC",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Lele Male",
+    "url": "http://79.98.108.170:8332/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Lele Male",
+    "url": "http://79.98.108.170:8332/;stream.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Lozenets Radio",
+    "url": "https://c18.radioboss.fm/stream/784",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 42.62749228591472,
+    "lon": 23.35440324321754,
+    "language": ""
+  },
+  {
+    "name": "Luxor Web Radio",
+    "url": "http://79.98.108.170:8078/autodj",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MAGIC FM",
+    "url": "https://bss1.neterra.tv/magicfm/magicfm.m3u8",
+    "codec": "AAC",
+    "bitrate": 105,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MIXX",
+    "url": "http://83.97.65.98:9000/Title1=Radio",
+    "codec": "AAC+",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Maxx FM Bulgaria | HQ",
+    "url": "https://play.radiomaxxfm.com/maxx-high",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Maya Burgas",
+    "url": "http://rnmediagroup.com:9000/;",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Maya Varna",
+    "url": "http://rnmediagroup.com:10000/;",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Metro Country Rock",
+    "url": "https://eu1.reliastream.com/proxy/feedb?mp=/CRR64",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Metro Country Rock HD",
+    "url": "https://radio.jump.bg/proxy/feed104?mp=/MSRR",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Metro DANCE Radio",
+    "url": "https://eu1.reliastream.com/proxy/mdr?mp=/MDR",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bulgarian,english"
+  },
+  {
+    "name": "Metro Dance Radio HD",
+    "url": "https://radio.jump.bg/proxy/predp?mp=/MDR",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Metro Hits",
+    "url": "https://eu1.reliastream.com/proxy/mhr?mp=/MHR",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Metro Love",
+    "url": "https://eu1.reliastream.com/proxy/service?mp=/service",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Metro Love 00s",
+    "url": "https://eu1.reliastream.com/proxy/metroplusc?mp=/MLR2K",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Metro Love 80s",
+    "url": "https://eu1.reliastream.com/proxy/love80?mp=/MLR80S",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Metro Love 90s Plus",
+    "url": "https://eu1.reliastream.com/proxy/love80?mp=/MLR90S",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Metro Love Xmas Radio",
+    "url": "https://radio.jump.bg/proxy/feedyyy02?mp=/MLR70S",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Metro Top Radio",
+    "url": "https://eu1.reliastream.com/proxy/mgr?mp=/MGR",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Metro Urban Hits",
+    "url": "https://eu1.reliastream.com/proxy/metroxmas?mp=/MCR",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Metro Virtuoso",
+    "url": "https://eu1.reliastream.com/proxy/mvr?mp=/MVR",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Mixx",
+    "url": "http://83.97.65.98:9000/",
+    "codec": "AAC+",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Muzaica Radio",
+    "url": "https://radio.muzaica.fm:9000/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "N-Joy BG",
+    "url": "https://cdn.bweb.bg/radio/njoy.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bulgarian"
+  },
+  {
+    "name": "NJS Radio - New Jack Swing",
+    "url": "https://stream.njsradio.com/njs",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "NJS Radio - New Jack Swing",
+    "url": "http://162.244.80.106:11198/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Note FM",
+    "url": "https://sc.mpbnl.nl/notefm.mp3",
+    "codec": "AAC+",
+    "bitrate": 384,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Note Party",
+    "url": "http://stream.zeno.fm/ux3k5mabt18uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Nova",
+    "url": "http://stream.metacast.eu/nova.ogg",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Nova Bulgaria",
+    "url": "http://31.13.223.148:8000/nova.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bulgarian,english"
+  },
+  {
+    "name": "Nova News",
+    "url": "http://stream.radioreklama.bg/novanews.aac",
+    "codec": "AAC",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Nova News",
+    "url": "http://149.13.0.80/novanews.mp4",
+    "codec": "AAC",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bulgarian"
+  },
+  {
+    "name": "NovaNews Bulgaria",
+    "url": "https://play.global.audio/novanews.aac",
+    "codec": "AAC",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Online DJ Radio 64",
+    "url": "http://play-radio11.jump.bg:8000/stream64_autodj",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bulgarian,english"
+  },
+  {
+    "name": "Power FM 91.1",
+    "url": "http://a1.virtualradio.eu:8000/powerfm.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO BGRADIO",
+    "url": "https://play.global.audio/bgradio128",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO CITY",
+    "url": "http://play.global.audio/city64",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO VERONIKA",
+    "url": "https://play.global.audio/veronika64",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO ZETRA",
+    "url": "https://radio.jump.bg/proxy/etzetrap/;stream/1",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio 1",
+    "url": "http://stream.metacast.eu/radio1128",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio 1",
+    "url": "http://149.13.0.80/radio1128",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio 1 (Bulgaria)",
+    "url": "http://149.13.0.81/radio1.ogg",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Radio 1 (Радио 1 -Едно Русе0 -Ruse 88.9 FM",
+    "url": "https://28933.live.streamtheworld.com/RADIO_1AAC_H.aac",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 43.84593632479146,
+    "lon": 25.96017569303513,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Radio 1 Bulgaria",
+    "url": "https://play.global.audio:80/radio164",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio 1 Rock",
+    "url": "http://stream.metacast.eu/radio1rock.ogg",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Radio 1 Rock",
+    "url": "http://play.global.audio/radio1rockhi.aac",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Radio 1 радио 1 класическите хитове",
+    "url": "http://stream.radioreklama.bg/radio164",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Radio 999",
+    "url": "http://62.204.158.5:8081/live",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio AXE Project",
+    "url": "http://79.98.108.170:8004/autodj",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio BG London Plus",
+    "url": "http://live.radiobg.co.uk:8000/live",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Beatport",
+    "url": "http://79.98.108.170:8014/autodj",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Beinsa Duno",
+    "url": "http://87.252.182.193:8000/;",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Big Boss",
+    "url": "https://141.147.25.113:8000/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 42.48377637647826,
+    "lon": 25.31387329101563,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Radio City",
+    "url": "http://play.global.audio/city128",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 42.67852354801047,
+    "lon": 23.291183891051578,
+    "language": ""
+  },
+  {
+    "name": "Radio City  (Bulgaria)",
+    "url": "http://play.global.audio/city_low.ogg",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Contact",
+    "url": "https://listen.radioking.com/radio/490082/stream/546899",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Cyberfolk",
+    "url": "http://91.227.77.124/cyberfolk",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 42.73605597218209,
+    "lon": 23.288151025772095,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Radio Dance With Me",
+    "url": "http://g5.turbohost.eu:8002/stream128",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Deep Disco",
+    "url": "http://79.98.108.170:8000/autodj",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Dobrudja",
+    "url": "http://5.104.174.128:8000/radiodobrudja",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio El Shada",
+    "url": "https://stream-40.zeno.fm/hku46gxdexquv?zs=d8gnzJrzS0GpfjuXp_Lx_Q",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Family",
+    "url": "http://a1.virtualradio.eu:8000/family.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Favorit",
+    "url": "http://79.98.108.170:8235/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Folk BG",
+    "url": "http://listen.folkbg.net:8001/folkbg",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 42.69374113537095,
+    "lon": 23.318481445312504,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Radio Fresh",
+    "url": "http://31.13.223.148:8000/fresh.ogg",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 42.655425080737515,
+    "lon": 23.37346536712757,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Radio Fresh -Ruse 93,6 FM",
+    "url": "https://streamer2.atlantis.bg:8443/fresh",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 43.845955669015915,
+    "lon": 25.96018105745316,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Radio Gamma",
+    "url": "http://g5.turbohost.eu:8003/gama128",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Globe",
+    "url": "http://79.98.108.170:8019/autodj",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Hashove",
+    "url": "http://79.98.108.173:8006/radioxashove",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 42.67643605304971,
+    "lon": 23.26109297994118,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Radio Helikon",
+    "url": "http://87.121.90.229:9000/live_128",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Helikon",
+    "url": "http://radio.helikon.bg:9000/live_128",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Horo",
+    "url": "http://g5.turbohost.eu:8020/stream256",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Hushove",
+    "url": "http://79.98.108.173:8006/radioxaschove",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Jega",
+    "url": "http://g5.turbohost.eu:8004/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Jugomania",
+    "url": "https://s8.yesstreaming.net:17051/autodj",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio K2",
+    "url": "http://stream.radiok2.bg:8000/rk2",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Lagoshevtsi",
+    "url": "http://radio.jump.bg:8484/stream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 44.00088453394063,
+    "lon": 22.866818904876713,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio Lele Male",
+    "url": "http://79.98.108.170:8332/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 42.492803027780866,
+    "lon": 24.420959690841823,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Radio Mall Sofia",
+    "url": "http://79.98.108.170:8104/autodj",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Mega Hit",
+    "url": "http://sunaer-stream.com:7824/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bulgaria"
+  },
+  {
+    "name": "Radio Melodia Silistra",
+    "url": "http://g5.turbohost.eu:8010/stream128",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Melody",
+    "url": "http://193.108.24.6:8000/melody?file=.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 42.69169504190747,
+    "lon": 23.321442604064945,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Radio Metronom",
+    "url": "http://radiometronom.com:8010/",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Mixx Bulgaria",
+    "url": "http://83.97.65.98:9000/;",
+    "codec": "AAC+",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 42.41372380862086,
+    "lon": 27.55246970013539,
+    "language": ""
+  },
+  {
+    "name": "Radio Music BG",
+    "url": "http://79.98.108.170:8243/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio NRG",
+    "url": "https://home.radionrg.com/hls/live/live.m3u8",
+    "codec": "AAC",
+    "bitrate": 140,
+    "needsResolve": false,
+    "lat": 42.69791632504022,
+    "lon": 23.32203838577223,
+    "language": ""
+  },
+  {
+    "name": "Radio Nostalgia",
+    "url": "https://sc.mpbnl.nl/radionostalgia.mp3",
+    "codec": "AAC+",
+    "bitrate": 384,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Nova",
+    "url": "https://25453.live.streamtheworld.com/RADIO_NOVAAAC_H.aac",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 42.66665845482401,
+    "lon": 23.296927213668827,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Radio Nova",
+    "url": "https://25453.live.streamtheworld.com/RADIO_NOVAAAC_L.aac",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Nova Bulgaria",
+    "url": "https://play.global.audio/nova.opus",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bulgarian,english"
+  },
+  {
+    "name": "Radio Nova Zagora",
+    "url": "http://80.253.48.162:8090/nova.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio ORV",
+    "url": "http://radio.orvmedia.com:8005/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Party Mix",
+    "url": "https://cast6.asurahosting.com/proxy/iliyan12/stream.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 42.12348800097058,
+    "lon": 24.77028880838777,
+    "language": ""
+  },
+  {
+    "name": "Radio Pianica",
+    "url": "http://mpc1.mediacp.eu:8024/",
+    "codec": "AAC",
+    "bitrate": 224,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Razgrad",
+    "url": "http://radiorazgrad.hothost.bg/128k",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Razgrad",
+    "url": "http://188.126.1.25:8000/razgrad",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Retro Folk",
+    "url": "http://79.98.108.170:8053/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Rezonans",
+    "url": "http://88.87.10.53:8000/*.ogg",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Ruse",
+    "url": "https://radio.ruse.bg:8010/radioruse",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 43.84596340670392,
+    "lon": 25.96014887094498,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Radio Sevlievo",
+    "url": "http://195.68.214.130:8000/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Sladko Izkushenie",
+    "url": "http://g5.turbohost.eu:8006/autodj",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Slavi",
+    "url": "http://79.98.108.170:8043/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Slavianska Parodia",
+    "url": "http://79.98.108.170:8033/autodj",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Strimonika",
+    "url": "https://play-radio0.jump.bg:7666/stream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Sunny Beach",
+    "url": "https://sunny-beachradio.stream.laut.fm/sunny-beachradio",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Teteven",
+    "url": "http://g5.turbohost.eu:8001/teteven",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio The Voice",
+    "url": "https://bss1.neterra.tv/thevoicefm/thevoicefm.m3u8",
+    "codec": "AAC",
+    "bitrate": 105,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Tomeko",
+    "url": "http://79.98.108.170:8024/live",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Ultra Pernik",
+    "url": "http://88.80.96.25:8020/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Vega +",
+    "url": "http://88.80.96.25:3050/;?1705023133784",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Vega Plus",
+    "url": "http://88.80.96.25:40070/vega.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Veronika",
+    "url": "http://play.global.audio/veronikahi.aac",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Radio Veselina",
+    "url": "https://bss1.neterra.tv/veselina/veselina.m3u8",
+    "codec": "AAC",
+    "bitrate": 105,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Vidin",
+    "url": "http://89.106.110.85:8000/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Radio Vitosha",
+    "url": "https://bss1.neterra.tv/vitosha/vitosha.m3u8",
+    "codec": "AAC",
+    "bitrate": 105,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Viva -Ruse",
+    "url": "http://stream.radioextra-bg.net:8000/viva-eurodance",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 43.84596340670392,
+    "lon": 25.96016496419907,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Radio Winbet",
+    "url": "http://79.98.108.170:8010/autodj",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio ZARA",
+    "url": "https://www.radiozara.bg/play",
+    "codec": "AAC+",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Zone Mix",
+    "url": "http://79.98.108.170:8036/autodj",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Zorana Sofia",
+    "url": "https://radio.jump.bg/proxy/radio12/stream",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radioplay Cafe",
+    "url": "https://play.global.audio/cafehi.aac",
+    "codec": "AAC",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": 42.6977,
+    "lon": 23.3219,
+    "language": ""
+  },
+  {
+    "name": "Radioxaschove",
+    "url": "http://79.98.108.173:8006/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Raimos Disco Radio",
+    "url": "http://a1.virtualradio.eu:8000/discoradio",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Raimos Rock Radio",
+    "url": "http://a1.virtualradio.eu:8000/rockradio",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Rosen Dimitrov",
+    "url": "https://stream.sweetradio.online:8001/HD",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Shlager Radio (Радио Шлагер Русе-TV ДЕЛТА) -Ruse 90,5 FM",
+    "url": "https://stream02.pcradio.ru/schlagerradio_fm-med",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 43.84594406248198,
+    "lon": 25.96014887094498,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Stream House Radio",
+    "url": "http://79.98.108.170:8018/autodj",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Tangra Mega Rock",
+    "url": "http://stream-bg-01.radiotangra.com:8000/Tangra-high",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 42.6977,
+    "lon": 23.3219,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Tangra Mega Rock",
+    "url": "http://stream-bg-01.radiotangra.com/Tangra-high.aac",
+    "codec": "AAC",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": 42.6977,
+    "lon": 23.3219,
+    "language": ""
+  },
+  {
+    "name": "Tangra Mega Rock",
+    "url": "http://stream-bg-01.radiotangra.com:8000/Tangra.ogg",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 42.6977,
+    "lon": 23.3219,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Test NRJ Sergio IP",
+    "url": "http://149.13.0.80/energy-90s",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Turbo Lounge",
+    "url": "http://79.98.108.170:8115/autodj",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Ultra Blagoevgrad",
+    "url": "http://88.80.96.25:3060/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Ultra Pernik",
+    "url": "http://88.80.96.25:8000/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Vanilla",
+    "url": "https://play.global.audio/vanillahi.aac",
+    "codec": "AAC",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": 42.6977,
+    "lon": 23.3219,
+    "language": ""
+  },
+  {
+    "name": "Vega+ Sandaski",
+    "url": "http://88.80.96.25:8040/",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Veronika",
+    "url": "http://stream.metacast.eu/veronika.ogg",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Veronika 6 bez 10",
+    "url": "https://play.global.audio/6bez10.aac",
+    "codec": "AAC",
+    "bitrate": 56,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Victoria Radio",
+    "url": "https://play.radiomaxxfm.com/victoriafm",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Vocal Mix Radio",
+    "url": "http://79.98.108.170:8015/autodj",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "XRaydio 1 – Your Kaleidoscope Of Sounds",
+    "url": "https://xraydio.ddns.net/live",
+    "codec": "AAC",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "XRaydio 2 – Your Vintage Jukebox",
+    "url": "https://xraydio.ddns.net/jukebox",
+    "codec": "AAC",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "XRaydio 3 – Your Rock & Roll Partner In Crime",
+    "url": "https://xraydio.ddns.net/xraydio3",
+    "codec": "AAC",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Z-Rock Alt",
+    "url": "http://193.108.24.6:8000/zrock",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Zetra",
+    "url": "http://79.98.108.170:8092/;",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "bTV Radio",
+    "url": "https://cdn.bweb.bg/radio/btv-radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 42.683400760657435,
+    "lon": 23.31590369283479,
+    "language": "bulgarian"
+  },
+  {
+    "name": "bTV Radio Русе 89.9 FM",
+    "url": "https://cdn.btv.bg/radio/btv-radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 43.84593632479146,
+    "lon": 25.96017569303513,
+    "language": "bulgarian"
+  },
+  {
+    "name": "folk mix",
+    "url": "https://listen.radiofolkmix.com/folkmixios",
+    "codec": "AAC",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bulgarian"
+  },
+  {
+    "name": "folklor.fm",
+    "url": "http://91.227.77.124/folklorfm",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 42.71132298075997,
+    "lon": 23.151358366012573,
+    "language": "bulgarian"
+  },
+  {
+    "name": "kef.fm",
+    "url": "http://91.227.77.124/keffm",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 42.71384836972324,
+    "lon": 23.254030644893646,
+    "language": "bulgarian"
+  },
+  {
+    "name": "onlineDJradio",
+    "url": "https://play.onlinedjradio.com:7000/live",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "radio Maia",
+    "url": "https://radio.rn-tv.com:8000/stream/1/",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 42.502240678472695,
+    "lon": 27.46788024902344,
+    "language": ""
+  },
+  {
+    "name": "top.fm",
+    "url": "http://91.227.77.124/topfm",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 42.64846280915781,
+    "lon": 23.34424674510956,
+    "language": "bulgarian"
+  },
+  {
+    "name": "zig zag",
+    "url": "https://radyo.yayin.com.tr:4474/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Авто Радио",
+    "url": "http://stream80.metacast.eu/avtoradiohi.aac",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 42.697778463692,
+    "lon": 23.32191467285156,
+    "language": ""
+  },
+  {
+    "name": "Авторадио",
+    "url": "http://play.global.audio/avtoradio.opus",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bulgarian"
+  },
+  {
+    "name": "БГ радио (opus)",
+    "url": "http://stream.radioreklama.bg/bgradio.opus",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bulgarian"
+  },
+  {
+    "name": "БНР Радио Русе 98.6 FM",
+    "url": "https://e106-ts.cdn.bg/regstations/fls/Shumen.stream/chunklist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 43.845971144390944,
+    "lon": 25.96018105745316,
+    "language": "bulgarian"
+  },
+  {
+    "name": "БНР – Детска програма (Детското.БНР)",
+    "url": "http://stream.bnr.bg:8013/detskoto-bnr.aac",
+    "codec": "AAC+",
+    "bitrate": 36,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bulgarian"
+  },
+  {
+    "name": "БНР – Радио Благоевград",
+    "url": "http://stream.bnr.bg:8035/radio-blagoevgrad.aac",
+    "codec": "AAC+",
+    "bitrate": 36,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bulgarian"
+  },
+  {
+    "name": "БНР – Радио Видин",
+    "url": "http://stream.bnr.bg:8036/radio-vidin.aac",
+    "codec": "AAC+",
+    "bitrate": 36,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "БНР – Радио Кърджали",
+    "url": "http://stream.bnr.bg:8038/radio-kardzhali.aac",
+    "codec": "AAC+",
+    "bitrate": 36,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bulgarian"
+  },
+  {
+    "name": "БНР – Радио Пловдив",
+    "url": "http://stream.bnr.bg:8032/radio-plovdiv.aac",
+    "codec": "AAC+",
+    "bitrate": 36,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bulgarian"
+  },
+  {
+    "name": "БНР – Радио Стара Загора",
+    "url": "http://stream.bnr.bg:8034/radio-stara-zagora.aac",
+    "codec": "AAC+",
+    "bitrate": 36,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Енерджи (opus)",
+    "url": "http://stream.radioreklama.bg/nrj.opus",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Коледно радио",
+    "url": "https://play.global.audio/radio1-koledahi.aac",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Мая",
+    "url": "http://www.rnmediagroup.com:9000/",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Общинско радио Велико Търново",
+    "url": "http://195.34.121.140:8004/",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 43.080794977653454,
+    "lon": 25.633269638316843,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Радио Bulgaria ON AIR Русе 103.9 FM",
+    "url": "https://live.radio.bgonair.bg/RadioBOA",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 43.84595180017152,
+    "lon": 25.96014350652695,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Радио Energy Болгария Русе 100.5 FM",
+    "url": "https://29103.live.streamtheworld.com/RADIO_ENERGYAAC_H.aac",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 43.84596340670392,
+    "lon": 25.96018105745316,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Радио FM+ Русе 94.4 FM",
+    "url": "https://pulsar.atlantis.bg:8443/fmplusnew",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 43.84596727554756,
+    "lon": 25.96016496419907,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Радио N-JOY Русе 101.6 FM",
+    "url": "https://cdn.btv.bg/radio/njoy.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 43.84596340670392,
+    "lon": 25.960138142108917,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Радио БГ Русе 97.4 FM",
+    "url": "https://27913.live.streamtheworld.com/BG_RADIOAAC_H.aac",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 43.84596340670392,
+    "lon": 25.96016496419907,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Радио БНР програма Хоризонт Русе 103.0 FM",
+    "url": "https://lb-hls.cdn.bg/2032/fls/Horizont.stream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 41,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Радио БНР програма Христо Ботев Русе 95.7 FM",
+    "url": "https://e106-ts.cdn.bg/regstations/fls/HrBotev.stream/chunklist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 43.845932455945785,
+    "lon": 25.9601703286171,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Радио Вероника Русе 99.0 FM",
+    "url": "https://28933.live.streamtheworld.com/RADIO_VERONIKAAAC_H.aac",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 43.84594793132687,
+    "lon": 25.96016496419907,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Радио Веселина Русе 93.1 FM",
+    "url": "https://bss1.neterra.tv/veselina/stream_0.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 43.845976560629595,
+    "lon": 25.960210561752323,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Радио Жега 96",
+    "url": "http://g5.turbohost.eu:8004/stream96",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Радио Канон - Radio Kanon",
+    "url": "http://79.98.108.170:8059/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Радио Пияника",
+    "url": "http://mpc1.mediacp.eu:8024/;",
+    "codec": "AAC",
+    "bitrate": 224,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "greek"
+  },
+  {
+    "name": "Радио Фокус Русе 99.7 FM",
+    "url": "https://focusradio.dataserv.cc/1",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 43.84596340670392,
+    "lon": 25.96015423536301,
+    "language": "bulgarian"
+  },
+  {
+    "name": "Радио „Епархийски глас“",
+    "url": "https://radio.mitropolia-sofia.org:7610/stream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

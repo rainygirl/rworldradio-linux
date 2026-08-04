@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Chérie FM",
+    "url": "http://cheriefmguyane.ice.infomaniak.ch/cheriefmguyane-64.aac",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Guyane 1ère",
+    "url": "https://guyane.ice.infomaniak.ch/guyane-128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "creole,french"
+  },
+  {
+    "name": "Guyane la 1ère 92.0 (Music News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s24892",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Métis FM",
+    "url": "https://str0.creacast.com/metisfm.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Nostalgie",
+    "url": "http://2stream.dyndns.org:8000/nostalgieguy",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 4.940165641828481,
+    "lon": -52.33194977045059,
+    "language": "creole,french"
+  },
+  {
+    "name": "Ouest FM Guyane 89.4 (French Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s107479",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RFM GUADELOUPE 106.2 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s107480",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RFM GUYANE 92.8 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s246779",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Contact Vosges",
+    "url": "https://s2.ssl-stream.com/listen/radio_contact/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "chwitiweb",
+    "url": "https://listen.radioking.com/radio/190309/stream/232540",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  }
+]

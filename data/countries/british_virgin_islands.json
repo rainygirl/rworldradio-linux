@@ -1,0 +1,32 @@
+[
+  {
+    "name": "ABC Classic FM (AAC)",
+    "url": "http://live-radio01.mediahubaustralia.com/2FMW/aac/",
+    "codec": "AAC+",
+    "bitrate": 56,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Burning Rockers",
+    "url": "http://176.9.121.230:8000/br",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Soggy Dollar Radio",
+    "url": "https://samcloud.spacial.com/api/listen?sid=71281",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 18.443053680668225,
+    "lon": -64.76381875591409,
+    "language": ""
+  }
+]

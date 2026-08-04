@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Antigua Observer Radio 91.1 St. John's",
+    "url": "http://s8.voscast.com:8176/;",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Flava FM 100.7",
+    "url": "http://167.114.11.80:5322/stream/;",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Liberty Radio ZDK 97.1 FM",
+    "url": "http://198.178.123.20:10052/stream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Radio La Senda Antigua",
+    "url": "https://play10.tikast.com/proxy/lasenda?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Vibz FM",
+    "url": "https://testvibz-silcomwireless.radioca.st/stream.mp3",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

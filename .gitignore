@@ -1,0 +1,11 @@
+# Rust build output
+/target/
+
+# Claude Code's per-user settings: a local permission allowlist containing
+# absolute home paths. Keep it out of the repo but leave it on disk.
+.claude/settings.local.json
+
+# OS / editor noise
+.DS_Store
+*~
+*.swp

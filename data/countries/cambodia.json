@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Daun Penh EFM",
+    "url": "http://203.189.159.204:9051/dpnefmpp",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 11.5564,
+    "lon": 104.9282,
+    "language": "khmer"
+  },
+  {
+    "name": "Daun Penh EFM 87.5 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s199565",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Family FM 99.5 (Witthyu Krousar)",
+    "url": "https://s14.myradiostream.com/10064/;.mp3",
+    "codec": "MP3",
+    "bitrate": 80,
+    "needsResolve": false,
+    "lat": 11.5564,
+    "lon": 104.9282,
+    "language": "khmer"
+  },
+  {
+    "name": "Hang Meas FM 104.5",
+    "url": "http://malisresidences.com:89/broadwave.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 11.5564,
+    "lon": 104.9282,
+    "language": "khmer"
+  },
+  {
+    "name": "LDP Radio",
+    "url": "https://streaming.radio.co/sd48fd711d/listen",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 11.5564,
+    "lon": 104.9282,
+    "language": "khmer"
+  },
+  {
+    "name": "Love FM Phnom Penh 97.5",
+    "url": "http://radio99.servradio.com:9298/",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 11.5564,
+    "lon": 104.9282,
+    "language": "khmer"
+  },
+  {
+    "name": "National Radio of Kampuchea",
+    "url": "http://119.82.252.6:8080/broadwave.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "khmer"
+  },
+  {
+    "name": "Phnom Penh Radio FM 103",
+    "url": "http://radio99.servradio.com:9294/",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 11.5564,
+    "lon": 104.9282,
+    "language": "khmer"
+  },
+  {
+    "name": "Pop Radio 21",
+    "url": "https://listen.radioking.com/radio/318317/stream/365846",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 11.5564,
+    "lon": 104.9282,
+    "language": "khmer"
+  },
+  {
+    "name": "RNK FM 96 (Radio National Kampuchea)",
+    "url": "http://119.82.252.6:8181/broadwave.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 11.5564,
+    "lon": 104.9282,
+    "language": "khmer"
+  },
+  {
+    "name": "Sangkem Radio",
+    "url": "https://live.sangkemtv.com/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Sweet FM 88 (Siem Reap)",
+    "url": "https://n12.rcs.revma.com/whn9hqwstk3vv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 13.3622,
+    "lon": 103.8597,
+    "language": "khmer"
+  }
+]

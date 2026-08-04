@@ -1,0 +1,22 @@
+[
+  {
+    "name": "AfriRadio Gambia 107.6 (African Rhythms)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s181972",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "HOT FM RADIO The Gambia - 104.3 | (Religious Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s274271",
+    "codec": "mp3",
+    "bitrate": 48,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

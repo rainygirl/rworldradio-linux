@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Eri-TV",
+    "url": "https://jmc-live.ercdn.net/eritreatv/eritreatv.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 1200,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "tigrinya"
+  },
+  {
+    "name": "Eritrean Music",
+    "url": "http://linuxfreelancer.com:8000/test.mp3",
+    "codec": "AAC+",
+    "bitrate": 56,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "amharic,tigre,tigrigna"
+  },
+  {
+    "name": "Eritrean/Ethiopian music",
+    "url": "https://linuxfreelancer.com:8443/test.mp3",
+    "codec": "AAC+",
+    "bitrate": 56,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

@@ -1,0 +1,4252 @@
+[
+  {
+    "name": "*KISS FM RS*",
+    "url": "https://stream.zeno.fm/v148h04dztzuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "021 caffe",
+    "url": "https://centova.dukahosting.com/proxy/021kafe/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 45.254318539314504,
+    "lon": 19.84285354614258,
+    "language": "serbian"
+  },
+  {
+    "name": "Active Radio Bečej",
+    "url": "http://active96-naxinacional.streaming.rs:8555/",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Ami Naxi Radio Kikinda",
+    "url": "http://185.119.88.88:8005/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Antena Krusevac",
+    "url": "http://antenaradio.org:4560/;stream.nsv",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Antena Radio 91.3 (Folk Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s119729",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Antena Radio FM 98.9 (Europe)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s89295",
+    "codec": "mp3",
+    "bitrate": 32,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "B92",
+    "url": "http://stream.b92.net:7999/radio-b92.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "BANKER",
+    "url": "http://banker96-naxinacional.streaming.rs:8540/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "BB Radio Sombor",
+    "url": "https://mhpanel.mediahosting025.com/radio/8383/;",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Banker 98.3 (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s16671",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Banker Radio",
+    "url": "http://banker96-naxinacional.streaming.rs:8540/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Bela Crkva",
+    "url": "http://belacrkva32.streaming.rs:8140/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Belami Radio",
+    "url": "http://92.60.239.23:8000/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bravo FM 103.7 (Variety)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s157774",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bravo FM 103.7MHz",
+    "url": "http://91.221.134.252:8002/;*.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Buca",
+    "url": "https://live.bucaradio.com/",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Bum Bum Radio",
+    "url": "https://bumbum.nlnet.rs:8443/bumbum?download=false",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 44.8120810477905,
+    "lon": 20.427128817613628,
+    "language": ""
+  },
+  {
+    "name": "Bum Bum Radio 89.4 (World Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s116320",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "COOL radio 107.7 (Folk Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s115864",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "City Radio 99.9 (90's)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s90072",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "City Ub 92.7",
+    "url": "http://109.72.57.12:8000/;stream.nsv",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Cool Radio",
+    "url": "http://176.9.30.66/cool64",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Cool Radio Serbia",
+    "url": "http://live.coolradio.rs/cool320",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,serbian"
+  },
+  {
+    "name": "DELTA 89.5 (Pop Country)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s262420",
+    "codec": "mp3",
+    "bitrate": 256,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DENSOMANIAK Radio",
+    "url": "https://stream.iradio.pro/proxy/densomaniak?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,serbian"
+  },
+  {
+    "name": "Dasko i Mladja",
+    "url": "http://172.105.250.193:8000/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Deluxe Radio",
+    "url": "http://cmr-hosting.com:8408/;*.mp3",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Domus Radio",
+    "url": "https://libretime.domusradio.com/icecast/main",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": 45.25415568432705,
+    "lon": 19.841480255126957,
+    "language": "serbian"
+  },
+  {
+    "name": "Domus Radio (Local Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s352595",
+    "codec": "mp3",
+    "bitrate": 256,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Dream Klub",
+    "url": "https://stream.spettro.info/listen/dream_klub_-_public_illegal/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Dženarika",
+    "url": "http://stream.dzenarika.net:8000/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 43.8857218618421,
+    "lon": 20.35571069242505,
+    "language": "serbian"
+  },
+  {
+    "name": "Egata Radio",
+    "url": "http://stream.zeno.fm/kcn3b5gfuhruv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Fan Radio Bajina Basta",
+    "url": "http://stream.fanradio.info:9000/;stream.nsv",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Fan Radio Bajina Bašta",
+    "url": "http://stream.fanradio.info:9000/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Focus Radio",
+    "url": "https://streamer.radio.co/s34d2c17d8/listen",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Folk Radio Beograd",
+    "url": "http://usa6.fastcast4u.com:5010/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Fox Radio",
+    "url": "http://stream.foxradio.rs:8545/;stream.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Gold Radio Branicevo 103.3 (Folk Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s191164",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Gudalo i Struna",
+    "url": "https://stream.zeno.fm/kpcnnvbdfjtvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Hit FM Radio",
+    "url": "http://streaming.hitfm.rs:8000/hit",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Hype.FM",
+    "url": "https://93.87.22.105:8000/hypefm",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 43.90269234358853,
+    "lon": 22.27621793746948,
+    "language": "serbian"
+  },
+  {
+    "name": "Internet Radio Pingvin",
+    "url": "https://uzivo.radiopingvin.com/domaci1",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "JAT Radio",
+    "url": "https://streaming.radiojat.rs/radiojat.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Jack folk radio",
+    "url": "https://media.radioexs.com/stream/jackfolkradio",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Jack radio Varvarin",
+    "url": "https://media.radioexs.com/stream/jackradio",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "KISS FM EX YU",
+    "url": "https://stream.zeno.fm/abn3hm6w768uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 44.788718832071886,
+    "lon": 20.497741699218754,
+    "language": "serbian"
+  },
+  {
+    "name": "KLAS Radio",
+    "url": "http://media.srb-streaming.com:9014/stream",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Karolina",
+    "url": "http://streaming.karolina.rs:8000/karolina",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Karolina 106.3 (Classic Rock)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s356480",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Kiss Club FM",
+    "url": "https://stream.zeno.fm/572ugg75ztzuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 44.82035542262312,
+    "lon": 20.38101196289063,
+    "language": ""
+  },
+  {
+    "name": "Kiss FM",
+    "url": "https://cast2.my-control-panel.com/proxy/kissdoog/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Kiss FM Balkan",
+    "url": "https://stream.zeno.fm/kwku1q84p48uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 44.80820829311185,
+    "lon": 20.371398925781257,
+    "language": ""
+  },
+  {
+    "name": "Kiss FM Narodni",
+    "url": "https://stream.zeno.fm/q8252338t68uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Kragujevac Plaza Radio",
+    "url": "http://109.206.96.18:8020/;stream.nsv",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "LOTEL 107.4 (Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s187880",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Laguna",
+    "url": "https://live.radiolaguna.rs/laguna",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "LiD Radio",
+    "url": "http://213.239.205.210:8064/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Lotel Radio",
+    "url": "https://s1.skeletor.rs/lotel",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Luna Radio",
+    "url": "https://eu10.fastcast4u.com:6110/stream/7/",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Lux Naxi Radio",
+    "url": "http://lux-naxinacional.streaming.rs:8605/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Lux Radio",
+    "url": "https://lux-naxinacional.streaming.rs:8607/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Lux Radio 102.0 (European Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s90025",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MAX FM Jagodina 98.4 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s133422",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Magnum Radio 103.0 (World Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s195757",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Magnum Radio Zajecar",
+    "url": "http://magnum.web-srbija.net:8121/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "MansionNET Radio",
+    "url": "https://radio.inthemansion.com/listen/mansionnet/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Moj Radio",
+    "url": "https://eu4.fastcast4u.com/proxy/svidakov?mp=/1",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Mugadavanje",
+    "url": "https://radio.mugadavanje.rs/listen/mugadavanje/mugadavanje",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 44.787,
+    "lon": 20.457,
+    "language": ""
+  },
+  {
+    "name": "Muzicki Radio 101",
+    "url": "https://as1.radioserveri.com:8090/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Muzički Radio Fan",
+    "url": "http://stream.fanradio.info:9000/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Mária Rádió Szerbia",
+    "url": "http://dreamsiteradiocp.com:8014/;",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hungarian"
+  },
+  {
+    "name": "NAS Radio 97.8",
+    "url": "https://radio.dukahosting.com:7045/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "NAŠ MM Radio 97.8",
+    "url": "https://radio.dukahosting.com:7045/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Narodni Fm Radio",
+    "url": "http://195.252.68.166:8036/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Nas Radio 107,80 Zabalj",
+    "url": "https://radio.dukahosting.com:7043/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 45.37463559502925,
+    "lon": 20.06291270256043,
+    "language": "serbian"
+  },
+  {
+    "name": "Nas Radio 107,80 Zabalj",
+    "url": "https://radio.dukahosting.com:7043/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 45.37185850091621,
+    "lon": 20.06410360336304,
+    "language": "serbian"
+  },
+  {
+    "name": "Naxi",
+    "url": "https://naxi128ssl.streaming.rs:9152/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Naxi - hype",
+    "url": "https://naxidigital-hype128ssl.streaming.rs:8272/;stream.nsv",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Naxi 70-e 3",
+    "url": "https://naxidigital-70s128ssl.streaming.rs:8382/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Naxi 70e",
+    "url": "https://naxidigital-70s128ssl.streaming.rs:8042/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Naxi 80-e Radio",
+    "url": "https://naxidigital-80s128ssl.streaming.rs:8042/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Naxi 90s",
+    "url": "https://naxidigital-90s128ssl.streaming.rs:8282/;stream.nsv",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Naxi Active Radio",
+    "url": "https://active96-naxinacional.streaming.rs:8557/",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Naxi Active Radio 105.4 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s120445",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Naxi Adore",
+    "url": "https://naxidigital-adore128ssl.streaming.rs:8332/;stream.nsv",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Naxi Blues",
+    "url": "https://naxidigital-blues128ssl.streaming.rs:8312/;stream.nsv",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Naxi Boem Radio",
+    "url": "https://naxidigital-boem128ssl.streaming.rs:8162/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Naxi Cafe Radio",
+    "url": "https://naxidigital-cafe128ssl.streaming.rs:8022/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Naxi Chillwave",
+    "url": "https://naxidigital-chillwave128ssl.streaming.rs:8322/;stream.nsv",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Naxi Classic Radio",
+    "url": "https://naxidigital-classic128ssl.streaming.rs:8032/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Naxi Clubbing Radio",
+    "url": "https://naxidigital-clubbing128ssl.streaming.rs:8092/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Naxi Dance Radio",
+    "url": "https://naxidigital-dance128ssl.streaming.rs:8112/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Naxi EXYU rock",
+    "url": "http://naxidigital-exyurock48.streaming.rs:8405/",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": 44.80603520650035,
+    "lon": 20.388888429998644,
+    "language": "serbian"
+  },
+  {
+    "name": "Naxi Evergreen Radio",
+    "url": "https://naxidigital-evergreen128ssl.streaming.rs:8012/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Naxi Ex-Yu Rock Radio",
+    "url": "http://naxidigital-exyurock128.streaming.rs:8400/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Naxi ExYu Radio",
+    "url": "https://naxidigital-exyu128ssl.streaming.rs:8242/;stream.nsv",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Naxi ExYu Radio HTTP",
+    "url": "http://naxidigital-exyu48.streaming.rs:8245/",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Naxi Fitness",
+    "url": "https://naxidigital-fitness128ssl.streaming.rs:8292/;stream.nsv",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Naxi Fresh Radio",
+    "url": "https://naxidigital-fresh128ssl.streaming.rs:8212/;stream.nsv",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Naxi Gold Radio",
+    "url": "https://naxidigital-gold128ssl.streaming.rs:8062/;stream.nsv",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Naxi House Radio",
+    "url": "https://naxidigital-house128ssl.streaming.rs:8002/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Naxi Hype Radio",
+    "url": "https://naxidigital-hype128ssl.streaming.rs:8272/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Naxi Jazz Radio",
+    "url": "https://naxidigital-jazz128ssl.streaming.rs:8172/;stream.nsv",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Naxi Kids",
+    "url": "https://naxidigital-kids128ssl.streaming.rs:8052/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Naxi Kids SERBIA",
+    "url": "http://naxidigital-kids128.streaming.rs:8050/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Naxi Latino",
+    "url": "https://naxidigital-latino128ssl.streaming.rs:8232/;stream.nsv",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "latino,spanish"
+  },
+  {
+    "name": "Naxi Lounge Radio",
+    "url": "https://naxidigital-lounge128ssl.streaming.rs:8252/;stream.nsv",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Naxi Love Radio",
+    "url": "https://naxidigital-love128ssl.streaming.rs:8102/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Naxi M Radio",
+    "url": "http://mradio96-naxinacional.streaming.rs:8550/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Naxi MAX",
+    "url": "http://max96-naxinacional.streaming.rs:8530/;stream.nsv",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Naxi MIX",
+    "url": "https://naxidigital-mix128ssl.streaming.rs:8222/;stream.nsv",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Naxi Millennium Radio",
+    "url": "https://naxidigital-millennium128ssl.streaming.rs:8342/;stream.nsv",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 44.79898816829875,
+    "lon": 20.44418334960938,
+    "language": "english"
+  },
+  {
+    "name": "Naxi Planeta Radio",
+    "url": "http://planeta96-naxinacional.streaming.rs:8520/;",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Naxi R'n'B Radio",
+    "url": "https://naxidigital-rnb128ssl.streaming.rs:8122/;stream.nsv",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Naxi Radio",
+    "url": "http://naxi128.streaming.rs:9150/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Naxi Radio",
+    "url": "http://naxi48.streaming.rs:9180/",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Naxi Radio - Lounge",
+    "url": "http://naxidigital-lounge128.streaming.rs:8250/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Naxi Radio 016",
+    "url": "https://naxiradio016-naxinacional.streaming.rs:8637/;.mp3?_=1",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Naxi Radio Beograd 96.9 (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s9208",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Naxi Radio Chillwave",
+    "url": "http://naxidigital-chillwave128.streaming.rs:8320/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Naxi Radio Rock",
+    "url": "https://naxidigital-rock128ssl.streaming.rs:8182/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Naxi ex YU",
+    "url": "https://naxidigital-exyu128ssl.streaming.rs:8242/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Nisville Online Radio",
+    "url": "https://radio.nisville.com/listen/live/live",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "No Limit Radio 91.1 (World Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s266748",
+    "codec": "mp3",
+    "bitrate": 256,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Nostalgie Radio Belgrade - 105,2 Mhz",
+    "url": "https://nostalgie128ssl.streaming.rs:9252/;stream.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Nostalgija Radio",
+    "url": "http://nostalgie128.streaming.rs:9250/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Nova S",
+    "url": "http://radio.novas.tv/novas.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "OK Plus Radio",
+    "url": "https://stream.okplus.rs/listen/plus/radio.mp3",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "OK Prelo Radio",
+    "url": "https://stream.okplus.rs/listen/prelo/radio.mp3",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "OK Radio Prelo",
+    "url": "http://live.okplus.rs:8050/;*.mp3",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "OK radio",
+    "url": "https://sslstream.okradio.net/;?type=http&nocache=8804",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "OK radio plus",
+    "url": "http://live.okplus.rs:8000/;stream.nsv",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Op Top Radio",
+    "url": "http://213.239.205.210:8112/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Oradio RTV Novi Sad",
+    "url": "http://212.200.230.50:1935/oradio/oradio/oradio/playlist.m3u8",
+    "codec": "MP3",
+    "bitrate": 224,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Original Fast Radio",
+    "url": "https://az-de-01.worldradiobeat.com/listen/originalfastradio/live",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 43.30987329138826,
+    "lon": 21.9041445851326,
+    "language": ""
+  },
+  {
+    "name": "Original Fast Radio",
+    "url": "https://az-de-01.worldradiobeat.com:8000/live",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 43.30990451892641,
+    "lon": 21.904155313968666,
+    "language": ""
+  },
+  {
+    "name": "PLAY radio",
+    "url": "https://stream.playradio.rs:8443/play.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,serbian"
+  },
+  {
+    "name": "Pannon Rádió",
+    "url": "http://breddstream.unrealhosting.hu:4120/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hungarian"
+  },
+  {
+    "name": "Pink Radio",
+    "url": "https://edge9.pink.rs/pinkstream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Pink Radio",
+    "url": "http://edge1.pink.rs:1935/radiopinkfta/pink61.smil/playlist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 964,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Play",
+    "url": "http://stream.playradio.rs:8001/play.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Play Radio 103.4 (00's Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s25733",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Play Radio 92.5 (00's Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s17131",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Play Radio Balkan",
+    "url": "https://stream.playradio.rs:8443/balkan.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Play Radio Party",
+    "url": "https://stream.playradio.rs:8443/party.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,serbian"
+  },
+  {
+    "name": "Play Radio Rock",
+    "url": "https://stream.playradio.rs:8443/rock.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,serbian"
+  },
+  {
+    "name": "Play Radio SOFT",
+    "url": "https://stream.playradio.rs:8443/soft.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Play Radio Urban",
+    "url": "https://stream.playradio.rs:8443/urban.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Potok Radio",
+    "url": "http://51.195.100.203:15895/;",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Psychedelic Travel Radio",
+    "url": "https://e20.yesstreaming.net:6148/stream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Puls",
+    "url": "http://stream.iradio.pro:8074/;*.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 44.673731293749306,
+    "lon": 20.719495347625365,
+    "language": ""
+  },
+  {
+    "name": "RADIO AS FM",
+    "url": "https://asfmonair-masterasfm.radioca.st/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO K4 SHQIP 90.2 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s106089",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO KROV",
+    "url": "https://radio.dckrov.rs/listen/krov/radio.flac",
+    "codec": "OGG",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO MARIA SERBIA",
+    "url": "http://dreamsiteradiocp.com:8012/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "RADIO MARIA SERBIA HUNG",
+    "url": "http://dreamsiteradiocp.com:8014/stream",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hungarian"
+  },
+  {
+    "name": "RADIO MARIA SERBIA HUNG",
+    "url": "http://dreamsiteradiocp2.com:8062/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hungarian"
+  },
+  {
+    "name": "RADIO.D59B",
+    "url": "http://n10.radiojar.com/gn6dqzhf9mzuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "RSG Party time",
+    "url": "https://stream.rsg.rs/partytime/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "RSG Relax",
+    "url": "https://stream.rsg.rs/relax/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "RTI FM 101.0 (Pop Country)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s106047",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RTV - Radio Novi Sad 1",
+    "url": "http://212.200.230.50:1935/rns1/prviprogram/livestream/stream.m3u8",
+    "codec": "MP3",
+    "bitrate": 224,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "RTV - Radio Novi Sad 2 (Újvidéki Rádió)",
+    "url": "http://212.200.230.50:1935/rns2/drugiprogram/livestream/stream.m3u8",
+    "codec": "MP3",
+    "bitrate": 224,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hungarian"
+  },
+  {
+    "name": "RTV - Radio Novi Sad 3",
+    "url": "http://212.200.230.50:1935/rns3/treciprogram/livestream/stream.m3u8",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bulgarian,carpatho-rusyn,croatian,czech,german,macedonian,romani,romanian,slovak,ukrainian"
+  },
+  {
+    "name": "RTV Radio Belle Amie 100.7 (World Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s1477",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio 012",
+    "url": "http://144.76.219.22:8762/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio 021",
+    "url": "https://radio.dukahosting.com/8006/stream",
+    "codec": "AAC+",
+    "bitrate": 80,
+    "needsResolve": false,
+    "lat": 45.253235102325874,
+    "lon": 19.85641479492188,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio 021 100% domaće",
+    "url": "https://centova.dukahosting.com/proxy/021domaca/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 45.25753494762589,
+    "lon": 19.848260879516605,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio 021 Disco & Funk",
+    "url": "https://centova.dukahosting.com/proxy/021disco/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 45.24945629070167,
+    "lon": 19.83512878417969,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio 021 Rock",
+    "url": "https://centova.dukahosting.com/proxy/rock/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 45.24121973044229,
+    "lon": 19.838905334472656,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio 105 Zrenjanin | (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s341340",
+    "codec": "mp3",
+    "bitrate": 256,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio 3",
+    "url": "http://radio3-128.streaming.rs:9200/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio 3 LIVE",
+    "url": "https://radio3-64ssl.streaming.rs:9212/;stream.nsv",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio 31 Plus",
+    "url": "https://cast4.asurahosting.com/proxy/dejan/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio 34",
+    "url": "http://stream.radio34.rs:8889/;*.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio 34 88.9 (World Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s154414",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio 4P Narodna Muzika",
+    "url": "http://server4p.com:8002/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio 996FM",
+    "url": "https://radio.en.rs/radio/8000/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 43.72273351808177,
+    "lon": 20.686231255531315,
+    "language": "american english,english,serbian,spanish"
+  },
+  {
+    "name": "Radio ADA 107.7 (World Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s90184",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Alba 91.2 (European Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s246861",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Antena",
+    "url": "http://antena.topstream.net:19322/;",
+    "codec": "MP3",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio Aparat",
+    "url": "https://stream4.rcast.net/72355/",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio Aparat (with song titles)",
+    "url": "http://live4.rcast.net:8268/;stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 44.78805637925897,
+    "lon": 20.46340942382813,
+    "language": ""
+  },
+  {
+    "name": "Radio Apatin",
+    "url": "http://apatin96-naxinacional.streaming.rs:8500/",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio Apatin 105.8 (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s143259",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Arilje",
+    "url": "https://radio.dukahosting.com:7022/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio As",
+    "url": "http://185.102.239.216:8000/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio BG1",
+    "url": "https://rtsradio-live.morescreens.com/RTS_2_001/playlist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Balkan Narodna",
+    "url": "https://radiobalkan.live/radio/live/narodna.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Balkan Trending",
+    "url": "https://radiobalkan.live/radio/live/trending.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Balkan Zabavna",
+    "url": "https://radiobalkan.live/radio/live/zabavna.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Banja 2",
+    "url": "https://stream.iradio.pro/proxy/radiobanja2?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio Banja 2 100.7 (Folk Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s222252",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Beograd",
+    "url": "https://rtsradio-live.morescreens.com/RTS_2_001/audio/chunklist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 44.790409194452245,
+    "lon": 18.117454201227577,
+    "language": ""
+  },
+  {
+    "name": "Radio Beograd 2 link 2",
+    "url": "https://rtsradio-live.morescreens.com/RTS_2_002/playlist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Beograd 202",
+    "url": "https://rtsradio-live.morescreens.com/RTS_2_004/playlist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio Beseda",
+    "url": "http://radio.eparhijabacka.info:8000/RadioBeseda",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 45.257567369217625,
+    "lon": 19.84760776162148,
+    "language": ""
+  },
+  {
+    "name": "Radio Biser Plus 92.6 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s232736",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Blagovesnik",
+    "url": "http://radio.eparhijabacka.info:8000/RadioBlagovesnik",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Blue Sky",
+    "url": "http://82.114.72.2:8098/;stream.nsv",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio Boom 93 93.4 (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s10204",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Bravo 103.5 (Folk Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s9457",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Bubamara",
+    "url": "http://92.60.230.200:5010/;*.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio Bubamara 96.5 (Folk Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s10513",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Bubonja",
+    "url": "http://213.239.205.210:8094/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio Buca 89.0 (Folk Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s89306",
+    "codec": "mp3",
+    "bitrate": 256,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Bum 108.0 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s89805",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Centar 987 98.7 (News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s157440",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Cer",
+    "url": "http://stream1.contrateam.com:8040/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio D",
+    "url": "http://213.239.205.210:6010/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio D Lucani",
+    "url": "http://213.239.205.210:6010/;stream.nsv",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio D Lucani 94.0 (World Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s152950",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Dak 101.5 (Folk Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s54439",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Diskos",
+    "url": "https://eu8.fastcast4u.com/proxy/znedel032?mp=/1",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio Fantasy Vrbas",
+    "url": "http://109.206.96.34:8575/;stream.nsv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio Fruska Gora",
+    "url": "https://stream.iradio.pro/proxy/radiofruskagora?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio Futog",
+    "url": "https://radio.dukahosting.com:7001/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 45.23744056211667,
+    "lon": 19.706106483936313,
+    "language": ""
+  },
+  {
+    "name": "Radio Futog Krajina",
+    "url": "https://centova.dukahosting.com/proxy/futog/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio Gaga 94.9 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s120303",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Gaga Vlasotince",
+    "url": "http://stream1.srvnetplus.com:8074/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 42.967505049422826,
+    "lon": 22.13155031204224,
+    "language": ""
+  },
+  {
+    "name": "Radio Gold 98.2 (World Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s90156",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio IN Beograd",
+    "url": "https://radio3-64ssl.streaming.rs:9212/;*.mp3",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio IN Beograd 95.8 (Folk Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s90211",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio In",
+    "url": "https://radioinnis-naxinacional.streaming.rs:8622/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio In",
+    "url": "https://radioinnis-naxinacional.streaming.rs:8622/;stream.nsv",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 43.3101903843356,
+    "lon": 21.882019042968754,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio Indjija 96.0 (Variety)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s191961",
+    "codec": "mp3",
+    "bitrate": 56,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio JAT",
+    "url": "https://streaming.tdiradio.com/radiojat.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio KISS Lazarevac 106.1",
+    "url": "https://cast2.asurahosting.com/proxy/kissdoog/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio Karolina",
+    "url": "https://streaming.karolina.rs/karolina.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Klas",
+    "url": "http://195.201.172.217:9014/;",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio Klik Arilje",
+    "url": "https://stream.zeno.fm/mhuilnb3yoxuv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Kolo",
+    "url": "https://mars.streamerr.co/8280/stream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Kolubara Lajkovac",
+    "url": "https://a1.asurahosting.com:9130/radio.mp3",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio Kosava 1 106.3 (World Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s90375",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Kosova 2 90.5 (Entertainment & Media)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s113896",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Kosova 2 93.3 (Entertainment & Media)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s89296",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Krajina 019",
+    "url": "https://cmr-hosting.com:7021/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio Kulska Komuna",
+    "url": "http://as.q-media.rs:8000/mp3",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio LOLA",
+    "url": "http://streaming.tdiradio.com/radiolola.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Laguna 93.7 (Alternative Rock)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s212719",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Levač",
+    "url": "http://213.239.205.210:8046/index.html/",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": 43.86338328148847,
+    "lon": 21.09262347221375,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio Levač",
+    "url": "http://213.239.205.210:8046/",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio Ljubav 96.6 (World Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s125032",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Llapi 103.2 (Variety)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s71229",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Lola",
+    "url": "http://s2.tdiradio.com:8000/radiolola.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 44.79307407963865,
+    "lon": 20.45242309570313,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio Lola",
+    "url": "https://streaming.tdiradio.com/radiolola.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 44.80283945135996,
+    "lon": 20.469194143523424,
+    "language": "serbian,српски"
+  },
+  {
+    "name": "Radio Lola 101.4 (Folk Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s356478",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Mackica - Narodna Muzika",
+    "url": "http://cast2.name.ba:8153/;stream.nsv",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio Mackica - Zabavna Muzika",
+    "url": "http://cast2.name.ba:8157/;stream.nsv",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio Maestro",
+    "url": "https://radio-maestro.com:8443/stream.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Magnum",
+    "url": "http://magnum.web-srbija.net:8121/;stream.nsv",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio Marija Srbije 90.0 (Catholic Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s106035",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Max Coka 106.6 (Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s175687",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Mačkica",
+    "url": "http://cast2.name.ba:8153/;*.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio Morava",
+    "url": "https://e3.radiomorava.rs/radio/8000/radiomorava128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio Morava 91.9 (Folk Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s54566",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Nostalgija",
+    "url": "http://nostalgie128.streaming.rs:9250/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio Nostalgija 105.2 (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s116312",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Nostalgija AAC",
+    "url": "http://nostalgie48.streaming.rs:9270/",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Novi Sad 1 87.7 (Public Radio)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s86578",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Novosti 104.7 (World Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s25162",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Novosti Ex-Yu",
+    "url": "http://novosti.radiostreaming.rs/novosti2",
+    "codec": "MP3",
+    "bitrate": 140,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio Pančevo",
+    "url": "http://s29.myradiostream.com:16654/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio Patrola 021",
+    "url": "https://srv.mediastriming.com/8444/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio Peja 93.0 (Variety)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s125835",
+    "codec": "mp3",
+    "bitrate": 32,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Pingvin",
+    "url": "http://uzivo4.radiopingvin.com:8187/domaci1",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio Planeta 100.6 (World Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s129601",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Podrinje",
+    "url": "https://s1.skeletor.rs/podrinje",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio Podrinje Loznica",
+    "url": "http://s1.skeletor.rs:8000/podrinje",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio Požega 94.7 (Rock)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s348330",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Puls Grocka 88.7 (Folk Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s346302",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Razbibriga",
+    "url": "http://213.239.205.210:8001/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio Ritam Srca",
+    "url": "https://s4.radio.co/s0f65dad2d/listen",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio Rodna Gruda (Local Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s235239",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Ruf",
+    "url": "http://77.46.153.156:8000/;",
+    "codec": "AAC+",
+    "bitrate": 56,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio S",
+    "url": "https://53be5ef2d13aa.streamlock.net/asmedia/radios/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 43,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio S 2000-e",
+    "url": "https://stream.radios.rs:9052/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,serbian"
+  },
+  {
+    "name": "Radio S 2000-te Folk",
+    "url": "https://stream.radios.rs:9060/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio S 80e",
+    "url": "https://stream.radios.rs:9036/stream",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,serbian"
+  },
+  {
+    "name": "Radio S Cafe",
+    "url": "https://53be5ef2d13aa.streamlock.net/asmedia/radio_s_cafe/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 43,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio S Cafe",
+    "url": "https://stream.radios.rs:9012/stream",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,serbian"
+  },
+  {
+    "name": "Radio S Chill",
+    "url": "https://stream.radios.rs:9066/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,serbian"
+  },
+  {
+    "name": "Radio S Classic",
+    "url": "https://stream.radios.rs:9074/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,serbian"
+  },
+  {
+    "name": "Radio S Classic",
+    "url": "https://6069699a9e3f3.streamlock.net/asmedia/s_classic/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 43,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio S Dance",
+    "url": "https://stream.radios.rs:9014/stream",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,serbian"
+  },
+  {
+    "name": "Radio S Dance",
+    "url": "https://53a7ed211fc32.streamlock.net/asmedia/radio_s_energy/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 43,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio S EX YU",
+    "url": "https://stream.radios.rs:9042/stream",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio S EX YU",
+    "url": "https://53a7ed211fc32.streamlock.net/asmedia/radio_s_ex_yu/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 43,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio S Easy",
+    "url": "https://stream.radios.rs:9044/stream",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,serbian"
+  },
+  {
+    "name": "Radio S Folk Stars",
+    "url": "https://53a7ed211fc32.streamlock.net/asmedia/radio_s_lounge/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 43,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio S Folk Stars",
+    "url": "https://stream.radios.rs:9024/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio S Gold",
+    "url": "https://stream.radios.rs:9020/stream",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,serbian"
+  },
+  {
+    "name": "Radio S Gym",
+    "url": "https://stream.radios.rs:9068/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,serbian"
+  },
+  {
+    "name": "Radio S Jazz",
+    "url": "https://stream.radios.rs:9076/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,serbian"
+  },
+  {
+    "name": "Radio S Jazz",
+    "url": "https://53be5ef2d13aa.streamlock.net/asmedia/s_jazz/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 43,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio S Južni",
+    "url": "https://53a7ed211fc32.streamlock.net/asmedia/radio_s_juzni/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 43,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio S Južni",
+    "url": "https://stream.radios.rs:9038/stream",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio S Kids",
+    "url": "https://stream.radios.rs:9022/stream",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio S Kids",
+    "url": "https://53be5ef2d13aa.streamlock.net/asmedia/radio_s_kids/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 43,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio S Latino",
+    "url": "https://stream.radios.rs:9054/stream",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "latino,serbian,spanish"
+  },
+  {
+    "name": "Radio S Lounge",
+    "url": "https://stream.radios.rs:9062/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,serbian"
+  },
+  {
+    "name": "Radio S Mix",
+    "url": "https://stream.radios.rs:9010/stream",
+    "codec": "AAC+",
+    "bitrate": 36,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,serbian"
+  },
+  {
+    "name": "Radio S Modern Classic",
+    "url": "https://stream.radios.rs:9072/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,serbian"
+  },
+  {
+    "name": "Radio S Narodni",
+    "url": "https://stream.radios.rs:9016/;*.mp3",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 44.80074216531373,
+    "lon": 20.452079772949222,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio S Narodni",
+    "url": "https://stream.radios.rs:9016/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio S POP&ROCK",
+    "url": "https://53be5ef2d13aa.streamlock.net/asmedia/radio_s_pop_80_90/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 43,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio S Pop & Rock",
+    "url": "https://stream.radios.rs:9028/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,serbian"
+  },
+  {
+    "name": "Radio S Pop Ballads",
+    "url": "https://stream.radios.rs:9056/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,serbian"
+  },
+  {
+    "name": "Radio S Pop Folk",
+    "url": "https://stream.radios.rs:9046/stream",
+    "codec": "AAC+",
+    "bitrate": 72,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio S Rock",
+    "url": "https://stream.radios.rs:9032/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,serbian"
+  },
+  {
+    "name": "Radio S Rock Ballads",
+    "url": "https://stream.radios.rs:9058/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,serbian"
+  },
+  {
+    "name": "Radio S Sport",
+    "url": "https://stream.radios.rs:9078/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,serbian"
+  },
+  {
+    "name": "Radio S Sport Urban",
+    "url": "https://stream.radios.rs:9080/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,serbian"
+  },
+  {
+    "name": "Radio S Starogradski",
+    "url": "https://stream.radios.rs:9064/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio S Trap & Rap",
+    "url": "https://stream.radios.rs:9030/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio S Trap&Rap",
+    "url": "https://53a7ed211fc32.streamlock.net/asmedia/radio_s_mchits/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 42,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio S XTRA",
+    "url": "https://stream.radios.rs:9026/;*.mp3",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio S Xtra",
+    "url": "https://stream.radios.rs:9026/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio S1",
+    "url": "http://edge-rs-01.maksnet.tv/asmedia/radios/chunklist_w2049618642.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio S1",
+    "url": "https://stream.radios.rs:9000/;",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio S2",
+    "url": "https://53be5ef2d13aa.streamlock.net/asmedia/index/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 43,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio S2",
+    "url": "https://stream.radios.rs:9002/;",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,serbian"
+  },
+  {
+    "name": "Radio S3",
+    "url": "https://53be5ef2d13aa.streamlock.net/asmedia/pingvin/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 43,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio S3",
+    "url": "http://edge-rs-01.maksnet.tv/asmedia/pingvin/chunklist_w12686921.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio S3 Folk stars",
+    "url": "https://stream.radios.rs:9024/;",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio S3 Juzni",
+    "url": "http://53a7ed211fc32.streamlock.net/asmedia/radio_s_juzni/chunklist_w317033927.m3u8?nocache=286704",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio S3 Južni",
+    "url": "https://stream.radios.rs:9038/;*.mp3",
+    "codec": "AAC+",
+    "bitrate": 36,
+    "needsResolve": false,
+    "lat": 44.38512114194132,
+    "lon": 20.769653320312504,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio S3 Narodni",
+    "url": "https://stream.radios.rs:9016/;",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio S3 Trap And Rap",
+    "url": "https://stream.radios.rs:9030/;",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio S4",
+    "url": "https://53a7ed211fc32.streamlock.net/asmedia/gradski/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 43,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio S4",
+    "url": "https://stream.radios.rs:9006/;",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio S4",
+    "url": "https://53be5ef2d13aa.streamlock.net/asmedia/gradski/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 43,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio SKAY",
+    "url": "http://185.119.89.63:8000/;",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio SKAY",
+    "url": "https://live.radioskay.com/;*.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio San Loznica",
+    "url": "https://s1.skeletor.rs/san",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio Slavoslovlje",
+    "url": "http://radio.eparhijabacka.info:8000/RadioSlavoslovlje",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 45.25766528290234,
+    "lon": 19.847598373889927,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio Sljivovica",
+    "url": "http://stream.iradio.pro:8114/;stream.nsv",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio Sloboda 87.6 (News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s341925",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Sloboda Kraljevo",
+    "url": "https://audio.slobodafm.com:8000/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 43.70679927549168,
+    "lon": 20.646057128906257,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio Slovo Ljubve",
+    "url": "http://160.153.245.85:8000/stream/1/;*.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio Slovo Ljubve",
+    "url": "http://160.153.245.85:8000/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Sombor 97.5",
+    "url": "https://radio.dukahosting.com/8344/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio Srce Krajine",
+    "url": "https://srv.mediastriming.com/8330/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio Stara Čaršija",
+    "url": "http://radio.dukahosting.com:8026/;",
+    "codec": "MP3",
+    "bitrate": 112,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio Starcevo",
+    "url": "http://mpc2.mediacp.eu:8350/stream",
+    "codec": "AAC+",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio Stari Grad",
+    "url": "http://stream.rsg.rs:8043/;stream.nsv",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio Stari Grad",
+    "url": "https://stream.rsg.rs/live/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Stari Milanovac 93.0 (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s125796",
+    "codec": "mp3",
+    "bitrate": 40,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Stari grad - RSG 104.3 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s180871",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Studio B",
+    "url": "http://radio.studiob.rs:8004/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio Studio B 99.1 (80's)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s17588",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Sunset",
+    "url": "http://cmr-hosting.com:8425/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio TRI",
+    "url": "https://radiotri-128.streaming.rs:9302/;stream.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Tavor",
+    "url": "http://radio.eparhijabacka.info:8000/RadioTavor",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Uzice",
+    "url": "https://uzice.yunethosting.net/stream",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Užice",
+    "url": "http://uzice.yunethosting.net:8000/stream",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio VIP",
+    "url": "http://vip128.streaming.rs:8110/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio Vladimirci",
+    "url": "http://icecast.astratelekom.com:8000/vladimirci",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio Zelengrad - Milwaukee - USA",
+    "url": "http://usa5.fastcast4u.com:16276/;stream.nsv",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio Zlatousti",
+    "url": "http://stream.unlimited.rs:8076/live",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio grand",
+    "url": "https://s9.yesstreaming.net:7080/",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Šajkaška",
+    "url": "http://91.228.254.120:8000/;",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio Šumadinac",
+    "url": "https://media.srb-streaming.com/stream/radio-sumadinac-uzivo",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio Šumadinac Južni Vetar",
+    "url": "https://media.srb-streaming.com/stream/radio-sumadinac-juzni",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio Šumadinac Krajiška",
+    "url": "https://media.srb-streaming.com/stream/radio-sumadinac-krajiska",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio Šumadinac Narodna",
+    "url": "https://media.srb-streaming.com/stream/radio-sumadinac-narodna",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Red radio Beograd",
+    "url": "https://stream.redradio.rs/sid=1",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Resavski radio",
+    "url": "https://e3.radiomorava.rs/radio/8010/resavskiradio128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Resavski radio 88.0 (Folk Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s267485",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Retro Plus FM",
+    "url": "https://stream.zeno.fm/sq0b3qx5ztzuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Retro Plus FM 80s",
+    "url": "https://stream.zeno.fm/qz4m0f6w768uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Rock Radio Beograd",
+    "url": "https://edge9.pink.rs/rockstream/",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "S21 Euro",
+    "url": "https://radiozender.mpbnetwerken.nl/s21radio?v=1.0",
+    "codec": "AAC+",
+    "bitrate": 384,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "SKC",
+    "url": "https://skc.fm/hls/skc_radio/live.m3u8",
+    "codec": "AAC",
+    "bitrate": 52,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "SUPER CAFE 99.5 (Chill)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s258197",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "SUPER FM BEOGRAD 107.9 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s11125",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Slovo Ljubve 107.3 (Christian Contemporary)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s153856",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Sun Radio Novi Sad",
+    "url": "http://stream.radiojar.com/4qawu2xta2zuv.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Super FM",
+    "url": "http://onair.superfm.rs/superfm.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Super FM Beograd",
+    "url": "https://onair.superfm.rs/superfm.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Szabadkai Magyar Rádió",
+    "url": "http://breddstream.unrealhosting.hu:4110/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hungarian"
+  },
+  {
+    "name": "Szabadkai Magyar Rádió 107.1 (Public Radio)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s90194",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "TDI BEZ REKLAMA",
+    "url": "https://streaming.tdiradio.com/tdiradiobezreklama.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 44.784975838110704,
+    "lon": 20.469270393761462,
+    "language": "serbian"
+  },
+  {
+    "name": "TDI Radio",
+    "url": "http://streaming.tdiradio.com:8000/tdiradio",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "TDI Radio - Love",
+    "url": "http://streaming.tdiradio.com:8000/love",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "TDI Radio 91.8 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s356401",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "TDI Radio CRNA GORA",
+    "url": "https://streaming.tdiradio.com/crnagora.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "TOP FM Belgrade - 106,8 MHz",
+    "url": "https://topfm64ssl.streaming.rs:9287/;stream.mp3",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Tempo Naxi Radio",
+    "url": "http://195.252.68.166:8200/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Tempo Naxi Radio",
+    "url": "https://tempo.ipradio.rs:9034/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Top FM 106.8 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s17641",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "UnderGRAND RADIO",
+    "url": "http://stream.zeno.fm/rp1swb5pgzzuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "UnderGRAND radio",
+    "url": "https://stream.zeno.fm/rp1swb5pgzzuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Usce Shopping Radio",
+    "url": "http://naxidigital-usce128.streaming.rs:8000/;stream.nsv",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Ušće Shoping Radio",
+    "url": "http://109.206.96.18:8000/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "VIP Radio",
+    "url": "http://vip128.streaming.rs:8110/;stream.nsv",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Vladix 2 Rock",
+    "url": "http://vladix.dukahosting.com:8022/;stream.nsv",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Vladix 4 Rok",
+    "url": "http://vladix.dukahosting.com:8010/;stream.nsv",
+    "codec": "AAC+",
+    "bitrate": 80,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Vladix Radio",
+    "url": "http://vladix.dukahosting.com:8000/;stream.nsv",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "WTF Radio",
+    "url": "http://live.wtfradio.rs/wtfradio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Yu Novi Pazar",
+    "url": "https://yuradio.ipradio.rs:9036/;",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "ZaM Radio",
+    "url": "http://zam.zamradio.com:8022/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Zeleni Radio",
+    "url": "https://zeleniradio.zelenidogovor.org/listen/zeleni_radio/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Zlatiborski 106 Kosjerić",
+    "url": "http://213.239.205.210:8082/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Zrenjanin 103.6",
+    "url": "https://radio.dukahosting.com:7031/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "belle amie",
+    "url": "http://92.60.239.23:8000/;?type=http&nocache=323",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 43.36485956047748,
+    "lon": 21.863090751263336,
+    "language": ""
+  },
+  {
+    "name": "dj canic radio",
+    "url": "https://stream.zeno.fm/5xbihv8cky7tv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "iFM Narodni Radio",
+    "url": "http://91.228.254.72:7000/;stream.nsv",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "iFM Radio",
+    "url": "http://91.228.254.72:8000/;stream.nsv",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "mr.chem fm",
+    "url": "https://e20.yesstreaming.net:6217/stream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "naxi radio - cafe radio",
+    "url": "http://naxidigital-cafe128.streaming.rs:8020/;stream.nsv",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "naxi radio - rock",
+    "url": "http://naxidigital-rock128.streaming.rs:8180/;stream.nsv",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "radio centar",
+    "url": "http://195.252.68.166:8038/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "rock beograd",
+    "url": "https://edge9.pink.rs/rockstream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 44.807822707340094,
+    "lon": 20.556086475628277,
+    "language": "serbian"
+  },
+  {
+    "name": "skc slobodni",
+    "url": "https://skc.fm/hls/skc_radio/aac_hifi.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Čivijaš Radio",
+    "url": "http://media.srb-streaming.com:9078/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Đorđe Balašević",
+    "url": "https://stream.zeno.fm/tsscn2wtzc9uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "РТС - Радио Београд - 2",
+    "url": "https://rtsradio-live.morescreens.com/RTS_2_002/audio/chunklist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 44.825529222287685,
+    "lon": 20.454440116882328,
+    "language": "serbian"
+  },
+  {
+    "name": "РТС - Радио Београд - 202",
+    "url": "https://rtsradio-live.morescreens.com/RTS_2_004/audio/chunklist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 44.82535331180665,
+    "lon": 20.45204758644104,
+    "language": "serbian"
+  },
+  {
+    "name": "РТС - Радио Београд - 3",
+    "url": "https://rtsradio-live.morescreens.com/RTS_2_003/audio/chunklist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 44.8264385502329,
+    "lon": 20.453222393989567,
+    "language": "serbian"
+  },
+  {
+    "name": "РТС - Радио Београд - Џубокс",
+    "url": "https://rtsradio-live.morescreens.com/RTS_2_007/audio/chunklist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 44.82681901791999,
+    "lon": 20.45214951038361,
+    "language": "serbian"
+  },
+  {
+    "name": "РТС - Радио Београд - Вртешка",
+    "url": "https://rtsradio-live.morescreens.com/RTS_2_008/audio/chunklist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 44.82629016715427,
+    "lon": 20.4526698589325,
+    "language": "serbian"
+  },
+  {
+    "name": "РТС - Радио Београд - Плетеница",
+    "url": "https://rtsradio-live.morescreens.com/RTS_2_005/audio/chunklist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 44.8261218684165,
+    "lon": 20.4545795917511,
+    "language": "serbian"
+  },
+  {
+    "name": "РТС - Радио Београд - Рокенролер",
+    "url": "https://rtsradio-live.morescreens.com/RTS_2_006/audio/chunklist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 44.825753702067864,
+    "lon": 20.453190207481388,
+    "language": "serbian"
+  }
+]

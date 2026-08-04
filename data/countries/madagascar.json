@@ -1,0 +1,222 @@
+[
+  {
+    "name": "Alliance 92 FM 92.0 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s6266",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "ESDES Radio",
+    "url": "https://esdesradio.netpro.tv/listen/esdes_radio/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -19.846810534206593,
+    "lon": 46.66992187500001,
+    "language": "french"
+  },
+  {
+    "name": "Hopefy Radio MG",
+    "url": "https://hopefy.fanantenanahoanao.org/listen/hopefy_radio_mg/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -18.9127823783159,
+    "lon": 47.553634643554695,
+    "language": "malagasy"
+  },
+  {
+    "name": "NetPro.TV Radio",
+    "url": "https://radio.netpro.tv/listen/netpro_radio/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": -20.50678207718623,
+    "lon": 47.02148437500001,
+    "language": ""
+  },
+  {
+    "name": "Paradisagasy",
+    "url": "http://stream.radioparadisagasy.com:10018/paradisagasy",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "malagasy"
+  },
+  {
+    "name": "RADIO FEON'NY FILAZANTSARA 91.2 (Gospel)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s341278",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RDJ 96.6 FM | (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s47702",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RNA - Radio Ny Antsika (Local Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s221504",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RNA Madagascar",
+    "url": "http://drs-live-rna.gasy-internet.info:9001/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RNM",
+    "url": "https://direct.radiomadagasikara.com/listen/rnm/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Don Bosco",
+    "url": "http://onair15.xdevel.com:9248/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Radio Don Bosco Madagascar",
+    "url": "http://onair15.xdevel.com:9248/;stream.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Don Bosco Madagascar 93.4 (Religion & Spirituality)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s10768",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Fanambarana 98.4 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s176588",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Feon'ny Filazantsara",
+    "url": "https://fpsnew1.listen2myradio.com:2199/listen.php?ip=82.145.63.6&port=8622&type=s1",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": -19.864300648811327,
+    "lon": 47.03295886516572,
+    "language": ""
+  },
+  {
+    "name": "Radio HIFI",
+    "url": "https://listen.radioking.com/radio/52108/stream/89122",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Oasis",
+    "url": "https://hopefy.fanantenanahoanao.org/listen/radiooasistana/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Rock Madagascar",
+    "url": "https://tanjona.radioca.st/stream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Vaovao Mahasoa 106.8 (Christian Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s121023",
+    "codec": "mp3",
+    "bitrate": 20,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Vazo Gasy",
+    "url": "https://stream.radiovazogasy.com/stream?1.mp3",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio des jeunes (RDJ)",
+    "url": "http://rdj966.net:8000/rdj966.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "malagasy,malgache"
+  },
+  {
+    "name": "Top Radio 102.8",
+    "url": "https://listen.radioking.com/radio/309053/stream/356036",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

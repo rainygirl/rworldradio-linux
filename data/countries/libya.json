@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Almunir FM 94 (Islamic Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s329409",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Hala Sabratha",
+    "url": "http://stream.zeno.fm/1dy2395z3k8uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Libyana Hits FM",
+    "url": "http://proxima.shoutca.st:8946/stream",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "The Salaf Way 100.3 FM Tripoli LY",
+    "url": "http://airtime.salafway.ly/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 32.88464176208257,
+    "lon": 13.186683654785158,
+    "language": "arabic"
+  },
+  {
+    "name": "إذاعة نور الإيمان المسموعة 105.7 FM",
+    "url": "https://stream.zeno.fm/r6eprdta6nhvv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "راديو فنون طرابلس - Radio Arts Tripoli",
+    "url": "https://stream.zeno.fm/z9wfrdpmgg0uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  }
+]

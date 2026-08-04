@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Abdulbasit Abdulsamad",
+    "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Lao National Radio 103.7",
+    "url": "https://radio.lnr.org.la/fm103",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Lao National Radio 94.3",
+    "url": "https://radio.lnr.org.la/fm94",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Toki Pona Radio",
+    "url": "https://kute.pona.la/stream/tpr",
+    "codec": "OGG",
+    "bitrate": 16,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

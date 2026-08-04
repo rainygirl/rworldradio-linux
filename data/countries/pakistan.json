@@ -1,0 +1,682 @@
+[
+  {
+    "name": "101peshawar",
+    "url": "https://whmsonic.radio.gov.pk:8070/relay?type=http&nocache=9",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "pashto /urdu"
+  },
+  {
+    "name": "AK radio Trarkhal",
+    "url": "https://whmsonic.radio.gov.pk:8076/relay?type=http&nocache=9",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "urdu"
+  },
+  {
+    "name": "Aladin Radio Network",
+    "url": "https://cc.vmakerhost.com/proxy/magic?mp=/live",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 33.664657282179306,
+    "lon": 73.0693817138672,
+    "language": "urdu"
+  },
+  {
+    "name": "All4Masti",
+    "url": "http://stream.zeno.fm/bahhkuge5zhvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 32.073505272699286,
+    "lon": 72.68018165945509,
+    "language": "english,hindi,punjabi,urdu"
+  },
+  {
+    "name": "BAHAWAL PUR MW STATION",
+    "url": "https://whmsonic.radio.gov.pk:8088/stream?type=http&nocache=4",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "urdu"
+  },
+  {
+    "name": "City FM 89",
+    "url": "https://radio.cityfm89.com/stream",
+    "codec": "AAC",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "FM 100 Pakistan",
+    "url": "http://162.244.80.118:4900/;stream.mp3",
+    "codec": "MP3",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "urdu"
+  },
+  {
+    "name": "FM 100 Pakistan Abbottabad",
+    "url": "http://162.244.80.118:4900/stream.mp3",
+    "codec": "MP3",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": 34.144638202391015,
+    "lon": 73.21460723876955,
+    "language": "pashto,urdu"
+  },
+  {
+    "name": "FM 100 Pakistan Gujrat",
+    "url": "http://162.244.80.118:4900/stream.mp3?ver=682776",
+    "codec": "MP3",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": 32.567376636216494,
+    "lon": 74.07600402832033,
+    "language": "english,urdu/punjabi/seraiki"
+  },
+  {
+    "name": "FM 100 Pakistan Hyderabad",
+    "url": "http://162.244.80.118:3024/stream.mp3?ver=517748",
+    "codec": "MP3",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": 25.357755107936605,
+    "lon": 68.34320068359376,
+    "language": "sindhi,urdu"
+  },
+  {
+    "name": "FM 100 Pakistan Islamabad",
+    "url": "http://162.244.80.118:4900/stream.mp3?ver=604498",
+    "codec": "MP3",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": 33.673532816513664,
+    "lon": 73.06045532226564,
+    "language": "english,urdu"
+  },
+  {
+    "name": "FM 100 Pakistan Karachi",
+    "url": "http://162.244.80.118:3024/stream.mp3?ver=349829",
+    "codec": "MP3",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": 24.874133877351746,
+    "lon": 67.09899902343751,
+    "language": "english,sindhi,urdu"
+  },
+  {
+    "name": "FM 101 Islamabad",
+    "url": "https://whmsonic.radio.gov.pk:7008/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "FM 101 Karachi",
+    "url": "https://whmsonic.radio.gov.pk:8048/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "FM 101 Khairpur",
+    "url": "https://whmsonic.radio.gov.pk:8054/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "FM 101 Larkana",
+    "url": "https://whmsonic.radio.gov.pk:8050/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "FM 101 Mithi",
+    "url": "https://whmsonic.radio.gov.pk:8052/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "FM 101 Sargodha",
+    "url": "https://whmsonic.radio.gov.pk:8040/relay",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "FM 93 Chitral",
+    "url": "https://whmsonic.radio.gov.pk:8066/relay",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "FM 93 Faisalabad",
+    "url": "https://whmsonic.radio.gov.pk:8022/relay",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "FM 93 Karachi",
+    "url": "https://whmsonic.radio.gov.pk:7022/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "FM 93 Lahore",
+    "url": "https://whmsonic.radio.gov.pk:8088/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "FM 93 Mianwali",
+    "url": "https://whmsonic.radio.gov.pk:8028/relay",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "FM 93 Multan",
+    "url": "https://whmsonic.radio.gov.pk:8032/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "FM 93 Rawalpindi",
+    "url": "https://whmsonic.radio.gov.pk:8036/relay",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "FM91 Pakistan - Karachi 91.0 (Pakistani Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s100617",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Fm.94.4",
+    "url": "https://whmsonic.radio.gov.pk:7002/stream?type=http&nocache=12",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "HOT FM Karachi",
+    "url": "http://172.93.237.106:8000/",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "urdu"
+  },
+  {
+    "name": "Hot FM 105",
+    "url": "http://172.93.237.106:8000/listen.mp3",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "urdu"
+  },
+  {
+    "name": "Hot FM 105 105.0 (Variety)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s206884",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Hot fm Nawabshah",
+    "url": "https://stream.zeno.fm/t961q1d0vp6vv/",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Hum FM 106.2",
+    "url": "https://server.mediacast4u.stream/8002/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 24.795206860749147,
+    "lon": 67.0706943424193,
+    "language": "english,urdu"
+  },
+  {
+    "name": "ILM Radio Renala FM 92",
+    "url": "https://stream.zeno.fm/7wre21u7xa0uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 30.8747551904531,
+    "lon": 73.59861373901369,
+    "language": "urdu"
+  },
+  {
+    "name": "Insaf Radio",
+    "url": "https://cdn.voscast.com/resources/?key=4e1e2d7ac97ea7ad9493c529df2ab16c&c=wmp",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Love-Islam-Radio",
+    "url": "https://stream-52.zeno.fm/f9h69cgbu68uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic,urdu"
+  },
+  {
+    "name": "Mera FM 107.4",
+    "url": "https://samaakhi107-itelservices.radioca.st/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 33.657531190464844,
+    "lon": 73.08517456054689,
+    "language": "urdu"
+  },
+  {
+    "name": "Mera FM 107.4 Lahore",
+    "url": "https://samaalhr107-itelservices.radioca.st/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "urdu/punjabi/seraiki"
+  },
+  {
+    "name": "Multan MW",
+    "url": "https://whmsonic.radio.gov.pk:8034/stream?type=http&nocache=12",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "urdu"
+  },
+  {
+    "name": "PBC FM 101 101.0 (Entertainment)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s14358",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "PBC FM 101 101.0 (Entertainment)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s68412",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "PBC FM 101 101.0 (Entertainment)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s68408",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "PBC FM 101 101.0 (Entertainment)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s68409",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "PBC FM 101 101.0 (Entertainment)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s68406",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "PBC FM 101 101.0 (Entertainment)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s68410",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "PBC FM 101 101.0 (Entertainment)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s68411",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Papa John's Pizza Pakistan",
+    "url": "http://162.252.85.85:7086/",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,hindi,sindhi,spanish,tamil,urdu"
+  },
+  {
+    "name": "Radio Mirpur",
+    "url": "https://whmsonic.radio.gov.pk:8074/?type=http&nocache=9",
+    "codec": "MP3",
+    "bitrate": 40,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "urdu"
+  },
+  {
+    "name": "Radio One FM 91",
+    "url": "https://cc.vmakerhost.com/proxy/karachi?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 31.52016648911368,
+    "lon": 74.32800292968751,
+    "language": "english,urdu"
+  },
+  {
+    "name": "Radio One FM 91 Gwadar",
+    "url": "http://cc.vmakerhost.com:8147/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 25.151354521662668,
+    "lon": 62.32303619384766,
+    "language": "urdu"
+  },
+  {
+    "name": "Radio Pakistan D.I. Khan MW 711",
+    "url": "https://whmsonic.radio.gov.pk:7000/Dikhan",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Pakistan Hyderabad MW 1008 KHz",
+    "url": "https://whmsonic.radio.gov.pk:8042/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Pakistan Islamabad",
+    "url": "https://whmsonic.radio.gov.pk:7003/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Pakistan Karachi MW 639",
+    "url": "https://whmsonic.radio.gov.pk:7000/MW639khi",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Pakistan Lahore",
+    "url": "https://whmsonic.radio.gov.pk:8026/relay?type=http&nocache=9",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "urdu"
+  },
+  {
+    "name": "Radio Pakistan Lahore News and Current Affair AM 1332 KHZ",
+    "url": "https://whmsonic.radio.gov.pk:7004/stream?type=http&nocache=12",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "urdu"
+  },
+  {
+    "name": "Radio Pakistan Multan MW",
+    "url": "https://whmsonic.radio.gov.pk:8034/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Pakistan Peshawar MW",
+    "url": "https://whmsonic.radio.gov.pk:8072/relay",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Pakistan Quetta MW",
+    "url": "https://whmsonic.radio.gov.pk:8060/relay",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Pakistan WS",
+    "url": "https://whmsonic.radio.gov.pk:7005/stream?type=http&nocache=12",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "urdu"
+  },
+  {
+    "name": "Radio Pakistan World Service",
+    "url": "https://whmsonic.radio.gov.pk:7005/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "SAMAA FM 107.4 (Variety)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s182923",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "SPICE FM 107 107.0 (Pakistani Pop)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s185890",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Shopen Anime Radio",
+    "url": "https://s97.radiolize.com:8040/radio.mp3",
+    "codec": "AAC",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "fm",
+    "url": "http://canada1.reliastream.com:8191/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "fm...",
+    "url": "http://n0a.radiojar.com/htnudfgugm8uv?rj-ttl=5&rj-tok=AAABjGvN8wYArmabhGP5SLHW1A",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "fm.92",
+    "url": "http://s33.myradiostream.com:13872/listen.m4a",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "fm.92.",
+    "url": "http://s47.myradiostream.com:12804/listen.m4a",
+    "codec": "AAC+",
+    "bitrate": 28,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "live",
+    "url": "http://live.mp3quran.net:9752/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

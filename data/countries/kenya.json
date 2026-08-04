@@ -1,0 +1,982 @@
+[
+  {
+    "name": "96.3 Nation FM | (Hip Hop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s267921",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "98.4 Capital FM",
+    "url": "https://atunwadigital.streamguys1.com/capitalfm",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "ALLIZINIC FM",
+    "url": "http://allzic43.ice.infomaniak.ch/allzic43.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "AT254 Online Radio",
+    "url": "https://s127.radiolize.com/radio/8100/radio.mp3",
+    "codec": "AAC",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": -1.3076148286485751,
+    "lon": 36.82324022054673,
+    "language": ""
+  },
+  {
+    "name": "AWR AFRICA ECD 123 (Religious Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s343501",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Aldai Radio",
+    "url": "https://stream.zeno.fm/sojbskv8s10vv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Aperit FM 93 (African Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s351300",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "BHB FM 102.5 (World Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s201370",
+    "codec": "mp3",
+    "bitrate": 40,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Berur FM 96.7 (Local News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s337700",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Biblia Husema Broadcasting 96.7 (Christian Contemporary)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s240280",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bloom Radio",
+    "url": "https://www.radioking.com/play/urban-gospel-radio-1?ver=701111",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "CARRIBEAN",
+    "url": "https://streams.rautemusik.fm/caribbean-wave/mp3-192/",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "CRI Kiswahili",
+    "url": "https://sk.cri.cn/kenya.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "kiswahili"
+  },
+  {
+    "name": "Campus Radio Kenya",
+    "url": "https://stream.zenolive.com/mayn36v1v8quv.aac",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Capital FM Kenya 98.4 (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s6254",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Classic 105 105.2 (Classic Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s152433",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Dickens FM 96.7 (Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s338339",
+    "codec": "mp3",
+    "bitrate": 128000,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Easy FM 101.5",
+    "url": "https://stream.zeno.fm/wvw02zaqpxquv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Easy FM 101.5 (Soul)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s110970",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Easy FM 96.3 (Soul)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s6971",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Emmachev Radio",
+    "url": "https://radio.emmachev.com/listen/emmachev-radio/radio.mp3",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Emoo FM 91.8 (Arts & Entertainment News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s358199",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Exclusive radio George Straight",
+    "url": "https://streaming.exclusive.radio/er/georgestrait/icecast.audio",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "FEEL JAH",
+    "url": "http://solid9.streamupsolutions.com:8018/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "FM RASSTYLE KENYA",
+    "url": "http://stream.zeno.fm/gf58b0pt5x8uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Flamingo Radio",
+    "url": "https://stream.zeno.fm/215bpympks8uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "GHETT",
+    "url": "http://stream.zeno.fm/kvudezx1h2zuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "GHETTOKE KENYA",
+    "url": "http://stream-47.zeno.fm/gf58b0pt5x8uv?zs=9Rb0nsM4TlCJ9aggk8nWAg",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "GHETTOO KENYA",
+    "url": "http://stream.zeno.fm/cs4q33arb2zuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Galaxy FM 100.2 (African Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s358205",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "George Jones",
+    "url": "https://nl4.mystreaming.net/er/georgejones/icecast.audio",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Ghetto Radio 89.5 (Reggae)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s77900",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "IRIE FM JAMAICA",
+    "url": "http://stream.zeno.fm/6zszyw9tarzuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Imani Radio 88.8 (Christian Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s182314",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "JEMBE FM",
+    "url": "https://cast3.asurahosting.com/proxy/jembemed/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Jay Fm",
+    "url": "https://stream.zeno.fm/geapkb665rquv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": -4.290950912062887,
+    "lon": 39.584770202636726,
+    "language": ""
+  },
+  {
+    "name": "Jesus is LORD Radio",
+    "url": "https://s3.radio.co/s97f38db97/listen",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Juja FM",
+    "url": "http://node-10.zeno.fm/5w8y7wcf9x8uv?zs=xwoBg8DVTx2jYRhHsWgHXw&rj-ttl=5&rj-tok=AAABgnKqVSgAmEHnh12jXuZhAw",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": -1.099294487973653,
+    "lon": 37.01384762594899,
+    "language": "american english,english,swahili"
+  },
+  {
+    "name": "Juraini Radio",
+    "url": "http://stream.zeno.fm/fe0nc58z8vzuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "KBC",
+    "url": "http://stream.zeno.fm/ud2u96xst5quv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "KBC Coro FM 99.5 (African Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s210272",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "KBC Mayienga FM 93.5 (African Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s210271",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "KENYA1 FM",
+    "url": "https://stream.zeno.fm/cmgkmed5u18uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "kikuyu swahili"
+  },
+  {
+    "name": "KINGSTONE",
+    "url": "http://198.57.187.102:8080/kingston12",
+    "codec": "MP3",
+    "bitrate": 140,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Kameme FM",
+    "url": "https://kamemefm-atunwadigital.streamguys1.com/kamemefm",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Kass FM 102.7 (World Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s157091",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Kass FM 89.1 (World Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s102675",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Kijito Cha Uzima FM 99.9 (Religious Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s346163",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Kimuri Radio 100.6",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s332863",
+    "codec": "",
+    "bitrate": 0,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Kimuri Radio 100.6FM | (Advice)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s357005",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Koch FM 99.9 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s341574",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Kustommediaradio",
+    "url": "https://stream.zeno.fm/3zgc6zpfvorvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swahili"
+  },
+  {
+    "name": "MWANGAZA WA NENO FM KENYA",
+    "url": "https://stream.zeno.fm/e34h1cbrmeruv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Mayian FM",
+    "url": "https://mayianfm-atunwadigital.streamguys1.com/mayianfm",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Mayian FM 100.7 (Arts & Entertainment News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s358196",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Meru FM 88.3 (Arts & Entertainment News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s358201",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Milele FM 104.8 (00's Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s358202",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Msenangu FM 99.5 (Arts & Entertainment News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s358204",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "NATION FM",
+    "url": "http://stream.radiojar.com/3by7s8eg65quv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "NRG FM",
+    "url": "https://streamingv2.shoutcast.com/nrg-radio-ke",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "North Rift Radio 104.9 (African Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s351301",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Osiepe FM 93.6 (African Rhythms)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s358195",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "QFM 94.4 (World Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s268437",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "R MARIA KENYA",
+    "url": "http://dreamsiteradiocp2.com:8092/",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO GENERATION 88.8 (Entertainment)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s344711",
+    "codec": "mp3",
+    "bitrate": 326,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO44 100.8",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s335609",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RASSS KENYA",
+    "url": "http://stream-57.zeno.fm/gf58b0pt5x8uv?zs=_88r_Fp8TmC34vmgpzzmzQ",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RASTYLE KENYA",
+    "url": "http://stream-57.zeno.fm/gf58b0pt5x8uv?zs=vvcdeoPjSamesknSTOXHvQ",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "REGGAE ROOTS",
+    "url": "http://relay5.181.fm:8096/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "REPLAY NEWS - Kiswahili",
+    "url": "https://replaynewssw.ice.infomaniak.ch/replaynewssw-128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swahili"
+  },
+  {
+    "name": "RWARE FM 101.7 (Religion & Spirituality)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s349466",
+    "codec": "mp3",
+    "bitrate": 128000,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio 316 103.9 (Christian Contemporary)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s6131",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio 316 97.9 (Christian Contemporary)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s65545",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio 47 103 (Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s352001",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Injili 103.7 (Religion & Spirituality)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s349443",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Injili 103.7 Fm | (Gospel)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s260219",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Kaya",
+    "url": "http://usa9-vn.mixstream.net:8084/;",
+    "codec": "MP3",
+    "bitrate": 109,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,swahili"
+  },
+  {
+    "name": "Radio Maria Kenya - Nairobi",
+    "url": "http://dreamsiteradiocp5.com:8069/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Maria Kenya - Nyeri",
+    "url": "http://57.129.49.167:8092/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Maria Kenya Kisumu",
+    "url": "http://dreamsiteradiocp5.com:8129/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Safari Kenya",
+    "url": "https://stream.zeno.fm/t65cszbgunhvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Safina FM 90.7 (Gospel)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s339861",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Waumini 88.3 (Catholic Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s152505",
+    "codec": "mp3",
+    "bitrate": 112,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Waumini 88.3FM",
+    "url": "http://stream.zeno.fm/gvk894g072quv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio47",
+    "url": "https://streaming.shoutcast.com/radio-47?ver=690109",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Ruben FM 99.9 (African Rhythms)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s358192",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Serian Fm Radio 88.9 | (African Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s349276",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Smooth FM 105.5 (Classic Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s253517",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Sound Asia FM 88.0 (Bollywood)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s123481",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Soundcity Radio Kenya 88.5 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s342402",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Taach FM",
+    "url": "https://pegasus.nucast.co.uk:8064/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Truth FM 90.7 (World Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s196162",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "URUMWE 104 (Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s349536",
+    "codec": "mp3",
+    "bitrate": 80,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Zoza Radio",
+    "url": "https://stream-153.zeno.fm/vp6qzta3pnhvv?zs=Gjwa-PX6TFa5dVY3KEcoTg&listening-from-radio-garden=1694879018",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": -1.2846747580059668,
+    "lon": 36.81312561035157,
+    "language": "english,kiswahili,swahili"
+  },
+  {
+    "name": "classic",
+    "url": "http://media-ice.musicradio.com/ClassicFMMP3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "ghett kenya",
+    "url": "http://stream-27.zeno.fm/kvudezx1h2zuv?zs=hCl2Q4ZVSPykhlahMviRpQ",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "ghetto kenya",
+    "url": "https://stream.zeno.fm/kvudezx1h2zuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "tubdiy ke 98.7 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s352877",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

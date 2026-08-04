@@ -1,0 +1,112 @@
+[
+  {
+    "name": "AFN 360 Bahrain",
+    "url": "http://27863.live.streamtheworld.com/AFNE_BHN_SC",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Bahrain 106.1 FM",
+    "url": "https://5c7b683162943.streamlock.net/live/ngrp:radio-106-1_all/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 1066,
+    "needsResolve": false,
+    "lat": 26.163768061827835,
+    "lon": 50.55410550979544,
+    "language": "arabic"
+  },
+  {
+    "name": "Bahrain FM 93.3",
+    "url": "https://5c7b683162943.streamlock.net/live/ngrp:radio-93-3_all/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 1066,
+    "needsResolve": false,
+    "lat": 26.222588760083845,
+    "lon": 50.57861268187665,
+    "language": ""
+  },
+  {
+    "name": "Live FM",
+    "url": "https://stream.aiir.com/dbv0rxpwp6ytv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bangla,english,english hindi,hindi,kannada,malayalam,tamil,telugu,urdu/punjabi/seraiki"
+  },
+  {
+    "name": "Panorama FM",
+    "url": "https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8",
+    "codec": "AAC",
+    "bitrate": 348,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Plus FM 89.2 (Arabic Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s345314",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO SUNO 87.6 FM | (Indian Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s357174",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Bahrain 102.3 FM | (Arabic Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s345312",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Suno 87.6 | (Entertainment & Media)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s356090",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Traditional Radio 95.0",
+    "url": "https://5c7b683162943.streamlock.net/live/ngrp:radio-95-0_all/chunklist_w1641860732_b981072.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 26.21949856092461,
+    "lon": 50.58162774327979,
+    "language": ""
+  },
+  {
+    "name": "Voice of Ummah",
+    "url": "http://mediati.me/radio/8010/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

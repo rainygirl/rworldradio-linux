@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Dolfijn FM 97.3",
+    "url": "http://radiostreamfm.com:8130/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish,willemstad"
+  },
+  {
+    "name": "Dolfijn FM Classic 80's 90's",
+    "url": "http://radiostreamfm.com:8120/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 112,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish,willemstad"
+  },
+  {
+    "name": "Easy 97.9 FM",
+    "url": "http://64.150.176.42:8011/live",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 12.113830436446516,
+    "lon": -68.90986297194088,
+    "language": ""
+  },
+  {
+    "name": "HITradio 915 Curacao",
+    "url": "http://stream.paradisefm.cw/HITradio915",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "willemstad"
+  },
+  {
+    "name": "Joce production fm",
+    "url": "http://stream.zeno.fm/hp4bpr101ehvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch,willemstad"
+  },
+  {
+    "name": "Paradise FM 00's & 10's",
+    "url": "https://stream.paradisefm.cw/00s10s",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "willemstad"
+  },
+  {
+    "name": "Paradise FM 103.1 Curacao",
+    "url": "http://stream.paradisefm.cw/ParadiseFM",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "willemstad"
+  },
+  {
+    "name": "Paradise FM 60s & 70s",
+    "url": "https://stream.paradisefm.cw/60s70s",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "willemstad"
+  },
+  {
+    "name": "Paradise FM 80's & 90's",
+    "url": "https://stream.paradisefm.cw/80s90s",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "willemstad"
+  },
+  {
+    "name": "Paradise FM Disco Inferno",
+    "url": "https://stream.paradisefm.cw/ParadiseDiscoInferno",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "willemstad"
+  },
+  {
+    "name": "Paradise FM Latin",
+    "url": "https://stream.paradisefm.cw/ParadiseLatin",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "willemstad"
+  },
+  {
+    "name": "Paradise FM Nonstop",
+    "url": "https://stream.paradisefm.cw/ParadiseNonstop",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "willemstad"
+  },
+  {
+    "name": "Radio 94 Korsou - 94.5 Willemstad",
+    "url": "http://162.243.94.61:8028/;stream.mp3",
+    "codec": "MP3",
+    "bitrate": 100,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "papiamentu"
+  },
+  {
+    "name": "Radio Active 104.5 FM",
+    "url": "https://kadushi.westream.cloud/listen/radioactive/RadioActive",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "willemstad"
+  },
+  {
+    "name": "Radio Deltha 92.7 FM",
+    "url": "https://kadushi.westream.cloud/listen/delta/live",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "willemstad"
+  },
+  {
+    "name": "Radio Direct 107.1FM",
+    "url": "https://edge1.direct107.com/;?type=http&nocache=28",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Krioyo 89.7 FM",
+    "url": "https://radios.wakenext.com/hls/radio_kriyoyo_2/live.m3u8",
+    "codec": "AAC",
+    "bitrate": 52,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Mas",
+    "url": "https://radios.wakenext.com/hls/radio_mas99/live.m3u8",
+    "codec": "AAC",
+    "bitrate": 52,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Mas 99.7 FM",
+    "url": "https://kadushi.westream.cloud/listen/mas99/live",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "willemstad"
+  },
+  {
+    "name": "Ritmo Antiyano FM",
+    "url": "https://ec6.yesstreaming.net:3105/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch,willemstad"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Abdulbasit Abdulsamad",
+    "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "sensuelle radio",
+    "url": "https://forwardmystream.com/sensuelleradio",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": -21.27568942887999,
+    "lon": 55.52310794591904,
+    "language": "french"
+  }
+]

@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=R World Radio
+GenericName=Internet Radio
+Comment=Listen to internet radio stations from around the world
+Exec=rworldradio
+Icon=rworldradio
+Terminal=false
+Categories=AudioVideo;Audio;Player;
+Keywords=radio;internet radio;stream;music;shoutcast;icecast;
+# Matches the app id set by with_app_id() in src/main.rs, so XFCE's taskbar and
+# window list associate the window with this entry (and therefore this icon).
+StartupWMClass=rworldradio
+StartupNotify=true

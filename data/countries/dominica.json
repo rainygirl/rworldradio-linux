@@ -1,0 +1,62 @@
+[
+  {
+    "name": "DBS Radio",
+    "url": "https://stream.dbcradio.net:8005/live",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Dominica Catholic Radio",
+    "url": "https://cdn.comeseetv.com:8010/dominicacatholicradio?1740579480509",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "En Ba Mango",
+    "url": "https://s10.myradiostream.com/:4212/listen.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 15.24416593167221,
+    "lon": -61.32106419408114,
+    "language": "creole,english"
+  },
+  {
+    "name": "Fabulosa 96.7",
+    "url": "https://bostonstreaminge.net/8006/stream",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Voice of Life Radio",
+    "url": "https://cdn.comeseetv.com:8000/vol",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "X Televisión",
+    "url": "https://samson.streamerr.co:8081/xtelevisionrd/tracks-v1a1/mono.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

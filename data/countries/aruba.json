@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Bo Guia 88.9 FM",
+    "url": "http://whooshserver.net:9880/live",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Canal90 FM",
+    "url": "https://stream.canal90.fm/live",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Fresh FM 1043",
+    "url": "http://www.coolaruba.com:8006/stream/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Magic 96.5 - Oranjestad",
+    "url": "http://158.69.114.190:8072/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "papiamentu"
+  },
+  {
+    "name": "Massive Arub",
+    "url": "http://surilive.com:8350/",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "yhju",
+    "url": "http://52.0.120.216:8000/stream/4/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "anq"
+  }
+]

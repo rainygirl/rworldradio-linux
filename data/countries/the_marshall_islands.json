@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Abdulbasit Abdulsamad",
+    "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Offshore Radio",
+    "url": "https://live.offshoreradio.net/listen/offshore_radio/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 7.086656768796287,
+    "lon": 171.3741311430931,
+    "language": "english"
+  },
+  {
+    "name": "Offworld Radio",
+    "url": "https://a4.asurahosting.com:7310/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  }
+]

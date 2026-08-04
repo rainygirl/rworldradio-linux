@@ -1,0 +1,1142 @@
+[
+  {
+    "name": "95.3 fm Radio Silver mix | (00's Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s273678",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "AIQUILEÑA RADIO Y TELEVISIÓN",
+    "url": "http://radios.istbolivia.com:8014/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "ATB Radio",
+    "url": "https://streamingenbolivia.com/8006/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": -16.50295721026603,
+    "lon": -68.1197512149811,
+    "language": "spanish"
+  },
+  {
+    "name": "Atlantida Radio Online",
+    "url": "https://radio.atlantidafm903.com:8020/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Atlántida FM 102.7 | (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s266673",
+    "codec": "mp3",
+    "bitrate": 256,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Audiokiss 90.7 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s1955",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Big Radio Bolivia",
+    "url": "http://stream.zeno.fm/cb4zhgss538uv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": -17.78807337320219,
+    "lon": -63.181686401367195,
+    "language": "quechua,spanish"
+  },
+  {
+    "name": "Ciudad Radio 101.5 FM",
+    "url": "https://emiteradio.com/proxy/monteroradio?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 72,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Classica FM",
+    "url": "http://classicafm.scbbs.net:8000/;?type=http&nocache=839969",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español internacional"
+  },
+  {
+    "name": "Classica FM",
+    "url": "http://classicafm.scbbs.net:8000/;",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español internacional"
+  },
+  {
+    "name": "Classica FM 106.9 (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s86447",
+    "codec": "mp3",
+    "bitrate": 48,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Clásica 100.3 Cochabamba",
+    "url": "http://radios.istbolivia.com:9976/;",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Cristo Viene La Red",
+    "url": "https://stream20.usastreams.com:7000/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "EDUCACIÓN RADIOFÓNICA DE BOLIVIA 100.9 (Local News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s112848",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "EL DEBER Radio 104.3 (Local News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s164976",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "EL TILUCHI FM 98.5 | (Easy Listening)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s351454",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "El Derribador Radio",
+    "url": "http://sc10.conectarhosting.com/proxy/derribadorradio/;",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": -16.499773400129055,
+    "lon": -68.12343657016756,
+    "language": "spanish"
+  },
+  {
+    "name": "El Fin del Silencio",
+    "url": "https://servidor24-1.brlogic.com:7302/live",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": -17.393819125471254,
+    "lon": -66.15692138671876,
+    "language": "español internacional"
+  },
+  {
+    "name": "Eres Radio 88.3 (Romance)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s329721",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Eres Radio 98.5 (Romance)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s329722",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Eres Radio 98.5 FM",
+    "url": "https://sp5.servidorrprivado.com/8789/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -17.37626215950146,
+    "lon": -66.15777969360353,
+    "language": "english,spanish"
+  },
+  {
+    "name": "Estelar Fm",
+    "url": "https://a3.asurahosting.com:6080/radio.mp3",
+    "codec": "AAC",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": -16.50985442853193,
+    "lon": -68.1258934736252,
+    "language": "spanish"
+  },
+  {
+    "name": "FM La Paz",
+    "url": "https://spanel.gcomstreaming.com:7008/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -16.498566728053568,
+    "lon": -68.13390254974367,
+    "language": ""
+  },
+  {
+    "name": "Fides La Paz",
+    "url": "http://192.95.23.89:6358/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español - latinoamerica"
+  },
+  {
+    "name": "Fides Tarija",
+    "url": "https://usa14.fastcast4u.com/proxy/fidestarija?mp=/1",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Fm La Paz 96.7",
+    "url": "https://spanel.gcomstreaming.com/8018/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -16.539256138422637,
+    "lon": -68.07597756385805,
+    "language": "spanish"
+  },
+  {
+    "name": "Hit 105.7 FM",
+    "url": "https://stream-175.zeno.fm/u7ixfizasppvv?zs=hOeDNX_iSJaUUl90gnwQfQ",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": -17.362139631155184,
+    "lon": -66.18138313293458,
+    "language": "english,spanish"
+  },
+  {
+    "name": "MEGAORUROONLINE 97",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s353315",
+    "codec": "mp3",
+    "bitrate": 139,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Maritima fm",
+    "url": "https://spanel.gcomstreaming.com/8004/stream",
+    "codec": "MP3",
+    "bitrate": 24,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Melodía",
+    "url": "https://stream.consultoradas.com/8244/stream",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -16.52741782139647,
+    "lon": -68.10707509517671,
+    "language": ""
+  },
+  {
+    "name": "Quechua FM",
+    "url": "https://stream-174.zeno.fm/e78z1h3drd0uv?zs=ikWueaMmSDeduBx58DWGtQ",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": -17.393496559281857,
+    "lon": -66.17413043975831,
+    "language": "quechua,spanish"
+  },
+  {
+    "name": "RADIO 24 DE JULIO 97.1 FM VILLA MONTES - TRAIJA",
+    "url": "https://stream.zeno.fm/tu8weq69fwzuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "RADIO ACTIVA BOLIVIA 91.9 (Pop Latino)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s25988",
+    "codec": "mp3",
+    "bitrate": 80,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO ANDAMARCA BOLIVIA 98.2 (Cumbia)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s210117",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO FRONTERA FM 100.3 MHz",
+    "url": "https://stream.inliveserver.com:2020/8140/stream",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO HIT COCHABAMBA 105.7 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s233264",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO LA JOYA TV BOLIVIA 93.9 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s198872",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO MANANTIAL BOLIVIA 99.7 (Christian Spanish)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s221163",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO MARIA BOLIVIA",
+    "url": "http://dreamsiteradiocp4.com:8022/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO ZAPATEÑITA. 93.1 (00's Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s84318",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RKC RADIO",
+    "url": "https://sonic.dattassd.com/8198/stream",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio \"Cumbia 90s\"",
+    "url": "https://emiteradio.com/proxy/cumbia90s?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "espanish"
+  },
+  {
+    "name": "Radio Acer",
+    "url": "https://live.turadiotv.com/8004/stream",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español - latinoamerica"
+  },
+  {
+    "name": "Radio Activa Guanay 105.4 Fm",
+    "url": "https://sonic.dattassd.com:10902/stream",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Ancoraimes 95.3 (Folk Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s204885",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Antena 2000 Sucre 88.9 (News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s165652",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Aymara",
+    "url": "http://stream.zeno.fm/du0x9skxum0uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": -16.479532606550592,
+    "lon": -68.22282850742342,
+    "language": "aymara,spanish"
+  },
+  {
+    "name": "Radio Camba 98.3 (Latin Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s13734",
+    "codec": "mp3",
+    "bitrate": 24,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Centro AM 1420 | (Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s326299",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Centro FM 96.1 | (World Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s246579",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Chacaltaya",
+    "url": "https://cast6.asurahosting.com/proxy/irfradio/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Chacaltaya 93.7 (Tropical)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s84313",
+    "codec": "mp3",
+    "bitrate": 32,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Ciudad",
+    "url": "http://streamingenbolivia.com/8002/stream",
+    "codec": "AAC+",
+    "bitrate": 36,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Conquistador FM 99.1",
+    "url": "http://sp2.servidorrprivado.com:6648/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": -19.05066495807975,
+    "lon": -65.26645213365556,
+    "language": "english,español - latinoamerica"
+  },
+  {
+    "name": "Radio Constelación",
+    "url": "https://stream-178.zeno.fm/ks1tsgndvp8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJrczF0c2duZHZwOHV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiM005UEhDSXJSNkNZX1QtWVA1QWlNUSIsImlhdCI6MTc2ODQ1MTE3MiwiZXhwIjoxNzY4NDUxMjMyfQ.RywYy3NuqBI3bUy4O1743EqKJIOevTgDHUJvu3GMe5c",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": -16.499299167397574,
+    "lon": -68.13171386718751,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Disney - La Paz FM 102.7",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_BOL_SCAAC.aac?dist=web-radiodisney",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Estrella 93.1 (News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s86556",
+    "codec": "mp3",
+    "bitrate": 24,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Estrella 93.1 FM",
+    "url": "https://cesarradio.realserver.es/listen/lne_93.1/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -17.38612488372266,
+    "lon": -66.15421772003175,
+    "language": "english,spanish"
+  },
+  {
+    "name": "Radio Fides (Cochabamba) 95.1 (News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s13702",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Fides (La Paz) 101.5 (News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s13712",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Fides (La Paz) 98.3 (News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s86963",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Fides (Potosí) 98.1 (News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s86957",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Fides Cbba",
+    "url": "http://149.56.175.167:5654/;",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Fides Cochabamba",
+    "url": "https://usa14.fastcast4u.com/proxy/gfloresc?mp=/1",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": -17.38367684957177,
+    "lon": -66.15844488143922,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Fides Cochabamba 94.9 FM",
+    "url": "http://usa14.fastcast4u.com:5654/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": -17.384134527532307,
+    "lon": -66.15810692310335,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Folklorica Uyuni",
+    "url": "https://emiteradio.com/proxy/uyuni?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -20.491860650687467,
+    "lon": -66.80236816406251,
+    "language": "castilian,spanish"
+  },
+  {
+    "name": "Radio GAM Viacha",
+    "url": "https://server1.fex.red/letanias/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -16.653960626504713,
+    "lon": -68.30205023288728,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio GAM Viacha",
+    "url": "https://radio.viacha.gob.bo/radio-stream/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -16.65401715994479,
+    "lon": -68.30205559730531,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Gente",
+    "url": "https://server1.fex.red:8366/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Gigante Bolivia",
+    "url": "https://cloudstream2032.conectarhosting.com:7311/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -16.502267989253124,
+    "lon": -68.13772201538087,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Horizontes 93.1",
+    "url": "https://ares.disfrutaenlared.com:9060/",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -19.04339354324619,
+    "lon": -65.25286406278612,
+    "language": "español - latinoamerica"
+  },
+  {
+    "name": "Radio Integracion 640 (Music News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s232267",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Kollasuyo FM",
+    "url": "https://azura2.bitstreaming.net:8000/radio128.aac",
+    "codec": "AAC",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Lider 97 97.0 (News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s290708",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Loyola Sucre - Fides 98.5 (News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s204635",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Maria Bolivia 101.9 (Catholic Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s48915",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Maria Bolivia 106.5 (Catholic Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s48917",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Maria Bolivia 97.5 (Catholic Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s48918",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Markasa 95 (Variety)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s248395",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio María Auxiliadora 850 (News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s224099",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Marítima FM 99.9 (Tropical)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s163338",
+    "codec": "mp3",
+    "bitrate": 24,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Mega Rurrenabaque",
+    "url": "https://live.turadiotv.com/8030/stream",
+    "codec": "MP3",
+    "bitrate": 112,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Monumental Bolivia",
+    "url": "http://streaming2.locucionar.com:9149/stream",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": -16.497627781199135,
+    "lon": -68.12580227827313,
+    "language": "espanish"
+  },
+  {
+    "name": "Radio Next Bolivia 91.7 (Latin Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s266457",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Oldies - Red Uyuni",
+    "url": "https://emiteradio.com/proxy/clasicosingles?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Panamericana",
+    "url": "http://stream.zeno.fm/pnwpbyfambruv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": -16.501373026958994,
+    "lon": -68.13352704048158,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Panamericana 106.3 (Music News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s13704",
+    "codec": "mp3",
+    "bitrate": 164,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Panamericana 96.1 (Music News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s122022",
+    "codec": "mp3",
+    "bitrate": 164,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Pop - Red Uyuni",
+    "url": "https://emiteradio.com/proxy/boliviapop?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 80,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Proyección 98.3 (Latin Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s229649",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Pío XII (Oruro) 97.9 (Catholic Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s65546",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Pío XII (Oruro) 99.9 (Catholic Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s10307",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Qhana FM98.5",
+    "url": "https://cast6.asurahosting.com/proxy/radiost4/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -16.506676052107117,
+    "lon": -68.13282966613771,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Ritmo 97.3 FM",
+    "url": "https://azura1.bitstreaming.net/listen/radio_ritmo/radio.aac",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -17.388712869986406,
+    "lon": -66.15400314331056,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio San Gabriel",
+    "url": "https://spanel.gcomstreaming.com:7004/;",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -16.525288698732084,
+    "lon": -68.20127427577974,
+    "language": "aymara,spanish"
+  },
+  {
+    "name": "Radio San Gabriel AM 620 KHz",
+    "url": "https://spanel.gcomstreaming.com:7003/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -16.525339098464446,
+    "lon": -68.20143520832063,
+    "language": "aymara,spanish"
+  },
+  {
+    "name": "Radio San Rafael 92.5 FM",
+    "url": "https://guri.tepuyserver.net:7098/stream",
+    "codec": "AAC",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": -17.40069914041662,
+    "lon": -66.16859436035158,
+    "language": "quechua,spanish"
+  },
+  {
+    "name": "Radio Supermix",
+    "url": "https://stream.zeno.fm/v93yq4bmpm0uv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": -14.44286160989788,
+    "lon": -67.56384412074505,
+    "language": "español - latinoamerica"
+  },
+  {
+    "name": "Radio Universal FM 106.9 | (80's)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s326298",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Wiracocha",
+    "url": "https://stream.zeno.fm/rtui1p0xscetv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": -15.898190044159008,
+    "lon": -67.0889461040497,
+    "language": ""
+  },
+  {
+    "name": "Radio adventista caranavi 99.3 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s345441",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Éxito (Bolivia)",
+    "url": "https://cast6.my-control-panel.com/proxy/radiostr/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -16.661453978111748,
+    "lon": -68.09326171875001,
+    "language": "spanish"
+  },
+  {
+    "name": "RadioSat FM - Bolivia",
+    "url": "https://mira.streamerr.co/listen/radiosatbolivia/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radiokollasuyo 105.1 (Music News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s140247",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Red Uyuni: Radio Recuerdos",
+    "url": "https://emiteradio.com/proxy/uyuni2?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -20.468961172929443,
+    "lon": -66.8181610107422,
+    "language": "spanish"
+  },
+  {
+    "name": "Stereo 97",
+    "url": "https://stream.consultoradas.com:8340/stream",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -16.500021317577758,
+    "lon": -68.13423514366151,
+    "language": "spanish"
+  },
+  {
+    "name": "Stereo97",
+    "url": "https://stream.consultoradas.com/8340/stream",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -16.527484677527564,
+    "lon": -68.10698926448823,
+    "language": ""
+  },
+  {
+    "name": "Sucremanta Tv",
+    "url": "https://stream.zeno.fm/gli54dgn5kwuv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Super FM 101.5 | (Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s348218",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Tuti internacional (cliza)",
+    "url": "https://stream.zeno.fm/nplf6hpufi5uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": -16.73090658973393,
+    "lon": -66.09375000000001,
+    "language": "castellano. español"
+  },
+  {
+    "name": "Wayna Tambo 101.8 (Culture)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s342968",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "esLatino Radio",
+    "url": "https://spanel.gcomstreaming.com/8030/stream",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -16.501326735693205,
+    "lon": -68.1332963705063,
+    "language": "spanish"
+  },
+  {
+    "name": "la patria",
+    "url": "https://inliveserver.com:2000/stream/8136",
+    "codec": "AAC",
+    "bitrate": 224,
+    "needsResolve": false,
+    "lat": -16.522472589216935,
+    "lon": -68.18115234375001,
+    "language": "spanish"
+  },
+  {
+    "name": "radio centro cochabamba",
+    "url": "https://radio.yoemito.net/listen/centrofm/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -17.392270841904956,
+    "lon": -66.1595392227173,
+    "language": "español - latinoamerica"
+  }
+]

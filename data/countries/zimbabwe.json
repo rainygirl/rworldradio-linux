@@ -1,0 +1,62 @@
+[
+  {
+    "name": "CENTRAL RADIO 98.5",
+    "url": "https://centralstream.zbc.co.zw:8000/radio.mp3",
+    "codec": "AAC",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Capitalk 100.4FM Harare",
+    "url": "https://edge.iono.fm/xice/162_medium.aac",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": -17.8643597784372,
+    "lon": 31.05148315429688,
+    "language": "english"
+  },
+  {
+    "name": "Diamond FM Zim 103.8 (African Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s274741",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MSU RADIO 90.3 FM",
+    "url": "https://listen.radioking.com/radio/873191/stream/943246",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -20.3267648586295,
+    "lon": 30.042082071304325,
+    "language": ""
+  },
+  {
+    "name": "Nehanda Radio",
+    "url": "https://eu4.fastcast4u.com/proxy/lancguma?mp=/1",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Star FM 89.7",
+    "url": "https://edge.iono.fm/xice/159_medium.aac",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

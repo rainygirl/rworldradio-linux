@@ -1,0 +1,272 @@
+[
+  {
+    "name": "Albania News 24 TV",
+    "url": "http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8",
+    "codec": "AAC,H.264",
+    "bitrate": 727,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "albanian"
+  },
+  {
+    "name": "Albanian Baby Radio",
+    "url": "https://stream.zeno.fm/d6v0xkba04zuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "albanian"
+  },
+  {
+    "name": "Best Pro Electronic",
+    "url": "https://az1.sednastream.com/radio/8150/Live?1582297952",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 41.31853896909704,
+    "lon": 19.807110428810123,
+    "language": "albanian,english"
+  },
+  {
+    "name": "CLUB FM",
+    "url": "https://cp1.sednastream.com/proxy/clubfm?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Chill Radio",
+    "url": "http://eu8.fastcast4u.com/proxy/chillradio?mp=/1",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 41.33093567199179,
+    "lon": 19.821052551269535,
+    "language": ""
+  },
+  {
+    "name": "Chill Radio",
+    "url": "https://eu8.fastcast4u.com/proxy/chillradio?mp=/1",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Club FM Kosova",
+    "url": "https://cp1.sednastream.com/proxy/clubfmkosova?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MCN Radio - Tirana 103.1 FM",
+    "url": "http://46.183.121.48:8000/mcn",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "My Music Radio - Tirana 97.3 FM",
+    "url": "https://live.top-media.al/mmr",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Pendimi Kanali 2",
+    "url": "https://www.rtvpendimi.com:8020/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 41.32605333169589,
+    "lon": 19.81727600097656,
+    "language": "albanian"
+  },
+  {
+    "name": "RADIO MARIA ALBANIA",
+    "url": "http://dreamsiteradiocp2.com:8028/stream",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "albanian"
+  },
+  {
+    "name": "RTSH Radio Tirana International",
+    "url": "http://79.106.48.2:8000/rti",
+    "codec": "AAC",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 41.3275325712699,
+    "lon": 19.81916427612305,
+    "language": ""
+  },
+  {
+    "name": "Radio Aksa",
+    "url": "https://fire.doscast.com:8064/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "albanian"
+  },
+  {
+    "name": "Radio Logos",
+    "url": "https://s2.stationplaylist.com:9280/listen.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio One - Tirana 95.2 FM",
+    "url": "https://cp1.sednastream.com/proxy/radioone94?mp=/stream",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Saranda",
+    "url": "https://s64.radiolize.com/radio/8050/radio.mp3",
+    "codec": "AAC",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Shqip - Tirana 92.0 MHz",
+    "url": "https://cp1.sednastream.com/proxy/radioshqip?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Tirana 1",
+    "url": "http://79.106.48.2:8000/radiotirana1",
+    "codec": "MP3",
+    "bitrate": 170,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "albanian,shqip"
+  },
+  {
+    "name": "Radio burimi",
+    "url": "https://stream-156.zeno.fm/vzp9uf0u3ehvv?zs=Jubk5XJHTEC2zFWm3mOTfA",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "albanian"
+  },
+  {
+    "name": "Sophie Caffe Radio",
+    "url": "https://sophiecafferadio.live/sophie.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Tirana Jazz Radio",
+    "url": "https://live.tiranajazzradio.com:8443/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Top Albanian Radio",
+    "url": "https://live.top-media.al/tar",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Top Gold Radio",
+    "url": "https://live.topgold.al/topgold",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "WindowRadio.de",
+    "url": "https://a8.asurahosting.com:8570/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "chili moje",
+    "url": "https://media-ssl.musicradio.com/ChillMP3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "ipda cañete",
+    "url": "https://radio.gisslive.com:8254/stream",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español peruano"
+  },
+  {
+    "name": "sasaram",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio075/chunklist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hindi"
+  }
+]

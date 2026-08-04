@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Radio Vaticana Belarus",
+    "url": "https://radio.vaticannews.va/stream-be",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "belarusian,latin"
+  },
+  {
+    "name": "Radio Vaticana Bulgaria",
+    "url": "https://radio.vaticannews.va/stream-bg",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bulgarian,latin"
+  },
+  {
+    "name": "Radio Vaticana Deutsch",
+    "url": "https://radio.vaticannews.va/stream-de",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "german,latin"
+  },
+  {
+    "name": "Radio Vaticana English",
+    "url": "https://radio.vaticannews.va/stream-en",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 41.90341413845876,
+    "lon": 12.452917098999023,
+    "language": "english"
+  },
+  {
+    "name": "Radio Vaticana Español spanish",
+    "url": "https://radio.vaticannews.va/stream-es",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 41.90122109951793,
+    "lon": 12.452149987220766,
+    "language": "castellano. español,spanish"
+  },
+  {
+    "name": "Radio Vaticana Hrvatski",
+    "url": "https://radio.vaticannews.va/stream-hr",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian,latin"
+  },
+  {
+    "name": "Radio Vaticana Italia",
+    "url": "https://radio.vaticannews.va/stream-it",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Vaticana Italia 105.0 (Music News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s1545",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Vaticana Polska",
+    "url": "https://radio.vaticannews.va/stream-pl",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "latin,polish"
+  },
+  {
+    "name": "Radio Vaticana Portuguese",
+    "url": "https://radio.vaticannews.va/stream-pt",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Vaticana România",
+    "url": "https://radio.vaticannews.va/stream-ro",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "latin,romanian,românä"
+  },
+  {
+    "name": "Radio Vaticana Slovenščina",
+    "url": "https://radio.vaticannews.va/stream-sl",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "latin,slovenian"
+  },
+  {
+    "name": "Radio Vaticana Solvenčina",
+    "url": "https://radio.vaticannews.va/stream-sk",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "latin,slovak"
+  },
+  {
+    "name": "Radio Vaticana Ukraine",
+    "url": "https://radio.vaticannews.va/stream-uk",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "latin,ukrainian"
+  },
+  {
+    "name": "Radio Vaticana Čeština",
+    "url": "https://radio.vaticannews.va/stream-cs",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech,latin"
+  }
+]

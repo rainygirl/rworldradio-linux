@@ -1,0 +1,112 @@
+[
+  {
+    "name": "AfriRádio",
+    "url": "https://cast4.asurahosting.com/proxy/afriradi/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -8.82981718021374,
+    "lon": 13.227281570434572,
+    "language": "portuguese"
+  },
+  {
+    "name": "Ebnézer Rádio",
+    "url": "http://08.stmip.net:10028/;;",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "portuguese"
+  },
+  {
+    "name": "RNA - Canal A",
+    "url": "https://stream.pcradio.ru/rna_canala-med",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Bairro de Angola",
+    "url": "https://stm4.xradios.com.br:6794/stream",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "alemanha,english,frances,portuguese,spanhol"
+  },
+  {
+    "name": "Radio Jihenda",
+    "url": "https://s02.brascast.com:7830/live",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": -11.39118676704614,
+    "lon": 18.369140625000004,
+    "language": ""
+  },
+  {
+    "name": "Radio Kuia Bue",
+    "url": "https://a11.asurahosting.com:7400/radio.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": -11.21881617411406,
+    "lon": 18.896484375000004,
+    "language": ""
+  },
+  {
+    "name": "Radio Luanda",
+    "url": "https://paineldj5.com.br:20089/stream",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": -8.826883152309717,
+    "lon": 13.235435485839846,
+    "language": ""
+  },
+  {
+    "name": "Rádio Fé Angola",
+    "url": "http://stream-155.zeno.fm/gsndh1xvczetv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnc25kaDF4dmN6ZXR2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicm81MjdFal9TUi1xN1dwaXNVMFFIQSIsImlhdCI6MTc2ODQzNjI5OCwiZXhwIjoxNzY4NDM2MzU4fQ.8cwpv0x7PvZ-BypcPNxZU0KjySTsaVxXbVDcDhPsNow",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": -10.445241337215023,
+    "lon": 17.601529955863956,
+    "language": "portuguese"
+  },
+  {
+    "name": "Rádio MFM Angola",
+    "url": "https://centova87.instainternet.com/proxy/mfm?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -11.961948267201173,
+    "lon": 18.742675781250004,
+    "language": ""
+  },
+  {
+    "name": "Rádio Mais",
+    "url": "https://radios.justweb.pt/8050/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -8.834346722176308,
+    "lon": 13.23680877685547,
+    "language": ""
+  },
+  {
+    "name": "Rádio Vibrar Angola",
+    "url": "https://cp-1.owh.radio.br/listen/r%C3%A1dio_vibrar_angola/radio-mp3",
+    "codec": "AAC",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": -12.38982657630846,
+    "lon": 16.941143904026088,
+    "language": "english,frances,portuguêsa"
+  }
+]

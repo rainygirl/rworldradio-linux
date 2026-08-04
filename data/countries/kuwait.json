@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Kuwait General Radio",
+    "url": "https://kwtkrdota.cdn.mangomolo.com/k1rdo/k1rdo.stream_aac/chunklist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Moja 100 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s345339",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Quran Radio راديو القرآن - Abdulrahman Alsudais - عبدالرحمن السديس",
+    "url": "https://radio.mp3islam.com/listen/sudais/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 29.350070151586944,
+    "lon": 47.96626567840576,
+    "language": "arabic,العربية,عربي"
+  },
+  {
+    "name": "Quran Radio راديو القرآن - Ali Alhuthaifi - علي الحذيفي",
+    "url": "https://radio.mp3islam.com/listen/alhuthaifi/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 29.349980375490972,
+    "lon": 47.96656608581544,
+    "language": "arabic,العربية,عربي"
+  },
+  {
+    "name": "Quran Radio راديو القرآن - Kuwait الكويت",
+    "url": "https://radio.mp3islam.com/listen/quran_radio/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 29.349232236379077,
+    "lon": 47.967596054077156,
+    "language": "arabic,العربية,عربي"
+  },
+  {
+    "name": "Quran Radio راديو القرآن - Maher Al Mueaqly - ماهر المعيقلي",
+    "url": "https://radio.mp3islam.com/listen/maher/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 29.350294592051576,
+    "lon": 47.96566486358643,
+    "language": "arabic,العربية,عربي"
+  },
+  {
+    "name": "Quran Radio راديو القرآن - Mishary Alafasy - مشاري العفاسي",
+    "url": "https://radio.mp3islam.com/listen/mishary/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 29.3504442176118,
+    "lon": 47.965922355651855,
+    "language": "arabic,العربية,عربي"
+  },
+  {
+    "name": "Quran Radio راديو القرآن - Muhammad Al-Minshawi محمد صديق المنشاوي",
+    "url": "https://radio.mp3islam.com/listen/minshawi/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 29.347047640104552,
+    "lon": 47.970428466796875,
+    "language": "arabic"
+  },
+  {
+    "name": "Quran Radio راديو القرآن - Saud Al-Shuraim سعود الشريم",
+    "url": "https://radio.mp3islam.com/listen/alshuraim/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 29.350698579760788,
+    "lon": 47.96407699584962,
+    "language": "arabic,العربية,عربي"
+  },
+  {
+    "name": "Quran Radio راديو القرآن - Yasser AlDosari - ياسر الدوسري",
+    "url": "https://radio.mp3islam.com/listen/yaser/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 29.35129708287642,
+    "lon": 47.96579360961915,
+    "language": "arabic,العربية,عربي"
+  },
+  {
+    "name": "Super Station 99.7 FM | (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s345340",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

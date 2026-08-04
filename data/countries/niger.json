@@ -1,0 +1,52 @@
+[
+  {
+    "name": "AFRICA RADIO - MANU DIBANGO FOREVER 103.0 (World Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s16082",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RFI Afrique 96.2 (World Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s16081",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio BLAU Leipzig (trocken 320kbps)",
+    "url": "http://icecast.radioblau.de:8000/blau_320_dry",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 61.873513926826575,
+    "lon": 130.94359874725345,
+    "language": "upper chinook"
+  },
+  {
+    "name": "Radio Garkuwa 107 Maradi",
+    "url": "https://stream.zeno.fm/x0a1r1qu1nhvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french,hausa"
+  },
+  {
+    "name": "Wadata Radio 107.4 Niamey",
+    "url": "http://stream.zeno.fm/1y2c3qbgbchvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  }
+]

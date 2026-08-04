@@ -1,0 +1,82 @@
+[
+  {
+    "name": "AFRICA RADIO - MANU DIBANGO FOREVER 102.0 (World Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s50245",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Light Radio Togo 93.9fm",
+    "url": "https://a9.asurahosting.com/listen/light_radio_93.9fm/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Nana FM Togo",
+    "url": "https://srv1269271.hstgr.cloud/;?type=http&nocache=16",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "RADIO MARIA TOGO",
+    "url": "http://dreamsiteradiocp.com:8050/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Gameli",
+    "url": "http://usa1.fastcast4u.com:3190/stream/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 6.162264377613435,
+    "lon": 1.2126159667968752,
+    "language": ""
+  },
+  {
+    "name": "Radio Victoire 96.3 Lomé",
+    "url": "https://stream.zeno.fm/vkhv6gl43g5tv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Shalom Info",
+    "url": "http://stream.zeno.fm/a0kvrgmcqm0uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "taxi fm",
+    "url": "http://streaming.radionomy.com/JamendoLounge?lang=fr%2cfr-FR%3bq%3d0.8%2cen-US%3bq%3d0.5%2cen%3bq%3d0.3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  }
+]

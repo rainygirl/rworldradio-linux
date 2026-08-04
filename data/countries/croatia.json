@@ -1,0 +1,2732 @@
+[
+  {
+    "name": "..:: CLUB MUSIC RADIO ::....:: 70s 80s 90s ::..",
+    "url": "http://cmr-hosting.com:8030/stream?type=http&nocache=773949",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "..:: CLUB MUSIC RADIO ::....:: CRO HITS ::..",
+    "url": "http://cmr-hosting.com:8060/stream?type=http&nocache=823456",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "..:: CLUB MUSIC RADIO ::....:: ExYU POP-ROCK ::..",
+    "url": "http://cmr-hosting.com:8080/stream?type=http&nocache=13098",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "..:: CLUB MUSIC RADIO ::....:: Folk ::..",
+    "url": "http://cmr-hosting.com:8010/stream?type=http&nocache=401572",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "..:: CLUB MUSIC RADIO ::....:: LOVE SONG ::..",
+    "url": "http://cmr-hosting.com:8040/stream?type=http&nocache=869535",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "..:: CLUB MUSIC RADIO ::....:: TAMBURA ::..",
+    "url": "http://cmr-hosting.com:8070/stream?type=http&nocache=646624",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "AmpUpRadio",
+    "url": "https://stream.ampupradio.com/tophits.mp3?cachebuster=1775481950232",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Antena Zagreb - Live",
+    "url": "http://live.antenazagreb.hr:8000/;",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Antena Zagreb - Xmas",
+    "url": "http://live.antenazagreb.hr:8015/;",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Antena Zagreb Dance",
+    "url": "http://live.antenazagreb.hr:8015/",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Antena Zagreb Hit",
+    "url": "http://live.antenazagreb.hr:8011/",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Antena Zagreb Love",
+    "url": "http://live.antenazagreb.hr:8007/",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Antena Zagreb Rock",
+    "url": "http://live.antenazagreb.hr:8019/",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Antena Zagreb Uživo",
+    "url": "http://live.antenazagreb.hr:8002/;",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Banovina Light",
+    "url": "https://audio.radio-banovina.hr:7008/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Banovina Turbo",
+    "url": "https://audio.radio-banovina.hr:7010/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bijelo Plavi radio",
+    "url": "http://s8.iqstreaming.com:8028/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 45.556833747076936,
+    "lon": 18.693677186965942,
+    "language": "croatian"
+  },
+  {
+    "name": "Braniteljski radio \"Nepokoreni grad\"",
+    "url": "http://s3.radio.co/se83499ee0/listen",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bravo",
+    "url": "http://c5.hostingcentar.com:8059/stream",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 45.76387719527284,
+    "lon": 15.981709063053133,
+    "language": "croatian,english"
+  },
+  {
+    "name": "Bravo",
+    "url": "http://c5.hostingcentar.com:8059/;",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "CITY RADIO",
+    "url": "http://s8.iqstreaming.com:8058/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 45.71513193246481,
+    "lon": 16.072289943695072,
+    "language": "croatian"
+  },
+  {
+    "name": "CMC Classic",
+    "url": "http://radio-stream.cmc.com.hr:8100/autodj",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "CMC Dalmatina",
+    "url": "http://radio-stream.cmc.com.hr:8040/autodj",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "CMC Festival",
+    "url": "http://radio-stream.cmc.com.hr:8070/autodj",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "CMC Jugoton",
+    "url": "http://radio-stream.cmc.com.hr:8020/autodj",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "CMC Kids",
+    "url": "http://radio-stream.cmc.com.hr:8090/autodj",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "CMC Lagano",
+    "url": "http://radio-stream.cmc.com.hr:8030/autodj",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "CMC Radio",
+    "url": "https://radio-stream.cmc.com.hr:9011/live",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "CMC Rock",
+    "url": "http://radio-stream.cmc.com.hr:8060/autodj",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "CMC Tambure",
+    "url": "http://radio-stream.cmc.com.hr:8050/autodj",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "CMC Zabavni",
+    "url": "http://radio-stream.cmc.com.hr:8085/autodj",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "CRASH",
+    "url": "http://live.radiocrash.net/",
+    "codec": "AAC+",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "City-radio 88.6",
+    "url": "http://s8.iqstreaming.com:8058/stream;",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Club Music Radio - 70's 80's 90's",
+    "url": "https://cmr-hosting.com:7003/;stream/1",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Club Music Radio - CRO HITS",
+    "url": "https://cmr-hosting.com:7006/;stream/1",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Club Music Radio - Dance",
+    "url": "https://cmr-hosting.com:7002/;stream/1",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Club Music Radio - FOLK",
+    "url": "https://cmr-hosting.com:7001/;stream/1",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Club Music Radio - ITALO DISCO",
+    "url": "https://cmr-hosting.com:7005/;stream/1",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Club Music Radio - LOVE SONG",
+    "url": "https://cmr-hosting.com:7004/;stream/1",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Club Music Radio - TAMBURA",
+    "url": "https://cmr-hosting.com:7007/;stream/1",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Club Music Radio Tambura",
+    "url": "http://cmr-hosting.com:8070/",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 45.80646674808427,
+    "lon": 15.976867675781252,
+    "language": ""
+  },
+  {
+    "name": "Cro International DJ Radio",
+    "url": "http://stream.zeno.fm/t47dykadrchvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Drama radio Dubrovnik",
+    "url": "https://listen.radioking.com/radio/626884/stream/689500",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 42.65209271026004,
+    "lon": 18.08935940265656,
+    "language": "croatian"
+  },
+  {
+    "name": "ENTER Zagreb",
+    "url": "http://live.enterzagreb.hr:8023/",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "EXTRA FM",
+    "url": "http://streams.extrafm.hr:8110/stream?2701",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Extra FM",
+    "url": "https://relay2.social3.hr/radio/8190/radio.mp3?&_ic2=1?8707",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Extra FM",
+    "url": "http://streams.extrafm.hr:8110/;",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Folk Radio Kneginec",
+    "url": "https://stream.zeno.fm/yetzdv442k8uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "FolkyTon Radio",
+    "url": "https://ec2s.crolive.com.hr:6035/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 45.73638029783001,
+    "lon": 16.029052734375004,
+    "language": "croatian"
+  },
+  {
+    "name": "GalacticFM - Progressive House & Trance",
+    "url": "https://a1.asurahosting.com/listen/galacticfm_-_progressive_house__trance/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "GalacticFM - Progressive House & Trance",
+    "url": "https://s20.reliastream.com/stream/8116",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 45.813678230914114,
+    "lon": 15.968886712890011,
+    "language": ""
+  },
+  {
+    "name": "Gamerz Inn - Jamz",
+    "url": "https://radio.gamerzinn.com:1385/stream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Gold - Velika Gorica",
+    "url": "http://live.goldfm.hr:8068/stream",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 45.71694326290445,
+    "lon": 16.06681823730469,
+    "language": "croatian,english"
+  },
+  {
+    "name": "Gold FM",
+    "url": "http://live.goldfm.hr:8068/",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Gradski Radio Trogir",
+    "url": "http://144.76.39.214:6022/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 43.5205186410408,
+    "lon": 16.252114447453753,
+    "language": "croatian"
+  },
+  {
+    "name": "HIT RADIO",
+    "url": "http://s8.iqstreaming.com:8012/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 43.70256377766151,
+    "lon": 16.640510559082035,
+    "language": "croatian"
+  },
+  {
+    "name": "HKR",
+    "url": "http://stream.hkr.hr:8000/hkr.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "HRT Drugi program",
+    "url": "https://25453.live.streamtheworld.com/PROGRAM2AAC.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "HRT Glas Hrvatske",
+    "url": "http://21633.live.streamtheworld.com/VOICEOFCROATIAAAC_SC",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "HRT HR 1 - Prvi program",
+    "url": "http://27863.live.streamtheworld.com/PROGRAM1AAC_SC",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "HRT HR 1 - Prvi program",
+    "url": "http://27743.live.streamtheworld.com/PROGRAM1_SC",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "HRT HR 2",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM2.mp3",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "HRT HR 2 - Drugi program",
+    "url": "http://28033.live.streamtheworld.com/PROGRAM2AAC_SC",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "HRT HR 3 - Treći program",
+    "url": "http://25603.live.streamtheworld.com/PROGRAM3AAC_SC",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "HRT Prvi program",
+    "url": "https://27743.live.streamtheworld.com/PROGRAM1AAC.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "HRT Radio Dubrovnik",
+    "url": "http://27873.live.streamtheworld.com:3690/DUBROVNIKAAC_SC",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "HRT Radio Knin",
+    "url": "http://23543.live.streamtheworld.com:3690/KNINAAC_SC",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "HRT Radio Osijek",
+    "url": "http://22733.live.streamtheworld.com:3690/OSIJEKAAC_SC",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "HRT Radio Pula",
+    "url": "http://28513.live.streamtheworld.com/PULAAAC_SC",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "HRT Radio Rijeka",
+    "url": "http://22193.live.streamtheworld.com/RIJEKAAAC_SC",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "HRT Radio Sljeme",
+    "url": "http://27873.live.streamtheworld.com/SLJEMEAAC_SC",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "HRT Radio Sljeme (mp3)",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SLJEME.mp3",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 45.79328336964771,
+    "lon": 15.973983620700896,
+    "language": "croatian"
+  },
+  {
+    "name": "HRT Radio Split",
+    "url": "http://28513.live.streamtheworld.com:3690/SPLITAAC_SC",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "HRT Radio Zadar",
+    "url": "http://27863.live.streamtheworld.com:3690/ZADARAAC_SC",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "HRVATSKI RADIO VALPOVŠTINA",
+    "url": "http://s8.iqstreaming.com:8068/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 45.66056971394096,
+    "lon": 18.417248725891117,
+    "language": "croatian"
+  },
+  {
+    "name": "Happy FM",
+    "url": "http://c5.hostingcentar.com:8072/",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Happy FM",
+    "url": "http://c5.hostingcentar.com:9543/stream?4923",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 45.7176863579072,
+    "lon": 16.060883122115094,
+    "language": "croatian"
+  },
+  {
+    "name": "Happy FM - Fest",
+    "url": "http://c5.hostingcentar.com:8372/",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Happy FM - Klape",
+    "url": "http://c5.hostingcentar.com:8384/",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Happy FM - Legenda",
+    "url": "http://c5.hostingcentar.com:8396/",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Happy FM - Live",
+    "url": "http://c5.hostingcentar.com:9543/",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Happy FM - Party",
+    "url": "http://c5.hostingcentar.com:8390/",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Happy FM - Tambura",
+    "url": "http://c5.hostingcentar.com:8378/",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Happy FM Croatia",
+    "url": "http://c5.hostingcentar.com:9543/stream?1820",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Happy FM Fest",
+    "url": "http://c5.hostingcentar.com:8372/stream?4956",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Happy FM Klape",
+    "url": "http://c5.hostingcentar.com:8384/stream?8802",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Happy FM Legenda",
+    "url": "http://c5.hostingcentar.com:8396/stream?8550",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Happy FM Party",
+    "url": "http://c5.hostingcentar.com:8390/stream?4606",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Happy FM Tambura",
+    "url": "http://c5.hostingcentar.com:8378/stream?3238",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Happy Fest",
+    "url": "https://audio.social3.hr/listen/happy_fest/stream?9763",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Hit Radio",
+    "url": "http://s8.iqstreaming.com:8012/;stream.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Hrvatski Katolički Radio",
+    "url": "https://stream.hkr.hr/hkr.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bosnian,croatian,yugoslavian"
+  },
+  {
+    "name": "Hrvatski Radio Čakovec d.o.o. Stream",
+    "url": "http://live.radio-cakovec.hr:7020/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Hrvatski radio - Klasik",
+    "url": "http://22653.live.streamtheworld.com/HR_CLASSICS_SC",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 45.792899843617434,
+    "lon": 15.973938703536987,
+    "language": "croatian"
+  },
+  {
+    "name": "Hrvatski radio - Klasik (HRT)",
+    "url": "http://25653.live.streamtheworld.com/HR_CLASSICSAAC_SC",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Hrvatski radio - Pop glazba",
+    "url": "http://27783.live.streamtheworld.com:3690/HR_POP_SC",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 45.792899843617434,
+    "lon": 15.974003076553348,
+    "language": "croatian"
+  },
+  {
+    "name": "Hrvatski radio - Rock",
+    "url": "http://25683.live.streamtheworld.com/HR_ROCK_SC",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 45.792899843617434,
+    "lon": 15.97391724586487,
+    "language": "croatian,english"
+  },
+  {
+    "name": "Hrvatski radio Karlovac",
+    "url": "http://s8.iqstreaming.com:8002/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Hrvatski radio Otočac",
+    "url": "http://s8.iqstreaming.com:8024/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 44.8679450634871,
+    "lon": 15.23507595062256,
+    "language": "croatian"
+  },
+  {
+    "name": "JR Radio",
+    "url": "http://stream.zeno.fm/pdkt234k698uv.mp3",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian,english"
+  },
+  {
+    "name": "KLFM.org",
+    "url": "https://klfmorgborg.radioca.st/stream?type=http&nocache=1089",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Karlovac Grill Mix radio",
+    "url": "http://s8.iqstreaming.com:8006/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 45.487094732298374,
+    "lon": 15.540161132812502,
+    "language": "croatian"
+  },
+  {
+    "name": "Karlovac NOW Dance 90's radio",
+    "url": "http://s8.iqstreaming.com:8010/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 45.48805749706375,
+    "lon": 15.545654296875002,
+    "language": "croatian"
+  },
+  {
+    "name": "Karlovac WOW Hits Radio",
+    "url": "http://s8.iqstreaming.com:8030/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 45.49287107405929,
+    "lon": 15.545654296875002,
+    "language": "croatian"
+  },
+  {
+    "name": "Kneginec",
+    "url": "http://stream.zeno.fm/yetzdv442k8uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Krugoval",
+    "url": "http://144.76.172.23:7043/",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Laganini FM",
+    "url": "http://194.145.208.251:8000/start/lfmzg",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Laganini FM - Rijeka",
+    "url": "http://194.145.208.251:8004/stream?type=http&nocache=149",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Laganini FM Rijeka",
+    "url": "http://194.145.208.251:8004/start/lfmri",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 45.328689016958705,
+    "lon": 14.43900437115099,
+    "language": ""
+  },
+  {
+    "name": "Laganini FM Zagreb",
+    "url": "http://194.145.208.251:8000/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 45.79377858789192,
+    "lon": 15.959272384643556,
+    "language": "croatian"
+  },
+  {
+    "name": "Laganini FM Zagreb NEW",
+    "url": "http://sky.doscast.com:8331/stream?",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 45.79625461321962,
+    "lon": 15.985794067382814,
+    "language": ""
+  },
+  {
+    "name": "Laganini Folk Narodni Radio",
+    "url": "https://sonic1-rbx.cloud-center.ro:8026/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 45.05994156222125,
+    "lon": 17.841796875000004,
+    "language": ""
+  },
+  {
+    "name": "Laganini Narodni i Folk Radio",
+    "url": "https://sonic1-rbx.cloud-center.ro/8026/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Laganini Osijek",
+    "url": "http://194.145.208.251:8012/start/lfmos",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 45.554256190226305,
+    "lon": 18.695069080234347,
+    "language": "croatian"
+  },
+  {
+    "name": "Laganini Požega",
+    "url": "http://194.145.208.251:8008/start/lfmpz",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 45.334771196762766,
+    "lon": 17.675239045823986,
+    "language": "croatian"
+  },
+  {
+    "name": "Narodni - AAAAAAA!",
+    "url": "http://c5.hostingcentar.com:8360/;",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 45.78897723513177,
+    "lon": 15.96525952415852,
+    "language": "croatian"
+  },
+  {
+    "name": "Narodni - Ljubav je u zraku",
+    "url": "http://c5.hostingcentar.com:8354/;",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 45.86247267579398,
+    "lon": 15.9847194379921,
+    "language": "croatian"
+  },
+  {
+    "name": "Narodni - Ne pitaj, samo sviraj!",
+    "url": "http://c5.hostingcentar.com:8348/;",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 45.8065944297382,
+    "lon": 15.971074705991027,
+    "language": "croatian"
+  },
+  {
+    "name": "Narodni Radio Goga",
+    "url": "https://cmr-hosting.com:7013/;",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Naxi House",
+    "url": "http://naxidigital-house128.streaming.rs:8000/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Novi radio Zadar",
+    "url": "http://s8.iqstreaming.com:8022/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 44.108057062166694,
+    "lon": 15.237876176834108,
+    "language": "croatian"
+  },
+  {
+    "name": "OBITELJSKI RADIO IVANIĆ",
+    "url": "http://s8.iqstreaming.com:8080/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 45.70581965113726,
+    "lon": 16.392374038696293,
+    "language": "croatian"
+  },
+  {
+    "name": "Otvoreni - Live",
+    "url": "https://stream.otvoreni.hr/otvoreni",
+    "codec": "AAC",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": 45.82114340079471,
+    "lon": 15.977947690679043,
+    "language": "croatian"
+  },
+  {
+    "name": "Otvoreni Chill",
+    "url": "https://stream.otvoreni.hr/chill",
+    "codec": "AAC",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": 45.80276510911887,
+    "lon": 15.977974311629133,
+    "language": "croatian"
+  },
+  {
+    "name": "Otvoreni Fitness",
+    "url": "http://stream2.otvoreni.hr/fitness",
+    "codec": "AAC",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": 45.836454050187726,
+    "lon": 15.990556496859911,
+    "language": "croatian"
+  },
+  {
+    "name": "Otvoreni Hot",
+    "url": "https://stream.otvoreni.hr/hot",
+    "codec": "AAC",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": 45.83033038924939,
+    "lon": 15.970391492791691,
+    "language": "croatian"
+  },
+  {
+    "name": "Otvoreni LIVE",
+    "url": "https://stream.otvoreni.hr/stream48",
+    "codec": "AAC",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Otvoreni Live",
+    "url": "https://stream2.otvoreni.hr/otvoreni",
+    "codec": "AAC",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": 45.80774312785381,
+    "lon": 15.96972125506034,
+    "language": "croatian"
+  },
+  {
+    "name": "Otvoreni Love",
+    "url": "https://stream2.otvoreni.hr/love",
+    "codec": "AAC",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": 45.81559226204048,
+    "lon": 15.982965920558003,
+    "language": "croatian"
+  },
+  {
+    "name": "Otvoreni Radio",
+    "url": "http://stream2.otvoreni.hr/otvoreni",
+    "codec": "AAC",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": 45.79985998810504,
+    "lon": 15.972747802734377,
+    "language": ""
+  },
+  {
+    "name": "Otvoreni Radio - Fitness",
+    "url": "https://stream.otvoreni.hr/fitness",
+    "codec": "AAC",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Otvoreni Radio - Love",
+    "url": "https://stream.otvoreni.hr/love",
+    "codec": "AAC",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Otvoreni Radio Chill",
+    "url": "http://stream.otvoreni.hr/chill",
+    "codec": "AAC",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Otvoreni Radio Fitness",
+    "url": "http://stream.otvoreni.hr/fitness",
+    "codec": "AAC",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Otvoreni radio - Uživo",
+    "url": "http://stream.otvoreni.hr/otvoreni",
+    "codec": "AAC",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": 45.77372546171145,
+    "lon": 15.984688188475086,
+    "language": "croatian"
+  },
+  {
+    "name": "PRVI KARLOVACKI",
+    "url": "http://s8.iqstreaming.com:8002/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 45.487094732298374,
+    "lon": 15.552520751953129,
+    "language": "croatian"
+  },
+  {
+    "name": "Petrinjski radio",
+    "url": "http://s8.iqstreaming.com:8062/",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Petrinjski radio",
+    "url": "http://s8.iqstreaming.com:8062/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 45.44086267178177,
+    "lon": 16.278991699218754,
+    "language": "croatian"
+  },
+  {
+    "name": "Podravski Radio",
+    "url": "https://streaming.podravskiradio.hr/live",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 46.031867786536026,
+    "lon": 17.065207147330497,
+    "language": "croatia,croatian,hrvatska"
+  },
+  {
+    "name": "Pomorski Radio Bakar",
+    "url": "http://matrix-server.hr:8010/live.mp3",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": 45.302603075494225,
+    "lon": 14.536639451980593,
+    "language": "croatian"
+  },
+  {
+    "name": "Poslovni FM",
+    "url": "https://ec2s.crolive.com.hr:2665/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Prigorski radio",
+    "url": "http://s8.iqstreaming.com:8048/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 46.02446857982491,
+    "lon": 16.544702053070072,
+    "language": "croatian"
+  },
+  {
+    "name": "Prolaznik Evergreen Lepoglava",
+    "url": "https://s8.ssl-stream.com/prolaznik",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 46.226117930476605,
+    "lon": 16.046733856201175,
+    "language": "croatian,deutch,english"
+  },
+  {
+    "name": "R. Dalmacija",
+    "url": "http://shoutcast.pondi.hr:8000/;",
+    "codec": "AAC+",
+    "bitrate": 72,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "RADIO HRVATSKO ZAGORJE KRAPINA",
+    "url": "http://s8.iqstreaming.com:8072/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 46.163782255377015,
+    "lon": 15.869579315185549,
+    "language": "croatian"
+  },
+  {
+    "name": "RADIO KASTAV",
+    "url": "http://proxima.shoutca.st:8559/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 45.37121285582369,
+    "lon": 14.353935420513157,
+    "language": "croatian"
+  },
+  {
+    "name": "RADIO MARIA",
+    "url": "http://dreamsiteradiocp.com:8026/stream?type=http&nocache=215",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO MARIA CROATIA",
+    "url": "http://dreamsiteradiocp4.com:8080/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RBB Internet Radio",
+    "url": "https://cast1.asurahosting.com/proxy/zoran/stream",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 45.12735035617505,
+    "lon": 17.97225952148438,
+    "language": "croatian"
+  },
+  {
+    "name": "REPLAY NEWS - Hrvatski         Radio informacija svakih 5 minuta",
+    "url": "https://replaynewshr.ice.infomaniak.ch/replaynewshr-128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio 101",
+    "url": "http://live.radio101.hr:9531/stream.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio 101 ROCK",
+    "url": "https://live.radio101.hr:8010/;",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio 101 Rock",
+    "url": "https://live.radio101.hr:8010/",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 45.803530924182056,
+    "lon": 15.993294261075643,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio 101 Soft Sound",
+    "url": "https://live.radio101.hr:8020/",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 45.80085029166628,
+    "lon": 15.972209915987596,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio 105 Selnica (HR)",
+    "url": "https://azuracast.novi-net.net/radio/8050/radio105.aac",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio 2",
+    "url": "http://listen.mitchfm.com/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio 4 You",
+    "url": "http://84.16.232.202:7154/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio 808",
+    "url": "http://stream.radio808.info:8003/",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio 92 FM",
+    "url": "https://onlineradiobox.com/json/hr/92fm/play?platform=web",
+    "codec": "OGG",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio Banovina",
+    "url": "http://stream1.radio-banovina.hr:8008/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio Baranja",
+    "url": "https://s8.iqstreaming.com:2020/stream/radio_baranja/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio Baranja",
+    "url": "http://s8.iqstreaming.com:8036/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 45.76954364030904,
+    "lon": 18.598592877388004,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio Belišće",
+    "url": "https://mcp1.mydataknox.com:8006/stream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 45.68906061425053,
+    "lon": 18.415499925613407,
+    "language": "coatian,croatian"
+  },
+  {
+    "name": "Radio Biograd na Moru",
+    "url": "https://onlineradiobox.com/json/hr/bnm/play?platform=web",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio BnM - Biograd na moru - CHILL",
+    "url": "https://c2.hostingcentar.com/streams/bnm-chill/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 43.938211089067146,
+    "lon": 15.444003939628605,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio BnM - Biograd na moru - Off Air",
+    "url": "https://c2.hostingcentar.com/streams/bnm-off-air/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 43.93819177478494,
+    "lon": 15.443923473358156,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio BnM - Biograd na moru - POP",
+    "url": "https://c2.hostingcentar.com/streams/bnm-pop/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 43.93820336335502,
+    "lon": 15.443987846374512,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio BnM - Biograd na moru - ROCK",
+    "url": "https://c2.hostingcentar.com/streams/bnm-rock/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 43.93819950049859,
+    "lon": 15.443944931030275,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio BnM - Biograd na moru 94,0; 100,5 MHz",
+    "url": "https://c2.hostingcentar.com/streams/bnmradio/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 43.938207226211226,
+    "lon": 15.443961024284365,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio Boom Hits",
+    "url": "https://stream.zeno.fm/7n7hwy8s9k0uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Brac",
+    "url": "http://s8.iqstreaming.com:8066/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio Centar - Studio Poreč",
+    "url": "http://radiocentar.hr:8282/stream.aac",
+    "codec": "AAC+",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 45.226546196265026,
+    "lon": 13.612060546875002,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio Centar Studio Poreč",
+    "url": "http://radiocentar.hr:8282/mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio DJ Grga",
+    "url": "http://cmr-hosting.com:8430/stream?type=http&nocache=343",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Dalmacija - Furešta",
+    "url": "http://c5.hostingcentar.com:8215/stream",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio Dalmacija - Hajdučke",
+    "url": "http://c5.hostingcentar.com:8221/stream",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio Dalmacija - Oliver",
+    "url": "http://c5.hostingcentar.com:8275/stream",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Dalmacija - Rokija",
+    "url": "http://c5.hostingcentar.com:8209/stream",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio Daruvar",
+    "url": "https://mcp1.mydataknox.com:8020/live.mp3",
+    "codec": "AAC",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatia,czech"
+  },
+  {
+    "name": "Radio Deejay HR",
+    "url": "http://live.deejay.hr:7002/;",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio Drniš 89,0 MHz",
+    "url": "https://ec2s.crolive.com.hr:2415/stream",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": 43.86330181771137,
+    "lon": 16.157637834548954,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio Eurostar Umag",
+    "url": "http://mcp1.mydataknox.com:8012/stream",
+    "codec": "MP3",
+    "bitrate": 112,
+    "needsResolve": false,
+    "lat": 45.43378606325175,
+    "lon": 13.523161411285402,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio Gorski kotar",
+    "url": "http://144.76.39.214:9500/stream.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio Grubišno Polje",
+    "url": "https://ec2s.crolive.com.hr:8215/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio Istra",
+    "url": "http://de4.streamingpulse.com:7117/stream",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 45.31739181570158,
+    "lon": 13.842773437500002,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio Istra",
+    "url": "http://uk1.streamingpulse.com:7117/stream",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Italo Disco Net",
+    "url": "http://65.21.202.84:8356/stream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Jaska",
+    "url": "http://uk1.streamingpulse.com:7041/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 45.67152390041923,
+    "lon": 15.649681091308596,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio Jaska",
+    "url": "https://uk1.streamingpulse.com/ssl/RadioJaska",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio Kaj",
+    "url": "http://s8.iqstreaming.com:8050/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Kaj",
+    "url": "https://s8.iqstreaming.com:2020/stream/radio-kaj2/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio Kampus",
+    "url": "https://audio.alter-media.hr:7016/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 43.50999090547435,
+    "lon": 16.440267562866214,
+    "language": ""
+  },
+  {
+    "name": "Radio Koprivnica",
+    "url": "http://194.152.206.205:8000/",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio Korzo",
+    "url": "https://c2.hostingcentar.com/streams/radiokorzo/stream",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": 45.330881288522114,
+    "lon": 14.44333076477051,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio Korčula 107,5FM",
+    "url": "http://shoutcast.pondi.hr:8005/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 42.961125761282425,
+    "lon": 17.13527619838715,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio Križevci",
+    "url": "https://s8.iqstreaming.com:8048/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio Krka",
+    "url": "http://cmr-hosting.com/9700/stream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 43.818055554131746,
+    "lon": 15.92296600341797,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio Labin",
+    "url": "http://radiolabin.streamradio.com.hr:9100/",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": 45.08909357794935,
+    "lon": 14.11573509544514,
+    "language": ""
+  },
+  {
+    "name": "Radio Ludnica",
+    "url": "http://192.111.140.6:8222/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Maestral",
+    "url": "http://ec2s.crolive.com.hr:1630/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian,english"
+  },
+  {
+    "name": "Radio Marija",
+    "url": "http://dreamsiteradiocp4.com:8080/",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio Marija Bistrica",
+    "url": "http://178.218.163.171:8024/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio Marija Hrvatska",
+    "url": "https://dreamsiteradiocp2.com/proxy/rmcroatia?mp=/stream",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio Max",
+    "url": "https://azuracast.novi-net.net/radio/8010/radiomax.aac",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Max",
+    "url": "https://azuracast.novi-net.net/listen/radiomax/radiomax.aac",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Max 99.3 (Cerje Nebojse, Maruševec)",
+    "url": "https://azuracast.novi-net.net/listen/radiomax/radiomax.aac?refresh=1676766574706",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio Media Servis",
+    "url": "http://live.mediaservis.hr:8084/stream?type=http&nocache=557757",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Megaton",
+    "url": "https://chopin.bizmusic.net/radio/8030/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio NU",
+    "url": "https://slusaj.hr:10445/stream?type=http&nocache=634",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 43.447176070850546,
+    "lon": 17.2181510925293,
+    "language": "croatian,english"
+  },
+  {
+    "name": "Radio Nova Gradiška",
+    "url": "http://comet.shoutca.st:8050/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio Orahovica",
+    "url": "https://ec2s.crolive.com.hr:2595/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio Otok Krk",
+    "url": "https://s8.iqstreaming.com:8014/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio Preporod",
+    "url": "http://s1.voscast.com:7986/;",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio Prkos",
+    "url": "http://eu7.fastcast4u.com:6124/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio Quirinus 91.7",
+    "url": "http://s8.iqstreaming.com:8064/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio Ritam",
+    "url": "https://ec2s.crolive.com.hr:8455/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 43.73439091160204,
+    "lon": 15.893440246582031,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio Rojc",
+    "url": "https://cf.widecastcdn.live/Z07ww1NUNl/live.m3u8",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio Roža",
+    "url": "http://stream.radio-roza.org/live.ogg",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 45.32931003389581,
+    "lon": 14.438943006098272,
+    "language": ""
+  },
+  {
+    "name": "Radio Samobor",
+    "url": "http://185.150.235.162/",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio Slavonija",
+    "url": "http://s8.iqstreaming.com:8026/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 45.156470554561615,
+    "lon": 18.015346527099613,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio Slavonija",
+    "url": "http://s8.iqstreaming.com:8026/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio Slunj",
+    "url": "http://s8.iqstreaming.com:8070/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 45.11537785385462,
+    "lon": 15.585222244262695,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio Sova",
+    "url": "http://evcast.mediacp.eu:1960/stream",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": 45.32680630898007,
+    "lon": 14.443759918212892,
+    "language": "croatian,english"
+  },
+  {
+    "name": "Radio Student",
+    "url": "http://stream.radiostudent.hr/audio",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio Student 100.5",
+    "url": "http://161.53.122.184:8000/AAC128.aac",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 45.807861790267474,
+    "lon": 15.992779073399886,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio Sunce",
+    "url": "http://shoutcast.pondi.hr:8002/;*.mp3",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio Techno Dance Kneginec",
+    "url": "http://stream.zeno.fm/8d2pyzm5wp8uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Techno Zagreb",
+    "url": "http://mercury.reliastream.com:8085/stream.mp3",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 45.80332302273604,
+    "lon": 15.968627929687502,
+    "language": ""
+  },
+  {
+    "name": "Radio Tvornica",
+    "url": "https://c8.hostingcentar.com/streams/radiotvornica?type=http&nocache=50001",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 45.801233315934255,
+    "lon": 15.976318304892631,
+    "language": ""
+  },
+  {
+    "name": "Radio Vinkovci",
+    "url": "https://onlineradiobox.com/json/hr/vinkovci/play?platform=web",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio Vrbovec 94.5",
+    "url": "http://c2.hostingcentar.com:9452/;",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio Zelina",
+    "url": "https://ec2s.crolive.com.hr:1690/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 45.95928586082248,
+    "lon": 16.24436438083649,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio Zlatar",
+    "url": "http://144.76.172.23:7059/",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio stubica",
+    "url": "http://radiostubica.hc.hr:7006/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio Đakovo",
+    "url": "https://ec2s.crolive.com.hr:8305/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 45.30991893827438,
+    "lon": 18.41294646263123,
+    "language": "croatian"
+  },
+  {
+    "name": "Radio Šibenik",
+    "url": "http://144.76.219.22:8215/stream.mp3?ver=421911",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Županja",
+    "url": "https://audio.alter-media.hr:7019/stream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio101",
+    "url": "http://live.radio101.hr:9531/",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Room FM",
+    "url": "http://65.108.198.245:8856/;",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatia,croatian,hrvatska"
+  },
+  {
+    "name": "Rovinj FM",
+    "url": "http://rovinj.fm:8000/",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Slavonski Radio",
+    "url": "https://ec2s.crolive.com.hr:8035/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Soundset Ragusa",
+    "url": "http://178.218.163.171:8012/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian,english"
+  },
+  {
+    "name": "Studentski radio UNIOS",
+    "url": "http://radio.unios.hr:8000/stream.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Super Radio",
+    "url": "http://mcp1.mydataknox.com:8010/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "TOP GOLD",
+    "url": "http://116.202.235.114:8414/",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian,english"
+  },
+  {
+    "name": "TOP POP",
+    "url": "http://116.202.235.114:8420/",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian,english"
+  },
+  {
+    "name": "TOP ROCK",
+    "url": "http://116.202.235.114:8408/",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian,english"
+  },
+  {
+    "name": "TOP YOU",
+    "url": "http://116.202.235.114:8402/",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian,english"
+  },
+  {
+    "name": "Tamburaški radio",
+    "url": "https://listen.radioking.com/radio/552965/stream/612287",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Thompson 24/7 - Radio NU",
+    "url": "https://slusaj.hr:10446/stream?type=http&nocache=9",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 43.44782409465655,
+    "lon": 17.216882407665256,
+    "language": "croatian"
+  },
+  {
+    "name": "Top Radio",
+    "url": "http://c5.hostingcentar.com:8000/streams/topradio/",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 45.76394543389568,
+    "lon": 15.9819370508194,
+    "language": "croatian"
+  },
+  {
+    "name": "Top Radio",
+    "url": "https://c5.hostingcentar.com/streams/topradio/",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Top Radio Gold",
+    "url": "https://audio.social3.hr/listen/top_radio_gold/stream?7802",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 45.812888256834114,
+    "lon": 15.977210085945314,
+    "language": ""
+  },
+  {
+    "name": "Top Radio Pop",
+    "url": "https://audio.social3.hr/listen/top_radio_pop/stream?5483",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Top Radio Rock",
+    "url": "https://audio.social3.hr/listen/top_radio_rock/stream?7435",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Top Radio Yugo",
+    "url": "https://audio.social3.hr/listen/top_exyu/stream?8298",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Tranzistor",
+    "url": "https://ec2s.crolive.com.hr/tranzistor",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 45.31617764331917,
+    "lon": 18.411519527435303,
+    "language": "croatia,croatian"
+  },
+  {
+    "name": "ULTRA Split",
+    "url": "http://c5.hostingcentar.com:8061/stream",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Ultra Split",
+    "url": "http://c5.hostingcentar.com:8061/;stream/1",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 43.50594769284607,
+    "lon": 16.44772074143793,
+    "language": "croatian"
+  },
+  {
+    "name": "Yammat FM",
+    "url": "https://stream.yammat.fm/radio/8000/yammat.mp3",
+    "codec": "AAC",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 45.81052938387316,
+    "lon": 15.985794178783625,
+    "language": "croatian"
+  },
+  {
+    "name": "ZFM",
+    "url": "https://ec2s.crolive.com.hr:7015/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 45.86896118984027,
+    "lon": 15.800786018371584,
+    "language": "croatian"
+  },
+  {
+    "name": "Zabavni Radio",
+    "url": "http://radiocentar.hr:8585/stream.aac",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 45.82311266113856,
+    "lon": 16.121548712253574,
+    "language": ""
+  },
+  {
+    "name": "Zagorski radio",
+    "url": "https://s8.iqstreaming.com:2020/stream/zagorski/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian"
+  },
+  {
+    "name": "Zagorski radio",
+    "url": "http://s8.iqstreaming.com:8054/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 46.15363458400968,
+    "lon": 15.8742892742157,
+    "language": "croatian"
+  },
+  {
+    "name": "bravo!",
+    "url": "http://c5.hostingcentar.com:8059/stream?4960",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 45.81195501302508,
+    "lon": 15.9722650273346,
+    "language": "croatian"
+  },
+  {
+    "name": "bravo! balade",
+    "url": "http://c5.hostingcentar.com:8360/stream?1510",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 45.80582853992835,
+    "lon": 15.96548895486555,
+    "language": "croatian"
+  },
+  {
+    "name": "bravo! kids",
+    "url": "https://audio.social3.hr/listen/bravo_kids/stream?3367",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 45.810423487136624,
+    "lon": 15.96584607639418,
+    "language": "croatian"
+  },
+  {
+    "name": "bravo! pop",
+    "url": "http://c5.hostingcentar.com:8354/stream?2340",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 45.8425770373213,
+    "lon": 15.991332464625756,
+    "language": "croatian"
+  },
+  {
+    "name": "bravo! rock",
+    "url": "http://c5.hostingcentar.com:8348/stream?1996",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 45.83492308132436,
+    "lon": 15.980284411792091,
+    "language": "croatian"
+  },
+  {
+    "name": "cVrai.com - That's your webradio",
+    "url": "https://stream.cvrai.com:8010/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "dvb.digital",
+    "url": "https://radio.dvb.digital/listen/dvb.digital/hq.mp3",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "https://clubmusic-1.com/",
+    "url": "http://cmr-hosting.com:8050/stream?type=http&nocache=5796",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Županijski Radio Šibenik",
+    "url": "http://144.76.219.22:8215/stream.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 43.73290248118248,
+    "lon": 15.889663696289064,
+    "language": "croatian"
+  }
+]

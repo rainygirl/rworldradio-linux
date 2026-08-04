@@ -1,0 +1,342 @@
+[
+  {
+    "name": "Ananda Marga Haiti",
+    "url": "https://stream-152.zeno.fm/vm8mgn3eewzuv?zs=HWkYw7B5S2C0W0cAcrdGZQ",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 18.518841753570044,
+    "lon": -72.35046386718751,
+    "language": ""
+  },
+  {
+    "name": "Big Reggae Mix",
+    "url": "https://ais-sa2.cdnstream1.com/2294_128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Caraibes FM",
+    "url": "https://stream.zeno.fm/54k0v7x14neuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Caraibes FM",
+    "url": "https://stream-21.zeno.fm/avr8uenbm1duv?zs=HEEdTMZyQ6uSZRff0P3ubg",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Intermix 93.1 FM",
+    "url": "https://studio.sitegenial.com/9310/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "KONPA MIX RADIO!",
+    "url": "http://streaming.live365.com/a15951",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "creole"
+  },
+  {
+    "name": "Konpa Mizik",
+    "url": "http://s27.myradiostream.com:4944/;",
+    "codec": "MP3",
+    "bitrate": 112,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "haitian creole"
+  },
+  {
+    "name": "Men Konpa",
+    "url": "http://stream.radio.co/s84b4fb736/listen",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,haitian creole"
+  },
+  {
+    "name": "RADIO BBC NEWS HAITI",
+    "url": "http://stream.zeno.fm/hpdayz31vd0uv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "haitian creole"
+  },
+  {
+    "name": "RFI",
+    "url": "https://rfimonde-96k.ice.infomaniak.ch/rfimonde-96k.mp3",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RHAI",
+    "url": "https://stream-165.zeno.fm/mbd2kns9m5zuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radi Macaya",
+    "url": "http://stream.zeno.fm/e7s1qpe5d4duv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "haitian creole"
+  },
+  {
+    "name": "Radio 4VEH",
+    "url": "https://stream.zeno.fm/0zef35h1my5tv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "haitian creole"
+  },
+  {
+    "name": "Radio Bien Etre FM",
+    "url": "https://stream.zeno.fm/zxg8t9gr3f8uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 18.577958680572937,
+    "lon": -72.30239868164064,
+    "language": "creole,english,french"
+  },
+  {
+    "name": "Radio Bonpounou",
+    "url": "https://centova.wlservices.org/proxy/wiszuaec/stream/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,haitian creole"
+  },
+  {
+    "name": "Radio Boursiquot's FM 101.7",
+    "url": "https://stream.zeno.fm/yoz610evcpltv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "haitian creole"
+  },
+  {
+    "name": "Radio Haiti Tropical",
+    "url": "http://zafemradio.com:9934/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Radio Humilite",
+    "url": "https://stream-176.zeno.fm/qhlllaz21cmuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxaGxsbGF6MjFjbXV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiSVJBLWZCV2JRMmFLMVU2aWJWSGdJQSIsImlhdCI6MTc2ODQzNDg0NiwiZXhwIjoxNzY4NDM0OTA2fQ.bFJ0HahbDyEPeJviTdDlWV71VkJEPXHHn7dzoXk8IUY",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": -85.01911790297841,
+    "lon": -65.07408142089845,
+    "language": "american english"
+  },
+  {
+    "name": "Radio Humilite",
+    "url": "https://stream-176.zeno.fm/qhlllaz21cmuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxaGxsbGF6MjFjbXV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiQmpXcmFwNHBUR3FlM1hnc2xaVWkzZyIsImlhdCI6MTc2ODQzNzIxNCwiZXhwIjoxNzY4NDM3Mjc0fQ.sLo1GT3AJXO1bih0_KKzyRVsNhXbfwayJJMlNncafWs",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "haitian creole"
+  },
+  {
+    "name": "Radio Jamesen Show",
+    "url": "https://stream.zeno.fm/aparrwtkwyzuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Jamesen Show",
+    "url": "http://stream.zeno.fm/aparrwtkwyzuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 18.547294392905957,
+    "lon": -72.34173842123711,
+    "language": "french"
+  },
+  {
+    "name": "Radio Jeanvonvon",
+    "url": "https://stream-152.zeno.fm/28zya4hubwzuv?zs=KHC-EIFRRNCzl-jbVyJyjg",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "haitian creole"
+  },
+  {
+    "name": "Radio Kiskeya",
+    "url": "http://stream.zeno.fm/82q102t62neuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Louvri Je",
+    "url": "http://ca8.rcast.net:4034/",
+    "codec": "MP3",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Louvri Je",
+    "url": "http://ca8.rcast.net:4034/;",
+    "codec": "MP3",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "haitian creole"
+  },
+  {
+    "name": "Radio Lumiere Haiti",
+    "url": "http://stream.zenolive.com/yw0309xbgseuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french,haiti creole"
+  },
+  {
+    "name": "Radio Mille Colombes FM",
+    "url": "https://stream.zeno.fm/my1hfddd6nhvv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "haitian creole"
+  },
+  {
+    "name": "Radio Scoop FM",
+    "url": "https://studio.sitegenial.com/8006/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "haitian creole"
+  },
+  {
+    "name": "Radio St Charles FM",
+    "url": "http://stream.zeno.fm/fd9kyc28dchvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 18.692787436285652,
+    "lon": -72.33270764350893,
+    "language": ""
+  },
+  {
+    "name": "Radio Tele Eclair",
+    "url": "http://stream.radiojar.com/2b0gs3cu4tzuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french,haitian creole"
+  },
+  {
+    "name": "Radio Television Supreme (RTVS)",
+    "url": "https://stream.zeno.fm/bdkwbv3rt98uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Vision 2000 Sud Est 90.9 FM",
+    "url": "http://stream.zeno.fm/xmyroy1iu80uv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "haitian creole"
+  },
+  {
+    "name": "Radyo Tipiti",
+    "url": "https://a8.asurahosting.com:7530/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french,haitian creole"
+  },
+  {
+    "name": "hhh",
+    "url": "https://jazzchristmas.stream.laut.fm/jazzchristmas?t302=2023-12-19_08-05-17&uuid=43cac575-4695-4eca-baf1-5d2f18f5897b",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

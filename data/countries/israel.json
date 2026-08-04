@@ -1,0 +1,1712 @@
+[
+  {
+    "name": "#Joint Radio Reggae",
+    "url": "https://jointil.com/stream-reggae",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "#joint radio Beat Trance",
+    "url": "https://jointil.com/stream-beat",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "#joint radio Blues Rock",
+    "url": "https://jointil.com/stream-blues",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "100fm - 100% Movies",
+    "url": "http://gb25.streamgates.net/radios-audio/100Movies/icecast.audio",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "101.5fm נותנים למוזיקה לדבר רדיו דרום",
+    "url": "https://cdn.cybercdn.live/Darom_1015FM/Live/icecast.audio",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hebrew"
+  },
+  {
+    "name": "101.5fm רדיו התחנה",
+    "url": "https://cdn.cybercdn.live/Hatahana_1015/Live_Audio/icecast.audio",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hebrew"
+  },
+  {
+    "name": "101fm radio jerusalem",
+    "url": "https://radio.streamgates.net/stream/101fm",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hebrew"
+  },
+  {
+    "name": "103fm 103.0 (Classic Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s14201",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "104.5fm radio זשכםמ",
+    "url": "https://radio.streamgates.net/stream/1045fm",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hebrew"
+  },
+  {
+    "name": "88 FM",
+    "url": "https://29073.live.streamtheworld.com/KAN_88.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "88FM",
+    "url": "https://kan88.media.kan.org.il/hls/live/2024812/2024812/kan88_mp3/chunklist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 32.01787621860987,
+    "lon": 34.82331116759078,
+    "language": ""
+  },
+  {
+    "name": "91FM",
+    "url": "https://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "94fm רדיו גלי ישראל",
+    "url": "https://cdn.cybercdn.live/Galei_Israel/Live/icecast.audio",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hebrew"
+  },
+  {
+    "name": "AVIVmedia",
+    "url": "http://176.9.7.145:8127/stream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "AudioVersity",
+    "url": "https://1062onair.runi.ac.il/idc123.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "AudioVersity 106.2 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s136985",
+    "codec": "mp3",
+    "bitrate": 32,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "ECO99FM",
+    "url": "https://eco-live.mediacast.co.il/99fm_aac",
+    "codec": "AAC+",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hebrew"
+  },
+  {
+    "name": "ELI NISMAN",
+    "url": "http://listen6.myradio24.com:9000/25715",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Eco 99 fm 99.0 (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s8712",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Eco 99fm",
+    "url": "https://eco01.livecdn.biz/ecolive/99fm_aac/icecast.audio?hash=1559501510715.m4a",
+    "codec": "AAC+",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hebrew"
+  },
+  {
+    "name": "Eli Nisman Radio",
+    "url": "https://listen6.myradio24.com/25715",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Euphonic FM",
+    "url": "https://streaming.live365.com/a64617/playlist.m3u8",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "GLGLZ 104.0 (Classic Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s131909",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "GLGLZ 91.8 (Classic Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s68320",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Galei Zahal",
+    "url": "http://glzwizzlv.bynetcdn.com/glz_mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hebrew"
+  },
+  {
+    "name": "Galei Zahal 102.3 (News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s24906",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Galei Zahal 96.6 (News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s127947",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Galgalatz",
+    "url": "https://glzwizzlv.bynetcdn.com/glglz_mp3?awCollectionId=misc&awEpisodeId=glglz",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 31.96818267111348,
+    "lon": 34.80468750000001,
+    "language": "english,hebrew"
+  },
+  {
+    "name": "Galgalatz 91.8 FM",
+    "url": "https://glzicylv01.bynetcdn.com/glglz_mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hebrew"
+  },
+  {
+    "name": "Glglz",
+    "url": "https://api.bynetcdn.com/Redirector/glz/glglz/ICE-LIVE",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hebrew"
+  },
+  {
+    "name": "Glglz - Rock",
+    "url": "https://glzwizzlv.bynetcdn.com/glglz_rock_mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Glglz - רגוע (סופשבוע)",
+    "url": "https://glzwizzlv.bynetcdn.com/glglz_sofshavua_mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Glz",
+    "url": "http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Hedva Shaltiel",
+    "url": "https://icecast.live/ivr",
+    "codec": "AAC",
+    "bitrate": 80,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,hebrew"
+  },
+  {
+    "name": "Ivri 6",
+    "url": "https://streaming.radio.co/sa06221901/listen",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hebrew"
+  },
+  {
+    "name": "KAN 88",
+    "url": "http://kanliveicy.media.kan.org.il/icy/749623_mp3?providername=tunein",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "KAN 88 - כאן 88 87.6 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s100341",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "KAN 88 - כאן 88 88.0 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s47350",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "KAN BET 103.7 (Public Radio)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s45482",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "KAN BET 95.5 (Public Radio)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s24889",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "KAN GIMMEL 105.5 (World Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s77932",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "KAN GIMMEL 97.8 (World Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s45475",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "KAN Gimel כאן גימל",
+    "url": "https://27873.live.streamtheworld.com/KAN_GIMMEL.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 32.16418177750705,
+    "lon": 35.02990722656251,
+    "language": "hebrew"
+  },
+  {
+    "name": "KAN KOL HAMUSICA 91.3 (Classical)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s14193",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "KAN KOL HAMUSICA 98.5 (Classical)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s100350",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "KAN REKA 100.3 (World Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s97675",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "KAN TARBUT",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_TARBUT.mp3?dist=tunein",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "KAN TARBUT 97.2 (Culture)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s100352",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "KAN TARBUT 98.4 (Culture)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s44812",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "KAN gimel (real)",
+    "url": "http://kanliveicy.media.kan.org.il/icy/749625_mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hebrew"
+  },
+  {
+    "name": "KHZ - רדיו קול הצפון",
+    "url": "https://live.ecast.co.il/stream/khz",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Kabbalah Fr",
+    "url": "http://icecast.kab.tv/live1-spa-574bcfd5.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Kabbalah TV Hebrew (Jewish Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s110078",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Kan 88",
+    "url": "http://kanliveicy.media.kan.org.il/icy/kan88_mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hebrew"
+  },
+  {
+    "name": "Kan Bet",
+    "url": "https://25583.live.streamtheworld.com/KAN_BET.mp3?dist=bynetredirect&1737047133",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hebrew"
+  },
+  {
+    "name": "Kan Bet",
+    "url": "https://kanbet.media.kan.org.il/hls/live/2024811/2024811/playlist.m3u8",
+    "codec": "MP3",
+    "bitrate": 146,
+    "needsResolve": false,
+    "lat": 32.01925415944079,
+    "lon": 34.54101562500001,
+    "language": ""
+  },
+  {
+    "name": "Kan Bet",
+    "url": "https://28563.live.streamtheworld.com/KAN_BET.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hebrew"
+  },
+  {
+    "name": "Kan Bet 64K",
+    "url": "https://n-121-4.il.cdn-redge.media/livehls/oil/kancdn-live/live/radio/kan_reshet_bet/live.livx/playlist.m3u8?bitrate=64000&audioId=1&lang=pol&renditions",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Kan Gimel",
+    "url": "http://kanliveicy01.bynetcdn.com/icy/kangimmel_mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hebrew"
+  },
+  {
+    "name": "Kan Israel Reshet Moreshet 92.5 FM",
+    "url": "http://kanliveicy.media.kan.org.il/icy/kanmoreshet_mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hebrew"
+  },
+  {
+    "name": "Kan Israel Tarbut",
+    "url": "http://kanliveicy.media.kan.org.il/icy/kantarbut_mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hebrew"
+  },
+  {
+    "name": "Kan Kol HaMusica",
+    "url": "http://kanliveicy.media.kan.org.il/icy/kankolhamusica_mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hebrew"
+  },
+  {
+    "name": "Kan Reka",
+    "url": "http://kanliveicy01.bynetcdn.com/icy/kanreka_mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "amharic,bukharian,english,french,georgian,ladino,russian,spanish,yiddish"
+  },
+  {
+    "name": "Kan Reshet Bet",
+    "url": "http://kanliveicy.media.kan.org.il/icy/kanbet_mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Kan Tarbut",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_TARBUT.mp3?dist",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Kcm FM Channel 01 Live",
+    "url": "https://media2.93fm.co.il/livemusic",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hebrew,yiddish"
+  },
+  {
+    "name": "Kol Rega קול רגע 91.5/96",
+    "url": "https://cdn.cybercdn.live/Kol_Rega/Live_Audio/icecast.audio",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 32.71853787487626,
+    "lon": 35.39457371520133,
+    "language": "hebrew"
+  },
+  {
+    "name": "Kol Yizrael 106FM 106.0 (Variety)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s141664",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Kol-Barama FM 92.1 (Middle Eastern Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s114745",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MAKAN 90.3 (Arabic Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s18107",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MAKAN 92.4 (Arabic Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s100372",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Mizrahit FM Best",
+    "url": "http://rs.mizrahit.fm:7777/arabellavie",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -67.21888450424002,
+    "lon": 20.13881136277664,
+    "language": "hebrew"
+  },
+  {
+    "name": "Music-ToraVeZimra",
+    "url": "https://cast.breslevforyou.co.il/listen/music-toravezimra/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Nachman",
+    "url": "https://cast.breslevforyou.co.il/listen/radiobreslev/radio.mp3",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Pervoye Radio 89.1 (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s45483",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio 100% 90s",
+    "url": "https://gb25.streamgates.net/radios-audio/10090s/icecast.audio",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Radio 100% Latina",
+    "url": "https://gb25.streamgates.net/radios-audio/100Latin/icecast.audio",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio 103FM",
+    "url": "https://cdn.cybercdn.live/103FM/Live/icecast.audio",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio 90FM",
+    "url": "https://cdn.cybercdn.live/Emtza_Haderech/Live_Audio/icecast.audio",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Beat 94.3 | (World Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s77913",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Breslev Carmiel",
+    "url": "https://securestreams6.autopo.st:2294/mp3",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,hebrew"
+  },
+  {
+    "name": "Radio Haifa רדיו חיפה",
+    "url": "https://1075.livecdn.biz/radiohaifa",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 32.64756587920691,
+    "lon": 35.04364013671876,
+    "language": "hebrew"
+  },
+  {
+    "name": "Radio KOL GALIM 106.1 (00's Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s232326",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Lev Hamedina",
+    "url": "http://91fm.streamgates.net/Lev91Fm",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio MUZYKA 106.4FM |",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s345571",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Mevaser Tov 770 (Jewish Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s77930",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Nahariya",
+    "url": "https://cast.radionahariya.com:8443/main.mp3",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Nas",
+    "url": "https://cdna.streamgates.net/RadioNas/Live-Audio/icecast.audio",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Qualita",
+    "url": "https://www.radioking.com/play/radio-qualita",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Radio Sahar",
+    "url": "https://live.ecast.co.il/stream/sahar/stream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,hebrew"
+  },
+  {
+    "name": "Radio Yasoo",
+    "url": "http://radio-yasoo.ath.cx:7500/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 32.00177970895961,
+    "lon": 34.76729723590324,
+    "language": "greek,hebrew"
+  },
+  {
+    "name": "RadioPlus",
+    "url": "http://s3.yesstreaming.net:7049/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radios 100FM",
+    "url": "http://gb25.streamgates.net/radios-audio/100Workout/icecast.audio",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radios 100FM   רדיוס",
+    "url": "https://cdn.cybercdn.live/Radios_100FM/Audio/icecast.audio",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 32.10699892515369,
+    "lon": 34.97111320495606,
+    "language": "hebrew"
+  },
+  {
+    "name": "Radios 100FM - 100% 80s",
+    "url": "http://gb25.streamgates.net/radios-audio/10080s/icecast.audio",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Radios 100FM - 100% Blues",
+    "url": "https://gb25.streamgates.net/radios-audio/100Blues/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 148,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radios 100FM - 100% Britpop",
+    "url": "https://gb25.streamgates.net/radios-audio/100Britpop/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 144,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radios 100FM - 100% Chillout",
+    "url": "https://gb25.streamgates.net/radios-audio/100Chillout/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 149,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radios 100FM - 100% Classic",
+    "url": "https://gb25.streamgates.net/radios-audio/100Classic/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 147,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radios 100FM - 100% Classic Rock",
+    "url": "https://gb25.streamgates.net/radios-audio/100ClassicRock/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 146,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radios 100FM - 100% Club",
+    "url": "https://gb25.streamgates.net/radios-audio/100Club/icecast.audio",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radios 100FM - 100% Country",
+    "url": "https://gb25.streamgates.net/radios-audio/100Country/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 145,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radios 100FM - 100% Covers",
+    "url": "https://gb25.streamgates.net/radios-audio/100Covers/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 147,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radios 100FM - 100% Disney",
+    "url": "https://gb25.streamgates.net/radios-audio/100Disney/icecast.audio",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radios 100FM - 100% Eurovision",
+    "url": "https://gb25.streamgates.net/radios-audio/100Special/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 149,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radios 100FM - 100% Gamer",
+    "url": "https://gb25.streamgates.net/radios-audio/100Gamer/icecast.audio",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radios 100FM - 100% Hits",
+    "url": "https://gb25.streamgates.net/radios-audio/100Hits/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 146,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radios 100FM - 100% Jazz",
+    "url": "https://gb25.streamgates.net/radios-audio/100Jazz/icecast.audio",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radios 100FM - 100% K-pop",
+    "url": "https://gb25.streamgates.net/radios-audio/100kpop/icecast.audio",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radios 100FM - 100% Kids",
+    "url": "https://gb25.streamgates.net/radios-audio/100Kids/icecast.audio",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radios 100FM - 100% Latin",
+    "url": "https://gb25.streamgates.net/radios-audio/100Latin/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 148,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radios 100FM - 100% Legends",
+    "url": "https://gb25.streamgates.net/radios-audio/100Legends/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 147,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radios 100FM - 100% Love",
+    "url": "https://gb25.streamgates.net/radios-audio/100Love/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 147,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radios 100FM - 100% Mizrachit (מזרחי)",
+    "url": "https://gb25.streamgates.net/radios-audio/100Mizrachit/icecast.audio",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radios 100FM - 100% Movies",
+    "url": "https://gb25.streamgates.net/radios-audio/100Movies/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 144,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radios 100FM - 100% Nostalgia",
+    "url": "https://gb25.streamgates.net/radios-audio/100Nostalgia/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 147,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hebrew"
+  },
+  {
+    "name": "Radios 100FM - 100% Oldies",
+    "url": "http://gb25.streamgates.net/radios-audio/100Oldies/icecast.audio",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Radios 100FM - 100% Relax",
+    "url": "https://gb25.streamgates.net/radios-audio/100Relax/icecast.audio",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radios 100FM - 100% Retro",
+    "url": "https://gb25.streamgates.net/radios-audio/100Retro/icecast.audio",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radios 100FM - 100% Rock",
+    "url": "https://gb25.streamgates.net/radios-audio/100Rock/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 146,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radios 100FM - 100% Selfie",
+    "url": "https://gb25.streamgates.net/radios-audio/100Selfie/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 145,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radios 100FM - 100% StandUp",
+    "url": "https://gb25.streamgates.net/radios-audio/100StandUp/icecast.audio",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hebrew"
+  },
+  {
+    "name": "Radios 100FM - 100% Stars (ערוץ הכוכבים)",
+    "url": "https://gb25.streamgates.net/radios-audio/100Stars/icecast.audio",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hebrew"
+  },
+  {
+    "name": "Radios 100FM - 100% Tiktok",
+    "url": "https://gb25.streamgates.net/radios-audio/100Tiktok/icecast.audio",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radios 100FM - 100% Top40",
+    "url": "https://gb25.streamgates.net/radios-audio/100Top40/icecast.audio",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hebrew"
+  },
+  {
+    "name": "Radios 100FM - 100% Workout",
+    "url": "https://gb25.streamgates.net/radios-audio/100Workout/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 148,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radios 100FM - 100% World Music",
+    "url": "https://gb25.streamgates.net/radios-audio/100World/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 150,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radios 100FM - 100% Yehudi (יהודי)",
+    "url": "https://gb25.streamgates.net/radios-audio/100yehudi/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 144,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radios 100fm | (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s26087",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radios Nostalgia 96.3FM (רדיוס נוסטלגי)",
+    "url": "https://cdna.streamgates.net/radios-audio/Nostalgia_963fm/icecast.audio",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Rak Musica",
+    "url": "https://play.radioking.io/rak-musica/670240",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Tel Aviv 102FM רדיו תל אביב",
+    "url": "https://102.livecdn.biz/102fm_aac",
+    "codec": "AAC+",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 32.07896745965534,
+    "lon": 34.78312062016064,
+    "language": "hebrew"
+  },
+  {
+    "name": "Up2Dance Radio",
+    "url": "https://icecast.live/up2dance",
+    "codec": "AAC",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Ze Rock Radio",
+    "url": "https://icecast.live/proxy/zerock/zerock",
+    "codec": "AAC",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": 32.965577230293995,
+    "lon": 35.121488571167,
+    "language": "english,hebrew"
+  },
+  {
+    "name": "kol hai",
+    "url": "https://live.kcm.fm/livemusic",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hebrew"
+  },
+  {
+    "name": "kzradio",
+    "url": "https://kzradio.mediacast.co.il/kzradio_live/kzradio/icecast.audio",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "mizrahit radio",
+    "url": "https://mzr.mediacast.co.il/mzradio",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "radio darom 95.8fm 97fm",
+    "url": "https://cdn.cybercdn.live/Darom_97FM/Live/icecast.audio",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hebrew"
+  },
+  {
+    "name": "reka",
+    "url": "http://kanliveicy.media.kan.org.il/icy/kanreka_mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Каббала ТВ (Jewish Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s110075",
+    "codec": "mp3",
+    "bitrate": 48,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Лучшее Радио",
+    "url": "http://live.cdnwz.net/thebest",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "russian"
+  },
+  {
+    "name": "Машиах Инфо Канал 1",
+    "url": "http://s01.radio-tochka.com:6935/;",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "russian"
+  },
+  {
+    "name": "Машиах Инфо Канал 2",
+    "url": "http://s01.radio-tochka.com:6045/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "russian"
+  },
+  {
+    "name": "Мессианское онлайн радио Орэну",
+    "url": "https://listen7.myradio24.com/orenu",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,russian"
+  },
+  {
+    "name": "Первое радио 89.1FM",
+    "url": "https://cdn.cybercdn.live/Pervoia/Audio/icecast.audio",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "אקו eco 99fm",
+    "url": "http://99.mediacast.co.il/99fm_aac?hash=1559501510715.m4a",
+    "codec": "AAC+",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hebrew"
+  },
+  {
+    "name": "ברסלב פוריו: הלכות ודף יומי",
+    "url": "https://cast.breslevforyou.co.il/listen/halachot/radio.mp3",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hebrew"
+  },
+  {
+    "name": "ברסלב פוריו: ספרי ברסלב",
+    "url": "https://cast.breslevforyou.co.il/listen/books/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hebrew"
+  },
+  {
+    "name": "ברסלב פוריו: קצר וקולע",
+    "url": "https://cast.breslevforyou.co.il/listen/shorts/radio.mp3",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hebrew"
+  },
+  {
+    "name": "גלגלצ - Glglz",
+    "url": "http://glzwizzlv.bynetcdn.com/glglz_mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hebrew"
+  },
+  {
+    "name": "גלצ",
+    "url": "https://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hebrew"
+  },
+  {
+    "name": "הקצה - Hakatze",
+    "url": "http://kzradio.mediacast.co.il/kzradio_live/kzradio/icecast.audio",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hebrew"
+  },
+  {
+    "name": "כאן מורשת - Kan Moreshet",
+    "url": "https://kanliveicy.media.kan.org.il/icy/749629_mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hebrew"
+  },
+  {
+    "name": "כאן מורשת - Kan Moreshet",
+    "url": "https://kanliveicy.media.kan.org.il/icy/kanmoreshet_mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hebrew"
+  },
+  {
+    "name": "כאן רקע Kan Reka",
+    "url": "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/radio/kan_reka/live.livx/playlist.m3u8?renditions",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "נושמים מזרחית - Noshmim Mizrahit",
+    "url": "http://www.rs.mizrahit.fm:7777/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hebrew"
+  },
+  {
+    "name": "קבלה לעם אנגלית - Kabbalah eng",
+    "url": "http://icecast.kab.tv/live1-eng-574bcfd5.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "קבלה לעם עברית - Kabbalah heb",
+    "url": "http://icecast.kab.tv/live1-heb-574bcfd5.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hebrew"
+  },
+  {
+    "name": "קבלה לעם צרפתית - Kabbalah fre",
+    "url": "http://icecast.kab.tv/live1-fre-574bcfd5.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "קבלה לעם רוסית - Kabbalah rus",
+    "url": "http://icecast.kab.tv/live1-rus-574bcfd5.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "russian"
+  },
+  {
+    "name": "קול ברמה - Kol Barama",
+    "url": "http://kb.cdnwz.net/kol_barama",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hebrew"
+  },
+  {
+    "name": "קול השפלה - Kol Hashfela",
+    "url": "http://1036kh.cdnwz.net/1036kh",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hebrew"
+  },
+  {
+    "name": "קול השפלה kol hashfela 103.6",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s334040",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "קול חי - Kol Chai",
+    "url": "https://media2.93fm.co.il/live-new",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hebrew"
+  },
+  {
+    "name": "קול פליי | kol-play",
+    "url": "https://cdn.cybercdn.live/Kol_Barama/Music/icecast.audio",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hebrew"
+  },
+  {
+    "name": "רדיו חמאש - Radio Hamesh",
+    "url": "http://995.livecdn.biz:8000/995fm",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hebrew"
+  },
+  {
+    "name": "רדיו לב המדינה 91FM | (Middle Eastern Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s45479",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "רדיוס נוסטלגי 96.3FM | (Oldies Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s350247",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "תל אביב Tel Aviv 102FM",
+    "url": "http://102.livecdn.biz/102fm_aac",
+    "codec": "AAC+",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hebrew"
+  },
+  {
+    "name": "اذاعة الشمس - A-Shams",
+    "url": "https://cdna.streamgates.net/Ashams/Live/icecast.audio",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "راديو مكان  - Kan Israel Makan",
+    "url": "http://kanliveicy.media.kan.org.il/icy/makan_mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  }
+]

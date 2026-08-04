@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Antilles Média - Kompa Gold",
+    "url": "https://antillesmedia.pro-fhi.net/antillesmediakompa",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 16.240232356721418,
+    "lon": -61.55261993408204,
+    "language": "creole"
+  },
+  {
+    "name": "Bel Radio Guadeloupe",
+    "url": "http://n06a-eu.rcs.revma.com/a7qacprtpwzuv?",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Guadeloupe 1ère",
+    "url": "https://guadeloupe.ice.infomaniak.ch/guadeloupe-128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Nostalgie Guadeloupe",
+    "url": "http://go.2stream.net/nostalgiegp",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "📻 Radio Shatta Movement",
+    "url": "https://stream-178.zeno.fm/pbnss8oxyluuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "creole,french"
+  }
+]

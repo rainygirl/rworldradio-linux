@@ -1,0 +1,62 @@
+[
+  {
+    "name": "ColdStar.Online Radio (High quality)",
+    "url": "https://ice.coldstar.online/high.mp3",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "ColdStar.Online Radio (Low quality)",
+    "url": "https://ice.coldstar.online/low.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Биринчи Radio",
+    "url": "https://liveradio.utrk.kg/1radio",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "kyrgyz"
+  },
+  {
+    "name": "Кыргызстан Обондору (Kyrgyzstan Obondoru)",
+    "url": "https://cdn.radioplayer.kg:8443/obondoru64",
+    "codec": "AAC",
+    "bitrate": 56,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "kyrgyz"
+  },
+  {
+    "name": "Радио Тумар FM (Radio Tumar FM)",
+    "url": "https://radio.tumar.fm:8005/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "kyrgyz"
+  },
+  {
+    "name": "Сүйүнчү FM (Suiunchu FM)",
+    "url": "https://cdn.radioplayer.kg:8443/suiunchu64",
+    "codec": "AAC",
+    "bitrate": 56,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "kyrgyz"
+  }
+]

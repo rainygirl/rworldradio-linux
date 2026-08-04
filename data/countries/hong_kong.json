@@ -1,0 +1,682 @@
+[
+  {
+    "name": "AXR",
+    "url": "https://hongkongstream.axr.online/",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 1.326941322024912,
+    "lon": 103.82629763334992,
+    "language": ""
+  },
+  {
+    "name": "AXR Hong Kong",
+    "url": "http://hongkongstream.axr.online/",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "AisaFM亚洲粤语台",
+    "url": "https://live.ximalaya.com/radio-first-page-app/live/999/64.m3u8?transcode=ts",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Apple FM",
+    "url": "http://sc.apple-fm.net:9020/",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Apple-FM.net",
+    "url": "http://sc7b.apple-fm.net:8188/",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "CNR-14 香港之声",
+    "url": "http://ngcdn002.cnr.cn/live/xgzs/index.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "cantonese"
+  },
+  {
+    "name": "CNR-14 香港之聲",
+    "url": "https://satellitepull.cnr.cn/live/wxxgzs/playlist.m3u8?wsSession=5849bb6c90cf7fc1a7e3eae9-174908181231216&wsIPSercert=f7b6cfa8467acd0836b62cf14aa786d3",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "cantonese"
+  },
+  {
+    "name": "D-100",
+    "url": "http://59.152.232.107:8000/Channel1-128MP3",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 22.34408963385261,
+    "lon": 114.14235183800577,
+    "language": "cantonce"
+  },
+  {
+    "name": "Digital Radio Hong Kong",
+    "url": "http://ice.digitalradiohk.net:8000/drhk",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "cantonese"
+  },
+  {
+    "name": "FM Belowground",
+    "url": "https://listen.belowground.fm/radio/8000/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Fing Radio",
+    "url": "https://bluesfan.stream.laut.fm/bluesfan?t302=2020-11-06_13-46-59&uuid=28a2f040-51e1-44fe-899f-3519cbd5d4e9",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Highfun Radios ( shows)",
+    "url": "https://stream.zeno.fm/vzgtzzs0x68uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Ifeng",
+    "url": "http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 22.278851738415295,
+    "lon": 114.188348204086,
+    "language": "chinese,english"
+  },
+  {
+    "name": "La French Radio Honk-Kong et Macao",
+    "url": "https://listen.radioking.com/radio/333865/stream/382282",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Originalradio",
+    "url": "https://stream.zeno.fm/rzwzgu0dd8zuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RTHK Putonghua Channel 香港電台 普通話台 621 (Public Radio)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s14481",
+    "codec": "mp3",
+    "bitrate": 32,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RTHK Radio 1",
+    "url": "https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/master.m3u8",
+    "codec": "AAC",
+    "bitrate": 70,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "cantonese"
+  },
+  {
+    "name": "RTHK Radio 1",
+    "url": "http://stm1.rthk.hk/radio1",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RTHK Radio 2",
+    "url": "http://stm2.rthk.hk/radio2",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RTHK Radio 2",
+    "url": "https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/index_64_a.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "cantonese"
+  },
+  {
+    "name": "RTHK Radio 3",
+    "url": "https://rthkradio3-live.akamaized.net/hls/live/2040079/radio3/master.m3u8",
+    "codec": "AAC",
+    "bitrate": 70,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "RTHK Radio 3 香港電台 第三台 97.9 (World Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s25670",
+    "codec": "mp3",
+    "bitrate": 32,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RTHK Radio 4",
+    "url": "https://rthkradio4-live.akamaized.net/hls/live/2040080/radio4/master.m3u8",
+    "codec": "AAC",
+    "bitrate": 70,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "cantonese,english"
+  },
+  {
+    "name": "RTHK Radio 4 香港電台 第四台 97.6 (Classical)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s25671",
+    "codec": "mp3",
+    "bitrate": 32,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RTHK Radio 5",
+    "url": "https://rthkradio5-live.akamaized.net/hls/live/2040081/radio5/master.m3u8",
+    "codec": "AAC",
+    "bitrate": 70,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "cantonese"
+  },
+  {
+    "name": "RTHK Radio 5",
+    "url": "https://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/index_56_a-p.m3u8",
+    "codec": "AAC",
+    "bitrate": 70,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "cantonese"
+  },
+  {
+    "name": "RTHK Radio 8 央廣粵港澳大灣區之聲",
+    "url": "https://rthkradiocmgrgb-live.akamaized.net/hls/live/2046112/radiocmgrgb/master.m3u8",
+    "codec": "AAC",
+    "bitrate": 70,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "cantonese"
+  },
+  {
+    "name": "RTHK Radio-3",
+    "url": "https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8",
+    "codec": "AAC",
+    "bitrate": 70,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RTHK radio 2",
+    "url": "https://rthkaudio2-lh.akamaihd.net/i/radio2_1@355865/index_56_a-p.m3u8",
+    "codec": "AAC",
+    "bitrate": 70,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "cantonese"
+  },
+  {
+    "name": "RTHK radio 3",
+    "url": "https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/index_56_a-p.m3u8",
+    "codec": "AAC",
+    "bitrate": 70,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Radio 4444",
+    "url": "https://rthkaudio4-lh.akamaihd.net/i/radio4_1@355867/master.m3u8",
+    "codec": "AAC",
+    "bitrate": 70,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "ZENO FM 良友同行频道",
+    "url": "https://stream.zeno.fm/2uvcyzjw38ivv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "radio 1",
+    "url": "https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/index_56_a-p.m3u8",
+    "codec": "AAC",
+    "bitrate": 70,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "三时系念",
+    "url": "https://v.hwadzan.info/liveedge/_definst_/smil:sanshi_720p.smil/playlist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 428,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "中山綜合廣播",
+    "url": "https://lhttp.qingting.fm/live/1277/64k.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "cantonese"
+  },
+  {
+    "name": "华藏多元文化台",
+    "url": "https://v.hwadzan.info/liveedge/_definst_/education/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 983,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "双溪法会",
+    "url": "https://v.hwadzan.info/liveedge/_definst_/smil:sx.smil/playlist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 428,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "台山電台",
+    "url": "https://lhttp-hw.qtfm.cn/live/5022062/64k.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "cantonese"
+  },
+  {
+    "name": "夜空傳情",
+    "url": "http://procyon.shoutca.st:8492/listen.mp3",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "cantonese"
+  },
+  {
+    "name": "大嶼山廣播電台 RADIO LANTAU",
+    "url": "https://radio.dripfeed.net/listen/radiolantau/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "大連都市之聲廣播",
+    "url": "https://lhttp-hw.qtfm.cn/live/1086/64k.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "悟道法师讲经台",
+    "url": "https://v.hwadzan.info/liveedge/_definst_/smil:wdmaster.smil/playlist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 828,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "深圳交通廣播",
+    "url": "https://lhttp-hw.qtfm.cn/live/1272/64k.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "深圳新聞廣播",
+    "url": "http://lhttp.qingting.fm/live/1270/64k.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "深圳生活廣播",
+    "url": "http://ls.qingting.fm/live/1273.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "深圳音樂廣播",
+    "url": "http://ls.qingting.fm/live/1271.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "源声态汽车音乐电台",
+    "url": "https://lhttp-hw.qtfm.cn/live/20500021/64k.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "熱血時報",
+    "url": "https://ptmirror3.passiontimes.hk/hls3/stream.m3u8",
+    "codec": "AAC",
+    "bitrate": 1526,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "cantonese"
+  },
+  {
+    "name": "珠海環保經濟廣播",
+    "url": "https://lhttp-hw.qtfm.cn/live/1275/64k.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "珠海綜合廣播",
+    "url": "https://lhttp-hw.qtfm.cn/live/1274/64k.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "珠海資訊廣播",
+    "url": "https://lhttp-hw.qtfm.cn/live/5021725/64k.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "网络念佛堂",
+    "url": "https://js1.hwadzan.info/liveedge/_definst_/smil:amtb.smil/playlist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 428,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "良友电台友音乐频道",
+    "url": "https://c25.radioboss.fm:8334/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "良友电台同行频道",
+    "url": "https://c23.radioboss.fm/stream/194",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "華語 HITS",
+    "url": "https://das-edge14-live365-dal02.cdnstream.com/a57743_2",
+    "codec": "AAC+",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "陽光衛視",
+    "url": "https://stream.chinasuntv.com/680k/mid_video_index.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "香港新城电台知讯台",
+    "url": "https://1603884249.rsc.cdn77.org/1603884249/index.m3u8",
+    "codec": "AAC",
+    "bitrate": 100,
+    "needsResolve": false,
+    "lat": 22.248428704383624,
+    "lon": 114.169921875,
+    "language": "cantonese"
+  },
+  {
+    "name": "香港新城电台财经台",
+    "url": "https://1716664847.rsc.cdn77.org/1716664847/tracks-a1/mono.ts.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 22.319589442833923,
+    "lon": 114.180908203125,
+    "language": "cantonese"
+  },
+  {
+    "name": "香港新城电台采讯台",
+    "url": "https://1946218710.rsc.cdn77.org/1946218710/index.m3u8",
+    "codec": "AAC",
+    "bitrate": 80,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "cantonese,english"
+  },
+  {
+    "name": "香港普通话台",
+    "url": "https://rthkradiopth-live.akamaized.net/hls/live/2040082/radiopth/master.m3u8",
+    "codec": "AAC",
+    "bitrate": 70,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "香港普通话台",
+    "url": "https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8",
+    "codec": "AAC",
+    "bitrate": 70,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "香港普通话台",
+    "url": "https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/master.m3u8",
+    "codec": "AAC",
+    "bitrate": 70,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "香港電台第一台",
+    "url": "https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/index_64_a.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 22.248428704383624,
+    "lon": 114.169921875,
+    "language": "cantonese,china"
+  },
+  {
+    "name": "香港電台第七台 普通话台",
+    "url": "https://rthkradiopth-live.akamaized.net/hls/live/2040082/radiopth/index_64_a.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "香港電台第五台",
+    "url": "https://rthkradio5-live.akamaized.net/hls/live/2040081/radio5/index_64_a.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 22.370396344320053,
+    "lon": 114.10400390625,
+    "language": "cantonese"
+  },
+  {
+    "name": "香港電台第八台",
+    "url": "https://rthkradiocmgrgb-live.akamaized.net/hls/live/2046112/radiocmgrgb/index_64_a.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "cantonese"
+  },
+  {
+    "name": "香港電台第六台",
+    "url": "https://rthkradiocnrhk-live.akamaized.net/hls/live/2046111/radiocnrhk/index_64_a.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "香港電台第四台",
+    "url": "https://rthkradio4-live.akamaized.net/hls/live/2040080/radio4/index_64_a.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 22.2280904167845,
+    "lon": 114.10400390625,
+    "language": "cantonese"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Ålands Radio",
+    "url": "https://stream.alandsradio.ax/stream.ogg",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 60.10266975355154,
+    "lon": 19.937198420777847,
+    "language": "swedish"
+  }
+]

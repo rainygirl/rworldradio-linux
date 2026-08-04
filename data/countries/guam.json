@@ -1,0 +1,72 @@
+[
+  {
+    "name": "104.3 Boss FM",
+    "url": "https://ice10.securenetsystems.net/KIJI",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "630 | Isla 63 (Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s43934",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "88.1 | Harvest Family Radio (Christian Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s98862",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "89.3 | KPRG (Public Radio)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s6063",
+    "codec": "mp3",
+    "bitrate": 101,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Harvest Family Radio Guam",
+    "url": "https://streaming.live365.com/a11295",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "KUSG",
+    "url": "https://ice10.securenetsystems.net/KUSG",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "TFC Guam",
+    "url": "https://tfcguam-abscbn-ono.amagi.tv/index.m3u8",
+    "codec": "AAC",
+    "bitrate": 1872,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

@@ -1,0 +1,2572 @@
+[
+  {
+    "name": "ABradio Chillout",
+    "url": "http://mp3stream4.abradio.cz/chillout128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Astra Radio",
+    "url": "https://icecast.astraradio.cz/192",
+    "codec": "AAC",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "BIKERS RADIO DOUPE",
+    "url": "https://icecast7.play.cz/bikersradiodoupe128.mp3",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": 49.539147929795575,
+    "lon": 15.366734862327576,
+    "language": "czech"
+  },
+  {
+    "name": "Black Hornet Radio",
+    "url": "http://icecast2.play.cz/bhradio-192.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "BlueRadio.cz",
+    "url": "http://sc.ipip.cz:7980/;?1711695047279",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "BojlerRoom",
+    "url": "https://ice4.abradio.cz/bojler_room_128.aac",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "COLOR Music Radio",
+    "url": "https://icecast8.play.cz/color128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "COOP TIP Radio",
+    "url": "http://mp3stream4.abradio.cz:8000/coop128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "COOP TIP Radio",
+    "url": "http://ice4.abradio.cz/coop128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "CRo Radiozurnal",
+    "url": "https://rozhlas.stream/radiozurnal_aac_128.aac",
+    "codec": "AAC",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "CRo Vysocina",
+    "url": "https://rozhlas.stream/vysocina_high.aac",
+    "codec": "AAC",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Calimeroclub Radio",
+    "url": "http://live.topradio.cz:8000/calimero192",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Cesky Rozhlas Classical Lossless FLAC Stream",
+    "url": "http://amp.cesnet.cz:8000/cro-d-dur.flac",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Cesky Rozhlas D-dur",
+    "url": "http://amp.cesnet.cz:8000/cro-d-dur-256.ogg",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Cesky Rozhlas Jazz",
+    "url": "https://rozhlas.stream/jazz_high.aac",
+    "codec": "AAC",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Cesky Rozhlas Jazz Lossless FLAC Stream",
+    "url": "http://amp.cesnet.cz:8000/cro-jazz.flac",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Chat Rádio",
+    "url": "https://radio.chatujme.cz:8000/chatradio",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "City FM",
+    "url": "http://ice.abradio.cz/cityfm128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech,english"
+  },
+  {
+    "name": "City Milenium",
+    "url": "http://ice.abradio.cz:8000/citymi128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Classic Prague",
+    "url": "https://icecast8.play.cz/classic128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 50.077327392658184,
+    "lon": 14.424780607223513,
+    "language": ""
+  },
+  {
+    "name": "Classic Praha",
+    "url": "http://icecast8.play.cz/classic128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Color Music Radio",
+    "url": "http://sc.ipip.cz:8206/;stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 49.97315102212736,
+    "lon": 14.424973726272585,
+    "language": "czech,english"
+  },
+  {
+    "name": "Comedy Club R@dio DIANA",
+    "url": "https://westradio.cz/radio/8010/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Country Radio",
+    "url": "http://icecast4.play.cz/country128.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Country Radio",
+    "url": "http://icecast2.play.cz:8000/country128aac",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Crazy Rádio",
+    "url": "http://live.topradio.cz:8000/crazy128",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "CrazyRadio.cz",
+    "url": "https://stream.rcast.net/72851",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Cro Radio Wave",
+    "url": "http://amp.cesnet.cz:8000/cro-radio-wave.flac",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Dance Club FM",
+    "url": "http://mp3stream4.abradio.cz/dance128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Dance Club Radio",
+    "url": "https://ice4.abradio.cz/dance128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Dance Radio",
+    "url": "http://ice.actve.net/dance-radio320.mp3",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Dance Radio",
+    "url": "http://ice.actve.net/dance-radio128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Dance rádio cz",
+    "url": "https://ice.actve.net/dance-radio128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Dancefloor 365 Radio",
+    "url": "https://dancefloor365.com/radio/",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": 50.073658,
+    "lon": 14.41854,
+    "language": ""
+  },
+  {
+    "name": "Decennial Gothica Radio II",
+    "url": "http://65.21.202.84:9332/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Deecibel Rock Radio",
+    "url": "https://stream.deecibel.com/rock",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": 50.073658,
+    "lon": 14.41854,
+    "language": ""
+  },
+  {
+    "name": "ELLIS",
+    "url": "http://stream.laut.fm/ellis",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "ENERGIC",
+    "url": "https://icecast9.play.cz/energic.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Evropa 2 - Actve",
+    "url": "https://ice.actve.net/fm-evropa2-128",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 50.070605881465355,
+    "lon": 14.429820477962496,
+    "language": "czech"
+  },
+  {
+    "name": "Evropa 2 - aac",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/EVROPA2AAC.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Evropa 2 - mp3",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/EVROPA2.mp3",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Evropa2 Youradio Flashbacky",
+    "url": "https://ice.actve.net/web-e2-flashback",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Expres FM",
+    "url": "http://icecast8.play.cz/expres128mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech,english"
+  },
+  {
+    "name": "Expresradio",
+    "url": "http://icecast5.play.cz:8000/expres128mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "FREKVENCE 1",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/FREKVENCE1.mp3",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Fajn Fresh",
+    "url": "http://ice.abradio.cz/fajnfresh128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Fajn Fresh Radio",
+    "url": "http://mp3stream4.abradio.cz/fajnfresh64.mp3",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Fajn Rádio",
+    "url": "http://ice.abradio.cz/fajn128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Fajn rock music",
+    "url": "http://icecast2.play.cz/fajnrock192.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Fed's Trap Radio",
+    "url": "https://backend.fedstrapradio.com:8000/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Flash radio",
+    "url": "http://185.47.222.75:8750/",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Free Rave CZ",
+    "url": "http://164.68.122.137:8061/",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Free Rádio 107,0 FM Brno",
+    "url": "http://icecast8.play.cz/freeradio128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Frekvence 1",
+    "url": "http://ice.actve.net/fm-frekvence1-aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Frekvence 1 - Youradio Legendy",
+    "url": "http://ice.actve.net/web-f1-legendy",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Frekvence 1 - Youradio Osmdesátky",
+    "url": "http://ice.actve.net/web-80",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Frekvence 1 - Youradio Československé hity",
+    "url": "http://ice.actve.net/web-e2-csweb",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Fresh radio 103.6",
+    "url": "https://icecast.beatzone.cz/radio/8000/128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Funkstar Radio",
+    "url": "https://funkstar.radioca.st/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "GenWave Radio",
+    "url": "https://genwave-radio.com/listen/genwave/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Ghost Rádios",
+    "url": "http://servidor39.brlogic.com:8252/live?type=.m3u",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "HEY rádio",
+    "url": "http://icecast3.play.cz/hey-radio128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech,english"
+  },
+  {
+    "name": "HIT Rádio Orion",
+    "url": "http://ice.abradio.cz/orion128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Haná",
+    "url": "http://icecast8.play.cz/hana128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 49.58685582024826,
+    "lon": 17.258140855994142,
+    "language": "česky"
+  },
+  {
+    "name": "Helax 93,7",
+    "url": "http://ice.abradio.cz/helax128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Hit FM Plus",
+    "url": "http://ice.abradio.cz:8000/fmplus64.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Hit PopRock",
+    "url": "http://ice.abradio.cz/hitpoprock128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Hitradio Zlín",
+    "url": "https://ice.radia.cz/radiozlin128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 49.20837049982443,
+    "lon": 17.646510601043705,
+    "language": "czech"
+  },
+  {
+    "name": "Hitrádio City 93.7 FM",
+    "url": "http://25443.live.streamtheworld.com:3690/HITRADIO_CITY_PRAHA_SC",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Hitrádio City Brno",
+    "url": "http://ice.abradio.cz/magicbrno128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Hitrádio Contact",
+    "url": "https://ice3.abradio.cz/hitradiocontact128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Hitrádio Devadesátka",
+    "url": "http://ice.abradio.cz/hit90128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Hitrádio Devadesátka",
+    "url": "https://ice2.radia.cz/hit90128.aac",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Hitrádio Devadesátka",
+    "url": "https://radia.cz/spa/assets/c8516a638fbaff4ae963.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Hitrádio FM",
+    "url": "http://ice.abradio.cz/hitradiofm128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Hitrádio FM Crystal",
+    "url": "http://ice.abradio.cz/crystal128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Hitrádio Faktor",
+    "url": "https://ice.abradio.cz/faktor128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Hitrádio Osmdesátka",
+    "url": "http://ice.abradio.cz/hit80128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Hitrádio Osmdesátka",
+    "url": "https://27753.live.streamtheworld.com/HITRADIO_OSMDESATKA.aac",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Hitrádio Vysočina",
+    "url": "http://ice5.abradio.cz/hitvysocina128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Hitrádio Černá Hora",
+    "url": "http://ice.abradio.cz/cernahora64.mp3",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 50.210542953958814,
+    "lon": 15.834263205561005,
+    "language": ""
+  },
+  {
+    "name": "Hitrádio Černá Hora",
+    "url": "http://ice.abradio.cz/cernahora128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 50.20907255257603,
+    "lon": 15.831556320190431,
+    "language": ""
+  },
+  {
+    "name": "Hvězda",
+    "url": "https://hls.hvezda.info/session01/128k/s.m3u8",
+    "codec": "MP4",
+    "bitrate": 128000,
+    "needsResolve": false,
+    "lat": 50.08693047363285,
+    "lon": 14.419509552800896,
+    "language": "czech"
+  },
+  {
+    "name": "Impuls",
+    "url": "http://icecast1.play.cz/impuls128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Impuls Ráááádio",
+    "url": "https://icecast5.play.cz/impuls128.mp3?1571059741",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Impuls Ráááádio",
+    "url": "http://icecast5.play.cz/impuls128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "JČ1 - Televize jižní Čechy",
+    "url": "https://stream.jc1.cz/hls/jc1.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Kiss 98 FM",
+    "url": "http://icecast2.play.cz:8000/kiss128aac",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Kiss Delta",
+    "url": "http://icecast1.play.cz:8000/kissdelta192.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Kiss Hady",
+    "url": "http://icecast8.play.cz/kisshady128.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Kiss Publikum",
+    "url": "http://icecast1.play.cz:8000/kisspublikum128aac",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Kiss Radio",
+    "url": "http://icecast4.play.cz/kiss128.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Kiss Radio - 128MP3",
+    "url": "https://icecast1.play.cz/kissdelta128.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "LA RADIO PLUS ANNECY",
+    "url": "https://laradioplus.ice.infomaniak.ch/laradioplus-high.aac?i=96970",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Luc Radio",
+    "url": "https://cast1.torontocast.com:3800/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Metal Heart",
+    "url": "http://fr.radio-streamhosting.com:8000/metalheartradio64aac",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Metal Heart Radio",
+    "url": "https://cz.radio-streamhosting.com:8443/metalheartradio128mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Metalománie",
+    "url": "http://ice.abradio.cz/metalomanie128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Mňau TV",
+    "url": "https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8",
+    "codec": "AAC,H.264",
+    "bitrate": 3323,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "NONSTOPRADIO CZ",
+    "url": "http://stream.nonstopradio.cz:8080/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Netro Life radio 100,8 FM",
+    "url": "https://icecast9.play.cz/netro-life-radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "OIK TV",
+    "url": "https://streamer05.low-latency.cz/oiktv/index.m3u8",
+    "codec": "AAC",
+    "bitrate": 1510,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Oldies radio",
+    "url": "http://ice.abradio.cz/oldiesradio128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "PHONK RADIO",
+    "url": "https://stream-43.zeno.fm/90fvpb27u18uv?zs=vRvgZYxuSUWsgBGCbKMLnA",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Phonk Nation Radio",
+    "url": "https://radio.mxnticek.eu/listen/phonk/128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 50.54866852868919,
+    "lon": 13.774806261062622,
+    "language": "czech,english"
+  },
+  {
+    "name": "Phonk Nation Radio",
+    "url": "https://radio.mxnticek.eu/phonk/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 50.54866852868919,
+    "lon": 13.774806261062622,
+    "language": ""
+  },
+  {
+    "name": "Pigy.cz – Disko Trysko",
+    "url": "http://ice.actve.net/web-pg-disko",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Pigy.cz – Pohádky",
+    "url": "http://ice.actve.net/web-pg-pohadky",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Pigy.cz – Písničky z pohádek",
+    "url": "http://ice.actve.net/web-pg-pisnicky",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Plzeň TV",
+    "url": "https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "PowerPonies Radio",
+    "url": "http://powerponies.cz:8000/;stream.mp3",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Queenradio.net",
+    "url": "http://stream.radiojar.com/4gw72qm8u68uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 49.08393995490804,
+    "lon": 15.073242187500002,
+    "language": "czech,english"
+  },
+  {
+    "name": "RADIO 1",
+    "url": "http://icecast2.play.cz/radio1.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "RADIO BEAT",
+    "url": "http://icecast1.play.cz/beat64.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO KISS",
+    "url": "https://stream.rcs.revma.com/asn0cmvb938uv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO.IPIP.CZ: Cherry80",
+    "url": "https://icecast.beatzone.cz/radio/8630/cherry.mp3",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO1",
+    "url": "http://icecast2.play.cz/radio1-64.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "RFE/RL Radio Farda",
+    "url": "http://rfe21.akacast.akamaistream.net/7/751/437779/v1/ibb.akacast.akamaistream.net/rfe21",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "persian"
+  },
+  {
+    "name": "ROCK MAX",
+    "url": "http://ice.abradio.cz/rockmax256.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Radia CZ - Depeche Mode",
+    "url": "http://mp3stream4.abradio.cz/depeche128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radia.cz - Birds",
+    "url": "https://ice2.radia.cz/relax-morning-birds64.aac",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 50.08520348814268,
+    "lon": 14.421433210372928,
+    "language": ""
+  },
+  {
+    "name": "Radia.cz - Fire",
+    "url": "https://ice2.radia.cz/relax-fire64.aac",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 50.08378006488505,
+    "lon": 14.424013495445251,
+    "language": "czech"
+  },
+  {
+    "name": "Radia.cz - Sea",
+    "url": "https://ice2.radia.cz/relax-sea64.aac",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 50.08814190112151,
+    "lon": 14.424531161785128,
+    "language": ""
+  },
+  {
+    "name": "Radia.cz - Train",
+    "url": "https://ice2.radia.cz/relax-train64.aac",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 50.08733913535207,
+    "lon": 14.42133128643036,
+    "language": ""
+  },
+  {
+    "name": "Radio 4U",
+    "url": "http://mpc1.mediacp.eu:8342/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Blaník Morava a Slezsko",
+    "url": "https://ice.abradio.cz/blanikmorava128.mp3?gdpr=1&gdpr_consent=Q084aEUyaE84aEUyaEFjQUJCRU5BX0NnQVBfQUFIX0FBQVlnRjVvQmhEeEVCU0ZDQUdKb1lOa2dBQUFXeHdBQUFDQUNBQUFBb0FBQUFCb0FBQVFBQUFBQUFBQWdCQUFBQUJJQUlBSUFBQUJBR0VBQUFBQUFBQUFBQUFBQUFFQUFBQUFBSVFBQUFBQUFBQ0JBQUFBQUFBQUFBQUFBQUFBQVFBQUFnWG5BZUFBV0FCVUFDNEFIQUFRQUFxQUJvQURrQUlnQVRBQW5nQlZBQzRBRjhBTVFBaElCRUFFVUFLVUFXSUF5d0Jtd0R1QU84QWhBQkZnQzBnRjFBTUNBYXdCTm9DOHdBQUFBLllBQUFBQUFBQUFBQQ==",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Bonton",
+    "url": "https://27753.live.streamtheworld.com/BONTONAAC.aac?tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=4ef04b1d-096f-4273-f8be-4c056d2bd182",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Cas Rock",
+    "url": "http://icecast6.play.cz/casrock128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Radio Dechovka",
+    "url": "http://icecast5.play.cz/dechovka128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Dixie",
+    "url": "http://icecast8.play.cz/radiodixie192.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech,english"
+  },
+  {
+    "name": "Radio Folk",
+    "url": "http://ice2.abradio.cz/folk64a.aac",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 50.25763990331481,
+    "lon": 14.647794002422003,
+    "language": "czech"
+  },
+  {
+    "name": "Radio Fonlord",
+    "url": "https://a5.asurahosting.com:6530/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "česky"
+  },
+  {
+    "name": "Radio Helax",
+    "url": "http://ice.abradio.cz:8000/helax128.mp3?type=.mp3/;stream.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Radio Humor",
+    "url": "http://mp3stream4.abradio.cz:8000/humor128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Radio JIH Cimbalka",
+    "url": "http://icecast6.play.cz/jihcimbalka128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Radio Krokodyl",
+    "url": "http://icecast-u2.play.cz:8000/krokodyl128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Radio Life Trance",
+    "url": "http://65.108.105.26:7709/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Radio O106",
+    "url": "https://listen.radioking.com/radio/442799/stream/497147",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Radio Ostravan",
+    "url": "http://icecast9.play.cz/radio-ostravan-256.mp3",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Radio Otava",
+    "url": "https://radiootava.trefcon.cz:8889/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 49.41990741328251,
+    "lon": 13.87954586367178,
+    "language": "česky"
+  },
+  {
+    "name": "Radio Prague International",
+    "url": "https://rozhlas.stream/radio_prague_int_high.aac",
+    "codec": "AAC",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Prague International",
+    "url": "https://rozhlas.stream/cro7_mp3_128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 50.08831915420747,
+    "lon": 14.40533278575496,
+    "language": "english,french"
+  },
+  {
+    "name": "Radio Praha",
+    "url": "http://icecast2.play.cz/cro7-128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Proglas",
+    "url": "http://icecast1.play.cz/proglas96aac",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Proglas",
+    "url": "http://icecast2.play.cz/proglas128",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Radio Prostor",
+    "url": "https://bcast.spmmedia.cz/prostor-mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Radio Punctum",
+    "url": "https://radiopunctum.cz:8001/radio",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Radio ROCK",
+    "url": "http://ice.abradio.cz/rockradio128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Radio SPIN 96.2 FM",
+    "url": "http://icecast-u2.play.cz:8000/spin128.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Radio Slobodna Evropa",
+    "url": "https://n08.radiojar.com/bugesa4nn3quv?rj-ttl=5&rj-tok=AAABikFH4NsAib8tua7OjeefLg",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bosnian"
+  },
+  {
+    "name": "Radio Svoboda (ru) (official stream)",
+    "url": "https://stream.radiojar.com/hcrb063nn3quv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 50.087643636150176,
+    "lon": 14.421154260635378,
+    "language": "russian"
+  },
+  {
+    "name": "Radio Svoboda Rus",
+    "url": "http://rfe04.akacast.akamaistream.net/7/509/437762/v1/ibb.akacast.akamaistream.net/rfe04",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "russian"
+  },
+  {
+    "name": "Radio Sázava",
+    "url": "http://sc.ipip.cz:8224/;stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Radio Wave",
+    "url": "http://rozhlas.stream/wave_mp3_256.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 50.078534719330655,
+    "lon": 14.434543848037722,
+    "language": "czech"
+  },
+  {
+    "name": "Radio Čas",
+    "url": "http://icecast6.play.cz/casradio128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Radio7",
+    "url": "http://icecast8.play.cz/radio7-32aac",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": 49.195746840943485,
+    "lon": 16.607552149426027,
+    "language": "czech"
+  },
+  {
+    "name": "RadioExkluzive",
+    "url": "http://mpc1.mediacp.eu:8034/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RadioParty.pl",
+    "url": "https://s2.radioparty.pl:8015/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Retro Music TV",
+    "url": "http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Retro Music Television",
+    "url": "http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 1097,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech,english"
+  },
+  {
+    "name": "Rock Radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_RADIO_128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Rock Rádio Šumava",
+    "url": "http://ice.abradio.cz/sumava128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Rock rádio – CZ Rock",
+    "url": "https://ice2.radia.cz/rockzabava128.aac",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "RockZone 105,9 FM",
+    "url": "https://icecast5.play.cz/rockzone128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Rocková zábava",
+    "url": "http://ice.abradio.cz/rockzabava128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Rockzone",
+    "url": "http://icecast5.play.cz/rockzone128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Rádio 1",
+    "url": "http://icecast6.play.cz/radio1-128.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Rádio 1",
+    "url": "https://stream.rcs.revma.com/stk8hrvb938uv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Rádio 7",
+    "url": "http://icecast8.play.cz/radio7-128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Rádio 7 32kb",
+    "url": "http://icecast1.play.cz:8000/radio7cz32.mp3",
+    "codec": "MP3",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Rádio Applaus",
+    "url": "http://mp3stream3.abradio.cz/applaus128.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Rádio BLANÍK",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_BLANIK.aac?gdpr=0",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Rádio Beat",
+    "url": "http://icecast2.play.cz/radiobeat128.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 50.09129330034557,
+    "lon": 14.439602243099662,
+    "language": ""
+  },
+  {
+    "name": "Rádio Beat (128 AAC)",
+    "url": "https://icecast2.play.cz/beat128aac",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Rádio Blaník",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_BLANIK_128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Rádio Blaník CZ Webové rádio",
+    "url": "http://ice.abradio.cz/blanikcz128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Rádio Blaník Oldies",
+    "url": "https://ice.radia.cz/oldiesradio128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Rádio Blaník živé",
+    "url": "http://ice.abradio.cz/blanikfm128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Rádio Bonton",
+    "url": "http://ice.actve.net/fm-bonton-128",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Rádio Click & Country",
+    "url": "http://radio.clickandcountry.cz:8000/clickandcountry.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Rádio DNB TV",
+    "url": "https://ice3.abradio.cz/shadowbox128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Rádio Dechovka 256 kbps",
+    "url": "http://37.46.208.57:8000/stream_cra_256.mp3",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Rádio Diana – Retro Club",
+    "url": "https://westradio.cz/radio/8000/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Rádio G6",
+    "url": "http://mpc1.mediacp.eu:8098/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Rádio Hády",
+    "url": "http://46.36.36.149:8000/live",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Rádio Jih",
+    "url": "http://icecast6.play.cz/jih128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Rádio Jih",
+    "url": "https://icecast6.play.cz/jih32.mp3",
+    "codec": "MP3",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Rádio Junior",
+    "url": "http://amp.cesnet.cz:8000/cro-radio-junior-256.ogg",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Rádio Koleda",
+    "url": "https://ice3.radia.cz/koleda_64.aac",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 50.069274184523564,
+    "lon": 14.41886901855469,
+    "language": "czech"
+  },
+  {
+    "name": "Rádio MB",
+    "url": "http://icecast3.play.cz/radiomb.mp3",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Rádio Music Z",
+    "url": "http://mpc1.mediacp.eu:8410/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "angličtina,čeština"
+  },
+  {
+    "name": "Rádio Nostalgie",
+    "url": "https://icecast3.play.cz/radio-nostalgie128.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Rádio Orlicko",
+    "url": "https://mediaservice.radioorlicko.cz/stream192.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Rádio Pohádka",
+    "url": "https://ice3.radia.cz/pohadka128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Rádio Povádka",
+    "url": "https://ice3.radia.cz/povidka128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Rádio Písnička",
+    "url": "https://stream.slagr-radio.cz/pisnicka",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech,slovak"
+  },
+  {
+    "name": "Rádio Relax",
+    "url": "http://icecast7.play.cz/relax128.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 50.13915687299896,
+    "lon": 14.10140544176102,
+    "language": "czech"
+  },
+  {
+    "name": "Rádio Samson",
+    "url": "http://icecast8.play.cz/samsonfm128.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Rádio Samson",
+    "url": "http://icecast2.play.cz/samsonfm128aac",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Rádio Samson",
+    "url": "https://icecast2.play.cz/samsonfm128aac",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Rádio Sázava",
+    "url": "https://icecast8.play.cz/sazava192.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Rádio Xaver",
+    "url": "https://icecast6.play.cz/radio-xaver.aac",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 50.08344365619684,
+    "lon": 14.435021281242372,
+    "language": "czech"
+  },
+  {
+    "name": "Rádio folk Czech",
+    "url": "http://mp3stream2.abradio.cz:8000/folk320.mp3",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Rádio humor 2",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_HUMOR.aac",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Rádio pohádka",
+    "url": "http://ice3.abradio.cz/pohadka128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Rádio Čas Rock (192 kbps)",
+    "url": "https://icecast9.play.cz/casrock192.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "SKYROCK",
+    "url": "http://icecast8.play.cz/skyrock128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 49.593554833948154,
+    "lon": 17.251968383789066,
+    "language": "czech"
+  },
+  {
+    "name": "Samson",
+    "url": "http://icecast2.play.cz:8000/samsonfm128aac",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "SeeJay Radio",
+    "url": "http://icecast6.play.cz/seejay128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Signál Rádio",
+    "url": "http://icecast1.play.cz/signal128.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Signál Rádio Brno",
+    "url": "http://icecast6.play.cz/signal-brno128.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Stanice Hvězda",
+    "url": "http://fire.doscast.com:8038/stream",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 50.08181960206071,
+    "lon": 14.408878020281907,
+    "language": "czech"
+  },
+  {
+    "name": "Sunrise Radio (Czechia)",
+    "url": "https://stream.laut.fm/radio-dance-eu",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 49.41234135659763,
+    "lon": 14.665374755859377,
+    "language": "czech,english"
+  },
+  {
+    "name": "Svobodný vysílač",
+    "url": "http://stream.svobodny-vysilac.cz:8000/live.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Svobodný vysílač",
+    "url": "http://stream.svobodny-vysilac.cz:8000/live.ogg",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "We House Radio (AAC+ High)",
+    "url": "https://stream.zunradio.cz/zun1.aac",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "WeHouseRadio",
+    "url": "https://icecast9.play.cz/zun48.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "WeHouseRadio",
+    "url": "https://icecast9.play.cz/zun192.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "WebRadio Epigon",
+    "url": "http://ice3.abradio.cz/epigon128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "WorldRadio",
+    "url": "https://worldradio100.radioca.st/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Známka Punku",
+    "url": "https://ice.abradio.cz/znamkapunku128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Zoner Underground Network",
+    "url": "https://stream.zunradio.cz/zun3.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "hitradio City zona Lasky",
+    "url": "http://ice.abradio.cz/cityzl128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "povídka",
+    "url": "https://ice3.abradio.cz/povidka128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "svobodne-radio",
+    "url": "http://svobodneradio.radioca.st:8859/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Óčko",
+    "url": "http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_lq.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Óčko Expres",
+    "url": "http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_lq.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Óčko Star",
+    "url": "https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 928,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "ČRO Radiožurnál Sport",
+    "url": "https://rozhlas.stream/radiozurnal_sport_high.aac",
+    "codec": "AAC",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "ČRO Radiožurnál sport AdHoc stream 2",
+    "url": "https://rozhlas.stream/radiozurnal_sport_adhoc_2_high.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "ČRO Radiožurnál sport Adhoc stream 2",
+    "url": "http://rozhlas.stream/radiozurnal_sport_adhoc_2_high.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "ČRo Dvojka",
+    "url": "http://icecast6.play.cz/cro2-128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "ČRo Olomouc",
+    "url": "https://rozhlas.stream/olomouc_low.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "ČRo Ostrava",
+    "url": "https://rozhlas.stream/ostrava_high.aac",
+    "codec": "AAC",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 49.83744895085729,
+    "lon": 18.292257785797123,
+    "language": "czech"
+  },
+  {
+    "name": "ČRo Plus",
+    "url": "http://amp.cesnet.cz:8000/cro-plus-256.ogg",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "ČRo Plus",
+    "url": "https://rozhlas.stream/plus_low.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "ČRo Plus",
+    "url": "https://rozhlas.stream/plus_mp3_128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 50.07850373641097,
+    "lon": 14.43459749221802,
+    "language": "czech"
+  },
+  {
+    "name": "ČRo Radio Wave",
+    "url": "http://amp.cesnet.cz:8000/cro-radio-wave-256.ogg",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "ČRo Radiožurnál",
+    "url": "http://icecast8.play.cz/cro1-128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "ČRo Sever",
+    "url": "https://rozhlas.stream/sever_high.aac",
+    "codec": "AAC",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 50.663644817532486,
+    "lon": 14.042172962590636,
+    "language": "czech"
+  },
+  {
+    "name": "ČRo Vltava",
+    "url": "http://icecast5.play.cz/cro3-128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "ČRo Wave",
+    "url": "https://rozhlas.stream/wave_mp3_128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 50.07854160442121,
+    "lon": 14.43458676338196,
+    "language": "czech"
+  },
+  {
+    "name": "ČRo Wave",
+    "url": "https://rozhlas.stream/wave_mp3_256.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 50.07854160442121,
+    "lon": 14.43460285663605,
+    "language": "czech"
+  },
+  {
+    "name": "Čas Rock Natvrdo",
+    "url": "https://stream.sepia.sk:8000/rnt128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Český Impuls",
+    "url": "http://icecast6.play.cz/cesky-impuls.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Český Impuls",
+    "url": "https://icecast6.play.cz/cesky-impuls.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Český rozhlas Brno",
+    "url": "https://rozhlas.stream/brno.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "česky"
+  },
+  {
+    "name": "Český rozhlas České Budějovice",
+    "url": "https://rozhlas.stream/ceske_budejovice_high.aac",
+    "codec": "AAC",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Čro Dvojka (256k ogg)",
+    "url": "http://amp1.cesnet.cz:8000/cro2-256.ogg",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 50.0784563475663,
+    "lon": 14.434372186660768,
+    "language": "czech"
+  },
+  {
+    "name": "Čro Vltava Flac",
+    "url": "https://amp.cesnet.cz:8443/cro3.flac",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Čro3 Vltava",
+    "url": "http://amp.cesnet.cz:8000/cro3-256.ogg",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "čro Radiožurnál Sport AdHoc stream 1",
+    "url": "https://rozhlas.stream/radiozurnal_sport_adhoc_1_high.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech"
+  },
+  {
+    "name": "Šlágr Rádio",
+    "url": "https://stream.slagr-radio.cz/mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech,slovak"
+  },
+  {
+    "name": "Крым Реалии (rus, ukr) (official stream)",
+    "url": "https://stream.radiojar.com/wm9sntcpn3quv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 50.08771247392901,
+    "lon": 14.421046972274782,
+    "language": "russian,ukrainian"
+  },
+  {
+    "name": "Крым.Реалии",
+    "url": "https://rfe-ingest.akamaized.net/hls/live/2035288/axia19/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 140,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "russian,ukrainian"
+  },
+  {
+    "name": "Радио Свобода",
+    "url": "https://rfe-ingest.akamaized.net/hls/live/2035254/axia04/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 140,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "язык: русский"
+  },
+  {
+    "name": "Радио Свобода (Radio Svoboda, RFE/RL Russian, ch. 4)",
+    "url": "http://rfe04.akacast.akamaistream.net/7/509/437762/v1/ibb.akacast.akamaistream.net/rfe04.m3u",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "russian"
+  }
+]

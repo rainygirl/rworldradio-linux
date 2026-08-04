@@ -1,0 +1,2162 @@
+[
+  {
+    "name": "100% Kim Larsen",
+    "url": "http://stream2.wlmm.dk/kimlarsenmp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "2town Radio",
+    "url": "https://streaming.radio.co/sd9d980ff0/listen",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "2town Radio",
+    "url": "http://streaming.radio.co/sd9d980ff0/listen",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "80's Hits",
+    "url": "https://live-bauerdk.sharp-stream.com/DK_HQ_RP04.aac",
+    "codec": "AAC+",
+    "bitrate": 95,
+    "needsResolve": false,
+    "lat": 56.33968327510653,
+    "lon": 9.415283203125002,
+    "language": ""
+  },
+  {
+    "name": "902 FM",
+    "url": "http://s38.myradiostream.com:8598/.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 55.71915828736579,
+    "lon": 12.396955490112306,
+    "language": ""
+  },
+  {
+    "name": "ANR",
+    "url": "http://stream.anr.dk/anr",
+    "codec": "AAC+",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "Alfa Gold",
+    "url": "https://radioserver.dk/alfaevent",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 54.77534585936447,
+    "lon": 9.492187500000002,
+    "language": ""
+  },
+  {
+    "name": "Always ELVIS Radio",
+    "url": "https://radioserver.dk/alwayselvisradio",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 56.460113112636535,
+    "lon": 9.992065429687502,
+    "language": ""
+  },
+  {
+    "name": "Always Elvis Radio",
+    "url": "http://radioserver.dk/alwayselvisradio",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 56.417547750815295,
+    "lon": 10.008544921875002,
+    "language": ""
+  },
+  {
+    "name": "Boybands Forever",
+    "url": "https://live-bauerdk.sharp-stream.com/RP10_premium_96.aac",
+    "codec": "AAC+",
+    "bitrate": 95,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Charlie Classical",
+    "url": "https://ec6.yesstreaming.net:4365/stream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 55.62363159749028,
+    "lon": 8.482477729320276,
+    "language": ""
+  },
+  {
+    "name": "Charlie Tourist (Sydvest)",
+    "url": "https://ec6.yesstreaming.net:4385/stream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 55.61909849005335,
+    "lon": 8.48325339320296,
+    "language": "danish,english,german"
+  },
+  {
+    "name": "Classic FM",
+    "url": "http://webradio.classicfm.dk/classichorsens",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "Classic FM (Fyn)",
+    "url": "https://netradio.classicfm.dk/cla12a",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 55.32758195350942,
+    "lon": 10.3436279296875,
+    "language": ""
+  },
+  {
+    "name": "Classic Rock Danmark",
+    "url": "https://netradio.classicfm.dk/classicrock",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "Classic.fm",
+    "url": "http://netradio.classicfm.dk/cla8d",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DLF aktuelle Presseschau",
+    "url": "https://ondemand-mp3.dradio.de/file/dradio/presseschau/presseschau.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 50.89339778855447,
+    "lon": 6.967622637748718,
+    "language": "german"
+  },
+  {
+    "name": "DR 6 Beat",
+    "url": "http://live-icy.gss.dr.dk:8000/A/A29H.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DR Nyheder",
+    "url": "http://live-icy.gslb01.dr.dk/A/A02L.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "DR Nyheder",
+    "url": "http://live-icy.gss.dr.dk/A/A02H.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DR P1",
+    "url": "http://live-icy.gss.dr.dk/A/A03H.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "DR P1",
+    "url": "http://live-icy.gslb01.dr.dk/A/A03H.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 55.25564241852117,
+    "lon": 11.162109375,
+    "language": ""
+  },
+  {
+    "name": "DR P1",
+    "url": "http://live-icy.gss.dr.dk:8000/A/A03H.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 55.63662033277677,
+    "lon": 12.555484771728516,
+    "language": ""
+  },
+  {
+    "name": "DR P1 (AAC)",
+    "url": "https://drliveradio1.akamaized.net/hls/live/2097651/p1/masterab.m3u8",
+    "codec": "AAC",
+    "bitrate": 324,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "DR P1 HLS 96",
+    "url": "https://drliveradio1.akamaized.net/hls/live/2097651/p1/playlist-96000.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "DR P2",
+    "url": "http://live-icy.gss.dr.dk/A/A04H.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 55.6354091582391,
+    "lon": 12.551021575927736,
+    "language": ""
+  },
+  {
+    "name": "DR P2",
+    "url": "http://live-icy.gslb01.dr.dk/A/A04H.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 55.51696967021944,
+    "lon": 10.678710937500002,
+    "language": "danish"
+  },
+  {
+    "name": "DR P2 (AAC)",
+    "url": "https://drliveradio1.akamaized.net/hls/live/2097651/p2/masterab.m3u8",
+    "codec": "AAC",
+    "bitrate": 324,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "DR P2 HLS 96",
+    "url": "https://drliveradio1.akamaized.net/hls/live/2097651/p2/playlist-96000.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "DR P3",
+    "url": "http://live-icy.gss.dr.dk:8000/A/A05H.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DR P3",
+    "url": "http://live-icy.gslb01.dr.dk/A/A05H.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "DR P3 (AAC)",
+    "url": "https://drliveradio1.akamaized.net/hls/live/2097651/p3/masterab.m3u8",
+    "codec": "AAC",
+    "bitrate": 324,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "DR P3 HLS 96",
+    "url": "https://drliveradio1.akamaized.net/hls/live/2097651/p3/playlist-96000.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "DR P4 Bornholm",
+    "url": "http://live-icy.gss.dr.dk/A/A06H.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DR P4 Bornholm",
+    "url": "http://live-icy.gslb01.dr.dk/A/A06H.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "DR P4 Bornholm",
+    "url": "https://live-icy.dr.dk/A/A30H.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 55.62925581333484,
+    "lon": 12.573680877685549,
+    "language": ""
+  },
+  {
+    "name": "DR P4 Bornholm (AAC)",
+    "url": "https://drliveradio1.akamaized.net/hls/live/2097651/p4bornholm/masterab.m3u8",
+    "codec": "AAC",
+    "bitrate": 324,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "DR P4 Esbjerg",
+    "url": "http://live-icy.gslb01.dr.dk/A/A15H.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "DR P4 Esbjerg",
+    "url": "http://live-icy.gss.dr.dk/A/A15H.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DR P4 Esbjerg (AAC)",
+    "url": "https://drliveradio1.akamaized.net/hls/live/2097651/p4esbjerg/masterab.m3u8",
+    "codec": "AAC",
+    "bitrate": 324,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "DR P4 Fyn",
+    "url": "http://live-icy.gslb01.dr.dk/A/A07H.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "DR P4 Fyn",
+    "url": "http://live-icy.gss.dr.dk:8000/A/A07H.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DR P4 Fyn (AAC)",
+    "url": "https://drliveradio1.akamaized.net/hls/live/2097651/p4fyn/masterab.m3u8",
+    "codec": "AAC",
+    "bitrate": 324,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "DR P4 København",
+    "url": "http://live-icy.gslb01.dr.dk/A/A08H.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "DR P4 København (AAC)",
+    "url": "https://drliveradio1.akamaized.net/hls/live/2097651/p4kobenhavn/masterab.m3u8",
+    "codec": "AAC",
+    "bitrate": 324,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "DR P4 København (MP3)",
+    "url": "http://live-icy.dr.dk/A/A08H.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 55.657874985674496,
+    "lon": 12.590981125831606,
+    "language": "danish"
+  },
+  {
+    "name": "DR P4 København HLS 96",
+    "url": "https://drliveradio1.akamaized.net/hls/live/2097651/p4kobenhavn/playlist-96000.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "DR P4 Midt & Vest",
+    "url": "http://live-icy.gslb01.dr.dk/A/A09H.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "DR P4 Midt-Vest (AAC)",
+    "url": "https://drliveradio1.akamaized.net/hls/live/2097651/p4midtvest/masterab.m3u8",
+    "codec": "AAC",
+    "bitrate": 324,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "DR P4 Midt/Vest",
+    "url": "http://live-icy.gss.dr.dk/A/A09H.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DR P4 Nordjylland",
+    "url": "https://drliveradio1.akamaized.net/hls/live/2097651/p4nordjylland/masterab.m3u8",
+    "codec": "AAC",
+    "bitrate": 324,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "DR P4 Nordjylland",
+    "url": "http://live-icy.gslb01.dr.dk/A/A10H.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "DR P4 Nordjylland",
+    "url": "http://live-icy.gss.dr.dk:8000/A/A10H.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DR P4 Sjælland",
+    "url": "http://live-icy.gslb01.dr.dk/A/A11H.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "DR P4 Sjælland",
+    "url": "http://live-icy.gss.dr.dk:8000/A/A11H.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DR P4 Sjælland (AAC)",
+    "url": "https://drliveradio1.akamaized.net/hls/live/2097651/p4sjaelland/masterab.m3u8",
+    "codec": "AAC",
+    "bitrate": 324,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "DR P4 Syd",
+    "url": "http://live-icy.gslb01.dr.dk/A/A12H.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "DR P4 Syd",
+    "url": "http://live-icy.gss.dr.dk/A/A12H.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DR P4 Syd (AAC)",
+    "url": "https://drliveradio1.akamaized.net/hls/live/2097651/p4syd/masterab.m3u8",
+    "codec": "AAC",
+    "bitrate": 324,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "DR P4 Trekanten",
+    "url": "http://live-icy.gss.dr.dk:8000/A/A13H.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DR P4 Trekanten (AAC)",
+    "url": "https://drliveradio1.akamaized.net/hls/live/2097651/p4trekanten/masterab.m3u8",
+    "codec": "AAC",
+    "bitrate": 324,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "DR P4 Østjylland",
+    "url": "http://live-icy.gss.dr.dk:8000/A/A14H.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DR P4 Østjylland (AAC)",
+    "url": "https://drliveradio1.akamaized.net/hls/live/2097651/p4ostjylland/masterab.m3u8",
+    "codec": "AAC",
+    "bitrate": 324,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "DR P4 Østjyllands Radio",
+    "url": "http://live-icy.gslb01.dr.dk/A/A14H.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "DR P5",
+    "url": "http://live-icy.gslb01.dr.dk/A/A25H.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "DR P5 Bornholm (AAC)",
+    "url": "https://drliveradio1.akamaized.net/hls/live/2097651/p5bornholm/masterab.m3u8",
+    "codec": "AAC",
+    "bitrate": 324,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "DR P5 Esbjerg",
+    "url": "https://live-icy.dr.dk/A/A26H.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 55.629546544291,
+    "lon": 12.57488250732422,
+    "language": ""
+  },
+  {
+    "name": "DR P5 Esbjerg (AAC)",
+    "url": "https://drliveradio1.akamaized.net/hls/live/2097651/p5esbjerg/masterab.m3u8",
+    "codec": "AAC",
+    "bitrate": 324,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "DR P5 Fyn",
+    "url": "https://live-icy.dr.dk/A/A02H.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 55.62993418221071,
+    "lon": 12.574539184570314,
+    "language": ""
+  },
+  {
+    "name": "DR P5 Fyn",
+    "url": "https://drliveradio.akamaized.net/hls/live/2022411/p5fyn/playlist-96000.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 55.62974036373016,
+    "lon": 12.57333755493164,
+    "language": ""
+  },
+  {
+    "name": "DR P5 Fyn (AAC)",
+    "url": "https://drliveradio1.akamaized.net/hls/live/2097651/p5fyn/masterab.m3u8",
+    "codec": "AAC",
+    "bitrate": 324,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "DR P5 København (AAC)",
+    "url": "https://drliveradio1.akamaized.net/hls/live/2097651/p5kobenhavn/masterab.m3u8",
+    "codec": "AAC",
+    "bitrate": 324,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "DR P5 Midt-Vest (AAC)",
+    "url": "https://drliveradio1.akamaized.net/hls/live/2097651/p5midtvest/masterab.m3u8",
+    "codec": "AAC",
+    "bitrate": 324,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "DR P5 Midt/Vest",
+    "url": "https://live-icy.dr.dk/A/A17H.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 55.63012799973265,
+    "lon": 12.576942443847658,
+    "language": ""
+  },
+  {
+    "name": "DR P5 Nordjylland (AAC)",
+    "url": "https://drliveradio1.akamaized.net/hls/live/2097651/p5nordjylland/masterab.m3u8",
+    "codec": "AAC",
+    "bitrate": 324,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "DR P5 Sjælland (AAC)",
+    "url": "https://drliveradio1.akamaized.net/hls/live/2097651/p5sjaelland/masterab.m3u8",
+    "codec": "AAC",
+    "bitrate": 324,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "DR P5 Syd",
+    "url": "https://drliveradio.akamaized.net/hls/live/2022411/p5syd/masterab.m3u8",
+    "codec": "AAC",
+    "bitrate": 324,
+    "needsResolve": false,
+    "lat": 55.63012799973265,
+    "lon": 12.574710845947267,
+    "language": ""
+  },
+  {
+    "name": "DR P5 Syd (AAC)",
+    "url": "https://drliveradio1.akamaized.net/hls/live/2097651/p5syd/masterab.m3u8",
+    "codec": "AAC",
+    "bitrate": 324,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "DR P5 Trekanten",
+    "url": "http://live-icy.gslb01.dr.dk/A/A23H.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 55.657877143057306,
+    "lon": 12.590788473025896,
+    "language": ""
+  },
+  {
+    "name": "DR P5 Trekanten (AAC)",
+    "url": "https://drliveradio1.akamaized.net/hls/live/2097651/p5trekanten/masterab.m3u8",
+    "codec": "AAC",
+    "bitrate": 324,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "DR P5 Østjylland",
+    "url": "https://live-icy.dr.dk/A/A24H.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 55.62925581333484,
+    "lon": 12.575569152832031,
+    "language": ""
+  },
+  {
+    "name": "DR P5 Østjylland (AAC)",
+    "url": "https://drliveradio1.akamaized.net/hls/live/2097651/p5ostjylland/masterab.m3u8",
+    "codec": "AAC",
+    "bitrate": 324,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "DR P6 BEAT",
+    "url": "http://live-icy.gslb01.dr.dk/A/A29H.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "DR P6 BEAT (AAC)",
+    "url": "https://drliveradio1.akamaized.net/hls/live/2097651/p6beat/masterab.m3u8",
+    "codec": "AAC",
+    "bitrate": 324,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "DR P6 Beat",
+    "url": "http://live-icy.gss.dr.dk/A/A29H.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DR P6 Beat HLS 96",
+    "url": "https://drliveradio1.akamaized.net/hls/live/2097651/p6beat/playlist-96000.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "DR P6 Jazz",
+    "url": "https://drliveradio.akamaized.net/hls/live/2022411/p8jazz/playlist-320000.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DR P8 JAZZ",
+    "url": "http://live-icy.gslb01.dr.dk/A/A22H.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "DR P8 JAZZ (AAC)",
+    "url": "https://drliveradio1.akamaized.net/hls/live/2097651/p8jazz/masterab.m3u8",
+    "codec": "AAC",
+    "bitrate": 324,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "DR P8 Jazz",
+    "url": "http://live-icy.gss.dr.dk:8000/A/A22H.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DR P8 Jazz",
+    "url": "http://live-icy.gss.dr.dk/A/A22H.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DR P8 Jazz HLS 96",
+    "url": "https://drliveradio1.akamaized.net/hls/live/2097651/p8jazz/playlist-96000.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "DR Ramasjang/Ultra Radio",
+    "url": "http://live-icy.gss.dr.dk/A/A24H.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "DR p4 København",
+    "url": "http://live-icy.gss.dr.dk/A/A08H.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DRR",
+    "url": "http://radioserver.dk/abc",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": 56.45992971876963,
+    "lon": 10.030174255371096,
+    "language": ""
+  },
+  {
+    "name": "Danmarks Radio P2",
+    "url": "https://live-icy.dr.dk/A/A27L.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 55.5969712679851,
+    "lon": 11.725158691406252,
+    "language": ""
+  },
+  {
+    "name": "Danmarks Radio P4; Trekanten",
+    "url": "http://live-icy.gslb01.dr.dk/A/A13H.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "Danmarks Radio P6",
+    "url": "https://live-icy.dr.dk/A/A29H.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "Danmarks Radio p2",
+    "url": "https://live-icy.dr.dk/A/A04L.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 55.7765730186677,
+    "lon": 12.23876953125,
+    "language": ""
+  },
+  {
+    "name": "Dansktop Kanalen",
+    "url": "https://netradio.classicfm.dk/dansktop",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Det Rigtige Faaborg",
+    "url": "http://stream2.wlmm.dk/detrigtigefaaborg",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": 55.09919472923623,
+    "lon": 10.237197875976564,
+    "language": ""
+  },
+  {
+    "name": "Din Radio",
+    "url": "http://stream.wlmm.dk/DinRadiomp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Esbjerg Classic FM",
+    "url": "https://webradio.classicfm.dk/classicvejle",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 55.462506650905475,
+    "lon": 8.462219238281252,
+    "language": ""
+  },
+  {
+    "name": "FemernFM",
+    "url": "https://cast1.asurahosting.com/proxy/femernfm/stream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "GLR - Gentofte Lokal Radio",
+    "url": "https://live-bauerdk.sharp-stream.com/thevoice_dk_mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Globus Guld",
+    "url": "http://stream.wlmm.dk/;",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "Globus Guld Country",
+    "url": "https://stream.probroadcast.dk/guldcountrymp3",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "Globus Guld Jul",
+    "url": "https://stream.probroadcast.dk/guldjul",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish,english"
+  },
+  {
+    "name": "Globus Guld Tonder",
+    "url": "http://media.wlmm.dk:8000/guldtoender",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Jazzkanalen",
+    "url": "http://media.wlmm.dk/humleborg.m3u",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Jazzkanalen",
+    "url": "http://ca6.rcast.net:4058/;stream",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "København Jazz Radio",
+    "url": "https://asima.out.airtime.pro:8000/radiojazzcopenhagen_a",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Limfjord Mix",
+    "url": "https://media.limfjordnetradio.dk/limfjord128",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 56.64087879100519,
+    "lon": 9.290313720703129,
+    "language": ""
+  },
+  {
+    "name": "Limfjord Plus",
+    "url": "http://media.limfjordnetradio.dk/plus128",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "Limfjord Plus Slager",
+    "url": "http://media.limfjordnetradio.dk/plusslager128",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "Limfjord Slager",
+    "url": "https://media.limfjordnetradio.dk/plusslageraac",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Lost in the 80s",
+    "url": "https://ec2.yesstreaming.net:2840/;?type=mp3",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Lumi Radio",
+    "url": "http://stream2.wlmm.dk/syddanmark.m3u",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 57.03886196898503,
+    "lon": 9.924774169921877,
+    "language": ""
+  },
+  {
+    "name": "M-Jazz Radio",
+    "url": "https://fra-pioneer01.dedicateware.com:1465/stream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 56.149980163849165,
+    "lon": 10.204560756683351,
+    "language": ""
+  },
+  {
+    "name": "Midtfjord Radio",
+    "url": "http://stream.midtfjordradio.dk/netradio",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Mix FM Gribskov, Retro Nord",
+    "url": "https://netradio.mixfm.dk/stream",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Musaiko",
+    "url": "http://fluo.muzaiko.saluton.dk:8000/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "NOVA - Horsens 103.6 FM",
+    "url": "https://live-bauerdk.sharp-stream.com/nova_dk_mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Norea Radio",
+    "url": "http://radio.norea.dk:8080/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Nova",
+    "url": "http://live-bauerdk.sharp-stream.com/nova128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 55.67882339354347,
+    "lon": 12.472735860795192,
+    "language": "dansk/oldnordisk"
+  },
+  {
+    "name": "Nova 100 Dansk",
+    "url": "https://live-bauerdk.sharp-stream.com/DK_HQ_RP11.aac",
+    "codec": "AAC+",
+    "bitrate": 95,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "POP FM 80er",
+    "url": "https://live-bauerdk.sharp-stream.com//popfm80.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 55.694306323964504,
+    "lon": 12.564239501953129,
+    "language": "danish"
+  },
+  {
+    "name": "POP FM DK",
+    "url": "http://live-bauerdk.sharp-stream.com/popfm128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 55.714516976353025,
+    "lon": 12.424163818359377,
+    "language": "danish"
+  },
+  {
+    "name": "Party Fm",
+    "url": "http://stream1.partyfm.dk/Party320",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "PartyFM",
+    "url": "http://stream.partyfm.dk/Party320/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "Psyradio - Chillout",
+    "url": "http://komplex2.psyradio.org:8020/chillout/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio 100",
+    "url": "https://live-bauerdk.sharp-stream.com/radio100_dk_mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish,english"
+  },
+  {
+    "name": "Radio 40plus",
+    "url": "http://stream.radiosolutions.dk/radio40plus",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": 55.00755132274017,
+    "lon": 11.90574645996094,
+    "language": ""
+  },
+  {
+    "name": "Radio ABC",
+    "url": "https://radioserver.dk/abc",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": 56.45458959111108,
+    "lon": 10.038917369784032,
+    "language": "danish"
+  },
+  {
+    "name": "Radio ABC",
+    "url": "http://netradio.radioabc.dk/",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "Radio ALR",
+    "url": "http://streamer.radio.co/s6a9beb92e/listen",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "Radio Alfa",
+    "url": "https://radioserver.dk/alfa",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Alfa Aarhus",
+    "url": "https://radioserver.dk/alfaaarhus",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 56.14707955010056,
+    "lon": 10.208358764648438,
+    "language": ""
+  },
+  {
+    "name": "Radio Alfa Midtjylland",
+    "url": "https://radioserver.dk/alfamidt",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 56.13560269465829,
+    "lon": 8.968963623046877,
+    "language": ""
+  },
+  {
+    "name": "Radio Alfa Silkeborg",
+    "url": "https://radioserver.dk/alfasilk",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 56.164288409304895,
+    "lon": 9.540252685546877,
+    "language": ""
+  },
+  {
+    "name": "Radio Alfa Skive",
+    "url": "https://radioserver.dk/alfaskive",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 56.56023925701563,
+    "lon": 9.032135009765629,
+    "language": ""
+  },
+  {
+    "name": "Radio Alfa Viborg",
+    "url": "https://radioserver.dk/alfaviborg",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 56.44465638646786,
+    "lon": 9.401550292968752,
+    "language": ""
+  },
+  {
+    "name": "Radio Boost",
+    "url": "http://6434.cloudrad.io:8066/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 55.96995573846373,
+    "lon": 12.018699645996094,
+    "language": ""
+  },
+  {
+    "name": "Radio Diablo",
+    "url": "http://radio1.jfmtech.dk/diablo.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Diablo (AAC)",
+    "url": "https://radio1.jfmtech.dk/diablo.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 55.064456136347935,
+    "lon": 10.589489936828612,
+    "language": "danish"
+  },
+  {
+    "name": "Radio FLR",
+    "url": "https://faxe.jtw.dk/stream",
+    "codec": "AAC",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "Radio Fasanen Frederiksberg",
+    "url": "https://c14.radioboss.fm:18228/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Folk",
+    "url": "http://stream.radiojar.com/fqt2y0ds97zuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 55.669788923808184,
+    "lon": 12.600914016366008,
+    "language": "danish,english"
+  },
+  {
+    "name": "Radio Freja",
+    "url": "http://solid67.streamupsolutions.com:15507/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Globus",
+    "url": "https://stream.probroadcast.dk/radioglobus",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Haderslev",
+    "url": "http://media.wlmm.dk/radiohaderslevmp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 55.247227929493214,
+    "lon": 9.49424743652344,
+    "language": ""
+  },
+  {
+    "name": "Radio Helsingør FM",
+    "url": "https://stream.radiohelsingor.dk/rh",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 56.03023843735868,
+    "lon": 12.58930206298828,
+    "language": ""
+  },
+  {
+    "name": "Radio Humleborg",
+    "url": "https://stream2.rcast.net/64145",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 55.97815729150789,
+    "lon": 12.410817146301271,
+    "language": ""
+  },
+  {
+    "name": "Radio IIII",
+    "url": "https://netradio.radio4.dk/radio4",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 56.150162773197266,
+    "lon": 10.203471779823303,
+    "language": "danish"
+  },
+  {
+    "name": "Radio Klitholm",
+    "url": "http://stream.radioklitholm.dk:8000/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "Radio Koge",
+    "url": "http://stream.wlmm.dk/stream/53/;",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Limfjord",
+    "url": "http://media.limfjordnetradio.dk/limfjord128",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "Radio M",
+    "url": "https://radioserver.dk/radiom",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 56.1325416211539,
+    "lon": 8.960037231445314,
+    "language": ""
+  },
+  {
+    "name": "Radio Mars",
+    "url": "https://radio2.digidi.net/listen/mars/radio_mid.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Midtsjælland",
+    "url": "http://player.radiomidt.dk/broadwave.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Mælkebøtten",
+    "url": "http://live2.rcast.net:8722/;stream",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Nord",
+    "url": "http://netradio.radionord.dk:8000/RadioNord",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "Radio Odsherred",
+    "url": "http://87.104.40.139:88/broadwave.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 55.94535491385603,
+    "lon": 11.764984130859377,
+    "language": ""
+  },
+  {
+    "name": "Radio Ost FM",
+    "url": "http://stream.wlmm.dk/oestfmmp3",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Panini",
+    "url": "https://radi-panini.radiocult.fm/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 55.668711388839895,
+    "lon": 12.559698532241791,
+    "language": "english"
+  },
+  {
+    "name": "Radio Playback",
+    "url": "http://stream02.radioplayback.dk/stream",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "Radio Playback",
+    "url": "https://stream02.radioplayback.dk/stream",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Ringkøbing",
+    "url": "http://netradio.radioringkobing.dk:8000/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 56.08736247495096,
+    "lon": 8.25450897216797,
+    "language": ""
+  },
+  {
+    "name": "Radio Soft",
+    "url": "http://tx-bauerdk.sharp-stream.com/http_live.php?i=radiosoft_dk_mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Soft - Københavns NR - Bispebjerg LR - Bella Chr",
+    "url": "https://live-bauerdk.sharp-stream.com/radiosoft_dk_tunein_mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 55.70854531198261,
+    "lon": 12.532653808593752,
+    "language": ""
+  },
+  {
+    "name": "Radio Solo",
+    "url": "https://radioserver.dk/solo",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Stinesen",
+    "url": "https://st1.stinesen.dk/StineM320",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish,english"
+  },
+  {
+    "name": "Radio Sydhavsoerne Lolland",
+    "url": "https://radio1.jfmtech.dk/sydhavlolland",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio VLR",
+    "url": "https://netradio.vlr.dk/vlr8d",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio VLR - Classic Christmas",
+    "url": "https://netradio.vlr.dk/popup2",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Varde",
+    "url": "http://stream.wlmm.dk/radiovardemp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 55.62353766619007,
+    "lon": 8.48796844482422,
+    "language": ""
+  },
+  {
+    "name": "Radio Viborg",
+    "url": "https://webradio.radioviborg.dk/viborg",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 56.45049266858528,
+    "lon": 9.407384097494289,
+    "language": "danish"
+  },
+  {
+    "name": "Radio Victoria",
+    "url": "http://stream.wlmm.dk/NyRadiomp3",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": 55.466204737413626,
+    "lon": 8.459815979003908,
+    "language": ""
+  },
+  {
+    "name": "Radio Viva",
+    "url": "http://stream.wlmm.dk/radioviva",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 55.49052560815388,
+    "lon": 9.461975097656252,
+    "language": ""
+  },
+  {
+    "name": "Radio Viva",
+    "url": "https://stream.probroadcast.dk/radioviva",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Ådalen - Ødsted",
+    "url": "http://stream2.radiosolutions.dk/radioaadalen",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 55.73613546740953,
+    "lon": 9.525146484375002,
+    "language": "danish"
+  },
+  {
+    "name": "Radio Øst FM",
+    "url": "https://stream.probroadcast.dk/oestfmmp3",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Østsjælland Rollo",
+    "url": "http://stream.radiosolutions.dk/rollo",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": 55.25349004438315,
+    "lon": 12.116718292236328,
+    "language": ""
+  },
+  {
+    "name": "Radio4",
+    "url": "http://netradio.radio4.dk/radio4",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "Rar",
+    "url": "http://techno-low.rautemusik.fm/",
+    "codec": "AAC+",
+    "bitrate": 47,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "engilsh"
+  },
+  {
+    "name": "Retro Millennium",
+    "url": "https://tx-2.retro-radio.dk/TX-2",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Retro Radio",
+    "url": "http://stream128.retro-radio.dk/retro",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Retro-Radio Jul",
+    "url": "http://isstream.kanalplus.fm/TX-1",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "Retro-Radio Millennium",
+    "url": "http://tx-2.retro-radio.dk/TX-2",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "Retro1",
+    "url": "http://streammp3.retro-radio.dk/retro-mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "Rockkanalen",
+    "url": "http://stream.kanalplus.fm/kp96",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Rockkanalen MP3",
+    "url": "http://stream.kanalplus.fm/kp128",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 56.16706607696609,
+    "lon": 9.395449577841754,
+    "language": "english"
+  },
+  {
+    "name": "Skaga FM",
+    "url": "http://stream.wlmm.dk/skagafm.m3u",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 57.5873869896131,
+    "lon": 9.967002868652344,
+    "language": ""
+  },
+  {
+    "name": "SkagaFM",
+    "url": "https://stream.probroadcast.dk/skagafm",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Skala FM",
+    "url": "https://netradio.skala.fm/ska8d",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Skala FM",
+    "url": "http://webradio.skala.fm/kolding",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "Tango Copenhagen",
+    "url": "https://tangocopenhagen.stream.laut.fm/tangocopenhagen?pl=m3u&t302=2026-01-15_07-29-52&uuid=2ce4484f-6ce9-4c5b-893f-fae1c3a7de8c",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Tango Copenhagen Radio",
+    "url": "https://tangocopenhagen.stream.laut.fm/tangocopenhagen?t302=2021-01-15_18-47-40&uuid=64db9a91-4a6e-4bc8-ba24-26a2fa7f24d0",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "TechnoBase.FM - AACplus 96k",
+    "url": "http://listen.technobase.fm/tunein-aacplus-pls",
+    "codec": "AAC",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "TechnoBase.FM - MP3 192k",
+    "url": "http://listen.technobase.fm/tunein-mp3-pls",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "The Lake Radio",
+    "url": "http://hyades.shoutca.st:8627/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish,english"
+  },
+  {
+    "name": "The Lake Radio",
+    "url": "http://hyades.shoutca.st:8627/",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "The Voice",
+    "url": "http://live-bauerdk.sharp-stream.com/voice128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "UMLANDO Radio",
+    "url": "https://a2.asurahosting.com:6520/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Vi Elsker Radio",
+    "url": "http://netradio.skala.fm/vielsker",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 42.553080288955826,
+    "lon": -1.0546875000000002,
+    "language": ""
+  },
+  {
+    "name": "Vinyl Hits",
+    "url": "http://stream.vinylhits.dk/vinylaac",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "Vinylhits.dk",
+    "url": "http://stream.vinylhits.dk/vinylmp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "Vox Pop",
+    "url": "http://stream.midlar.fo/voxpop-128",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "WMR - World Music Radio",
+    "url": "https://stream.probroadcast.dk/wmr",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "World Music Radio",
+    "url": "http://stream.wlmm.dk:8010/wmrmp3",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": 56.45604081934006,
+    "lon": 10.040130615234377,
+    "language": ""
+  },
+  {
+    "name": "World Music Radio",
+    "url": "http://stream.wlmm.dk:8010/wmr",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "X FM K",
+    "url": "https://uniradio.out.airtime.pro/uniradio_a",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 55.67448697232048,
+    "lon": 12.573852539062502,
+    "language": ""
+  },
+  {
+    "name": "go!FM",
+    "url": "https://radioserver.dk/gofm",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": 56.170032129191654,
+    "lon": 10.195248126983644,
+    "language": "danish"
+  },
+  {
+    "name": "myROCK",
+    "url": "https://live-bauerdk.sharp-stream.com/myrock_dk_mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish"
+  },
+  {
+    "name": "nordic lodge copenhagen",
+    "url": "http://radio.streemlion.com:1160/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "r8Dio",
+    "url": "https://s3.radio.co/s7cd1ffe2f/listen",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

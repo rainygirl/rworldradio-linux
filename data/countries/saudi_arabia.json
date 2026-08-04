@@ -1,0 +1,752 @@
+[
+  {
+    "name": ". مختصر السيرة",
+    "url": "https://qurango.net/radio/almukhtasar_fi_alsiyra",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": ".Quran radio",
+    "url": "https://n09.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABjKoABHgAdULpynjQ7EwB6A",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "101.7 Your Love FM",
+    "url": "https://radio.905heartfm.com:8000/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "filipino"
+  },
+  {
+    "name": "105.5 AFN RADIO ONE",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_BHNAAC.aac",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "105.5 Soft Rock FM KSA",
+    "url": "https://drive.uber.radio/uber/starboxsoftrock/icecast.audio",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic,english"
+  },
+  {
+    "name": "13x_/BY _MX2",
+    "url": "https://stream.zeno.fm/rduelmumm6buv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 24.58456227692027,
+    "lon": 46.69844079762698,
+    "language": "arabic"
+  },
+  {
+    "name": "A f R o 505 / By _MX2",
+    "url": "https://stream.zeno.fm/7wozjkc8x0vvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 24.49891830109451,
+    "lon": 46.69189453125001,
+    "language": "arabi,english,kurdish"
+  },
+  {
+    "name": "AFN 360 Global Gravity 105.9 FM",
+    "url": "http://17793.live.streamtheworld.com/AFN_GRV_SC",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "AHLA AL QASEED FM",
+    "url": "https://ahlalqaseedfm-radio.mbc.net/ahlalqaseedfm-radio.m3u8",
+    "codec": "AAC+",
+    "bitrate": 70,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Al Arabiya FM",
+    "url": "https://fm.alarabiya.net/fm/myStream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Al Arabiya FM 103 (Arabic Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s345010",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Alif Alif FM 94.0 (Arabic Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s135623",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "AlifAlif FM",
+    "url": "https://alifalifjobs.com/radio/8000/AlifAlifLive.mp3",
+    "codec": "MP3",
+    "bitrate": 112,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Bestfriend FM 107.1",
+    "url": "https://stream-47.zeno.fm/ewvmpjn7kultv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "filipino"
+  },
+  {
+    "name": "Dreamstar Radio KSA 94.3 FM",
+    "url": "https://stream-173.zeno.fm/h0y9yu8hzk8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJoMHk5eXU4aHprOHV2IiwiaG9zdCI6InN0cmVhbS0xNzMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlZidVlINUhnVDZTMk82N0NndEY5cnciLCJpYXQiOjE3MzAxMDA3NTcsImV4cCI6MTczMDEwMDgxN30.nEG8Ng_RkLh72La19iYQBK9312NlFrKm1V4X7371hkU",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,filipino"
+  },
+  {
+    "name": "Favradio FM 101.5",
+    "url": "http://stream.hornhost.com:8109/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,filipino"
+  },
+  {
+    "name": "Fred Film Radio(لغة عربية)",
+    "url": "https://s10.webradio-hosting.com/proxy/fredradioar/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Galaxy FM KSA 99.9",
+    "url": "https://eu10.fastcast4u.com:6300/;?type=http&fbclid=IwY2xjawFqDntleHRuA2FlbQIxMQABHTTxwatDLaI3zkRXdSFYydXbOIRIvpABKZ_UJtqR3_vuCOvdsqzoeP80-Q_aem_slP_LtUYWwu6xNl3wmsesA",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,filipino"
+  },
+  {
+    "name": "HOUB Radio (حُب)",
+    "url": "http://nap.casthost.net:8028/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 24.59208533779722,
+    "lon": 46.74584297425573,
+    "language": "ar,arabic,english"
+  },
+  {
+    "name": "Islamic Tagalog Radio",
+    "url": "https://islamicbulletin.site:8030/stream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic,filipino"
+  },
+  {
+    "name": "Jeddah",
+    "url": "https://base44.app/api/apps/6a1fdf6444e437e5f3a701be/files/mp/public/6a1fdf6444e437e5f3a701be/cee738f00_WithoutLoveWhatsLife_.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 21.4858,
+    "lon": 39.1925,
+    "language": ""
+  },
+  {
+    "name": "KSA Dance FM 101.5",
+    "url": "http://stream.zeno.fm/cygwwun7a5zuv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic,english"
+  },
+  {
+    "name": "KSA Dance FM 104.3",
+    "url": "http://stream-155.zeno.fm/cygwwun7a5zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjeWd3d3VuN2E1enV2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoieVFYX2N0eWVUZzZvQXQ4Y1V1eUh3dyIsImlhdCI6MTc1NTMwNzE1OCwiZXhwIjoxNzU1MzA3MjE4fQ.zNoyRMywC9T10LI0-DNpsUJWvb1t8rMaSvsWChhLS3Q",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic,english"
+  },
+  {
+    "name": "KSA Dance FM 89.1",
+    "url": "http://stream-157.zeno.fm/cygwwun7a5zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjeWd3d3VuN2E1enV2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkFJRUs2VVNfUkxlR3ZaYjk5NkVLRUEiLCJpYXQiOjE3Mjg4ODgyOTMsImV4cCI6MTcyODg4ODM1M30.oh-Xzqq3fJHIneB1FgUnZWXJmtGvxnU6lYeiikww4lI",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic,english"
+  },
+  {
+    "name": "KSA Sunnah Madinah (Islamic Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s270278",
+    "codec": "mp3",
+    "bitrate": 32,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Khuzama Radio 95.3 FM",
+    "url": "https://live.kwikmotion.com/sbrksakhuzamaradiolive/khuzama/chunks.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "MBC FM",
+    "url": "https://mbcfm-radio.mbc.net/mbcfm-radio_1.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 24.626752157735744,
+    "lon": 46.72004699707032,
+    "language": "arabic"
+  },
+  {
+    "name": "MBC FM",
+    "url": "https://mbcfm-radio.mbc.net/mbcfm-radio.m3u8",
+    "codec": "AAC+",
+    "bitrate": 70,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "MBC Loud",
+    "url": "https://radio-loud-fm.mbc.net/radio-loud-fm.m3u8",
+    "codec": "AAC+",
+    "bitrate": 70,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "MBC Loud",
+    "url": "https://d3u8gpu5stumeo.cloudfront.net/loud-fm-radio.m3u8",
+    "codec": "AAC+",
+    "bitrate": 70,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "MBC Mood",
+    "url": "https://radio-mbc-mood.mbc.net/radio-mbc-mood.m3u8",
+    "codec": "AAC+",
+    "bitrate": 70,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "MDLBEAST Radio 104 (World Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s344871",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MOOD FM",
+    "url": "https://moodfm-radio.mbc.net/moodfm-radio.m3u8",
+    "codec": "AAC+",
+    "bitrate": 70,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Maura Radio (AR) ✨",
+    "url": "https://stream.zeno.fm/fpasc3up26ptv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 24.501588428431564,
+    "lon": 46.8017564713955,
+    "language": "arabic"
+  },
+  {
+    "name": "Mohamed Tablaoui",
+    "url": "http://live.mp3quran.net:9834/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Mp3Quran Main",
+    "url": "https://qurango.net/radio/mix",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "OFW Kabayan Radio 105.5 FM",
+    "url": "https://c2.radioboss.fm:18478/stream",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,filipino"
+  },
+  {
+    "name": "OFW Tambayan FM 100.7",
+    "url": "https://stream-170.zeno.fm/82bb4d2uz68uv?zs=CnZDUKriSmSeaRAwyMpGoQ&zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4MmJiNGQydXo2OHV2IiwiaG9zdCI6InN0cmVhbS0xNzAuemVuby5mbSIsImp0aSI6IkNuWkRVS3JpU21TZWFSQXd5TXBHb1EiLCJpYXQiOjE3MTI4MzUxMDgsImV4cCI6MTcxMjgzNTE2OH0.eNzYZ6jQPY5RL2uohAGhp8G7cFwGXB9BjFUeX7mysXo&zttl=5",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "filipino"
+  },
+  {
+    "name": "PHR 105.3 FM Precious Hearts Radio",
+    "url": "https://stream-172.zeno.fm/yyzp7bv9qchvv?zs=FS8fstfMQw-0L-XNabOKtg&zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5eXpwN2J2OXFjaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzIuemVuby5mbSIsImp0aSI6IkZTOGZzdGZNUXctMEwtWE5hYk9LdGciLCJpYXQiOjE3MTI5Mjg1MDQsImV4cCI6MTcxMjkyODU2NH0.lfZDEwX6ZNFFGIqdubaoRgrWWlEpvGJp4jIbELmANmg&zttl=5",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,filipino"
+  },
+  {
+    "name": "Panorama FM",
+    "url": "https://panoramafm-radio.mbc.net/panoramafm-radio.m3u8",
+    "codec": "AAC+",
+    "bitrate": 70,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "QURAN KAREEM",
+    "url": "https://quraanfm-radio.mbc.net/quraanfm-radio.m3u8",
+    "codec": "AAC+",
+    "bitrate": 70,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Radio Asharq",
+    "url": "https://svs.itworkscdn.net/asharqradioalive/asharqradioa/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 258,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Asharq with Bloomberg / راديو الشرق مع بلومبرغ",
+    "url": "https://l3.itworkscdn.net/asharqradioalive/asharqradioa/icecast.audio",
+    "codec": "AAC+",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Radio Maria Middle East",
+    "url": "http://dreamsiteradiocp2.com/proxy/rmphilippine?mp=/stream?ver=748140",
+    "codec": "MP3",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic,english"
+  },
+  {
+    "name": "RadioSunna",
+    "url": "http://andromeda.shoutca.st:8189/stream",
+    "codec": "MP3",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Remix S-DJ",
+    "url": "https://stream.zeno.fm/pdeizhgrtrstv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 24.633900262522396,
+    "lon": 46.71205522958191,
+    "language": "arabic,english"
+  },
+  {
+    "name": "Rotana FM",
+    "url": "http://philae.shoutca.st:8250/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Rotana FM 88.0 (Arabic Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s138145",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "SBA Jeddah Radio 96.2 FM",
+    "url": "https://live.kwikmotion.com/sbrksajeddahradiolive/ksajeddahradio/chunks.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "SBA Riyadh Radio 91.5 FM",
+    "url": "https://live.kwikmotion.com/sbrksariyadhradiolive/ksariyadhradio/chunks.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "SBA Riyadh Radio 91.5 FM",
+    "url": "https://stream-154.zeno.fm/pdeizhgrtrstv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwZGVpemhncnRyc3R2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Im9vbng2V1J3UXJ5Q0k5TVV0N01heEEiLCJpYXQiOjE3MjgyMjQ1MTYsImV4cCI6MTcyODIyNDU3Nn0.gpUIWkDBFNNFjqCg2R-xQN4LXT4z8_Ivs7d2UkeFE_8",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Salah Boukhater",
+    "url": "http://live.mp3quran.net:9878/;stream.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Saudi Quran Station 100.0 (Islamic Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s37232",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Saudi Quran1",
+    "url": "http://n01.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABjrUiYUAAxwNU2wDdcOap9w",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 24.643348305551868,
+    "lon": 46.697044372558594,
+    "language": "arabic"
+  },
+  {
+    "name": "Saudia Radio 103.6 FM",
+    "url": "https://stream-154.zeno.fm/t4ww4awfps8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0NHd3NGF3ZnBzOHV2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlNBdnJYelp3U1lpQXFTVFhUQnl5cFEiLCJpYXQiOjE3MzAwNzg1MjIsImV4cCI6MTczMDA3ODU4Mn0.LEUzajNGq4k3Pg9DNiLJxBJMX6rUnMsSQpB12mhw4IQ",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Saudia Radio 87.7 FM",
+    "url": "https://live.kwikmotion.com/sbrksasaudiaradiolive/ksasaudiaradio/chunks.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic,english"
+  },
+  {
+    "name": "Sky ABC Radio 95.1 FM",
+    "url": "https://cast.skyradio105.com/proxy/skyradio105/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic,english"
+  },
+  {
+    "name": "U FM KSA 90.0 (Arabic Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s136681",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "U FM KSA 90.3 (Arabic Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s141243",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "UFM 95.5",
+    "url": "https://stream.ufmradio.com:8003/;",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Voice Of Grace",
+    "url": "https://securestreams5.reliastream.com:1820/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "WANASAH",
+    "url": "https://wanasahfm-radio.mbc.net/wanasahfm-radio.m3u8",
+    "codec": "AAC+",
+    "bitrate": 70,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Wanasah FM",
+    "url": "https://wanasahfm-radio.mbc.net/wanasahfm-radio_1.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 24.690549466549076,
+    "lon": 46.692924499511726,
+    "language": "arabic"
+  },
+  {
+    "name": "_MX2✨",
+    "url": "https://stream.zeno.fm/66gp9qukxaquv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 24.687603106387268,
+    "lon": 46.71470621600748,
+    "language": "arabic,english"
+  },
+  {
+    "name": "asmaaxx/ʙʏ _MX2",
+    "url": "https://stream.zeno.fm/nkukhjz4vgtuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 24.680019990708804,
+    "lon": 46.71630866825581,
+    "language": "arabic"
+  },
+  {
+    "name": "إذاعة الأخبار كل 5 دقائق   REPLAY NEWS - العربية",
+    "url": "https://replaynewsar.ice.infomaniak.ch/replaynewsar-128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "إذاعة القرآن الكريم (مكة المكرمة)",
+    "url": "https://n05.radiojar.com/4wqre23fytzuv?rj-ttl=5&rj-tok=AAABlo7vOaoAkavc0CM0frQ6zQ",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "إذاعة طريق السلف",
+    "url": "https://airtime.salafwayfm.ly/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "إذاعة مكة المكرمة 124.95 (Arabic Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s356369",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "القارئ علي الحذيفي رواية قالون",
+    "url": "https://qurango.net/radio/ali_alhuthaifi_qalon",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "تفسير القرآن الكريم",
+    "url": "https://qurango.net/radio/tafseer",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "عظمها وافي و غاربها طويل",
+    "url": "https://stream.zeno.fm/9i7dabxxfwsuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 24.558020641377357,
+    "lon": 46.71035449951887,
+    "language": "arabic"
+  },
+  {
+    "name": "مقدمة رسالة ابن أبي زيد القيرواني1",
+    "url": "https://www.al-badr.net/download/esound/choroohat/abuzaid_alkirawani/001.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "العربية"
+  },
+  {
+    "name": "مكس إ ف إم 105.5 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s134738",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "مكس إ ف إم 98.5 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s137854",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

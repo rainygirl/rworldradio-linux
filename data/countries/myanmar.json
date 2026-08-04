@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Cherry FM",
+    "url": "https://cherry.akiyaresearch.com:444/stream/89/",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DWG Radio Bumese",
+    "url": "http://server32349.streamplus.de/;?type=http&#038;nocache=227",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "burmese"
+  },
+  {
+    "name": "MandalayFM",
+    "url": "https://edge.mixlr.com/channel/nmtev",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "burmese"
+  },
+  {
+    "name": "Padamyar FM",
+    "url": "https://stream.zeno.fm/og9btsnj00tuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "burmese"
+  },
+  {
+    "name": "Padamyar FM 88.2",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s260714",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Padamyar FM 88.2 (Variety)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s348111",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "m.CDM Radio (Local News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s351488",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

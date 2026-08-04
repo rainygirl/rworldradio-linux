@@ -1,0 +1,92 @@
+[
+  {
+    "name": "A'LO FM",
+    "url": "http://tabassum.uz:9000/alo_low",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "uzbek"
+  },
+  {
+    "name": "Islom.uz",
+    "url": "https://radio.islom.uz/islomuz",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "uzbek"
+  },
+  {
+    "name": "Oriat FM",
+    "url": "http://194.5.152.248:8000/fm",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,uzbek"
+  },
+  {
+    "name": "Qalbim navosi",
+    "url": "http://live.qalbimnavosi.uz/qalbimnavosi",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Qalbim navosi",
+    "url": "http://213.230.109.7:9000/alo_low",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "uzbek"
+  },
+  {
+    "name": "Radio Markaz",
+    "url": "http://mediamarkaz.com:8000/radiomarkaz",
+    "codec": "AAC",
+    "bitrate": 80,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio O'zbegim Taronasi",
+    "url": "https://fm101.uz:9943/fm101_low.aac",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "uzbek،russian"
+  },
+  {
+    "name": "Yoshlar Ovozi",
+    "url": "http://ns10.jethost.uz:8000/yoshlarovoziaac",
+    "codec": "AAC+",
+    "bitrate": 112,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "uzbek"
+  },
+  {
+    "name": "alghad FM",
+    "url": "http://s10.voscast.com:9410/",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  }
+]

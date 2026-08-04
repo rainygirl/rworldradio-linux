@@ -1,0 +1,62 @@
+[
+  {
+    "name": "FM1 88,7",
+    "url": "https://stream-secure.midlar.fo/fm1-128",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 62.006685174835454,
+    "lon": -6.782800076055134,
+    "language": ""
+  },
+  {
+    "name": "KVF - Tingvarp",
+    "url": "http://netvarp.kringvarp.fo:4443/tingvarp",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "KVF2",
+    "url": "http://netvarp.kringvarp.fo:4443/kvf2_2",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 62.02237318781896,
+    "lon": -6.786434054374696,
+    "language": "faroese"
+  },
+  {
+    "name": "Kringvarp Føroya (KVF)",
+    "url": "http://netvarp.kringvarp.fo:443/uvhm",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "faroese"
+  },
+  {
+    "name": "Rás 2",
+    "url": "http://stream.midlar.fo/ras2",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "faroese"
+  },
+  {
+    "name": "VoxPop",
+    "url": "http://stream.midlar.fo/voxpop",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "faroese"
+  }
+]

@@ -1,0 +1,1672 @@
+[
+  {
+    "name": "775ライブリーFM",
+    "url": "https://mtist.as.smartstream.ne.jp/30026/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 180,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "83.4MHz FMSETAGAYA",
+    "url": "https://fmsetagaya834.out.airtime.pro/fmsetagaya834_a",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "A Radio for ACG & others",
+    "url": "https://hkradio.myaddr.io/listen/new_radio/radio.mp3",
+    "codec": "AAC",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "A&G+",
+    "url": "https://www.uniqueradio.jp/agapps/hls/cdn.m3u8",
+    "codec": "AAC",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "AFN GO TOKYO",
+    "url": "http://22963.live.streamtheworld.com/AFNP_TKO_SC",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "AIR STATION HIBIKI",
+    "url": "https://mtist.as.smartstream.ne.jp/30052/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 178,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "Anime Para Ti",
+    "url": "https://stream.zeno.fm/qpn8mkt8c4duv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "Animenfo",
+    "url": "https://stream.zenolive.com/xwa8ckz7mzzuv.aac",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "AshiyaRadio〜アシヤ・ラヂヲ〜",
+    "url": "https://s3.radio.co/sc8d895604/listen",
+    "codec": "AAC",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "BAN-BANラジオ",
+    "url": "https://mtist.as.smartstream.ne.jp/30078/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 179,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "BAY WAVE 塩竈のラジオ",
+    "url": "https://mtist.as.smartstream.ne.jp/30056/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 206,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "BOOTY FM",
+    "url": "http://60.45.66.12:88/bootyfm",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "BOX : Japan City Pop - 日本のシティポップ",
+    "url": "https://play.streamafrica.net/japancitypop",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,japanese"
+  },
+  {
+    "name": "BeFM",
+    "url": "https://mtist.as.smartstream.ne.jp/30079/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 182,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "Big B Radio - Jpop",
+    "url": "https://antares.dribbcast.com/proxy/jpop?mp=/s",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "B･FM791",
+    "url": "https://mtist.as.smartstream.ne.jp/30010/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 116,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "Chifuru!",
+    "url": "https://157.254.194.202/stream/nanahira@256",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 35.0046872017223,
+    "lon": 136.81321620941165,
+    "language": "japanese"
+  },
+  {
+    "name": "Chofu FM",
+    "url": "https://mtist.as.smartstream.ne.jp/30039/livestream/chunklist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "City Hunter OST 24/7",
+    "url": "http://5.178.106.47:8000/cityhunter.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DARAZ FM",
+    "url": "https://mtist.as.smartstream.ne.jp/30053/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 144,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "FM Kahoku 78.7 (FMかほく, JOZZ5AM-FM, 78.7 MHz, Kahoku City, Ishikawa)",
+    "url": "http://radio.kahoku.net:8000/;",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "FM Kawaguchi 856 studio (FM川口)",
+    "url": "https://mtist.as.smartstream.ne.jp/30035/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 148,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "FM Mot.com",
+    "url": "https://mtist.as.smartstream.ne.jp/30019/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 152,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "FM N1",
+    "url": "https://mtist.as.smartstream.ne.jp/30001/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 171,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "FM RADIO3 (ラジオ3)",
+    "url": "https://mtist.as.smartstream.ne.jp/30007/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 425,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "FM ジャングル",
+    "url": "https://mtist.as.smartstream.ne.jp/30013/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 178,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "FMいしがきサンサンラジオ",
+    "url": "https://mtist.as.smartstream.ne.jp/30069/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 154,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "FMいわき",
+    "url": "https://mtist.as.smartstream.ne.jp/30009/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 174,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "FMうしくうれしく放送",
+    "url": "https://mtist.as.smartstream.ne.jp/30021/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 131,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "FMおたる",
+    "url": "https://mtist.as.smartstream.ne.jp/30025/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 204,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "FMおとくに",
+    "url": "https://mtist.as.smartstream.ne.jp/30063/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 179,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "FMぎのわん",
+    "url": "https://mtist.as.smartstream.ne.jp/30093/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 203,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "FMたちかわ",
+    "url": "https://mtist.as.smartstream.ne.jp/30033/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 151,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "FMたんご",
+    "url": "https://mtist.as.smartstream.ne.jp/30073/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 209,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "FMとよみ",
+    "url": "https://mtist.as.smartstream.ne.jp/30083/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 146,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "FMのべおか",
+    "url": "https://mtist.as.smartstream.ne.jp/30088/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 152,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "FMはまなす",
+    "url": "http://mtist.as.smartstream.ne.jp/30004/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 178,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "FMぱるるん",
+    "url": "https://mtist.as.smartstream.ne.jp/30022/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 178,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "FMひたち",
+    "url": "https://mtist.as.smartstream.ne.jp/30023/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 275,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "FMふっかちゃん",
+    "url": "https://mtist.as.smartstream.ne.jp/30047/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 178,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "FMやんばる",
+    "url": "https://mtist.as.smartstream.ne.jp/30095/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 242,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "FMゆーとぴあ",
+    "url": "https://mtist.as.smartstream.ne.jp/30030/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 153,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "FMりべーる",
+    "url": "http://mtist.as.smartstream.ne.jp/30074/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 177,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "FMわたらせ",
+    "url": "https://mtist.as.smartstream.ne.jp/30048/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 172,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "FMアップル",
+    "url": "https://mtist.as.smartstream.ne.jp/30090/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 208,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "FMメイプル",
+    "url": "https://mtist.as.smartstream.ne.jp/30015/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 207,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "FM那覇 (FM Naha)",
+    "url": "https://mtist.as.smartstream.ne.jp/30068/livestream/chunklist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 26.210088687962617,
+    "lon": 127.67941474914552,
+    "language": "japanese"
+  },
+  {
+    "name": "Fred Film Radio(日本語)",
+    "url": "https://s10.webradio-hosting.com/proxy/fredradiojp/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "Free FM 80 Tokyo",
+    "url": "https://freefm80.radioca.st/",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "#english,#japan,español internacional,ingles español"
+  },
+  {
+    "name": "Friends Forever 128kbps MP3",
+    "url": "https://s5.radio.co/s6140c7241/listen",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,japanese"
+  },
+  {
+    "name": "Friends Forever 64kbps AAC",
+    "url": "https://s5.radio.co/s6140c7241/low",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,japanese"
+  },
+  {
+    "name": "Gensokyo Radio",
+    "url": "https://stream.gensokyoradio.net/3",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Gensokyo Radio (OGG)",
+    "url": "https://stream.gensokyoradio.net/2",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Gotanno FM 89.2",
+    "url": "https://radio.gotanno.love/;",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 35.765196631213904,
+    "lon": 139.80937242507937,
+    "language": "japanese"
+  },
+  {
+    "name": "Hitsujikai Radio",
+    "url": "http://streaming.radio.co/se4a8e6a93/listen",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "J-Club Club Bandstand",
+    "url": "https://cast1.torontocast.com:2060/;.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 35.35321610123823,
+    "lon": 139.43847656250003,
+    "language": "english"
+  },
+  {
+    "name": "J-Club Powerplay HipHop",
+    "url": "https://kathy.torontocast.com:3350/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "J-Club Powerplay HipHop(Asia DREAM Radio)",
+    "url": "https://kathy.torontocast.com:3350/;?shoutcast",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "J-POP Powerplay",
+    "url": "https://kathy.torontocast.com:3560/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "J-Pop Powerplay",
+    "url": "https://kathy.torontocast.com:3560/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "J-Pop Powerplay Kawaii",
+    "url": "https://kathy.torontocast.com:3060/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "J-Pop Powerplay Kawaii(asia dream radio)",
+    "url": "https://kathy.torontocast.com:3060/;?shoutcast",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "J-Pop Sakura",
+    "url": "http://quincy.torontocast.com:2070/stream.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "J-Pop Sakura (asia DREAM radio)",
+    "url": "https://quincy.torontocast.com:2070/stream.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "J-Rock PowerPlay",
+    "url": "https://kathy.torontocast.com:3340/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "J-Rock Powerplay(Asia DREAM Radio)",
+    "url": "https://kathy.torontocast.com:3340/;?shoutcast",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "J1 Gold (HTTP)",
+    "url": "http://jenny.torontocast.com:8062/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "J1 HITS",
+    "url": "https://jenny.torontocast.com:2000/stream/J1HITS?_=538100",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "J1 HITS",
+    "url": "https://jenny.torontocast.com:2000/stream/J1HITS?_=184325",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "J1 Hits (HTTP)",
+    "url": "http://jenny.torontocast.com:8056/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "JPHiP Radio",
+    "url": "http://radio.jphip.com:8800/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "JPopsuki Radio",
+    "url": "http://65.21.170.149:8000/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Japan Hits - asia DREAM radio",
+    "url": "http://quincy.torontocast.com:2020/stream.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 35.44277092585766,
+    "lon": 139.74609375000003,
+    "language": "japanese"
+  },
+  {
+    "name": "Jazz Sakura",
+    "url": "https://kathy.torontocast.com:3330/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Jazz Sakura (asia dream radio)",
+    "url": "http://kathy.torontocast.com:3330/stream/1/?esPlayer&cb=82181.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "Justplay",
+    "url": "https://justplay.stream.laut.fm/justplay",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "KOCOラジ",
+    "url": "https://mtist.as.smartstream.ne.jp/30020/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 148,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "Kamakura FM",
+    "url": "https://stream.laut.fm/kamakura",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Kawaii Anime Radio",
+    "url": "http://158.69.227.214:8137/stream",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Listen.Moe JPop Vorbis",
+    "url": "https://listen.moe/stream",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,japanese"
+  },
+  {
+    "name": "MILCpod",
+    "url": "https://radio.milradio.info:9000/milcpod.m3u8",
+    "codec": "AAC",
+    "bitrate": 211,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "Miku Radio",
+    "url": "https://miku.fm/listen/miku/mp3-320",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Moon Mission Recordings",
+    "url": "http://uk5.internet-radio.com:8306/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,japanese"
+  },
+  {
+    "name": "Moon Mission Recordings, Tokyo Deep and Electronic",
+    "url": "https://uk5.internet-radio.com/proxy/mmr?mp=/stream;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "NFRS Radio",
+    "url": "https://securestreams.autopo.st:2592/stream?t=1769818665235",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,japanese"
+  },
+  {
+    "name": "NHK WORLD RADIO",
+    "url": "https://b-nhkworld-radio.nhkworld.jp/hls/live/nhkworld-radio-rs1/index_rs1.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "NHK WORLD RADIO 10",
+    "url": "https://nhkworld-radio.akamaized.net/hls/live/2115820/nhkworld-radio-rs5/index_rs5.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "NHK WORLD RADIO 11",
+    "url": "https://master.nhkworld.jp/nhkworld-radio/playlist/gs2/live.m3u8",
+    "codec": "AAC",
+    "bitrate": 66,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "NHK WORLD RADIO 12",
+    "url": "https://master.nhkworld.jp/nhkworld-radio/playlist/kai/live.m3u8",
+    "codec": "AAC",
+    "bitrate": 66,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "NHK WORLD RADIO 13",
+    "url": "https://master.nhkworld.jp/nhkworld-radio/playlist/sin/live.m3u8",
+    "codec": "AAC",
+    "bitrate": 66,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "NHK WORLD RADIO 2",
+    "url": "https://nhkworld-radio.akamaized.net/hls/live/2115823/nhkworld-radio-rs1/index_rs1.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "NHK WORLD RADIO 3",
+    "url": "http://shoutcast.wrn.org:8025/nhk41left",
+    "codec": "MP3",
+    "bitrate": 112,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "NHK WORLD RADIO 4",
+    "url": "http://streaming.edmradio.online:8025/nhk41left",
+    "codec": "MP3",
+    "bitrate": 112,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "NHK WORLD RADIO 5",
+    "url": "http://shoutcast.wrn.org:8025/nhk41right",
+    "codec": "MP3",
+    "bitrate": 112,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "NHK WORLD RADIO 6",
+    "url": "http://streaming.edmradio.online:8025/nhk41right",
+    "codec": "MP3",
+    "bitrate": 112,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "NHK WORLD RADIO 7",
+    "url": "https://master.nhkworld.jp/nhkworld-radio/playlist/rs2/live.m3u8",
+    "codec": "AAC",
+    "bitrate": 66,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "NHK WORLD RADIO 8",
+    "url": "https://master.nhkworld.jp/nhkworld-radio/playlist/rs5/live.m3u8",
+    "codec": "AAC",
+    "bitrate": 66,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "NHK WORLD RADIO 9",
+    "url": "https://master.nhkworld.jp/nhkworld-radio/playlist/rs4/live.m3u8",
+    "codec": "AAC",
+    "bitrate": 66,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "NHK-FM",
+    "url": "http://mnet.x10.mx/nhkfm.m3u8",
+    "codec": "AAC+",
+    "bitrate": 52,
+    "needsResolve": false,
+    "lat": 35.564673862005385,
+    "lon": 139.80651855468753,
+    "language": "#japan"
+  },
+  {
+    "name": "NHKワールド・ラジオ日本",
+    "url": "https://masterpl.hls.nhkworld.jp/hls/r1/live/master.m3u8",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "Neko-Network Radio: Anime/Japanese",
+    "url": "http://listen.nekonetwork.moe:8400/anime.mp3",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Nightwave Plaza (HLS)",
+    "url": "http://radio.plaza.one/hls",
+    "codec": "AAC",
+    "bitrate": 70,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Nightwave Plaza (Opus 64)",
+    "url": "http://radio.plaza.one/ogg_low",
+    "codec": "OGG",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Nightwave Plaza OPUS 96",
+    "url": "http://radio.plaza.one/opus",
+    "codec": "OGG",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Nonstop Casiopea",
+    "url": "https://nonstopcasiopea.radioca.st/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Opening Radio",
+    "url": "http://stream.zeno.fm/tza2ayy47qruv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Otaku Music Radio",
+    "url": "https://kathy.torontocast.com:2880/;?type=http&nocache=1606748882",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Ottava",
+    "url": "http://ottava2.out.airtime.pro:8000/ottava2_a",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "Patchwork Archive - VTuber Songs and Covers",
+    "url": "https://a4.asurahosting.com:6930/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "R/a/dio",
+    "url": "https://relay0.r-a-d.io/main.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "REDS WAVE",
+    "url": "https://mtist.as.smartstream.ne.jp/30008/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 174,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "REPLAY NEWS - 日本語 5分ごとのニュースラジオ",
+    "url": "https://replaynewsja.ice.infomaniak.ch/replaynewsja-128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "RadiCro",
+    "url": "https://radicrojapan.out.airtime.pro/radicrojapan_b",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RadiCro (レディクロ)",
+    "url": "https://radicrojapan.out.airtime.pro/radicrojapan_a",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "Radio Mix Kyoto FM87.0",
+    "url": "https://mtist.as.smartstream.ne.jp/30071/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 181,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "RadioMixjp",
+    "url": "https://radiomixjp.servepics.com/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "português  brasil"
+  },
+  {
+    "name": "Rainwave All",
+    "url": "https://relay.rainwave.cc/all.mp3?1:MF0d8GHw2d",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Real Love Music - Radio Future Funk",
+    "url": "https://stream-152.zeno.fm/48533y95cnruv?zs=doyTUcjfTvCVtBOS3nlI8g",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,japanese"
+  },
+  {
+    "name": "Retro PC GAME MUSIC Streaming Radio",
+    "url": "http://gyusyabu.ddo.jp:8000/",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "Retro PC Game Music Streaming Radio for Gyusyabu",
+    "url": "http://gyusyabu.ddo.jp:8000/;stream.mp3",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "SHMUPRADIO",
+    "url": "https://stream.shmupradio.com/320",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "SOUND UP STATION NFRS",
+    "url": "https://stream2.rcast.net/70945",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 34.6391674026098,
+    "lon": 135.50172060728076,
+    "language": "japanese"
+  },
+  {
+    "name": "Shonan Beach FM 78.9",
+    "url": "http://shonanbeachfm.out.airtime.pro:8000/shonanbeachfm_a",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,japanese"
+  },
+  {
+    "name": "Súper Tokio Radio",
+    "url": "https://streamer.radio.co/s83eb8ff39/listen",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Tokyo Star Radio",
+    "url": "http://mtist.as.smartstream.ne.jp/30081/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 114,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "Tokyo Star Radio",
+    "url": "https://mtist.as.smartstream.ne.jp/30081/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 114,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "VR Soundscape TV",
+    "url": "https://stream.vrstv.jp/",
+    "codec": "AAC,H.264",
+    "bitrate": 6626,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "VRC放送局",
+    "url": "https://vrc.gate.vrtv.jp/live?p=g&u=d",
+    "codec": "AAC",
+    "bitrate": 1042,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "WREP",
+    "url": "http://c13.radioboss.fm:8200/stream",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,japanese"
+  },
+  {
+    "name": "XWave Radio",
+    "url": "http://vps-260b74e9.vps.ovh.net:8000/;stream.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "asia DREAM radio - Japan Hits",
+    "url": "https://quincy.torontocast.com:2020/stream.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "fmいずみ",
+    "url": "https://mtist.as.smartstream.ne.jp/30018/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 174,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "otohama Coastal Soundscape from The University of Tokyo International Coastal Research Center (Otsuchi, Iwate)",
+    "url": "http://mp3s.nc.u-tokyo.ac.jp/OTSUCHI_CyberForest.mp3",
+    "codec": "MP3",
+    "bitrate": 185,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "tilderadio",
+    "url": "https://tilderadio.org/listen",
+    "codec": "OGG",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "wi-radio",
+    "url": "https://mtist.as.smartstream.ne.jp/30087/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 181,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "yamanakako from Fuji Iyashinomori Woodland Study Center, The University of Tokyo Forests (Yamanakako, Yamanashi)",
+    "url": "http://mp3s.nc.u-tokyo.ac.jp/Fuji_CyberForest.mp3",
+    "codec": "MP3",
+    "bitrate": 185,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "あまみエフエム",
+    "url": "https://mtist.as.smartstream.ne.jp/30054/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 208,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "ぎのわんシティFM",
+    "url": "https://mtist.as.smartstream.ne.jp/30098/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 174,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "なとらじ801",
+    "url": "https://mtist.as.smartstream.ne.jp/30092/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 203,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "まえばしCITYエフエム",
+    "url": "https://mtist.as.smartstream.ne.jp/30043/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 178,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "みやこハーバーラジオ",
+    "url": "https://mtist.as.smartstream.ne.jp/30097/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 145,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "エフエムEGAO",
+    "url": "https://mtist.as.smartstream.ne.jp/30040/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 178,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "エフエムたつごう",
+    "url": "https://mtist.as.smartstream.ne.jp/30072/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 173,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "エフエム世田谷",
+    "url": "http://mtist.as.smartstream.ne.jp/30027/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 144,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "エフエム椿台",
+    "url": "https://mtist.as.smartstream.ne.jp/30014/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 208,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "カシオペアFM",
+    "url": "https://mtist.as.smartstream.ne.jp/30050/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 151,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "タコヤリイカラジオ",
+    "url": "https://tekitouradio.onrender.com/radio",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "チョクラジ",
+    "url": "https://mtist.as.smartstream.ne.jp/30085/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 75,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "ハローハッピー・こしがやエフエム",
+    "url": "https://mtist.as.smartstream.ne.jp/30096/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 152,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "フラワーラジオ",
+    "url": "https://mtist.as.smartstream.ne.jp/30002/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 203,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "ラジオカロスサッポロ FM78.1",
+    "url": "https://mtist.as.smartstream.ne.jp/30034/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 174,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "ラジオスイート",
+    "url": "https://mtist.as.smartstream.ne.jp/30061/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 203,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "ラジオ・ミュー",
+    "url": "https://mtist.as.smartstream.ne.jp/30006/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 133,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "ラジオ石巻",
+    "url": "https://mtist.as.smartstream.ne.jp/30037/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 136,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "ラヂオもりおか FM76.9",
+    "url": "https://mtist.as.smartstream.ne.jp/30017/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 181,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "ラヂオ気仙沼",
+    "url": "https://mtist.as.smartstream.ne.jp/30094/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 247,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "レインボータウンFM",
+    "url": "https://mtist.as.smartstream.ne.jp/30036/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 174,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "京都三条ラジオカフェ",
+    "url": "https://mtist.as.smartstream.ne.jp/30082/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 175,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "大富ラジオ",
+    "url": "https://stream.zeno.fm/oaxp6mswcqltv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "敦賀FM",
+    "url": "https://mtist.as.smartstream.ne.jp/30012/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 125,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "横手かまくらエフエム",
+    "url": "https://mtist.as.smartstream.ne.jp/30076/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 208,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "羊飼いラジオ Hitsujikai Radio",
+    "url": "https://streaming.radio.co/se4a8e6a93/listen",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 44.179146306794635,
+    "lon": 142.40737435827572,
+    "language": ""
+  },
+  {
+    "name": "羊飼いラジオ(Hitsujikai Radio / Shepherd radio)",
+    "url": "https://streaming.radio.co/se4a8e6a93/low",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "調布FM",
+    "url": "https://mtist.as.smartstream.ne.jp/30039/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 150,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "超！A&G+",
+    "url": "http://www.uniqueradio.jp/agplayerf/hls/Active.m3u8?",
+    "codec": "UNKNOWN",
+    "bitrate": 142,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "鹿角きりたんぽFM",
+    "url": "https://mtist.as.smartstream.ne.jp/30089/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 210,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  },
+  {
+    "name": "ＦＭカオン",
+    "url": "https://mtist.as.smartstream.ne.jp/30057/livestream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 152,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese"
+  }
+]

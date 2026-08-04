@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Tropik FM Live St Barth",
+    "url": "https://stream10.vestaradio.com/TROPIKFM",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 17.907424953767766,
+    "lon": -62.85022279805796,
+    "language": "french"
+  }
+]

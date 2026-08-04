@@ -1,0 +1,12 @@
+[
+  {
+    "name": "MaXXima",
+    "url": "http://maxxima.mine.nu:8000/maxx.ogg",
+    "codec": "OGG",
+    "bitrate": 700,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

@@ -1,0 +1,3802 @@
+[
+  {
+    "name": "\"name\": \"'undefined' -> 'AFN 360 Benelux'\",",
+    "url": "http://27793.live.streamtheworld.com:3690/AFNE_BLX_SC",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "' t Is Vloms Affligem, be",
+    "url": "http://bluford.torontocast.com:8093/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "' t Is Vloms Affligem, be",
+    "url": "https://bluford.torontocast.com/proxy/iimfoptl/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 50.902895940005976,
+    "lon": 4.117644015591929,
+    "language": ""
+  },
+  {
+    "name": "100% Retro",
+    "url": "https://server.musicstars.online/radio/8000/listen",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "100,5",
+    "url": "http://stream.dashitradio.de/dashitradio/aac-48/stream.mp3",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "german"
+  },
+  {
+    "name": "10584",
+    "url": "http://s1.voscast.com:10584/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "48FM",
+    "url": "https://stream.48fm.com:8000/listen",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "8090rocks",
+    "url": "https://radio.8090rocks.com/",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "AFN 360 Benelux",
+    "url": "http://28993.live.streamtheworld.com:3690/AFNE_BLX_SC",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 50.57486349859909,
+    "lon": 4.825194776058198,
+    "language": "english"
+  },
+  {
+    "name": "ANTIPODE",
+    "url": "https://streaming.antipode.be/antipode.mp3?rp_source=1&=&&___cb=389966099991420",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Accent Radio",
+    "url": "https://www.clubfmserver.be/accent.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 51.005088697532535,
+    "lon": 3.885984420776368,
+    "language": "dutch"
+  },
+  {
+    "name": "Afrikana Radio – Live African",
+    "url": "https://admin.afrikanabestsounds.com/listen/live_african/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 50.8418155170503,
+    "lon": 4.352302551269532,
+    "language": ""
+  },
+  {
+    "name": "Afrikana Radio – Live African",
+    "url": "https://radio.afrikanabestsounds.com/listen/live_african/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 50.85050601776351,
+    "lon": 4.353332519531251,
+    "language": "english,lingala,swahili,twi,wolof,yoruba"
+  },
+  {
+    "name": "Ajoin Music",
+    "url": "https://play.ajoinmusic.be/ajoinmusic.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 50.93836217337773,
+    "lon": 4.039170086581302,
+    "language": "oilsjters"
+  },
+  {
+    "name": "Antipode",
+    "url": "https://streaming.antipode.be/antipode.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "AudioDrama Radio",
+    "url": "https://fritske.be:8000/stream",
+    "codec": "OGG",
+    "bitrate": 67,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "BEST OLDIES RADIO (BOR)",
+    "url": "https://a8.asurahosting.com:8090/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "BNL",
+    "url": "https://stream.bnlradio.be/stream.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 51.049641988801255,
+    "lon": 5.147770643234254,
+    "language": "dutch"
+  },
+  {
+    "name": "BRF1",
+    "url": "http://streaming.brf.be/brf1-high.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "german"
+  },
+  {
+    "name": "BRF1 Radio",
+    "url": "https://streaming.brf.be/brf1-high.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "BRF2",
+    "url": "http://streaming.brf.be/brf2-high.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "german"
+  },
+  {
+    "name": "BRF2 Radio",
+    "url": "https://streaming.brf.be/brf2-high.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch,flemish,french,german"
+  },
+  {
+    "name": "BRUZZ",
+    "url": "https://ice.cr6.streamzilla.xlcdn.com:8000/sz=fmbrussel=fmb988.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "BUZZ RADIO",
+    "url": "https://buzzradio.ice.infomaniak.ch/buzzradio-128.mp3?ua=Buzz%20Radio%20-%20audio%20player%201",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Be One - Xmas",
+    "url": "http://live.radiostudio.be/beonexmas",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bel RTL",
+    "url": "http://broadcast.infomaniak.ch/belrtl-mp3-192.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bel RTL",
+    "url": "http://belrtl.ice.infomaniak.ch/belrtl-mp3-192.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Belgian Dance Radio",
+    "url": "https://s4.radio.co/sf5a880a25/listen",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Boo",
+    "url": "http://stream03.level27.be/;stream.mp3",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "Boutersem On Air",
+    "url": "https://135.125.183.109/listen/boutersemonair/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 50.83841694958833,
+    "lon": 4.8334693908691415,
+    "language": ""
+  },
+  {
+    "name": "Bruzz",
+    "url": "https://rrr.sz.xlcdn.com/?account=fmbrussel&file=fmb988.mp3&type=live&service=icecast&protocol=https&port=8000&output=pls",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "CK Bleu",
+    "url": "https://mixmyday.ice.infomaniak.ch/ckbleu.mp3",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "CK Deejay",
+    "url": "https://radio-pub.be/CKDJ/ckdjmix.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "CK RADIO Belgique",
+    "url": "https://charlekingradio.ice.infomaniak.ch/ckradio-192.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "CK Radio",
+    "url": "https://charlekingradio.ice.infomaniak.ch/charlekingradio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 50.411766641013806,
+    "lon": 4.444508457374501,
+    "language": ""
+  },
+  {
+    "name": "Candie",
+    "url": "https://clubfmserver.be/pink.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Charleking Radio",
+    "url": "http://charlekingradio.ice.infomaniak.ch/ckradio-192.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Chillout CROOZE",
+    "url": "http://streams.crooze.fm:8006/stream/1/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Chérie Belgique",
+    "url": "https://stream.rcs.revma.com/r3cprzsqtg0uv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 50.8588627889988,
+    "lon": 4.412834644317628,
+    "language": "french"
+  },
+  {
+    "name": "CityMusic",
+    "url": "http://play.citymusic.be/citymusic.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 50.93860995729761,
+    "lon": 4.039363861083985,
+    "language": "dutch,flemish"
+  },
+  {
+    "name": "Classic 21 80's New Wave",
+    "url": "https://redbeemedia.streamabc.net/redbm-c2180snw-mp3-128-2391383?sABC=65084369%230%232qqpnss01895rqr0s8oq129o03s183o0%23zr&aw_0_1st.playerid=me&amsparams=playerid:me;skey:1695040361",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Classic 21 80's New Wave",
+    "url": "https://radio.rtbf.be/c21-80nw/mp3-128/me",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 50.85264410246763,
+    "lon": 4.402896835636057,
+    "language": "french"
+  },
+  {
+    "name": "Classic 21 80’s Hits",
+    "url": "https://radio.rtbf.be/c21-80s/mp3-128/me",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 50.85257186865885,
+    "lon": 4.402885296603928,
+    "language": "french"
+  },
+  {
+    "name": "Classic 21 Blues",
+    "url": "http://radios.rtbf.be/wr-c21-blues-128.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,french"
+  },
+  {
+    "name": "Classic 21 Blues",
+    "url": "https://radios.rtbf.be/wr-c21-blues-128.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Classic 21 Metal",
+    "url": "http://radio.rtbf.be/c21-metal/aac-128/fl",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Classic21",
+    "url": "http://radios.rtbf.be/classic21-128.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "ClubFM Oost-Vlaanderen",
+    "url": "http://www.clubfmserver.be:8000/radioclubfm.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "Contact MAX",
+    "url": "https://contactmax.ice.infomaniak.ch/contactmax-192.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Crooze Radio",
+    "url": "https://streaming.shoutcast.com/crooze-mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DAX FM RADIO",
+    "url": "http://master.shoutcast.com:8000/dax-fm",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 51.04139389812637,
+    "lon": 4.7900390625,
+    "language": "dutch"
+  },
+  {
+    "name": "De Geluidsfabriek",
+    "url": "https://s5.radio.co/s4674a3b1c/listen",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 51.4942631734122,
+    "lon": 4.770812988281251,
+    "language": ""
+  },
+  {
+    "name": "De Goeie Ouwe Tijd",
+    "url": "https://26343.live.streamtheworld.com/SAM03AAC392_SC",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "De Jukebox",
+    "url": "http://s35.myradiostream.com:14472/",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "De Tijdloze",
+    "url": "http://icecast.vrtcdn.be/stubru_tijdloze.aac",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 50.83716687845954,
+    "lon": 4.394531250000001,
+    "language": "dutch,flemish"
+  },
+  {
+    "name": "De Tijdloze",
+    "url": "http://icecast.vrtcdn.be/stubru_tijdloze-high.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 50.85325707417748,
+    "lon": 4.402635790952025,
+    "language": "flammish"
+  },
+  {
+    "name": "DooBeeSummer",
+    "url": "http://stream.noordzee105.be:8000/zomer",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 51.22666790215268,
+    "lon": 2.9141235351562504,
+    "language": "flemish"
+  },
+  {
+    "name": "Elisa FM, Brugge, be",
+    "url": "http://stream.vbro.be:9200/ElisaFM",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Emotion",
+    "url": "http://stream.radioemotion.be/;stream.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "FM Goud Limburg",
+    "url": "https://stream.fmgoud.be/fm-goud-noord-limburg",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "FM Goud Maasland",
+    "url": "https://stream.fmgoud.be/fm-goud-maasland",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "FM Goud Tenerife",
+    "url": "https://stream.fmgoud.be/fm-goud-tenerife",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Family Radio",
+    "url": "http://www.clubfmserver.be:8000/family.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "Fiësta Radio",
+    "url": "https://media1.hostin.cc/fiestaradio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Frequence Eghezee",
+    "url": "http://stream.fr-eghezee.be:8054/FE",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Fréquence Plus Andenne",
+    "url": "http://frequenceplusandenne.ice.infomaniak.ch/frequenceplusandenne-192.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Fun Radio",
+    "url": "https://funradiobe.ice.infomaniak.ch/funradiobe-high.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "GOLD FM",
+    "url": "https://onair.goldfm.be:8000/stream",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Gaveromroep",
+    "url": "http://s43.myradiostream.com:18192/",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "Geel fm",
+    "url": "http://geelfm.nsupdate.info:8080/geelfm.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Goeiedag Radio",
+    "url": "https://stream.goeiedagradio.be/",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 50.93884444242304,
+    "lon": 4.038677890580345,
+    "language": ""
+  },
+  {
+    "name": "Gold FM",
+    "url": "http://stream.goldfm.be:1061/station.mp3",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "turkish"
+  },
+  {
+    "name": "Goldies Radio",
+    "url": "http://eu1.reliastream.com:7064/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "GothVille Radio",
+    "url": "http://streams.radio.co/s62583474c/listen",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Grand Prix Radio",
+    "url": "https://eu-playerservices.streamtheworld.com/api/livestream-redirect/GPRDANCEAAC.aac?lsid=app%3Abrowser-1732200021666izj9zpla1",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Grandprix Radio - BE",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/GPRDANCE.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "Het is Vloms - Affligem , be (new stream)",
+    "url": "https://cast1.torontocast.com:4605/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Impact FM",
+    "url": "https://impactfm.ice.infomaniak.ch/impactfm-64.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Inside Radio",
+    "url": "https://n19a-eu.rcs.revma.com/cm96zpmrmm0uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Instrumental Radio, Be",
+    "url": "http://streams.shoutcastsolutions.com:8599/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "Instrumentals Forever",
+    "url": "https://c30.radioboss.fm/stream/1031",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Instrumentals Forever",
+    "url": "http://quincy.torontocast.com:1910/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 50.90356382851463,
+    "lon": 4.117594491645385,
+    "language": "english"
+  },
+  {
+    "name": "Instrumentals Forever [AAC 64 kbit]",
+    "url": "https://quincy.torontocast.com:1925/stream",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Islam en français",
+    "url": "http://104.7.66.64:8099/stream/1/",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "JOE",
+    "url": "https://icecast-qmusicbe-cdp.triple-it.nl/joe.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 50.833291106348234,
+    "lon": 4.329986572265626,
+    "language": "dutch"
+  },
+  {
+    "name": "JOE 80s & 90s",
+    "url": "https://streams.radio.dpgmedia.cloud/redirect/joe_80s_90s/mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "JOE Gold",
+    "url": "https://streams.radio.dpgmedia.cloud/redirect/joe_gold/mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Joe",
+    "url": "https://streams.radio.dpgmedia.cloud/redirect/joe_fm/aac",
+    "codec": "AAC+",
+    "bitrate": 95,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Joe - All the way",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOE.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "Joe - Top 2000",
+    "url": "https://streams.radio.dpgmedia.cloud/redirect/top2000/mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Joe 80's & 90's",
+    "url": "https://icecast-qmusicbe-cdp.triple-it.nl/joe_80s_90s.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "Joe 80s & 90s",
+    "url": "https://icecast-qmusicbe-cdp.triple-it.nl/joe_80s_90s.aac?aw_0_1st.skey=1686378273&aw_0_1st.playerid=site-player",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Joe Gold",
+    "url": "https://streams.radio.dpgmedia.cloud/redirect/joe_gold/aac",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Joe Lage Landen",
+    "url": "https://icecast-qmusicbe-cdp.triple-it.nl/joe_lage_landen.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Joe Lage Landen",
+    "url": "https://icecast-qmusicbe-cdp.triple-it.nl/joe_easy.aac?aw_0_1st.skey=1686378120&aw_0_1st.playerid=site-player",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Jouw Radio",
+    "url": "http://luister.jouwradio.be/",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "K I F",
+    "url": "https://broadcast.sksgroup.com/kif_aac",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "KOMILFOO FM",
+    "url": "http://komilfoo.radioca.st:8195/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Kerstradio Noordzee",
+    "url": "http://stream.noordzee105.be:8000/krn",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 51.22666790215268,
+    "lon": 2.918930053710938,
+    "language": "flemish"
+  },
+  {
+    "name": "Ketnet Hits",
+    "url": "http://icecast.vrtcdn.be/ketnetradio-high.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "Ketnet Hits",
+    "url": "https://icecast.vrtcdn.be/ketnetradio-high.mp3?dist=belgiefm",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Kiosk Radio",
+    "url": "https://kioskradiobxl.out.airtime.pro/kioskradiobxl_b",
+    "codec": "AAC",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 50.844369,
+    "lon": 4.363053,
+    "language": "english,french"
+  },
+  {
+    "name": "Kix",
+    "url": "http://stream.radiokix.be:10460/live.aac",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Klara",
+    "url": "http://icecast.vrtcdn.be/klara-high.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 50.85325707417748,
+    "lon": 4.402635790952025,
+    "language": "dutch"
+  },
+  {
+    "name": "Klara",
+    "url": "http://icecast.vrtcdn.be/klara.aac",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 50.85325707417748,
+    "lon": 4.402635790952025,
+    "language": "dutch"
+  },
+  {
+    "name": "Klara Continuo",
+    "url": "http://icecast.vrtcdn.be/klaracontinuo.aac",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 50.85325707417748,
+    "lon": 4.402635790952025,
+    "language": "dutch"
+  },
+  {
+    "name": "Klara Continuo",
+    "url": "http://icecast.vrtcdn.be/klaracontinuo-high.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 50.85325707417748,
+    "lon": 4.402635790952025,
+    "language": "dutch"
+  },
+  {
+    "name": "Komilfoo FM - 106.9 FM Aarschot",
+    "url": "http://eu1.reliastream.com:8033/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 50.98621262497051,
+    "lon": 4.834497569494301,
+    "language": "dutch"
+  },
+  {
+    "name": "LN Radio",
+    "url": "http://stream.rcs.revma.com/th89pet3pzzuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "La Cible",
+    "url": "https://quincy.torontocast.com:3195/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 50.411318134859734,
+    "lon": 4.44838333720866,
+    "language": "french"
+  },
+  {
+    "name": "La Classica",
+    "url": "http://stream.laclassica.be:8023/stream2",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "La Classica",
+    "url": "http://stream.laclassica.be:8023/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "La Première - Bruxelles",
+    "url": "http://radios.rtbf.be/laprem1erebxl-128.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Lazer Hot Hits",
+    "url": "http://streams.servicehosting.be:3730/;",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Lehabs Radio",
+    "url": "https://stream.zeno.fm/v4ney0hn5z3uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Lokale Radio Lanaken",
+    "url": "http://s2.ssl-stream.com:8070/1;",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 50.889447588263856,
+    "lon": 5.653230482083644,
+    "language": "dutch"
+  },
+  {
+    "name": "MNM",
+    "url": "http://icecast.vrtcdn.be/mnm-high.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 50.85325707417748,
+    "lon": 4.402635790952025,
+    "language": "dutch"
+  },
+  {
+    "name": "MNM Hits",
+    "url": "http://icecast.vrtcdn.be/mnm_hits-high.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 50.85325707417748,
+    "lon": 4.402635790952025,
+    "language": "dutch"
+  },
+  {
+    "name": "MOOYZO (MP3)",
+    "url": "https://play.mooyzo.be/mooyzo.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MOOYZO aac",
+    "url": "https://media2.hostin.cc/mooyzo.aac",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Magic Radio Herentals",
+    "url": "http://shoutcast.movemedia.eu/pdgfm",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 51.17290823985229,
+    "lon": 4.840915099731684,
+    "language": "dutch"
+  },
+  {
+    "name": "Maximum FM",
+    "url": "http://stream.rcs.revma.com/vnmbzemrmm0uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Melinda FM",
+    "url": "http://stream.decibelhuis.be:8000/1",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 50.88242903179293,
+    "lon": 4.7022342681884775,
+    "language": "belge,english"
+  },
+  {
+    "name": "Mint",
+    "url": "https://mint.ice.infomaniak.ch/mint-mp3-128.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Mixx FM Charleroi",
+    "url": "https://mixxfm.ice.infomaniak.ch/mixxfm-192.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 50.41177849225618,
+    "lon": 4.444496249152908,
+    "language": ""
+  },
+  {
+    "name": "Mooi Radio 106.6 FM   Mechelen,be",
+    "url": "http://mooiradio.live-streams.nl/",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 51.02550020034451,
+    "lon": 4.49024128194874,
+    "language": ""
+  },
+  {
+    "name": "MooyZo",
+    "url": "http://play.mooyzo.be/mooyzo.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "Musiq3 Baroque",
+    "url": "https://radios.rtbf.be/wr-m3-baroque-128.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Musiq3 Jazz RTBF",
+    "url": "https://radios.rtbf.be/wr-m3-jazz-128.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MyNoise Drone Zone",
+    "url": "http://dronezone-mynoise.radioca.st/stream",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "MyNoise Ocean Waves",
+    "url": "http://oceanwaves.radio.mynoise.net/",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "MyNoise Pure Nature",
+    "url": "https://purenature-mynoise.radioca.st/stream",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "MyNoise Rainy Day",
+    "url": "http://rainyday.radio.mynoise.net/",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "MyNoise Siren Songs",
+    "url": "http://sirensongs-mynoise.radioca.st/stream",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "MyNoise Space Odyssey",
+    "url": "http://spaceodyssey-mynoise.radioca.st/stream",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "MyNoise Zen Garden",
+    "url": "http://zengarden.radio.mynoise.net/",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Mélodie FM",
+    "url": "http://188.165.35.60:8008/;",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Métropole Radio",
+    "url": "http://metropoleradio.ice.infomaniak.ch/metropoleradio-192.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "NRJ Belgique",
+    "url": "https://stream.rcs.revma.com/xh00fwuptg0uv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 50.85884641355995,
+    "lon": 4.412882924079896,
+    "language": "french"
+  },
+  {
+    "name": "NRJ België",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NRJBELGIE.mp3?dist=radiobrowser",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "NRJ+ (Belgique)",
+    "url": "https://stream.rcs.revma.com/1a6hdnzbebuvv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 50.85884302736188,
+    "lon": 4.412877559661866,
+    "language": "french"
+  },
+  {
+    "name": "Noordzee Gold",
+    "url": "http://stream.noordzee105.be:8000/gold",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 51.22688290443737,
+    "lon": 2.9182434082031254,
+    "language": "flemish"
+  },
+  {
+    "name": "Nostalgie + (Belgique)",
+    "url": "https://stream.rcs.revma.com/s9mkgtsqtg0uv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 50.85885657215275,
+    "lon": 4.412856101989747,
+    "language": "french"
+  },
+  {
+    "name": "Nostalgie 80's",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWAF80.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Nostalgie Belgique",
+    "url": "https://stream.rcs.revma.com/5gd04cwptg0uv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 50.85881538221984,
+    "lon": 4.41277027130127,
+    "language": ""
+  },
+  {
+    "name": "Nostalgie Extra (What a Feeling)",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWAFEXTRA.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "Nostalgie Love1",
+    "url": "https://stream.rcs.revma.com/53zabb43ehuvv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Nostalgie New Wave",
+    "url": "https://n03.rcs.revma.com/52g2hx43ehuvv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 50.57996657570569,
+    "lon": 4.691162109375001,
+    "language": "english,flemish,french"
+  },
+  {
+    "name": "Nostalgie Plus",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEPLUS.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "Nostalgie Vlaanderen",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWHATAFEELING.mp3?dist=radiobrowser",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "ONIB Disco",
+    "url": "https://play.radioking.io/onib-disco/698749?ver=487018",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "ONIB Dj RADIO",
+    "url": "https://listen.radioking.com/radio/583019/stream/643364?ver=699277",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "ONIB Radio",
+    "url": "https://www.radioking.com/play/galaxieradio-belgium-1/356660",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Oilsjt Mjoezik",
+    "url": "https://stream.oilsjtmjoezik.be/?1739170252723",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Omroep Neteland",
+    "url": "http://media1.hostin.cc/omroepneteland.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 51.12702515134834,
+    "lon": 4.629699516103273,
+    "language": "dutch"
+  },
+  {
+    "name": "Omroep Voeren - Vroenhoven, Be",
+    "url": "http://stream.omroepvoeren.be/radio/8000/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 50.75703157706693,
+    "lon": 5.7597253890361975,
+    "language": "dutch"
+  },
+  {
+    "name": "One World Radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL_ADP.aac",
+    "codec": "AAC+",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "One World Radio - Tomorrowland",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL_ADP.aac",
+    "codec": "AAC+",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Opsinjoor Volksradio",
+    "url": "https://media2.hostin.cc/volksradio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 51.02478263894571,
+    "lon": 4.484481811523438,
+    "language": "dutch"
+  },
+  {
+    "name": "PHARE FM Belgique",
+    "url": "https://str0.creacast.com/pharefm_mons",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "PINK",
+    "url": "https://www.clubfmserver.be/pink.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 49.09904896047899,
+    "lon": 5.976562500000001,
+    "language": ""
+  },
+  {
+    "name": "PROS",
+    "url": "https://stream4.audiostreamen.nl/radiopros",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 50.90023163253153,
+    "lon": 4.018936157226563,
+    "language": "dutch"
+  },
+  {
+    "name": "Paradise",
+    "url": "http://stream.radioparadise.com/flac",
+    "codec": "OGG",
+    "bitrate": 1441,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Pep's Radio",
+    "url": "https://behofm.ice.infomaniak.ch/behofm.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 50.28537703071016,
+    "lon": 5.915054082870484,
+    "language": "french"
+  },
+  {
+    "name": "Pure (FM)",
+    "url": "https://radios.rtbf.be/pure-128.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Pure FM - 128",
+    "url": "http://radios.rtbf.be/pure-128.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Q-Allstars",
+    "url": "https://streams.radio.dpgmedia.cloud/redirect/qbe_allstars/mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 50.92707290263975,
+    "lon": 4.432296752929688,
+    "language": "dutch"
+  },
+  {
+    "name": "Q-Foute Radio",
+    "url": "https://streams.radio.dpgmedia.cloud/redirect/foute_radio_be/mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "Q-Foute Radio",
+    "url": "https://icecast-qmusicbe-cdp.triple-it.nl/q-foute-radio.aac?aw_0_1st.skey=1691506785&aw_0_1st.playerid=site-player",
+    "codec": "AAC+",
+    "bitrate": 95,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Qmusic",
+    "url": "https://streams.radio.dpgmedia.cloud/redirect/qmusic_be/mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Qmusic BE",
+    "url": "https://icecast-qmusicbe-cdp.triple-it.nl/qmusic.aac",
+    "codec": "AAC+",
+    "bitrate": 95,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "Qmusic Foute Radio",
+    "url": "https://audio-streaming.qmusic.be/q-foute-radio.aac",
+    "codec": "AAC+",
+    "bitrate": 95,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "Qmusic Maximum Hits",
+    "url": "https://audio-streaming.qmusic.be/q-maximum-hits.aac",
+    "codec": "AAC+",
+    "bitrate": 95,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "Qmusic Q-Allstars",
+    "url": "https://icecast-qmusicbe-cdp.triple-it.nl/q-allstars.aac",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch,flemish"
+  },
+  {
+    "name": "RADIO ACCENT",
+    "url": "https://clubfmserver.be/accent.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO MARIA BELGIUM",
+    "url": "http://dreamsiteradiocp.com:8042/stream",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RBL",
+    "url": "https://radios.rtbf.be/laprem1ere-128.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "RBS Radio",
+    "url": "http://streams.movemedia.eu/rbs",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": 51.0648468625428,
+    "lon": 4.027186632156373,
+    "language": "dutch"
+  },
+  {
+    "name": "RBS gold radio",
+    "url": "https://caster04.streampakket.com/proxy/8090/stream",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": 50.94953785110642,
+    "lon": 4.042515994992796,
+    "language": ""
+  },
+  {
+    "name": "RCF Bruxelles",
+    "url": "http://rcf.streamakaci.com/rcfbruxelles.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "RCF Liège",
+    "url": "http://rcf.streamakaci.com/rcfliege.mp3",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "RCF Sud Belgique",
+    "url": "http://rcf.streamakaci.com/rcfsudbe.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "RGR Classic Hits",
+    "url": "https://stream1.rgrfm.be/",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "RGR FM 106.5Fm Heist op den Berg, Be",
+    "url": "http://uplink.intronic.nl/rgrfm",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 51.07679298498963,
+    "lon": 4.734889300662548,
+    "language": ""
+  },
+  {
+    "name": "RTBF Classic 21",
+    "url": "https://radios.rtbf.be/classic21-128.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "RTBF Classic 21",
+    "url": "https://radios.rtbf.be/classic21-64.aac",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "RTBF Classic 21",
+    "url": "http://radio.rtbf.be/c21/aac-128/fl",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "RTBF Classic 21 - 60's",
+    "url": "https://radios.rtbf.be/wr-c21-60-128.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "RTBF Classic 21 - 80's",
+    "url": "https://radios.rtbf.be/wr-c21-80-128.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "RTBF Classic 21 - 90's",
+    "url": "https://radios.rtbf.be/wr-c21-90-128.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "RTBF Classic 21 - Live",
+    "url": "https://radios.rtbf.be/wr-c21-live-128.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "RTBF Classic 21 - Metal",
+    "url": "https://radios.rtbf.be/wr-c21-metal-128.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "RTBF Classic 21 - Reggae",
+    "url": "https://radios.rtbf.be/wr-eventradio-128.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "RTBF Classic 21 - Route 66",
+    "url": "https://radios.rtbf.be/wr-c21-route66-128.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "RTBF Classic 21 - Soul Power",
+    "url": "https://radios.rtbf.be/wr-c21-soul-128.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "RTBF Classic 21 - Underground",
+    "url": "https://radios.rtbf.be/wr-c21-underground-128.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "RTBF Jam.",
+    "url": "https://radios.rtbf.be/jam-128.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "RTBF La Première",
+    "url": "https://redbeemedia.streamabc.net/redbm-lapremiere-aac-128-7561067",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RTBF La Première",
+    "url": "https://radios.rtbf.be/laprem1ere-64.aac",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "RTBF Mix",
+    "url": "http://radio.rtbf.be/mix/aac-128/fl",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RTBF Musiq3",
+    "url": "https://radios.rtbf.be/musiq3-128.aac",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RTBF Pure FM",
+    "url": "https://radios.rtbf.be/pure-64.aac",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "RTBF Tarmac",
+    "url": "https://radios.rtbf.be/tarmac-128.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "RTBF Viva+",
+    "url": "https://radios.rtbf.be/vivaplus-128.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "RTBF VivaCité Bruxelles",
+    "url": "https://radios.rtbf.be/vivabxl-64.aac",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "RTBF VivaCité Charleroi",
+    "url": "https://radios.rtbf.be/vivacharleroi-64.aac",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "RTBF VivaCité Hainaut",
+    "url": "https://radios.rtbf.be/vivahainaut-64.aac",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "RTBF VivaCité Liège",
+    "url": "https://radios.rtbf.be/vivaliege-64.aac",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "RTBF VivaCité Luxembourg",
+    "url": "https://radios.rtbf.be/vivalux-64.aac",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "RTBF VivaCité Namur & Brabant Wallon",
+    "url": "https://radios.rtbf.be/vivanamurbw-64.aac",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "RTBF Vivacité Liège",
+    "url": "https://redbeemedia.streamabc.net/redbm-vivaliege-aac-128-4751338",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio 100%",
+    "url": "http://live2.radiostudio.be:8000/pros",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Radio 2 Antwerpen",
+    "url": "http://icecast.vrtcdn.be/ra2ant-high.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "Radio 2 Bene Bene",
+    "url": "http://icecast.vrtcdn.be/radio2_benebene-high.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "Radio 2 Limburg",
+    "url": "http://icecast.vrtcdn.be/ra2lim-high.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "Radio 2 Oost-Vlaanderen",
+    "url": "http://icecast.vrtcdn.be/ra2ovl-high.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "Radio 2 Vlaams-Brabant",
+    "url": "http://icecast.vrtcdn.be/ra2vlb-high.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "Radio 4910",
+    "url": "https://radio7.pro-fhi.net:19073/stream.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 50.53936990462846,
+    "lon": 5.81338969110386,
+    "language": "french"
+  },
+  {
+    "name": "Radio 700",
+    "url": "https://stream.radio700.eu/radio700-live/mp3-192?ref=radiobrowser",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio AKTIEF!",
+    "url": "http://www.clubfmserver.be:8000/aktief.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "Radio Air Libre",
+    "url": "https://streaming.domainepublic.net/radioairlibre.ogg",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Air Libre",
+    "url": "http://streaming.domainepublic.net:8000/radioairlibre.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Air Libre",
+    "url": "http://streaming.domainepublic.net:8000/radioairlibre.ogg",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Radio Alma",
+    "url": "http://shoutcast2.wirelessbelgie.be:8310/;stream.mp3",
+    "codec": "AAC+",
+    "bitrate": 112,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french,greek,italian,portuguese,spanish"
+  },
+  {
+    "name": "Radio Apollo",
+    "url": "https://radioapollo.beheerstream.nl/8004/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Appolo",
+    "url": "https://loa.beheerstream.nl:8004/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 51.10651298458098,
+    "lon": 4.7851037979125985,
+    "language": "flemish"
+  },
+  {
+    "name": "Radio BaHeNa - Baarle-Hertog, Be",
+    "url": "http://stream.bahena.be:8000/bahena.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 51.43760475695224,
+    "lon": 4.932568399010276,
+    "language": "dutch"
+  },
+  {
+    "name": "Radio Benelux  Beringen, be",
+    "url": "http://remote.radiobenelux.be/MP3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 51.04749315023354,
+    "lon": 5.226521345895399,
+    "language": ""
+  },
+  {
+    "name": "Radio Bingo - Roeselaere, Be",
+    "url": "http://audiostreamen.nl:8044/stream/1/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 50.94393727163752,
+    "lon": 3.1268520767523715,
+    "language": ""
+  },
+  {
+    "name": "Radio Bonheur (BE)",
+    "url": "https://france1.coollabel-productions.com/proxy/radiobonheur317/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Radio Campus BXL 92.1 [AAC+]",
+    "url": "https://www.radiocampus.be/stream/stream.aacplus",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Campus BXL 92.1 [Ogg HQ]",
+    "url": "https://www.radiocampus.be/stream/stream_hi.ogg",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Campus Bruxelles 92.1",
+    "url": "http://164.15.252.129:8000/stream.aacplus",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 50.84028892353246,
+    "lon": 4.339599609375001,
+    "language": "french"
+  },
+  {
+    "name": "Radio Centraal 106.7FM",
+    "url": "http://streams.movemedia.eu:8530/",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "Radio Chevaucoir",
+    "url": "https://radio10.pro-fhi.net/flux-nqjpklks/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Christina 106.1 FM - Heist o/d Berg , Be",
+    "url": "http://shoutcast2.wirelessbelgie.be:8100/;",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 51.0766889249964,
+    "lon": 4.735162656612625,
+    "language": "dutch"
+  },
+  {
+    "name": "Radio Continu - the original",
+    "url": "https://streams.dutchmediacenter.nl/listen/radiocontinu/live",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Eagle",
+    "url": "http://centova1.dribbcast.com:4438/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Eagle",
+    "url": "http://antares.dribbcast.com:4438/xstream?type=http&nocache=874",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 51.34247824632143,
+    "lon": 5.108546018600465,
+    "language": "dutch"
+  },
+  {
+    "name": "Radio Emotion Belgique",
+    "url": "https://stream1.dgnet.be/1",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Eurodance Classic",
+    "url": "http:quincy.torontocast.com:2380/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Radio Expres (Antwerpen)",
+    "url": "http://www.clubfmserver.be:8000/expres.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio FM Gold",
+    "url": "http://fmgold.mvserver.be:3181/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Radio Gompel  105,6 FM , Mol, be",
+    "url": "http://caster05.streampakket.com:8916/stream.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 51.19220220879563,
+    "lon": 5.15047588341528,
+    "language": "dutch"
+  },
+  {
+    "name": "Radio Internazionale",
+    "url": "http://str01.fluidstream.net/fluid06.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "italian"
+  },
+  {
+    "name": "Radio Italia Charleroi",
+    "url": "http://str01.fluidstream.net:7170/listen.pls",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "italian"
+  },
+  {
+    "name": "Radio Kamiel",
+    "url": "http://live.radiostudio.be/kamiel",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 50.93872905691399,
+    "lon": 4.03782695632049,
+    "language": ""
+  },
+  {
+    "name": "Radio Land Van Waas (Stream)",
+    "url": "http://stream.rlvw.be:8480/stream",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "Radio Lorali",
+    "url": "https://lorali.beheerstream.nl/cp/links.php?p=8014&m=pls",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio M FM",
+    "url": "http://149.202.22.75:8248/;",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Radio Magic Europ",
+    "url": "http://s4.yesstreaming.net:7162/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french,german"
+  },
+  {
+    "name": "Radio Maria",
+    "url": "http://stream.radiomaria.be:8000/RadioMaria-96",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "Radio Memory",
+    "url": "https://live.radiostudio.be/radiomemory",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Minerva",
+    "url": "http://streaming.radiominerva.be/minerva",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Minerva",
+    "url": "http://91.121.219.80/minerva",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "Radio Music Sambre",
+    "url": "http://radiomusicsambre.ice.infomaniak.ch/radiomusicsambre-128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Radio Ninove",
+    "url": "https://radioninove.streamer.radioninove.be/",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 50.83503117844761,
+    "lon": 4.0240068350658165,
+    "language": "dutch"
+  },
+  {
+    "name": "Radio Noordzee (192k)",
+    "url": "http://stream.noordzee105.be:8000/noordzee_192",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 51.22623789457001,
+    "lon": 2.916183471679688,
+    "language": "flemish"
+  },
+  {
+    "name": "Radio Noordzee (48k)",
+    "url": "http://stream.noordzee105.be:8000/noordzee_48",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "flemish"
+  },
+  {
+    "name": "Radio Noordzee Info",
+    "url": "http://stream.noordzee105.be:8000/noordzee_info",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 51.22623789457001,
+    "lon": 2.9141235351562504,
+    "language": "flemish"
+  },
+  {
+    "name": "Radio Nova",
+    "url": "https://nova.dzradio.nl/nova",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 50.7680662176985,
+    "lon": 3.9420318603515625,
+    "language": "dutch"
+  },
+  {
+    "name": "Radio Oost-West",
+    "url": "https://icecast.movemedia.be/oostwest",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "Radio Opsinjoor",
+    "url": "https://icecast.movemedia.be/opsinjoor",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Pallieter",
+    "url": "http://s39.myradiostream.com:14494/listen.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "Radio Paloma  Poppel,be",
+    "url": "http://ex52.voordeligstreamen.nl/8054/stream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 51.44375730005648,
+    "lon": 5.043146618031621,
+    "language": ""
+  },
+  {
+    "name": "Radio Panik",
+    "url": "https://streaming.domainepublic.net/radiopanik.ogg",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 50.85086,
+    "lon": 4.37424,
+    "language": ""
+  },
+  {
+    "name": "Radio Paradise",
+    "url": "https://phoebe.streamerr.co:3445/stream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "Radio Park FM",
+    "url": "http://streams.movemedia.eu:8054/",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Parkies",
+    "url": "https://stream.radioparkies.com/listen/parkies/stream.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Plus Gent",
+    "url": "http://live.radiostudio.be/plus",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 51.00277806411907,
+    "lon": 3.6852318048477177,
+    "language": "flemish"
+  },
+  {
+    "name": "Radio Quartz",
+    "url": "http://manager2.streaming-ingenierie.fr:8026/;stream.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Radio Rand",
+    "url": "http://s44.myradiostream.com:8612/listen.m4a",
+    "codec": "MP3",
+    "bitrate": 224,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "Radio Reflex",
+    "url": "http://shoutcast2.wirelessbelgie.be:8510/",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 51.02666199354794,
+    "lon": 4.483623504638673,
+    "language": ""
+  },
+  {
+    "name": "Radio STAR",
+    "url": "https://stream.radiostar.be/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 50.88247705080452,
+    "lon": 3.8904542208840103,
+    "language": ""
+  },
+  {
+    "name": "Radio STAR 70-80's",
+    "url": "http://stream.radiostar.be:7080/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Salamandre ASBL",
+    "url": "http://radiosalamandre.ice.infomaniak.ch/radiosalamandre.aac",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Radio Singjaal",
+    "url": "https://mscp2.live-streams.nl:8202/radiosingjaal",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Stars 98.5 FM & DAB+ (Belgium)",
+    "url": "http://stream.radiostars.be:9850/RadioStars.mka",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Radio Stars 98.5 FM & DAB+ (Belgium)",
+    "url": "http://stream.radiostars.be:8000/RadioStars.mka",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Studio 22 Gullegem, be",
+    "url": "http://stream.twinmedia.be:8010/;.pls",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 50.84219780078604,
+    "lon": 3.216695484775256,
+    "language": ""
+  },
+  {
+    "name": "Radio Sud",
+    "url": "https://streaming.domainepublic.net/radiosud.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Sunshine 97,5 Ostbelgien",
+    "url": "http://streamlive.syndicationradio.fr:8158/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio TRL",
+    "url": "http://stream.radiotrl.be:8000/RadioTRL",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 51.24431075758926,
+    "lon": 3.5182401537895207,
+    "language": "dutch"
+  },
+  {
+    "name": "Radio Tamara",
+    "url": "http://audiostreamen.nl:8006/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "Radio Utopia 107.9 - Baal, Be",
+    "url": "http://185.198.27.187:8314/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 50.99474874620233,
+    "lon": 4.752615204294224,
+    "language": "dutch"
+  },
+  {
+    "name": "Radio Valencia 105 FM - Meer, Be",
+    "url": "https://stream.radiovalencia.be/",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 51.44623933226636,
+    "lon": 4.737594630752775,
+    "language": ""
+  },
+  {
+    "name": "Radio Victoria",
+    "url": "https://streamer1.radiovictoria.be/",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 50.73730321973312,
+    "lon": 4.234623569350196,
+    "language": "dutch"
+  },
+  {
+    "name": "Radio Victoria Carnaval",
+    "url": "https://carnaval.radiovictoria.be/",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Yujen Briag - Power Station",
+    "url": "https://play.radioking.io/iujenbriagburgas/524027",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "français - lëtzebuergesch"
+  },
+  {
+    "name": "Radio Zoe Gold",
+    "url": "https://streams.movemedia.eu/zoegold128",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio contact",
+    "url": "http://radiocontact.ice.infomaniak.ch/radiocontact-mp3-192.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 50.390308954038744,
+    "lon": 5.009765625000001,
+    "language": ""
+  },
+  {
+    "name": "Radio contact",
+    "url": "http://radiocontact.ice.infomaniak.ch/radiocontact-mp3-128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Radio1 Lage Landenlijst",
+    "url": "http://icecast.vrtcdn.be/radio1_lagelanden-high.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "RadioSpinner - Atmospheric Breaks",
+    "url": "https://tower.hayva.ru/5jwuo-96",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Gar",
+    "url": "https://gargara.net/listen/zana/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RockFM Online",
+    "url": "http://streams.movemedia.eu:8440/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch,french"
+  },
+  {
+    "name": "Stadsradio Halle",
+    "url": "https://mscp2.live-streams.nl:8132/live",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "Stadsradio Vlaanderen",
+    "url": "http://randstad.wirelessbelgie.be:8330/stream.mp3",
+    "codec": "MP3",
+    "bitrate": 224,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "StuBru",
+    "url": "http://icecast.vrtcdn.be/stubru-high.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Studio Brussel",
+    "url": "http://icecast.vrtcdn.be/stubru-mid.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 50.85325707417748,
+    "lon": 4.402635790952025,
+    "language": "dutch"
+  },
+  {
+    "name": "Studio Brussel",
+    "url": "http://icecast.vrtcdn.be/stubru.aac",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 50.85325707417748,
+    "lon": 4.402635790952025,
+    "language": "flemish"
+  },
+  {
+    "name": "Studio Brussel - Vuurland",
+    "url": "http://icecast.vrtcdn.be/stubru_tgs.aac",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 50.85325707417748,
+    "lon": 4.402635790952025,
+    "language": ""
+  },
+  {
+    "name": "Studio Brussel - Vuurland",
+    "url": "http://icecast.vrtcdn.be/stubru_tgs-high.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 50.85325707417748,
+    "lon": 4.402635790952025,
+    "language": "dutch"
+  },
+  {
+    "name": "Studio Brussel - Zware Gitaren",
+    "url": "http://icecast.vrtcdn.be/stubru_bruut.aac",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Studio Brussel De Jaren Nul",
+    "url": "http://icecast.vrtcdn.be/stubru_dejarennul.aac",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 50.84757295365391,
+    "lon": 4.361572265625001,
+    "language": "dutch,flemish"
+  },
+  {
+    "name": "Studio Brussel De Jaren Nul",
+    "url": "https://icecast.vrtcdn.be/stubru_dejarennul-high.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 50.84728913138913,
+    "lon": 4.380513053173743,
+    "language": "dutch"
+  },
+  {
+    "name": "Studio Brussel UNTZ",
+    "url": "http://icecast.vrtcdn.be/stubru_untz.aac",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 50.85325707417748,
+    "lon": 4.402635790952025,
+    "language": "dutch"
+  },
+  {
+    "name": "Studio Brussel UNTZ",
+    "url": "http://icecast.vrtcdn.be/stubru_untz-high.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 50.85325707417748,
+    "lon": 4.402635790952025,
+    "language": "dutch"
+  },
+  {
+    "name": "Studio Brussel Zware Gitaren",
+    "url": "http://icecast.vrtcdn.be/stubru_bruut-high.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 50.85325707417748,
+    "lon": 4.402635790952025,
+    "language": ""
+  },
+  {
+    "name": "Studio Grensstad",
+    "url": "https://caster.hosting078.nl:1175/stream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Sud Radio",
+    "url": "http://sudradio.ice.infomaniak.ch/sudradio-96.aac",
+    "codec": "AAC",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "TOPschaamteloos",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TOPSCHAAMTELOZEAAC.aac",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 51.07445042876764,
+    "lon": 3.7231940107983967,
+    "language": "dutch"
+  },
+  {
+    "name": "TSF Radio Allround",
+    "url": "http://ec5.yesstreaming.net:3430/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "belge"
+  },
+  {
+    "name": "The Funky Channel",
+    "url": "http://cast3.my-control-panel.com:8170/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "The Funky Channel",
+    "url": "https://cast3.asurahosting.com/proxy/breakou1/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Tipik à l'ancienne (RTBF)",
+    "url": "http://radio.rtbf.be/tipik-al/mp3-128/rb",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 50.78347371303078,
+    "lon": 4.378051757812501,
+    "language": ""
+  },
+  {
+    "name": "Tomorrowland - Daybreak Sessions",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/OWR_DAYBREAK_ADP.aac",
+    "codec": "AAC+",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": 50.84140546613248,
+    "lon": 4.349019527435304,
+    "language": "english"
+  },
+  {
+    "name": "Top (BAM)",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TOPBAM.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 51.07417926258547,
+    "lon": 3.723227977752686,
+    "language": "belge,english"
+  },
+  {
+    "name": "Top 2",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TOP_ZILLION.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 51.05294809767113,
+    "lon": 3.728141784667969,
+    "language": "dutch"
+  },
+  {
+    "name": "Top Radio Dance",
+    "url": "http://str.topradio.be/topradio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 50.830228205617445,
+    "lon": 4.353332519531251,
+    "language": "english"
+  },
+  {
+    "name": "Top Retro",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TOPRETRO.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 51.05357867301489,
+    "lon": 3.7228202819824223,
+    "language": ""
+  },
+  {
+    "name": "Top Techno",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TOPSPINNING.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "Topradio TopRetroArena",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TOPRETROAAC.aac",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 51.053221907417154,
+    "lon": 3.724365234375,
+    "language": ""
+  },
+  {
+    "name": "Toptechno",
+    "url": "https://27913.live.streamtheworld.com/TOPSPINNING.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 51.048301133312265,
+    "lon": 3.7326049804687504,
+    "language": ""
+  },
+  {
+    "name": "TradCan",
+    "url": "https://dc1.serverse.com/proxy/wiupfvnu?mp=/TradCan",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Trendy FM",
+    "url": "http://stream.trendyfm.be/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "TrudoFM",
+    "url": "http://45.85.191.114:8073/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "ULTRASON",
+    "url": "http://broadcast.infomaniak.ch/ultrason-high.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Up Radio",
+    "url": "http://upradio.ovh:8054/up-low",
+    "codec": "AAC",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "franch"
+  },
+  {
+    "name": "VBRO Evergreen",
+    "url": "http://stream.vbro.be:9400/evergreen",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "VBRO Radio",
+    "url": "http://stream.vbro.be:9100/vbro",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "VRT - NWS",
+    "url": "http://progressive-audio.vrtcdn.be/content/fixed/11_11niws-snip_hi.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "VRT - Radio 1",
+    "url": "http://icecast.vrtcdn.be/radio1-high.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "VRT - Radio 2 (Vlaams-Brabant)",
+    "url": "http://icecast.vrtcdn.be/ra2vlb.aac",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "VRT Radio 1",
+    "url": "https://f8e0a3fc90d142e68cd424a56b220f0d.mediatailor.us-east-1.amazonaws.com/v1/manifest/7c1b669ef36eb1e845184b6345b06cd264fc4eb7/5bzs1cW9_vrt-audio-only-v1/d65e4279-e3bc-4151-af02-02ffe699135d/0.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "VRT Radio 1",
+    "url": "http://icecast.vrtcdn.be/radio1.aac",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 50.85325707417748,
+    "lon": 4.402635790952025,
+    "language": "dutch"
+  },
+  {
+    "name": "VRT Radio 1 (low)",
+    "url": "http://icecast.vrtcdn.be/radio1-mid.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "VRT Radio 1 Classics",
+    "url": "http://icecast.vrtcdn.be/radio1_classics-high.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 50.85325707417748,
+    "lon": 4.402635790952025,
+    "language": ""
+  },
+  {
+    "name": "VRT Radio 1 Classics | AAC",
+    "url": "http://icecast.vrtcdn.be/radio1_classics.aac",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "VRT Radio 1 NWS",
+    "url": "https://progressive-audio.vrtcdn.be/content/fixed/11_11niws-snip_hi.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "VRT Radio 2 Antwerpen - AAC",
+    "url": "http://icecast.vrtcdn.be/ra2ant.aac",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "VRT Radio 2 Oost-Vlaanderen",
+    "url": "http://icecast.vrtcdn.be/ra2ovl.aac",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "VRT Radio 2 Unwind",
+    "url": "http://icecast.vrtcdn.be/radio2_unwind-high.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "VRT Radio 2 West-Vlaanderen",
+    "url": "http://icecast.vrtcdn.be/ra2wvl-high.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "VRT Verkeer",
+    "url": "https://progressive-audio.vrtcdn.be/content/fixed/11verk_ondemand_128.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 50.85296995812508,
+    "lon": 4.401628375053407,
+    "language": "dutch"
+  },
+  {
+    "name": "Versuz",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TOPVERSUZ.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Vibration.FM Be",
+    "url": "http://vibrationbelgique.ice.infomaniak.ch/vibrationbelgique-high",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 50.80990632728562,
+    "lon": 4.34528564652788,
+    "language": ""
+  },
+  {
+    "name": "Villa Bota",
+    "url": "https://caster04.streampakket.com/proxy/8186/stream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 51.207057487173,
+    "lon": 3.230637609958649,
+    "language": ""
+  },
+  {
+    "name": "Vlaamse Wonderjaren",
+    "url": "https://cast1.torontocast.com:3305/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "WILLY",
+    "url": "https://icecast-qmusicbe-cdp.triple-it.nl/willy-class-x.aac",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "WRadio",
+    "url": "http://stream.wradio.es:9000/;stream/1",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 50.890252473393424,
+    "lon": 2.8066205978393555,
+    "language": "dutch,flemish"
+  },
+  {
+    "name": "WabiSabi radio",
+    "url": "https://s4.radio.co/sd1a7a0223/listen",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Warm FM 104.2",
+    "url": "http://stream05.warm.fm:9002/warm",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "We Are Various",
+    "url": "https://azuracast.wearevarious.com/listen/we_are_various/live.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "Willy",
+    "url": "https://streams.radio.dpgmedia.cloud/redirect/willy_be/aac",
+    "codec": "AAC+",
+    "bitrate": 95,
+    "needsResolve": false,
+    "lat": 51.212696647853434,
+    "lon": 4.42227065563202,
+    "language": "dutch"
+  },
+  {
+    "name": "Willy",
+    "url": "https://icecast-qmusicbe-cdp.triple-it.nl/willy.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "Willy Class X",
+    "url": "https://streams.radio.dpgmedia.cloud/redirect/willy_be_class_x/aac",
+    "codec": "AAC+",
+    "bitrate": 95,
+    "needsResolve": false,
+    "lat": 51.212713450041704,
+    "lon": 4.42227065563202,
+    "language": "dutch"
+  },
+  {
+    "name": "Willy Classix",
+    "url": "https://streams.radio.dpgmedia.cloud/redirect/willy_be_class_x/mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "XBeat",
+    "url": "https://radio.xbeat.org/stream1",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,french"
+  },
+  {
+    "name": "YOLO - Life is like a dance",
+    "url": "https://streamingv2.shoutcast.com/yolo-life-is-like-a-dance",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 51.146415437884514,
+    "lon": 5.74310302734375,
+    "language": ""
+  },
+  {
+    "name": "ZOE.radio",
+    "url": "https://stream.zoe.radio/",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Zen Garden (myNoise Radio)",
+    "url": "https://zengarden-mynoise.radioca.st/stream",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "ZenFm",
+    "url": "http://str.topradio.be/zenfm.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "flemish"
+  },
+  {
+    "name": "Zoe FM",
+    "url": "https://icecast.movemedia.be/zoe128",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch,flemish"
+  },
+  {
+    "name": "c-dance retro",
+    "url": "https://s45.myradiostream.com/:18304/;",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "belge"
+  },
+  {
+    "name": "c_dance",
+    "url": "http://198.100.145.187:18304/;",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "rus"
+  },
+  {
+    "name": "depechemode.be",
+    "url": "https://c2.radioboss.fm:8494/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "familieradio enjoy fm",
+    "url": "http://live.radiostudio.be/enjoyfm",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "hitstory classics 24/7",
+    "url": "https://pstnet12.shoutcastnet.com:10274/stream",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 49.90228247442463,
+    "lon": 5.378047935930367,
+    "language": ""
+  },
+  {
+    "name": "joe easy",
+    "url": "https://streams.radio.dpgmedia.cloud/redirect/joe_easy/mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "radio campus",
+    "url": "http://streamer.radiocampus.be/stream.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french,persian"
+  },
+  {
+    "name": "radio centraal",
+    "url": "http://streams.movemedia.eu/centraal",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "radio chrétienne francophone Belgique",
+    "url": "http://rcf.streamakaci.com/rcfbe.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "radio qui chifel",
+    "url": "http://5.39.80.55:8000/",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": 50.74584089697238,
+    "lon": 3.228607177734375,
+    "language": ""
+  },
+  {
+    "name": "radiorsj.be",
+    "url": "https://cc6.beheerstream.com/proxy/jjzdhavt?mp=//;type=mp3",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "rowyna",
+    "url": "http://server5.radio-streams.net:8048/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "scorpio",
+    "url": "https://stream.radioscorpio.be/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "stadradio Tienen",
+    "url": "http://shoutcast2.wirelessantwerpen.be:8414/;stream.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 50.80722377122821,
+    "lon": 4.936852455139161,
+    "language": "dutch"
+  },
+  {
+    "name": "top radio retro",
+    "url": "https://str.topradio.be/topradioretroarena.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "urgent.fm",
+    "url": "http://urgentstream.radiostudio.be:8000/live",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Asyil FM",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FMAAC_SC",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "malay"
+  },
+  {
+    "name": "KRISTALfm",
+    "url": "https://play.thestreamtech.com:7038/index.html",
+    "codec": "AAC+",
+    "bitrate": 40,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Kristal FM",
+    "url": "https://play.thestreamtech.com:7038/",
+    "codec": "AAC+",
+    "bitrate": 40,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Kristal FM 90.7 (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s14430",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Rádio Água Azul",
+    "url": "https://stm4.srvif.com:8460/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "inglés/portugués/español,portuguese,português  brasil"
+  }
+]

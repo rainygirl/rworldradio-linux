@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Krem Radio",
+    "url": "http://159.65.32.199:8016/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Radio La Zona 107.5 (World Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s352494",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Riddim Radio",
+    "url": "https://stream.zeno.fm/nw7xmuzasyduv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "https://stream.svobodnoe.media/freemp3",
+    "url": "https://stream.svobodnoe.media/freemp3",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "mood fm 106.3 (Soul)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s148697",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Hits FM Mauritius (Local Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s194125",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MBC Kool FM",
+    "url": "https://radio.mbconline.xyz/hls/koolfm.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": -20.24431074838422,
+    "lon": 57.59204864501954,
+    "language": "english,french"
+  },
+  {
+    "name": "MBC Radio Maurice",
+    "url": "https://radio.mbconline.xyz/hls/radiomaurice.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": -20.244954975510264,
+    "lon": 57.59204864501954,
+    "language": "french"
+  },
+  {
+    "name": "MBC Radio Mauritius",
+    "url": "https://radio.mbconline.xyz/hls/radiomauritus.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": -20.24431074838422,
+    "lon": 57.59342193603516,
+    "language": "english,hindi"
+  },
+  {
+    "name": "MBC Taal FM",
+    "url": "https://radio.mbconline.xyz/hls/tallfm.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,hindi"
+  },
+  {
+    "name": "OUi Radio",
+    "url": "https://mu1stream.mushost.com:8443/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -20.306236097689855,
+    "lon": 57.49151676893235,
+    "language": "english,french,mauritian creole"
+  },
+  {
+    "name": "OUi Radio (Gospel)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s343632",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "OUi Radio Rodrigues",
+    "url": "https://mu1stream.mushost.com:8554/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio 7 Mauritius",
+    "url": "https://c2.radioboss.fm/stream/1056",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -20.18346153358615,
+    "lon": 57.48040822421131,
+    "language": "english,french"
+  },
+  {
+    "name": "Radio One",
+    "url": "https://centova57.instainternet.com/proxy/vivavoceltd?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -20.22338198031523,
+    "lon": 57.62329101562501,
+    "language": "creole,english,french"
+  },
+  {
+    "name": "Radio One 101.7 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s81874",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Plus - Indiz",
+    "url": "https://streamer.radio.co/sed5c5a375/listen",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Plus Mauritius",
+    "url": "https://stream.radioplus.mu:8000/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -20.172583203502946,
+    "lon": 57.500985174432216,
+    "language": "french"
+  },
+  {
+    "name": "RadioPlus 88.6 (Variety)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s104860",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RadioPlus INDIZ 89 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s347232",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radioplus Fever",
+    "url": "https://streamer.radio.co/s3fe39a4a4/listen",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Tamizen",
+    "url": "https://c34.radioboss.fm:18023/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "tamil"
+  },
+  {
+    "name": "Top FM",
+    "url": "https://s1.radioforge.com:4433/topfmlive/stream?hash=1663883843609.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -20.16128177437625,
+    "lon": 57.498772144317634,
+    "language": "french"
+  },
+  {
+    "name": "Top FM 105.7 (Music News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s81885",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Top Fm Mauritius 104.4 (80's)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s358098",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

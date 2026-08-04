@@ -1,0 +1,22 @@
+[
+  {
+    "name": "AWR Timor-Leste 92.3 FM |",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s353121",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Liberdade Dili 95.8 (Pop Country)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s159202",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

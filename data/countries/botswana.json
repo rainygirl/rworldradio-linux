@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Duma FM",
+    "url": "http://s3.voscast.com:10076/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Duma FM 93.0 (Classic Rock)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s138245",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DumaFM",
+    "url": "http://s3.voscast.com:10076/;",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Gabz FM 96.2 (World Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s47666",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Gabz FM 96.2 Gaberone",
+    "url": "http://fmt01.egihosting.com:17721/;",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "UB Radio 99.5 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s340110",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Yarona FM",
+    "url": "http://capeant.antfarm.co.za:8000/yarona",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

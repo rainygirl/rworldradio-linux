@@ -1,0 +1,22 @@
+[
+  {
+    "name": "100.3 | KWAW-FM (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s43718",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "89.1 | KPRG (Public Radio)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s43744",
+    "codec": "mp3",
+    "bitrate": 101,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

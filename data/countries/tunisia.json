@@ -1,0 +1,602 @@
+[
+  {
+    "name": ".شهر رمضان",
+    "url": "https://qurango.net/radio/ramadan",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "AlHayet FM",
+    "url": "https://manager8.streamradio.fr:2885/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Ambiance FM",
+    "url": "https://stream.zeno.fm/0rehsamc9xxtv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 35.42123787922118,
+    "lon": 10.995714157441713,
+    "language": "arabic."
+  },
+  {
+    "name": "Ambiance FM 106.8 (Arabic Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s332859",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Diwan FM",
+    "url": "https://streaming.diwanfm.net/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Express FM 103.6 (US News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s130488",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "IFM 100.6 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s154963",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Irada Fm 102.9 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s348429",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Jawhara FM",
+    "url": "http://streaming2.toutech.net:8000/jawharafm",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Jawhara FM",
+    "url": "https://streaming2.toutech.net/jawharafm",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "KnOOz FM",
+    "url": "http://streaming.knoozfm.net:8000/knoozfm",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Lotfi Slama",
+    "url": "https://azuracast.conceptradio.fr:8000/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Mosaique FM",
+    "url": "http://radio.mosaiquefm.net:8000/mosalive",
+    "codec": "MP3",
+    "bitrate": 90,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Mosaique FM",
+    "url": "https://radio.mosaiquefm.net/mosalive",
+    "codec": "MP3",
+    "bitrate": 90,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Mosaique FM DJ",
+    "url": "https://radio.mosaiquefm.net/mosadj",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Mosaique FM Gold",
+    "url": "https://radio.mosaiquefm.net/mosagold",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Mosaique FM Tarab",
+    "url": "https://radio.mosaiquefm.net/mosatarab",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Mosaique FM Tounsi",
+    "url": "https://radio.mosaiquefm.net/mosatounsi",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Mosaique FM Tunisie 88.9 (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s109410",
+    "codec": "mp3",
+    "bitrate": 100,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Mosaique FM Tunisie 94.9 (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s81889",
+    "codec": "mp3",
+    "bitrate": 100,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "OXYGENE FM 90.0 (French Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s154568",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RTCI",
+    "url": "http://rtstream.tanitweb.com/rtci",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 36.79169061907076,
+    "lon": 10.217285156250002,
+    "language": "english,french,german,italian,spanish"
+  },
+  {
+    "name": "Radio Express FM",
+    "url": "https://expressfm.ice.infomaniak.ch/expressfm-64.mp3",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Kef",
+    "url": "http://rtstream.tanitweb.com/kef",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Misk",
+    "url": "https://live.misk.art/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 36.84231530246644,
+    "lon": 10.20857334136963,
+    "language": "arabic,english,french"
+  },
+  {
+    "name": "Radio Monastir",
+    "url": "https://radio.radiotunisienne.tn/monastir",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Oasis Fm 96.5 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s219137",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Tunisie Culturelle",
+    "url": "http://rtstream.tanitweb.com/culturelle",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Tunisie Jeunes",
+    "url": "http://rtstream.tanitweb.com/jeunes",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic,tunisian"
+  },
+  {
+    "name": "Radio Tunisie Monastir",
+    "url": "http://rtstream.tanitweb.com/monastir",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 35.76824352632614,
+    "lon": 10.827713012695314,
+    "language": "arabic,tunisian"
+  },
+  {
+    "name": "Radio Tunisie Nationale",
+    "url": "http://rtstream.tanitweb.com/nationale",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Tunisie Sfax",
+    "url": "http://rtstream.tanitweb.com/sfax",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic,tunisian"
+  },
+  {
+    "name": "Radio Tunisie Tataouine",
+    "url": "http://rtstream.tanitweb.com/tataouine",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 32.92469886384981,
+    "lon": 10.443706512451174,
+    "language": "arabic,tunisian"
+  },
+  {
+    "name": "Radio fouedb Music",
+    "url": "https://streaming.live365.com/a82574",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio sfax إذاعة صفاقس (Local Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s296686",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Sabra FM",
+    "url": "https://manager5.streamradio.fr:1905/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Shems FM 106.5 (Variety)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s129025",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Sodais",
+    "url": "https://backup.qurango.net/radio/abdulrahman_alsudaes",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Zitouna FM 97.6 (Religious Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s86784",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Zitouna Zitouna FM",
+    "url": "https://radio.radiotunisienne.tn/radiozaitouna",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 35.01312680454406,
+    "lon": 9.711914062500002,
+    "language": "arabic"
+  },
+  {
+    "name": "oxygene fm",
+    "url": "http://stream.radios-arra.fr:8000/oxygenefm",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "radio coran",
+    "url": "http://n0b.radiojar.com/0tpy1h0kxtzuv?",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "radio gafsa",
+    "url": "http://rtstream.tanitweb.com/gafsa",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "آيات السكينة",
+    "url": "https://qurango.net/radio/sakeenah",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "أذكار الصباح",
+    "url": "https://qurango.net/radio/athkar_sabah",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "أذكار المساء",
+    "url": "https://qurango.net/radio/athkar_masa",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "إذاعة السنة",
+    "url": "http://andromeda.shoutca.st:8189/live",
+    "codec": "MP3",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "إذاعة الفتاوى العامة",
+    "url": "https://qurango.net/radio/fatwa",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "إذاعة ميراث الأنبياء",
+    "url": "https://radio.al7eah.net/8028/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "الإختيارات الفقهية لإبن باز",
+    "url": "https://qurango.net/radio/alaikhtiarat_alfiqhayh_bin_baz",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "الشيخ سعد الغامدي",
+    "url": "https://qurango.net/radio/saad_alghamdi",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "العربية"
+  },
+  {
+    "name": "الشيخ صلاح بو خاطر",
+    "url": "https://qurango.net/radio/slaah_bukhatir",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "العربية"
+  },
+  {
+    "name": "الشيخ فارس عباد",
+    "url": "https://qurango.net/radio/fares_abbad",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "العربية"
+  },
+  {
+    "name": "تكبيرات العيد",
+    "url": "https://qurango.net/radio/eid",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "راديو جنجر للاطفال",
+    "url": "https://arabkidsradio.art/radio/8000/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "راديو فن    Fenn Radio",
+    "url": "https://stream.zeno.fm/76e9f1gsduhvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "ستة شوال",
+    "url": "https://qurango.net/radio/SixDaysOfShawwal",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "عشر ذي الحجة",
+    "url": "https://qurango.net/radio/ten_dhul_hijjah",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "في ضلال السيرة النبوية",
+    "url": "https://qurango.net/radio/fi_zilal_alsiyra",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "يوم عاشوراء",
+    "url": "https://qurango.net/radio/TheDayofAshoora",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

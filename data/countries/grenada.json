@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Boss FM 104.1-104.9 - Grenada",
+    "url": "https://usa8.fastcast4u.com/proxy/bossfm2?mp=/1",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Boss FM Grenada",
+    "url": "http://cp.usa8.fastcast4u.com:5195/;",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Hot Shotz Radio - Grenada",
+    "url": "http://usa1.fastcast4u.com:3292/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Real FM - Grenada",
+    "url": "https://free.rcast.net/69262",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Star FM 101.9",
+    "url": "https://starchild.radioca.st/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Star FM 101.9 Grenada",
+    "url": "http://176.9.7.145:8288/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Wee FM 93.3/93.9 - Grenada",
+    "url": "https://usa8.fastcast4u.com/proxy/weefm2?mp=/1",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

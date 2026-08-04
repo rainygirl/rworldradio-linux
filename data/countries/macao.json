@@ -1,0 +1,162 @@
+[
+  {
+    "name": "101.1 BIG HEART FM",
+    "url": "http://162.220.162.10:8011/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "cantonese,mandarin"
+  },
+  {
+    "name": "101.1 Smooth FM",
+    "url": "https://stream-icy.bauermedia.pt/smooth.aac",
+    "codec": "AAC",
+    "bitrate": 127,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese,portuguese"
+  },
+  {
+    "name": "101.7 BIG HEART FM",
+    "url": "https://62.138.18.102:8133/stream",
+    "codec": "AAC+",
+    "bitrate": 24,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "91.5 HIT FM MACAU (成都）",
+    "url": "http://lhttp.qingting.fm/live/15318703/64k.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "mandarin"
+  },
+  {
+    "name": "Asia FM 106.9",
+    "url": "https://lhttp.qingting.fm/live/20071/64k.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "cantonese"
+  },
+  {
+    "name": "CNR-7 粵港澳大灣區之聲",
+    "url": "https://satellitepull.cnr.cn/live/wxhxzs/playlist.m3u8?wsSession=a919bd0baf31a1a6f3966f08-174761752612586&wsIPSercert=270c8446fe14303f2433a2f164ccd9e5",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "cantonese,chinese"
+  },
+  {
+    "name": "CityFM Macau - 90.5 FM",
+    "url": "https://lhttp.qtfm.cn/live/20500153/64k.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese,portuguese"
+  },
+  {
+    "name": "Lotus FM Macau HD - 97.4 FM",
+    "url": "https://lhttp.qtfm.cn/live/20533/64k.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,mandarin"
+  },
+  {
+    "name": "Lotus Macau Radio - 1062 AM",
+    "url": "https://lhttp.qtfm.cn/live/20133/64k.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,mandarin"
+  },
+  {
+    "name": "RADIO MARIA MACAU",
+    "url": "http://dreamsiteradiocp2.com:8038/stream",
+    "codec": "MP3",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RTP Macau - 97.1 FM",
+    "url": "https://radiocast.rtp.pt/antena1madeira80a.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "mandarin,portuguese"
+  },
+  {
+    "name": "Radio Top 80 Macau 強電台 - 89.9 FM",
+    "url": "http://live.top80.fm:8086/;",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "cantonese,mandarin"
+  },
+  {
+    "name": "Rádio Macau FM98.0",
+    "url": "https://mo.ufofm.com/live/rch1.live/chunklist_w1881620473.m3u8?audio",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "portuguese"
+  },
+  {
+    "name": "VOA Macau",
+    "url": "https://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 140,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese,portuguese"
+  },
+  {
+    "name": "YW City Radio - Macau 954 AM",
+    "url": "https://lhttp.qingting.fm/live/1259/64k.mp3?app_id=web",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "mandarin"
+  },
+  {
+    "name": "澳門電台 FM100.7",
+    "url": "https://mo.ufofm.com/live/rch2.live/chunklist_w905210118.m3u8?audio",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "cantonese"
+  }
+]

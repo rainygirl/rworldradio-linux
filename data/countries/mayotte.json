@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Mayotte FM 95.1 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s341820",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Mayotte La 1ère",
+    "url": "http://mayotte.ice.infomaniak.ch/mayotte-128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -12.77643819751081,
+    "lon": 45.227494239807136,
+    "language": ""
+  },
+  {
+    "name": "Mayotte La 1ère",
+    "url": "https://mayotte.ice.infomaniak.ch/mayotte-128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french,shimaoré"
+  },
+  {
+    "name": "Mayotte la 1ère 91.0 (Music News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s6283",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Dziani",
+    "url": "https://listen.radioking.com/radio/3331/stream/63166",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": -12.797714206502384,
+    "lon": 45.2793037891388,
+    "language": ""
+  }
+]

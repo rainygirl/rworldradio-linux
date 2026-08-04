@@ -1,0 +1,22 @@
+[
+  {
+    "name": "AFRICA RADIO - MANU DIBANGO FOREVER 103.0 (World Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s36598",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Tchad",
+    "url": "https://strhls.streamakaci.tv/str_tchad_radio/str_tchad_radio/icecast.audio?fbclid=IwAR32Ir_eHaV-HSrh46OVT_VeTZt5KoNggoq8qzeSiAeZTJNBKKUtsSNUtcY",
+    "codec": "MP3",
+    "bitrate": 125,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  }
+]

@@ -1,0 +1,582 @@
+[
+  {
+    "name": ". إذاعة ماهر المعيقلي",
+    "url": "https://backup.qurango.net/radio/maher",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": ".صور من حياة الصحابة",
+    "url": "https://qurango.net/radio/sahabah",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "109.0 FM Christmas Kids",
+    "url": "http://stream.dar.fm/97821",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "A ntinea Radio",
+    "url": "https://listen.radioking.com/radio/6640/stream/347",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Algérie Chaine 1",
+    "url": "https://radiochaine1.ice.infomaniak.ch/chaine1.mp3",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 36.752602649042906,
+    "lon": 3.0558261885201476,
+    "language": "arabic,french"
+  },
+  {
+    "name": "Algérie Chaine 2",
+    "url": "https://radiochaine2.ice.infomaniak.ch/chaine2.mp3",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Algérie Chaîne 3",
+    "url": "https://radiochaine3.ice.infomaniak.ch/chaine3.mp3",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 36.75338073815528,
+    "lon": 3.0498375917748497,
+    "language": "french"
+  },
+  {
+    "name": "Beur FM",
+    "url": "https://beurfm.ice.infomaniak.ch/beurfm-high.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "France Maghreb 2",
+    "url": "https://francemaghreb2.ice.infomaniak.ch/francemaghreb2-high.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "GhorbaDz",
+    "url": "https://stream-150.zeno.fm/y9rchc1djgavv?zs=bcPxFTkWTZOhirTC49uQiQ",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 36.62092043418232,
+    "lon": 3.221815824508667,
+    "language": "arabic,english,french"
+  },
+  {
+    "name": "Hitradio RTL Chemnitz",
+    "url": "https://web.radio.hitradio-rtl.de/hrrtl-chemnitz/stream/mp3?aggregator=direktlink",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 50.83243392097695,
+    "lon": 12.92318344116211,
+    "language": "german"
+  },
+  {
+    "name": "Hits 1 Algérie",
+    "url": "https://radio12.pro-fhi.net/listen/whmnrlow/stream",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "International  radio",
+    "url": "https://radio.jump.bg/proxy/mariana4/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "JIL FM 94.7 (Arabic Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s154053",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Jil FM",
+    "url": "https://radiojeunesse.ice.infomaniak.ch/jeunesse.mp3",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 36.74759144622673,
+    "lon": 3.049928474169659,
+    "language": "arabic,english,french"
+  },
+  {
+    "name": "Radio Adrar",
+    "url": "https://radioadrar.ice.infomaniak.ch/adrar.mp3",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 28.029318596256335,
+    "lon": -0.2842167721368827,
+    "language": "arabic"
+  },
+  {
+    "name": "Radio Algérie Internationale",
+    "url": "https://radiointernationale.ice.infomaniak.ch/internationale.mp3",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic,english,french"
+  },
+  {
+    "name": "Radio Annaba",
+    "url": "https://radioannaba.ice.infomaniak.ch/annaba.mp3",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 36.90002238247909,
+    "lon": 7.752965596407897,
+    "language": "arabic"
+  },
+  {
+    "name": "Radio Batna",
+    "url": "https://radiobatna.ice.infomaniak.ch/batna.mp3",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 35.55314560980222,
+    "lon": 6.176881467278303,
+    "language": "arabic"
+  },
+  {
+    "name": "Radio Bechar",
+    "url": "https://radiobechar.ice.infomaniak.ch/bechar.mp3",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 31.62033185412545,
+    "lon": -2.217805943281688,
+    "language": "arabic"
+  },
+  {
+    "name": "Radio Bejaïa",
+    "url": "https://radiobejaia.ice.infomaniak.ch/bejaia.mp3",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 36.75272183768281,
+    "lon": 5.066092010999635,
+    "language": "arabic,french"
+  },
+  {
+    "name": "Radio Biskra",
+    "url": "https://radiobiskra.ice.infomaniak.ch/biskra.mp3",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 34.852840380177405,
+    "lon": 5.725436714721162,
+    "language": ""
+  },
+  {
+    "name": "Radio Blida",
+    "url": "https://radioblida.ice.infomaniak.ch/blida.mp3",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 36.47117325129934,
+    "lon": 2.8272736530628655,
+    "language": "arabic"
+  },
+  {
+    "name": "Radio Bouira",
+    "url": "https://radiobouira.ice.infomaniak.ch/bouira.mp3",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 36.37422987846323,
+    "lon": 3.891400013129292,
+    "language": "arabic"
+  },
+  {
+    "name": "Radio Chlef",
+    "url": "https://radiochlef.ice.infomaniak.ch/chlef.mp3",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 36.16260307059959,
+    "lon": 1.3349243049004047,
+    "language": "arabic"
+  },
+  {
+    "name": "Radio Constantine",
+    "url": "https://radioconstantine.ice.infomaniak.ch/constantine.mp3",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 36.3622042457674,
+    "lon": 6.615505368504936,
+    "language": "arabic"
+  },
+  {
+    "name": "Radio Coran",
+    "url": "https://radiocoran.ice.infomaniak.ch/coran.mp3",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Radio Coran 1422 (Religion & Spirituality)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s16036",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Culture",
+    "url": "https://radioculture.ice.infomaniak.ch/culture.mp3",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Radio Djelfa",
+    "url": "https://radiodjelfa.ice.infomaniak.ch/djelfa.mp3",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 34.6719844969054,
+    "lon": 3.248883345542768,
+    "language": "arabic"
+  },
+  {
+    "name": "Radio El Bahdja",
+    "url": "https://radioelbahdja.ice.infomaniak.ch/elbahdja.mp3",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 36.74700686223639,
+    "lon": 3.05026899646518,
+    "language": "arabic,french"
+  },
+  {
+    "name": "Radio El Bahdja 94.2 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s2420",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio El Bayadh",
+    "url": "https://radioelbayedh.ice.infomaniak.ch/radioelbayedh.mp3",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 33.6821538836239,
+    "lon": 1.0193362683195508,
+    "language": "arabic"
+  },
+  {
+    "name": "Radio Guelma",
+    "url": "https://radioguelma.ice.infomaniak.ch/guelma.mp3",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 36.463603552422214,
+    "lon": 7.430396876501177,
+    "language": "arabic"
+  },
+  {
+    "name": "Radio Illizi",
+    "url": "https://radioillizi.ice.infomaniak.ch/illizi.mp3",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 26.51164033678942,
+    "lon": 8.483518919057504,
+    "language": "arabic"
+  },
+  {
+    "name": "Radio Jijel",
+    "url": "https://radiojijel.ice.infomaniak.ch/jijel.mp3",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 36.81688464368111,
+    "lon": 5.77126773923626,
+    "language": "arabic"
+  },
+  {
+    "name": "Radio Laghouat",
+    "url": "https://radiolaghouat.ice.infomaniak.ch/laghouat.mp3",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 33.804788335464636,
+    "lon": 2.8675155594452133,
+    "language": "arabic"
+  },
+  {
+    "name": "Radio M'sila",
+    "url": "https://radiomsila.ice.infomaniak.ch/msila.mp3",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 35.705850041007494,
+    "lon": 4.542009162646221,
+    "language": "arabic"
+  },
+  {
+    "name": "Radio Mascara",
+    "url": "https://radiomascara.ice.infomaniak.ch/mascara.mp3",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 35.402567513799205,
+    "lon": 0.13393090348572836,
+    "language": "arabic"
+  },
+  {
+    "name": "Radio Medea",
+    "url": "https://radiomedea.ice.infomaniak.ch/medea.mp3",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 36.26701647454432,
+    "lon": 2.76581427597022,
+    "language": "arabic"
+  },
+  {
+    "name": "Radio Mostaganem",
+    "url": "https://radiomostaganem.ice.infomaniak.ch/mostaganem.mp3",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 35.93038541595785,
+    "lon": 0.09082353521557174,
+    "language": "arabic"
+  },
+  {
+    "name": "Radio Oran",
+    "url": "https://radiooran.ice.infomaniak.ch/oran.mp3",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 35.70274383764877,
+    "lon": -0.6509304483270474,
+    "language": "arabic"
+  },
+  {
+    "name": "Radio Ouargla",
+    "url": "https://radioouargla.ice.infomaniak.ch/ouargla.mp3",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 31.9447239259002,
+    "lon": 5.329079139107687,
+    "language": "arabic"
+  },
+  {
+    "name": "Radio Oum Bouaghi",
+    "url": "https://radiooumbouaghi.ice.infomaniak.ch/oumbouaghi.mp3",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 35.869939264263095,
+    "lon": 7.115080178628986,
+    "language": "arabic"
+  },
+  {
+    "name": "Radio Saïda",
+    "url": "https://radiosaida.ice.infomaniak.ch/saida.mp3",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 34.83681494922048,
+    "lon": 0.14970101424071294,
+    "language": "arabic"
+  },
+  {
+    "name": "Radio Setif",
+    "url": "https://radiosetif.ice.infomaniak.ch/setif.mp3",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 36.18905546036811,
+    "lon": 5.407691838238669,
+    "language": "arabic"
+  },
+  {
+    "name": "Radio Setif 90.4 (Music News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s149565",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Sidi Bel Abbes",
+    "url": "https://radiosidibelabes.ice.infomaniak.ch/sidibelabes.mp3",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 35.20003409484155,
+    "lon": -0.6347677932024532,
+    "language": "arabic"
+  },
+  {
+    "name": "Radio Skikda",
+    "url": "https://radioskikda.ice.infomaniak.ch/skikda.mp3",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 36.878055233149,
+    "lon": 6.908724122442101,
+    "language": "arabic"
+  },
+  {
+    "name": "Radio Tamanrasset",
+    "url": "https://radiotamanrasset.ice.infomaniak.ch/tamanrasset.mp3",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 22.790383394016295,
+    "lon": 5.528621867247022,
+    "language": "arabic"
+  },
+  {
+    "name": "Radio Tebessa",
+    "url": "https://radiotebessa-1.ice.infomaniak.ch/tebessa.mp3",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 35.40480622677071,
+    "lon": 8.121674108775286,
+    "language": "arabic"
+  },
+  {
+    "name": "Radio Tiaret",
+    "url": "https://radiotiaret.ice.infomaniak.ch/tiaret.mp3",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 35.368979359597425,
+    "lon": 1.3200725712610153,
+    "language": "arabic"
+  },
+  {
+    "name": "Radio Tizi Ouzou",
+    "url": "https://radiotiziouzou.ice.infomaniak.ch/tiziouzou.mp3",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Tlemcen",
+    "url": "https://radiotlemcen.ice.infomaniak.ch/tlemcen.mp3",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 34.87694617128445,
+    "lon": -1.3244855403900149,
+    "language": "arabic"
+  },
+  {
+    "name": "Radio Zaman",
+    "url": "https://radiozamen.ice.infomaniak.ch/zamen.mp3",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "curan saudi",
+    "url": "http://stream.radiojar.com/0tpy1h0kxtzuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 30.733573157600024,
+    "lon": 3.7353515625,
+    "language": "arabic"
+  },
+  {
+    "name": "sleep",
+    "url": "http://65.109.81.84:9851/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "ygg",
+    "url": "http://online.svitle.org:6728/kids.128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "gallo"
+  }
+]

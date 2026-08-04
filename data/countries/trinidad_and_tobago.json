@@ -1,0 +1,232 @@
+[
+  {
+    "name": "102.1 Trinidad",
+    "url": "http://psn3.prostreaming.net:8310/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "95 the ultimate one",
+    "url": "https://www.radiomast.io/stream/aae72a18-3fa0-4b9a-a4c4-5a19655e1c68/listen",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "95.1 Remix live",
+    "url": "https://audio-edge-vqwx4.yyz.g.radiomast.io/68540e88-54b8-4924-b098-5a668f7da7b6",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "BOOM 94FM",
+    "url": "https://s8.yesstreaming.net:17103/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bacchanal Radio",
+    "url": "https://c13.radioboss.fm:18470/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "BurningSoca:",
+    "url": "http://176.9.121.230:8000/soca",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 10.345182259352594,
+    "lon": -61.02355957031251,
+    "language": "english"
+  },
+  {
+    "name": "Freedom FM 106.5",
+    "url": "https://media.slactech.com:8012/stream?1597658711680",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Fully Catholic Radio",
+    "url": "https://usa10.fastcast4u.com/fullycat2?x=1740578197868",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Hot 93 - 93.5 - Port of Spain",
+    "url": "http://ice41.securenetsystems.net/HOTT93",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "JO Radio HD",
+    "url": "https://medncxfardtsdpzezzsb.supabase.co/functions/v1/stream",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "LIT 102.3FM",
+    "url": "https://s8.yesstreaming.net:17106/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Music Radio 97.1 FM",
+    "url": "https://ice42.securenetsystems.net/MR97?playSessionID=C3852F04-F653-4223-80E2177BC1CE1988",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": 10.663917590013416,
+    "lon": -61.52004718780518,
+    "language": ""
+  },
+  {
+    "name": "Radio Tambrin 92.7 - Scarborough",
+    "url": "http://ice42.securenetsystems.net/TAMBRIN",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Sangee 106.1 fm",
+    "url": "https://streams.radiomast.io/22e2c991-fc0c-4242-8cba-0a64d0aea809",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hindi"
+  },
+  {
+    "name": "Scorch Radio 101.1FM",
+    "url": "https://stream.velalabs.co/scorch",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 10.667881618180168,
+    "lon": -61.52903488496883,
+    "language": "english"
+  },
+  {
+    "name": "Slam 100.5",
+    "url": "https://www.radiomast.io/stream/68540e88-54b8-4924-b098-5a668f7da7b6/listen",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Star 94.7",
+    "url": "https://fms.ttrn.org/live/star947.sdp/chunklist_w2060647527.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 10.66628144351989,
+    "lon": -61.52452613463886,
+    "language": ""
+  },
+  {
+    "name": "TAMBRIN",
+    "url": "https://ice42.securenetsystems.net/TAMBRIN",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Talk City 91.1 FM",
+    "url": "https://media.streambrothers.com:8450/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Vibe CT (Port of Spain)",
+    "url": "https://streams.radiomast.io/c35d311e-cc60-41b9-b0c5-339e62c14dee",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Vibe CT 105",
+    "url": "https://audio-edge-vqwx4.yyz.g.radiomast.io/c35d311e-cc60-41b9-b0c5-339e62c14dee",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Woods Hit Radio",
+    "url": "https://stream.zeno.fm/2f33725t4mzuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "engilsh"
+  },
+  {
+    "name": "Woods Hit Radio AC",
+    "url": "https://cast4.asurahosting.com/proxy/nigel/stream",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 10.702785283785976,
+    "lon": -61.5529398488232,
+    "language": "arabic,english,french,german,italian,polish,portuguese,russian,spanish,swiss"
+  }
+]

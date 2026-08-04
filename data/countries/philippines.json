@@ -1,0 +1,7662 @@
+[
+  {
+    "name": "100.7 Love Radio Lucena",
+    "url": "https://loveradiolucena.radioca.st/",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "100.7 My FM Bataan",
+    "url": "https://stream.zeno.fm/vvsqe5qk7yzuv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "filipino"
+  },
+  {
+    "name": "100.7 XFM Tagum",
+    "url": "http://209.126.124.126:8681/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "101.1 Yes FM - DWYS",
+    "url": "https://azura.yesfm.com.ph/listen/yes_fm_manila/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "filipino"
+  },
+  {
+    "name": "101.5 BiG SOUND FM - DWWG",
+    "url": "http://162.220.162.10:8184/stream",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "filipino"
+  },
+  {
+    "name": "101.7 Your Love FM",
+    "url": "https://radio.1017yourlovefm.com/listen/sanibpwersa/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 14.573839022242636,
+    "lon": 121.00327607749156,
+    "language": ""
+  },
+  {
+    "name": "102.7 Star FM - DWSM",
+    "url": "https://stream-288.surfernetwork.com/g1pmt17nz9duv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnMXBtdDE3bno5ZHV2IiwiaG9zdCI6InN0cmVhbS0yODguc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJMaXZRVVVnMVJBNllJVm1CMzZweXlRIiwiaWF0IjoxNzgxNjc4NzM0LCJleHAiOjE3ODE2Nzg3OTR9.5G1wZmONFqXySurSj1Oj6_UtSmcJMwlc6JJy2oL7fX8",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,filipino"
+  },
+  {
+    "name": "102.9 South Radio News FM",
+    "url": "https://stream.zeno.fm/tyckfjknbtktv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "103.1 LITE FM - DWVA",
+    "url": "https://stream-178.zeno.fm/r8pmp16khf9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyOHBtcDE2a2hmOXV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWnNlblZkQTNUaXE3UkFhXy1OaHJmZyIsImlhdCI6MTc3NTk5MTc0NCwiZXhwIjoxNzc1OTkxODA0fQ.ds0pf7JWT67FfqMWuimjGOjQWirdes3-Wvaxmk4rp8Q",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "103.1 MOR Baguio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MORFM_S01AAC.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "103.3 DXJL The New J Cagayan de Oro",
+    "url": "https://s3.radio.co/s3e33745fb/listen",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "103.5 All Radio - DWOW",
+    "url": "http://209.126.124.126:8872/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,filipino"
+  },
+  {
+    "name": "103.5 Retro Cebu",
+    "url": "http://148.72.153.65:9232/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "103.5 Retro Cebu",
+    "url": "http://62.138.18.102:8128/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "104.1 SMILE RADIO",
+    "url": "https://audio.cloudrad.io/9a77084c/live",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,filipino"
+  },
+  {
+    "name": "104.3 The Capital",
+    "url": "http://58.97.187.52:5007/fm2",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "105.5 Big Sound FM San Fernando City La Union",
+    "url": "https://prox.radyoph.com/s/f75d2d9f6854192b8dd9d7612128a445",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "105.5 KOOL FM",
+    "url": "http://95.154.197.82:24823/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,filipino,kapampangan"
+  },
+  {
+    "name": "105.5 RADIO ONE",
+    "url": "https://prox.radyoph.com/s/78ad4eb6964be290fb10795192321847",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "105.5 RADIO ONE",
+    "url": "http://in-icecast.eradioportal.com:8000/rwluzon",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "105.5 RADIO ONE LITE",
+    "url": "https://stream-178.zeno.fm/r8pmp16khf9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyOHBtcDE2a2hmOXV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IktRRHREM1ZjVElxN3hfWFRra3A4X1EiLCJpYXQiOjE3ODAzMDk0NDQsImV4cCI6MTc4MDMwOTUwNH0.jF2jnAwv16igOcpKToSdZhBMic7GscoiRoJcNl5dmXk",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "105.5 Radyo Gwapito",
+    "url": "https://stream-179.zeno.fm/b1vknfz1yedvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJiMXZrbmZ6MXllZHZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlJJdGVyTjJMVEZtVUtuRGwwZEF4QmciLCJpYXQiOjE3NzY5MjQwMzMsImV4cCI6MTc3NjkyNDA5M30.m-bkCncFsKE-Wu_Dzhde3nvA5X15xQcWwL5jhu87vH0",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bicolano,filipino"
+  },
+  {
+    "name": "105.5 SMOOTH RADIO",
+    "url": "https://stream-02.surfernetwork.com/iysqd3wuj38uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJpeXNxZDN3dWozOHV2IiwiaG9zdCI6InN0cmVhbS0wMi5zdXJmZXJuZXR3b3JrLmNvbSIsInJ0dGwiOjUsImp0aSI6Im1ieUJHT0lOVC1HSXllSFlGbG5KRXciLCJpYXQiOjE3NzgxNjAwMDMsImV4cCI6MTc3ODE2MDA2M30.xYqjN-KICXfpgsxWdN_Ae3gaNqpRsTdELgTkBOVutmg",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "105.5 Wild FM Baguio",
+    "url": "http://62.138.18.102:8133/stream",
+    "codec": "AAC+",
+    "bitrate": 24,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "filipino,ilocano"
+  },
+  {
+    "name": "105.9 Hot FM - DWLA",
+    "url": "https://azura.loveradio.com.ph/listen/love_radio_manila/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "filipino"
+  },
+  {
+    "name": "105.9 Hot FM Manila",
+    "url": "https://a8.asurahosting.com:6820/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "filipino"
+  },
+  {
+    "name": "105.9 One FM - DWLA",
+    "url": "http://ph-icecast.eradioportal.com:8000/energyfm_manila",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "filipino"
+  },
+  {
+    "name": "105.9 True FM",
+    "url": "https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8",
+    "codec": "AAC",
+    "bitrate": 463,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "105.9 True FM",
+    "url": "https://cast5.servcast.net/proxy/truefmph/stream",
+    "codec": "MP3",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "106 Dream FM",
+    "url": "http://s7.viastreaming.net:8390/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "106.3 KFive FM Bacolod",
+    "url": "http://209.126.124.126:8721/stream",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "106.7 Easy Rock La Union",
+    "url": "http://proxima.shoutca.st:8227/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "106.7 Hot FM Agoo",
+    "url": "http://88.99.195.180:8027/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "filipino,ilocano"
+  },
+  {
+    "name": "106.7 LITE FM MEGA MANILA",
+    "url": "https://stream.zeno.fm/kc3cct89sxquv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,filipino"
+  },
+  {
+    "name": "106.9 WGB FM TABACO",
+    "url": "https://canada1.reliastream.com/proxy/dexlain2?mp=/stream&1763679567738",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "107.7 BIG RADIO Bongabong, Oriental Mindoro",
+    "url": "https://prox.radyoph.com/s/1e62f8f5e497aa4ca9500e44d401cea2",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "107.9 DZUR NEWS FM MEGA MANILA",
+    "url": "http://18.141.67.248:8058/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,filipino"
+  },
+  {
+    "name": "1188 DZXO",
+    "url": "http://162.220.162.10:8010/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "28.2 GoodVibes Fm",
+    "url": "https://stream.zeno.fm/fu24r3f24c9uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,tagalog"
+  },
+  {
+    "name": "702 Dzas",
+    "url": "http://sg-icecast.eradioportal.com:8000/febc_dzas",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,english/tagalog"
+  },
+  {
+    "name": "81.7 Happy Pikz FM | Ang Radio ng Masa",
+    "url": "http://s3.voscast.com:11272/stream/1/",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "819 DXUM-AM Davao City",
+    "url": "http://62.138.18.102:8569/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "87.5 Republ1ka FM1 HD",
+    "url": "https://listen.radioking.com/radio/453221/stream/508076",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "89.1 LOVE FM",
+    "url": "https://eu8.fastcast4u.com/proxy/lovefmradio?mp=/1&1729057858413",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "89.5 DWIZ EASTERN VISAYAS TACLOBAN",
+    "url": "https://stream.zeno.fm/ug8mkqpr7jtvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "89.5 Subic Bay Radio",
+    "url": "http://143.44.245.11:8080/895subicbay.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "89.7 Manila Zounds",
+    "url": "https://visayas.radyonatinfm.com:8000/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,filipino"
+  },
+  {
+    "name": "90.5 Hot FM Baguio",
+    "url": "http://148.251.43.149:8675/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "filipino,ilocano"
+  },
+  {
+    "name": "90.7 Birada Fm Claver",
+    "url": "https://stream.zeno.fm/srw89vzrmgiuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "90.7 Radyo Oragon Legazpi",
+    "url": "http://streamnavs.net:8181/live",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "90s Pinoy Alternative",
+    "url": "https://cast3.my-control-panel.com/proxy/ronald/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "90s Pinoy Alternative",
+    "url": "http://cast3.my-control-panel.com:9364/autodj",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "91.5 Win Radio Manila",
+    "url": "http://stream.zeno.fm/2ss1hgnu6hhvv#livestream",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "91.5 Win Radio Manila | (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s13138",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "91.9 Bright FM",
+    "url": "http://icecast.eradioportal.com:8000/radyo-veritas-846",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "filipino,kapampangan"
+  },
+  {
+    "name": "92.3 FM Radio Manila",
+    "url": "https://ssl.radyoph.com:8010/fmr_manila",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "92.7 Hot FM - DWCL",
+    "url": "http://148.251.43.231:8162/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "filipino,kapampangan"
+  },
+  {
+    "name": "93.3 Infinite Radio Surigao",
+    "url": "https://stream.zeno.fm/yy0d3w86zxhvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "93.5 City Radio",
+    "url": "https://cdnstream1.typicalmedia.net/yourradio",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "93.7 Radyo Serbato - San Francisco Agusan Del Sur",
+    "url": "https://stream.zeno.fm/unepz3nt3qltv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "94.5 K5 NEWS FM KALIBO",
+    "url": "http://209.126.124.126:8730/stream",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "96.1 Infinite Radio Panabo City",
+    "url": "http://us1.amfmph.com:8644/live",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "96.3 Easy Rock - DWRK",
+    "url": "https://azura.easyrock.com.ph/listen/easy_rock_manila/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "96.3 WRocK CEBU",
+    "url": "http://136.243.44.41:8010/stream",
+    "codec": "MP3",
+    "bitrate": 80,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "96.3 WRocK Cebu | (Soft Rock)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s235993",
+    "codec": "mp3",
+    "bitrate": 80,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "96.9 POWER FM Naga City",
+    "url": "https://stream.zeno.fm/n4q1s7r4qzzuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "97.1 XFM Roxas, Palawan",
+    "url": "https://sound.amfm.link:8010/xfmroxas",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "97.7 Sweet Radio Santiago",
+    "url": "https://stream.zeno.fm/ja3azzofj40tv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "97.9 Home Radio Manila",
+    "url": "http://142.44.212.114:9071/stream",
+    "codec": "AAC+",
+    "bitrate": 24,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "98.3 Love Radio Dagupan",
+    "url": "https://loveradiodagupan.radioca.st/",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "98.5 RADIO JOHN BINALBAGAN",
+    "url": "https://us1.amfmph.com/ssl/radiojohn?mp=/hd&1639728501890",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "98.5 Radio John Binalbagan",
+    "url": "http://209.126.124.126:8033/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "98.5 Radyo Kaibigan Valencia City",
+    "url": "https://us2.amfmph.com/ssl/vegiemaxplus?mp=/high&1681395562481",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "98.7 DZFE The Master's Touch",
+    "url": "http://sg-icecast.eradioportal.com:8000/febc_dzfe",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "99.3 Radyo Serbato - Claver Surigao Del Norte",
+    "url": "https://stream.zeno.fm/7t86m666vp8uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "99.5 Campus FM",
+    "url": "https://streaming.live365.com/a06369",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "99.5 Play FM",
+    "url": "http://142.4.219.8:8226/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "99.7 Radyo Serbato - Cabadbaran Agusan Del Norte",
+    "url": "https://stream.zeno.fm/q25dmmc7u68uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "ABN 96.5 FM Laoag",
+    "url": "https://stream.zeno.fm/vkm1e1y2f3quv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "ABS-CBN All Radio 101.9 FM",
+    "url": "http://209.126.124.126:8852/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,filipino"
+  },
+  {
+    "name": "ABSFM Maramag",
+    "url": "https://dj.radyoph.com:8010/absfm_maramag",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "AMFMPH Streams Demo (128K MP3)",
+    "url": "https://us1.amfmph.com/proxy/iceshout?mp=/mp128&1689430094075",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "AMFMPH Streams Demo (24K AAC)",
+    "url": "https://us1.amfmph.com/proxy/iceshout?mp=/ac24&1689430915322",
+    "codec": "AAC+",
+    "bitrate": 24,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "AMFMPH Streams Demo (24K MP3)",
+    "url": "https://us1.amfmph.com/proxy/iceshout?mp=/mp24&1689430243457",
+    "codec": "MP3",
+    "bitrate": 24,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "AMFMPH Streams Demo (32K AAC)",
+    "url": "https://us1.amfmph.com/proxy/iceshout?mp=/ac32&1689431062684",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "AMFMPH Streams Demo (32K MP3)",
+    "url": "https://us1.amfmph.com/proxy/iceshout?mp=/mp32&1689430369832",
+    "codec": "MP3",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "AMFMPH Streams Demo (48K AAC)",
+    "url": "https://us1.amfmph.com/proxy/iceshout?mp=/ac48&1689431249640",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "AMFMPH Streams Demo (48K MP3)",
+    "url": "https://us1.amfmph.com/proxy/iceshout?mp=/mp48&1689430463064",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "AMFMPH Streams Demo (64K MP3)",
+    "url": "https://us1.amfmph.com/proxy/iceshout?mp=/mp64&1689430557825",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "AMFMPH Streams Demo (96K MP3)",
+    "url": "https://us1.amfmph.com/proxy/iceshout?mp=/mp96&1689430709317",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "AMFMPH Streams Online",
+    "url": "http://us1.amfmph.com:8005/stream",
+    "codec": "MP3",
+    "bitrate": 24,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "AWR HOPE RADIO 106.3 FM TOLEDO",
+    "url": "http://stream.zeno.fm/etwbrrdrf6cuv?1721286162242",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "AWR Zamboanga Peninsula",
+    "url": "https://awrzpm.radio.fm:8000/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "AXR Manila",
+    "url": "http://22273.live.streamtheworld.com/AXR_SC",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "AXR Manila",
+    "url": "http://28163.live.streamtheworld.com:3690/AXR_MANILA_SC",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Abante Radyo",
+    "url": "https://stream.radio.co/s97e866418/listen",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Abante Radyo DWAR 1494 kHz | (Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s356522",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Adventist Radio South Philippines",
+    "url": "https://stream3.awr.live/listen/adventist_radio_southph/radio.mp3",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Adventist World Radio 89.1 Manila",
+    "url": "http://192.53.113.120:8000/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Aksyon Radyo 96.3 FM HD",
+    "url": "https://dzrh-azura.mmg.com.ph/listen/dzrh_manila/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Aksyon Radyo Bacolod",
+    "url": "http://176.9.104.253:8095/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Aksyon Radyo Catarman",
+    "url": "http://comet.shoutca.st:8165/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Aksyon Radyo Catbalogan",
+    "url": "http://195.201.166.244:8149/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Aksyon Radyo Cebu",
+    "url": "http://5.9.13.39:8110/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Aksyon Radyo Cebu",
+    "url": "https://a9.asurahosting.com:8260/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Aksyon Radyo Davao",
+    "url": "http://5.9.13.39:8140/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Aksyon Radyo Iloilo",
+    "url": "http://148.251.43.149:8213/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Aksyon Radyo La Union",
+    "url": "http://176.9.76.61:8004/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Aksyon Radyo Laoag",
+    "url": "http://5.9.13.39:8136/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Aksyon Radyo Pangasinan",
+    "url": "http://148.251.43.149:8238/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Aksyon Radyo Tacloban",
+    "url": "http://142.4.216.144:8279/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Aksyon Radyo Tacloban",
+    "url": "http://de3.amfmph.com:8203/live",
+    "codec": "AAC+",
+    "bitrate": 24,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Aljem Magdula",
+    "url": "https://stream.zeno.fm/81sjev0tizduv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 7.598512139966038,
+    "lon": 124.99344259500504,
+    "language": ""
+  },
+  {
+    "name": "All Radio 97.1 Cebu",
+    "url": "http://209.126.124.126:8855/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "AllHitz24",
+    "url": "http://stream.allhitz24.com/64",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "AllHitz24",
+    "url": "https://stream.allhitz24.com/64",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Anchor 101.1FM Davao",
+    "url": "https://icecast.theanchor.app/bbbc",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Anchor Radio Urdaneta",
+    "url": "https://icecast.theanchor.app/cbc",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Ang Dios Gugma Catholic Ministries, Inc. Iloilo",
+    "url": "http://us1.amfmph.com:8810/live",
+    "codec": "AAC",
+    "bitrate": 24,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Ang Totoong Buhay sa Diyos",
+    "url": "https://stream.tligradio.org/listen/filipino/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Atlantis Radio",
+    "url": "https://us2.amfmph.com:8080/stream?1609414161410",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "filipino,tagalog"
+  },
+  {
+    "name": "Atlantis Radio Philippines",
+    "url": "http://us2.amfmph.com:8080/live",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "B 107.9 FM Tacloban",
+    "url": "http://streamnavs.net:8147/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "B 107.9 FM Tacloban",
+    "url": "https://streamnavs.net:8147/live",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "BELL FM 106.3",
+    "url": "http://209.126.124.126:8904/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "BIBLE RADIO",
+    "url": "https://stream.radio.co/se9de95c10/listen",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "BMC Radio",
+    "url": "https://m2gph.online/listen/bmc_radio/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Babe Radio",
+    "url": "http://usa14.fastcast4u.com:5252/;?1774629590828",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Barangay FM 101.5 Naga",
+    "url": "http://uk16freenew.listen2myradio.com:15952/;",
+    "codec": "MP3",
+    "bitrate": 80,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Barangay LS 97.1 Manila",
+    "url": "http://28093.live.streamtheworld.com:3690/MORFM_S01AAC_SC",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "filipino"
+  },
+  {
+    "name": "Basco Radio 93.3 Studio 2",
+    "url": "https://stream-176.zeno.fm/a3th9bd1fs8uv?zs=e8ersugnTZy8yQsXXp2s2A",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "tagalog"
+  },
+  {
+    "name": "Bee 927 Bohol",
+    "url": "https://cast3.asurahosting.com/proxy/victorjr/bee927fmbohol",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bespren Radio",
+    "url": "https://streamnavs.net:8089/live",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bestfriend FM",
+    "url": "http://stream.zeno.fm/aqjyy8xcampuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bible Radio",
+    "url": "http://stream.radio.co/se9de95c10/low",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Big Sound FM Tuguegarao",
+    "url": "http://162.220.162.10:8008/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bilyonaryo News Channel",
+    "url": "https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8",
+    "codec": "AAC,H.264",
+    "bitrate": 5129,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bionic Online Radio",
+    "url": "https://io.radyoph.com:8000/bionic",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bisaya Online Radio",
+    "url": "https://stream-57.zeno.fm/gay91kx2cm8uv?zs=hLLmWhxDSNq7pY6UWBSCxA",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bisaya,tagalog"
+  },
+  {
+    "name": "Bliss Radio",
+    "url": "https://stream.blissradio.net/radio/8000//radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bombo Radyo Bacolod",
+    "url": "https://stream.zenolive.com/g2ak4fu78heuv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bombo Radyo Baguio",
+    "url": "https://stream.zenolive.com/zmb6xdf29heuv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bombo Radyo Butuan",
+    "url": "http://stream.zenolive.com/4xptk2enz9duv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bombo Radyo Cagayan De Oro",
+    "url": "http://stream.zenolive.com/49y7kdenz9duv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bombo Radyo Cauayan",
+    "url": "https://stream.zenolive.com/0psak3m29heuv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bombo Radyo Cebu",
+    "url": "http://stream.zenolive.com/cc4d8bbnz9duv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bombo Radyo GenSan",
+    "url": "https://stream.zenolive.com/ke2denfnz9duv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bombo Radyo Iloilo",
+    "url": "https://stream.zenolive.com/gzudz59nz9duv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "filipino"
+  },
+  {
+    "name": "Bombo Radyo Kalibo",
+    "url": "http://stream.zenolive.com/s10z665mz9duv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bombo Radyo Koronadal",
+    "url": "http://stream.zenolive.com/s81g7zfnz9duv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bombo Radyo La Union",
+    "url": "https://stream.zenolive.com/n6wgdtu78heuv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bombo Radyo Laoag",
+    "url": "https://stream.zenolive.com/gzvmgtp78heuv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bombo Radyo Legazpi",
+    "url": "http://stream.zenolive.com/u0uugg5mz9duv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bombo Radyo Malaybalay",
+    "url": "https://stream.zeno.fm/1etogiwypoztv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bombo Radyo Naga",
+    "url": "http://stream.zenolive.com/a0zn713mz9duv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bombo Radyo Tacloban",
+    "url": "https://stream.zeno.fm/e8zw1dg0xy5tv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bombo Radyo Tuguegarao",
+    "url": "https://stream.zenolive.com/w8pcsam29heuv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bombo Radyo Vigan",
+    "url": "http://stream.zenolive.com/wg8yn4cnz9duv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Brigada News FM Bacolod",
+    "url": "https://bacolodstream.brigadanews.ph/",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Brigada News FM Bacolod",
+    "url": "http://18.141.67.248:8038/stream/1/",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Brigada News FM Batangas",
+    "url": "http://18.141.67.248:8040/stream/1/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Brigada News FM Batangas",
+    "url": "https://batangasstream.brigadanews.ph/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Brigada News FM Bogo",
+    "url": "http://18.141.67.248:8028/stream/1/",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Brigada News FM Bogo",
+    "url": "https://bogostream.brigadanews.ph/",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Brigada News FM Butuan",
+    "url": "https://butuanstream.brigadanews.ph/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Brigada News FM Cagayan de Oro",
+    "url": "https://cagayanstream.brigadanews.ph/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Brigada News FM Cauayan",
+    "url": "http://18.141.67.248:8044/stream/1/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Brigada News FM Cauayan",
+    "url": "https://cauayanstream.brigadanews.ph/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Brigada News FM Cebu",
+    "url": "http://18.141.67.248:8026/stream/1/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Brigada News FM Cebu",
+    "url": "https://cebustream.brigadanews.ph/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Brigada News FM Cotabato",
+    "url": "https://cotabatostream.brigadanews.ph/",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Brigada News FM Cotabato",
+    "url": "http://18.141.67.248:8006/stream/1/",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Brigada News FM Daet",
+    "url": "http://18.141.67.248:8046/stream/1/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Brigada News FM Davao",
+    "url": "http://18.141.67.248:8004/stream/1/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Brigada News FM Davao",
+    "url": "https://davaostream.brigadanews.ph/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Brigada News FM Dumaguete",
+    "url": "https://dumaguetestream.brigadanews.ph/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Brigada News FM Gensan",
+    "url": "http://18.141.67.248:8000/stream/1/",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Brigada News FM Iligan",
+    "url": "https://iliganstream.brigadanews.ph/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Brigada News FM Kalibo",
+    "url": "http://18.141.67.248:8032/stream/1/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Brigada News FM Kalibo",
+    "url": "https://kalibostream.brigadanews.ph/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Brigada News FM Koronadal",
+    "url": "https://koronadalstream.brigadanews.ph/",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Brigada News FM Legazpi",
+    "url": "http://18.141.67.248:8048/stream/1/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Brigada News FM Legazpi",
+    "url": "https://legaspistream.brigadanews.ph/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Brigada News FM Lucena",
+    "url": "https://lucenastream.brigadanews.ph/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Brigada News FM Manila",
+    "url": "https://makatistream.brigadanews.ph/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Brigada News FM Mega Manila",
+    "url": "http://18.141.67.248:8068/stream/1/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Brigada News FM Naga",
+    "url": "http://18.141.67.248:8052/stream/1/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Brigada News FM Naga",
+    "url": "https://nagastream.brigadanews.ph/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Brigada News FM Olongapo",
+    "url": "http://18.141.67.248:8056/stream/1/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Brigada News FM Olongapo",
+    "url": "https://olongapostream.brigadanews.ph/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Brigada News FM Oroquieta",
+    "url": "http://18.141.67.248:8024/stream/1/",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Brigada News FM Oroquieta",
+    "url": "https://oroquietastream.brigadanews.ph/",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Brigada News FM Pagadian",
+    "url": "http://18.141.67.248:8022/stream/1/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Brigada News FM Pagadian",
+    "url": "https://pagadianstream.brigadanews.ph/",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Brigada News FM Palawan",
+    "url": "https://puertopalawanstream.brigadanews.ph/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Brigada News FM Roxas",
+    "url": "https://roxascapizstream.brigadanews.ph/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Brigada News FM Roxas",
+    "url": "http://18.141.67.248:8076/stream/1/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Brigada News FM Siargao",
+    "url": "https://siargaostream.brigadanews.ph/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Brigada News FM Sorsogon",
+    "url": "https://sorsogonstream.brigadanews.ph/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Brigada News FM Tacloban",
+    "url": "http://18.141.67.248:8064/stream/1/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Brigada News FM Tacloban",
+    "url": "https://taclobanstream.brigadanews.ph/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Brigada News FM Tagum",
+    "url": "https://tagumstream.brigadanews.ph/",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Brigada News FM Toledo",
+    "url": "http://18.141.67.248:8036/stream/1/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Brigada News FM Toledo",
+    "url": "https://toledostream.brigadanews.ph/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Brigada News FM Trento",
+    "url": "https://trentostream.brigadanews.ph/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Brigada News FM Valencia",
+    "url": "https://valenciastream.brigadanews.ph/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Brigada News FM Zamboanga",
+    "url": "http://18.141.67.248:8018/stream/1/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Brigada News FM Zamboanga",
+    "url": "https://zamboangastream.brigadanews.ph/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Budots FM 98.9",
+    "url": "https://stream-171.zeno.fm/2uhuu5hvzqzuv?zs=oGfN_quRRSyJUGCfzxagdw",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,tagalog"
+  },
+  {
+    "name": "Budots FM 98.9",
+    "url": "https://stream.zeno.fm/2uhuu5hvzqzuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,tagalog"
+  },
+  {
+    "name": "CARE 104.3 DWAY-FM Legazpi",
+    "url": "http://sg-icecast.eradioportal.com:8000/febc_dway",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "CCTN 47 Cebu",
+    "url": "http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "cebuano,filipino"
+  },
+  {
+    "name": "Capital FM2",
+    "url": "https://ice.audionow.com/4800DWBRBusinessRadioopus.ogg",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Christmas Radio Philippines",
+    "url": "http://209.126.124.126:8888/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Christmas Radio Philippines - Powered By www.amfmph.net",
+    "url": "https://us1.amfmph.com/ssl/christmasradio?mp=/stream&1641738050672",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Cloudstaff Radio",
+    "url": "https://cs-streamradio.cloudstaff.com:8020/cloudoverdrive.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Clubmix",
+    "url": "https://stream.zeno.fm/vztn8ux96zhvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 13.878365168137464,
+    "lon": 121.10383722375624,
+    "language": "english"
+  },
+  {
+    "name": "Cool FM Bogo, Cebu",
+    "url": "https://us1.amfmph.com/ssl/dyvl?mp=/stream&1639234465721",
+    "codec": "AAC",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "filipino"
+  },
+  {
+    "name": "CoolFm Hits 901 90.1 (Soul)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s120817",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "D' Ultimate 105.5 FM",
+    "url": "https://edge.mixlr.com/channel/gtqpn",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,filipino"
+  },
+  {
+    "name": "DWAV FM RP3 Alert 89.1",
+    "url": "http://58.97.187.52:5007/rp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "filipino"
+  },
+  {
+    "name": "DWBL 91.9 Bright FM",
+    "url": "https://stream.zeno.fm/wx5hopniqfvtv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DWDM Eagle FM 95.5",
+    "url": "https://stream.radiojar.com/yus0r2bghd3vv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 14.662495255417468,
+    "lon": 121.05999264986256,
+    "language": "english,filipino"
+  },
+  {
+    "name": "DWDM fm 95.5",
+    "url": "http://n09.radiojar.com/yus0r2bghd3vv?rj-ttl=5&rj-tok=AAABlNUkOegAd71tiQORW5Lo8A",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "DWDM-fm 95.5",
+    "url": "http://n09.radiojar.com/yus0r2bghd3vv?rj-ttl=5&rj-tok=AAABlsS40MAAYw8ZM_Db37Hs-w",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "DWEE Islands FM 107.1 Pampanga",
+    "url": "https://d2lfa0y84k5bwn.cloudfront.net/out/v1/86dd4506a70c4d7fb35e2ab50296d9a3/index.m3u8?aws.manifestfilter=video_height:0-0",
+    "codec": "AAC",
+    "bitrate": 211,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "DWHQ 98.1 FM",
+    "url": "https://stream.zeno.fm/bcxtfmdce19uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DWIZ 882",
+    "url": "http://dwizmanila.radioca.st:9079/stream",
+    "codec": "AAC+",
+    "bitrate": 56,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DWIZ 882 Manila",
+    "url": "http://142.44.212.114:9079/stream",
+    "codec": "AAC+",
+    "bitrate": 56,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DWIZ News FM Central Palawan",
+    "url": "http://142.44.212.114:9381/stream",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DWIZ News FM Central Visayas (Cebu)",
+    "url": "http://142.44.212.114:9353/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DWIZ News FM Northern Luzon (Dagupan)",
+    "url": "http://142.44.212.114:9377/stream",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DWIZ News FM Northern Mindanao (Cagayan De Oro)",
+    "url": "http://142.44.212.114:9337/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DWIZ News FM Southern Luzon (Naga)",
+    "url": "http://142.44.212.114:9349/stream",
+    "codec": "AAC+",
+    "bitrate": 24,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DWIZ News FM Southern Mindanao (Gensan)",
+    "url": "http://142.44.212.114:9341/stream",
+    "codec": "AAC+",
+    "bitrate": 24,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DWIZ News FM Western Visayas (Iloilo)",
+    "url": "http://142.44.212.114:9345/stream",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DWJE 88.1 FM Radyo Pangasinan",
+    "url": "https://tiny-sun-4316.radyopangasinan88-1fm.workers.dev/stream",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DWJW 96.7 FM Power FM",
+    "url": "https://stream.zenolive.com/n4q1s7r4qzzuv.aac",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DWNX 91.1 RMN Naga",
+    "url": "https://stream.zeno.fm/1ytydzphq7zuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DWPM Radyo Sais Trenta",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/DZMMAAC.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DWWW",
+    "url": "https://ice.audionow.com/4715DWWW774loopus.ogg",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DWWW 774 (News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s167367",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DWYG LiPS 106 FM",
+    "url": "https://stream.zeno.fm/28dkf5qum7zuv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DXBH Hope Radio 103.7Mhz",
+    "url": "https://stream.dxbh.net/main_mp3",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 10.752366085618164,
+    "lon": 123.22265625,
+    "language": "cebuano,english,tagalog"
+  },
+  {
+    "name": "DXGP 89.7 Agusan Radio",
+    "url": "https://ph.amfm.link:8020/dxgp",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DXGT RADYO ABANTE",
+    "url": "https://stream.zeno.fm/z80zubtvrf9uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DXKI Strong Radio Cagayan de Oro",
+    "url": "https://stream.zeno.fm/femnnphrtcltv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DXUM DAVAO",
+    "url": "http://148.72.153.65:9229/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DYFR 98.7 (Gospel)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s14668",
+    "codec": "mp3",
+    "bitrate": 32,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DYHB 747 RMN Bacolod",
+    "url": "http://148.72.153.65:8848/stream",
+    "codec": "AAC+",
+    "bitrate": 24,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DYHP 612 RMN Cebu",
+    "url": "https://de3.amfmph.com/ssl/rmncebu?mp=%2Fstream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DYHP RMN CEBU",
+    "url": "http://62.138.18.102:8257/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DYPS 98.1 FM Tuburan, Cebu",
+    "url": "http://209.126.124.126:8536/stream",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DYRD Bohol Worldwide",
+    "url": "http://live.kiss102fmbohol.com:8000/dyrdam",
+    "codec": "MP3",
+    "bitrate": 80,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DYTR BOHOL",
+    "url": "https://stream.zeno.fm/l6d5yvrgnauuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DYTR BOHOL",
+    "url": "https://stream.zeno.fm/nvhk0xbnqw1tv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DYVL 94.1 Bogo City, Cebu",
+    "url": "http://209.126.124.126:8101/stream",
+    "codec": "AAC",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DYVS Bacolod 1233 (Local News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s357810",
+    "codec": "mp3",
+    "bitrate": 1,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DZAS 702 (Christian Contemporary)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s7784",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DZDG 96.7 DESTINY RADIO",
+    "url": "https://stream.zeno.fm/zz4urrfhjzovv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DZGB Legazpi",
+    "url": "https://stream.zeno.fm/dnmfv8wykbxvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DZMM Teleradyo",
+    "url": "https://stream.zeno.fm/yaksrqvb35duv?type=.aac",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DZRH",
+    "url": "https://azura.dzrh.com.ph/listen/dzrh_manila/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DZRH News FM GenSan",
+    "url": "http://198.27.74.142:6137/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DZRH News Television",
+    "url": "https://ythls.armelin.one/channel/UCcTiBX8js_djhSSlmJRI99A.m3u8",
+    "codec": "AAC+",
+    "bitrate": 290,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DZRJ 810 AM | (Entertainment & Media)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s65807",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DZRJ FM RJ100 100.3 (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s120158",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DZRJ-AM",
+    "url": "http://111.125.87.226:8000/dzrjam",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DZTV DepEd Radio 1386 AM",
+    "url": "http://58.97.187.52:5007/rp4",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,filipino"
+  },
+  {
+    "name": "DepEd Radio Learning English 89.1 FM - HD3",
+    "url": "https://voa-ingest.akamaized.net/hls/live/2035234/160_342L/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 140,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Dream Radio Tacloban",
+    "url": "http://streamnavs.net:8133/live",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "filipino"
+  },
+  {
+    "name": "Dzas 702",
+    "url": "https://stream.radio.co/s14821250a/listen",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "EWTN Philippines",
+    "url": "https://ewtn-sgrewind.streamguys1.com/sgrewind/philippines/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "EWTN Philippines",
+    "url": "https://ewtn-ice.streamguys1.com/philippines-aac",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Eagle FM 95.5",
+    "url": "https://n0d.radiojar.com/yus0r2bghd3vv?rj-ttl=5&rj-tok=AAABlJu7jsUAmyVUk6qFVdTweA",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,filipino"
+  },
+  {
+    "name": "Eagle FM 95.5",
+    "url": "https://n06.radiojar.com/yus0r2bghd3vv?rj-ttl=5&rj-tok=AAABkvtiUekApAzmoP0lG-3HVQ",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Easy Rock Bacolod",
+    "url": "http://142.132.158.102:8679/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Easy Rock Baguio",
+    "url": "http://comet.shoutca.st:8274/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Easy Rock Boracay",
+    "url": "http://easyrockboracay.radioca.st:8887/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Easy Rock Boracay",
+    "url": "http://138.201.198.218:8887/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Easy Rock Cagayan De Oro",
+    "url": "http://142.132.158.102:9720/stream",
+    "codec": "MP3",
+    "bitrate": 40,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Easy Rock Cebu",
+    "url": "http://easyrockcebu.radioca.st:8219/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Easy Rock Cebu",
+    "url": "http://proxima.shoutca.st:8219/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Easy Rock Davao",
+    "url": "http://proxima.shoutca.st:8285/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Emotions",
+    "url": "https://stream.zeno.fm/03v7z8edgphvv.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,tagalog"
+  },
+  {
+    "name": "Energy FM 88.3 Davao | (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s350195",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Energy FM 94.7 Cebu | (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s350191",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Energy FM Cebu",
+    "url": "https://stream.zeno.fm/4oa5m3ffwutuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Energy FM Dagupan 90.3 | (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s350188",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Energy FM Dipolog",
+    "url": "https://stream.zeno.fm/xjtlneetbu0tv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Energy FM Manila 106.7 (World Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s166653",
+    "codec": "mp3",
+    "bitrate": 160,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Energy FM Naga",
+    "url": "https://stream.zeno.fm/klewk28qlqquv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Exotica Radio",
+    "url": "https://solid67.streamupsolutions.com/proxy/repadnom/stream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Extreme Online Radio",
+    "url": "https://stream.zeno.fm/s7vpxyv9gv8uv?t=1779627154371",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Extreme radio",
+    "url": "https://razzrdfx.com/listen/extreme_radio/radio.mp3?1724304820301",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "FM Radio 96.7 Davao De Oro",
+    "url": "http://209.126.124.126:8614/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "FM Radio Butuan",
+    "url": "https://stream.zeno.fm/rdnfm6z4ks7uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "FM Radio Camiguin",
+    "url": "http://62.138.18.102:8673/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "FM Radio Camiguin",
+    "url": "http://148.72.153.65:9204/stream",
+    "codec": "AAC+",
+    "bitrate": 56,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "FM Radio Davao",
+    "url": "http://62.138.18.102:8679/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "FM Radio Davao Region (Davao and Tagum)",
+    "url": "http://148.72.153.65:9226/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "FM Radio Regional",
+    "url": "http://148.72.153.65:9201/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "FM Radio Surigao",
+    "url": "http://209.126.124.126:8785/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "FM Radio Tacloban",
+    "url": "http://62.138.18.102:8676/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "FM Radio Tacloban",
+    "url": "http://148.72.153.65:9192/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "FMR 98.3 Camiguin",
+    "url": "https://de3.amfmph.com/ssl/fmrcamiguin?mp=/live",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "filipino"
+  },
+  {
+    "name": "FMR Central Luzon 105.5",
+    "url": "http://de3.amfmph.com:8715/live",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "filipino,kampampangan"
+  },
+  {
+    "name": "FMR Radyo Partido 99.5 - HD3",
+    "url": "https://28093.live.streamtheworld.com/DZMMAAC.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "filipino"
+  },
+  {
+    "name": "FReSH FM",
+    "url": "https://s36.radiolize.com/radio/8170/radio.mp3",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "FactBusters Radio",
+    "url": "https://stream.zeno.fm/h8xpcgffowluv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Favorite All Hit Radio Tagum",
+    "url": "https://cd.radyoph.com:8010/fahr_tagum",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Feels Radio",
+    "url": "https://stream.zeno.fm/8yak4n5qf48uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Filipino Music Central",
+    "url": "https://stream.zeno.fm/yqkru9yv3yzuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english/tagalog"
+  },
+  {
+    "name": "GOLDEN TIGER RADIO",
+    "url": "http://a2.asurahosting.com:6980/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "GV 99.1",
+    "url": "https://edge.mixlr.com/channel/gtqpn?listening-from-radio-garden=1654604184",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,filipino,kapampangan"
+  },
+  {
+    "name": "GV 99.9 FM",
+    "url": "https://gvstream.tail160f79.ts.net/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "GV 99.9 FM | (Asian Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s356762",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Galactic Hearts Radio",
+    "url": "https://ca.azura.linkodev.ch/listen/galactic_hearts_radio/radio.mp3",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Gensan music to enjoy",
+    "url": "https://laut.fm/gensan-city_music_to_enjoy",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Gold FM Kidapawan",
+    "url": "http://209.126.105.44:8119/high",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Gold FM Kidapawan",
+    "url": "http://us2.amfmph.com:8119/high",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Heart FM 92.7 Cagayan de Oro",
+    "url": "http://209.126.124.126:8745/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Heart FM 92.7Mhz CDO City",
+    "url": "https://us1.amfmph.com/ssl/heartfmcdo?mp=/stream&1679730513324",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Heart FM 93.7 - Bukidnon",
+    "url": "http://209.126.124.126:8530/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Heat Wave Radio Pacific",
+    "url": "http://192.111.140.11:8240/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Highway 94 Radio",
+    "url": "http://riverstyx.ddns.net:8000/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Home Radio Davao",
+    "url": "http://142.44.212.114:9357/stream",
+    "codec": "AAC+",
+    "bitrate": 24,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Home Radio Legazpi",
+    "url": "http://142.44.212.114:9373/stream",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Home Radio Naga",
+    "url": "https://hrnaga.radioca.st/stream?1778027244269",
+    "codec": "AAC+",
+    "bitrate": 24,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Hope FM Kenya",
+    "url": "https://a5.asurahosting.com:7530/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Hot Hiphop N RnB",
+    "url": "https://stream.zeno.fm/snqnkbnm208uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "IBCD Online Radio - Dumaguete City",
+    "url": "https://icecast.theanchor.app/ibcd",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "IDMZ SAYAW PINOY!",
+    "url": "https://cast3.asurahosting.com/proxy/idmzsayawpinoy/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Ignite Radio",
+    "url": "https://edge.mixlr.com/channel/jkbwc",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Infinite Radio Calbayog",
+    "url": "http://uk25freenew.listen2myradio.com:31600/;",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Infinite Radio Villaba",
+    "url": "http://stream.zeno.fm/uh1hpeplno0tv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Islamic Radio Filipino",
+    "url": "http://104.7.66.64:8009/;?icy=http",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Islamic Radio Filipino",
+    "url": "http://islamicbulletin.site:8030/stream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "JESUS IS LORD",
+    "url": "https://stream.zeno.fm/ygy55015e4duv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Jeepney Pinoy Radio",
+    "url": "https://usa5.fastcast4u.com/proxy/mcbnjpr?mp=/1",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Jexie FM",
+    "url": "https://cd.radyoph.com:8030/jexiefm",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Joy FM Davao Oriental",
+    "url": "http://122.53.61.251:8000/webilecaraga.ogg",
+    "codec": "MP3",
+    "bitrate": 80,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Joy FM North Cotabato",
+    "url": "http://122.53.61.251:8000/webilekidapawan.ogg",
+    "codec": "OGG",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Joy FM Tangub",
+    "url": "http://122.53.61.251:8000/tangub.ogg",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Jungle Radio",
+    "url": "https://dj.radyoph.com:8020/jungleradio",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "K5 News FM Bacolod",
+    "url": "http://209.126.124.126:8572/stream",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "K5 News FM Cagayan de Oro",
+    "url": "http://209.126.124.126:8773/stream",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "K5 News FM Capiz",
+    "url": "http://209.126.124.126:8584/stream",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "K5 News FM Dumaguete",
+    "url": "http://209.126.124.126:8581/stream",
+    "codec": "AAC+",
+    "bitrate": 12,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "K5 News FM Guihulngan",
+    "url": "http://209.126.124.126:8846/stream",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "K5 News FM Iloilo",
+    "url": "http://209.126.124.126:8647/stream",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "K5 News FM Palawan",
+    "url": "https://prox.radyoph.com/s/793cc15adff2fcd541b65150fb310738",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "K5 News FM Sagay",
+    "url": "http://209.126.124.126:8587/stream",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "K5 News FM San Carlos",
+    "url": "http://209.126.124.126:8590/stream",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "K5 News FM Siaton",
+    "url": "http://209.126.124.126:8632/stream",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "K5 News FM Tacloban",
+    "url": "http://209.126.124.126:8788/stream",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "KJM 94.3 FM",
+    "url": "https://stream.amfm.link:8010/kjm",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "KKBN INTERNET HEALTH RADIO",
+    "url": "https://stream.zeno.fm/8qt5kzmh144vv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "KUYA HENRY PANCHO ILIGAN",
+    "url": "https://stream.zeno.fm/t9opranhul1uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 7.681640252911006,
+    "lon": 124.99221414327624,
+    "language": ""
+  },
+  {
+    "name": "Kaboses Teleradyo",
+    "url": "http://streamnavs.net:8147/live",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Kaibigan Radio",
+    "url": "https://stream.rcast.net/66925",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Kakampi Partido 99.3 FM",
+    "url": "https://stream.zeno.fm/ctyttfz5p06tv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "King Radio Tabuk City",
+    "url": "https://stream.zeno.fm/hqmmdrw2b48uv?aw_0_req_lsid=213084d0938e3fc5344aa1adb0f8fb3a&triton-uid=cookie%3A7cebc1db-d1a7-403b-87ca-ccba0eb42e6b",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "filipino"
+  },
+  {
+    "name": "Kings Radio Davao",
+    "url": "http://209.126.124.126:8708/stream",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Kings Radio Davao",
+    "url": "http://us1.amfmph.com:8708/live",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "cebuano,filipino"
+  },
+  {
+    "name": "Kiss 102.3 Bohol",
+    "url": "http://live.kiss102fmbohol.com:8000/kiss",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "LS Pilipinas Radio 123.4 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s351649",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Last Days Radio",
+    "url": "http://de3.amfmph.com:8570/live",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Like Radio 104.7 Bais City",
+    "url": "https://s3.free-shoutcast.com/stream/18054",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Like Radio 104.7 Bais City | (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s348437",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Lite FM Lanao del Norte DXVL 107.7",
+    "url": "https://stream.zeno.fm/8c27zbgcmzzuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Lite Rock Manila",
+    "url": "http://us1.streamingpulse.com:7544/stream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Love Radio Bacolod",
+    "url": "http://loveradiobacolod.radioca.st:8088/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "filipino"
+  },
+  {
+    "name": "Love Radio Bacolod",
+    "url": "http://148.251.43.149:8088/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Love Radio Baguio",
+    "url": "http://138.201.198.218:8252/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Love Radio Baguio 95.1 (Easy Listening)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s106307",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Love Radio Butuan",
+    "url": "http://176.9.104.253:8319/stream",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Love Radio Catarman",
+    "url": "http://148.251.43.149:8796/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Love Radio Cebu",
+    "url": "http://138.201.198.218:8033/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Love Radio Cebu",
+    "url": "http://loveradiocebu.radioca.st:8033/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Love Radio Daet",
+    "url": "http://148.251.43.149:8804/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Love Radio Dagupan",
+    "url": "http://proxima.shoutca.st:8195/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Love Radio Dagupan",
+    "url": "http://loveradiodagupan.radioca.st:8195/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Love Radio Dagupan 98.3 (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s10711",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Love Radio Davao",
+    "url": "http://148.251.43.149:8227/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Love Radio General Santos 101.5 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s188159",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Love Radio Gensan",
+    "url": "http://148.251.43.231:8101/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Love Radio Iloilo",
+    "url": "http://148.251.43.231:8132/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Love Radio Iloilo 97.5 (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s115653",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Love Radio Kalibo",
+    "url": "http://148.251.43.149:8511/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Love Radio Kalibo 100.1 (News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s120769",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Love Radio Koronadal",
+    "url": "http://138.201.198.218:8241/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Love Radio Laoag",
+    "url": "http://loveradiolaoag.radioca.st:8027/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Love Radio Laoag 90.7 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s325019",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Love Radio Legazpi",
+    "url": "http://loveradiolegaspi.radioca.st:8035/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Love Radio Legazpi",
+    "url": "http://176.9.104.253:8035/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Love Radio Lucena",
+    "url": "http://148.251.43.231:8158/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Love Radio Lucena",
+    "url": "http://loveradiolucena.radioca.st:8158/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Love Radio Lucena 100.7 (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s281695",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Love Radio Malaybalay",
+    "url": "http://lovemalaybalay.radioca.st:8828/stream",
+    "codec": "MP3",
+    "bitrate": 24,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Love Radio Malaybalay",
+    "url": "http://148.251.43.149:8828/stream",
+    "codec": "MP3",
+    "bitrate": 24,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Love Radio Naga",
+    "url": "http://loveradionaga.radioca.st:8070/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Love Radio Naga",
+    "url": "http://138.201.52.248:8070/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Love Radio Palawan",
+    "url": "http://loveradiopalawan.radioca.st:8256/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Love Radio Palawan",
+    "url": "http://138.201.198.218:8256/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Love Radio Roxas",
+    "url": "http://loveradioroxas.radioca.st:8216/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Love Radio Roxas",
+    "url": "http://pollux.shoutca.st:8216/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Love Radio Santiago",
+    "url": "http://lovesantiago.radioca.st:8832/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "tagalog"
+  },
+  {
+    "name": "Love Radio Santiago",
+    "url": "http://148.251.43.149:8832/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Love Radio Santiago (M3U)",
+    "url": "https://lovesantiago.radioca.st/stream.m3u",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Love Radio Santiago 94.5 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s188157",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Love Radio Tacloban",
+    "url": "http://176.9.104.253:8113/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Love Radio Tacloban",
+    "url": "http://lovetacloban.radioca.st:8113/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Love Radio Tacloban 91.1",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s284467",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Love Radio Tuguegarao",
+    "url": "http://hubble.shoutca.st:8209/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Love Radio Zamboanga",
+    "url": "http://lovezamboanga.radioca.st:8157/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Love Radio Zamboanga",
+    "url": "http://proxima.shoutca.st:8157/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Love Radio Zamboanga 97.9 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s132026",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Lucky Radio Bayugan City",
+    "url": "http://de3.amfmph.com:8564/live",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MAGIC 89.9",
+    "url": "https://stream.zeno.fm/hcbrvvfd938uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MBS Radio",
+    "url": "https://stream-171.zeno.fm/67srwcmawgqtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2N3Nyd2NtYXdncXR2IiwiaG9zdCI6InN0cmVhbS0xNzEuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Im9JOGhDX0VfU0c2SXNBcDZmM1JzNnciLCJpYXQiOjE3MTU5NTQ1NzUsImV4cCI6MTcxNTk1NDYzNX0.VriCaRn4HyN7yDVnwXeryLgfMKkV4y_aJzugoJJ9Yeg",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 14.810266321955275,
+    "lon": 121.04755202965896,
+    "language": "english,filipino"
+  },
+  {
+    "name": "MOR",
+    "url": "http://22273.live.streamtheworld.com:3690/MORFM_S01_SC",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MOR 101.9 FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MORFM_S01.mp3",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MOR 101.9 FM | (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s14670",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MOR 93.9 Legazpi",
+    "url": "http://streamnavs.net:8089/live",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MOR Entertainment",
+    "url": "https://stream-37.zeno.fm/26ea0anpms8uv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MOR Entertainment",
+    "url": "http://28153.live.streamtheworld.com/MORFM_S01AAC_SC",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MOR Entertainment (PLS Format)",
+    "url": "http://28103.live.streamtheworld.com/MORFM_S01_SC",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MORe - Visayas",
+    "url": "https://stream-152.zeno.fm/dphe9050afhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkcGhlOTA1MGFmaHZ2IiwiaG9zdCI6InN0cmVhbS0xNTIuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlJUWWpCbjdaUllXNFU4NUd0bUQ1dmciLCJpYXQiOjE3NzQ1OTc2MzksImV4cCI6MTc3NDU5NzY5OX0.KD6hwzK2nrHDXy4Z0gRjPrO7MBUih5O7vgSla7WdQgE",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MRGV FM",
+    "url": "https://stream.zeno.fm/rm90k478s18uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MY FM 100.7 Bataan",
+    "url": "https://stream.zeno.fm/ra87k5qk7yzuv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MY965FM",
+    "url": "http://stream.zeno.fm/4udquzh4t8quv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MYX P-POP",
+    "url": "http://das-edge11-live365-dal03.cdnstream.com/a63316",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MYX P-POP Radio",
+    "url": "http://ais-edge50-live365-dal02.cdnstream.com/a63316",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "filipino"
+  },
+  {
+    "name": "MYX Philippines",
+    "url": "http://28093.live.streamtheworld.com:3690/MYXFM_SC",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Magic 89.9 (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s26016",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Magic 89.9 (aac)",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LIN_MAGIC899AAC_SC",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Magik FM Butuan",
+    "url": "http://159.89.206.221:8070/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Magik FM Cauayan",
+    "url": "http://159.89.206.221:8040/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Magik FM Dipolog",
+    "url": "http://159.89.206.221:8050/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Magik FM Laoag",
+    "url": "http://159.89.206.221:8010/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Magik FM Lucena",
+    "url": "http://159.89.206.221:8030/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Magik FM Tacloban",
+    "url": "http://159.89.206.221:8060/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Magik FM Tuguegarao",
+    "url": "http://159.89.206.221:8020/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Magik FM Vigan",
+    "url": "http://159.89.206.221:8000/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Magnum Radyo 99.9 Cagayan de Oro",
+    "url": "http://www.magnum999.com/radio/live.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Manaoag Dominican Radio FM 102.7 (Christian Contemporary)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s268246",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Mango Radio 102.7 (Christian Contemporary)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s118593",
+    "codec": "mp3",
+    "bitrate": 160,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Manila Sound Radio",
+    "url": "https://stream.manilasoundradio.com/listen/manila-sound-radio/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Manila Wave Radio 2",
+    "url": "https://a13.asurahosting.com/listen/manila_wave_radio_2/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Mapúa Radio Cardinal",
+    "url": "https://edge.mixlr.com/channel/nhtli",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Marino News FM Zamboanga",
+    "url": "https://stream.zeno.fm/4xq4cb6x6k0uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "filipino"
+  },
+  {
+    "name": "Mellow 94.7 BFM",
+    "url": "https://streamer.radio.co/sec36cd5f1/listen",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 14.576355613611168,
+    "lon": 121.05061143636703,
+    "language": "english"
+  },
+  {
+    "name": "Mellow 947 BFM 94.7 (Easy Listening)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s356184",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MemoRieS FM 89.9 Cebu",
+    "url": "http://67.212.238.178:7134/stream",
+    "codec": "MP3",
+    "bitrate": 54,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MemoRieS FM Cebu",
+    "url": "http://s5.reliastream.com:7134/stream",
+    "codec": "MP3",
+    "bitrate": 54,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Memories FM CEBU",
+    "url": "http://s5.reliastream.com:7134/stream/1/",
+    "codec": "MP3",
+    "bitrate": 54,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Monster BT105.9 | (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s188247",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Monster BT99.5 | (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s115252",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Monster RX93.1 | (Music Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s25863",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Myx",
+    "url": "https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-myxnola/CDN/playlist.m3u8?",
+    "codec": "AAC",
+    "bitrate": 1872,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "NewsRadio Buletin Southern Luzon",
+    "url": "https://eu8.fastcast4u.com/proxy/nixifof473?mp=/citrasluzon&amp;type=.aac",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "NovieG Retro Radio OPM",
+    "url": "https://stream.zeno.fm/r14c219day8uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "O-Rayt! Radio 97.5 FM",
+    "url": "https://stream.zeno.fm/s20ub6e1zf9uv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "OFW Radio",
+    "url": "https://s74.radiolize.com:8020/radio.mp3?t=1780673757445",
+    "codec": "AAC",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "OK FM 97.5 Olongapo",
+    "url": "https://servidor22-5.brlogic.com:7014/live?source=website",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "OK-FM 97.5 DZOK-FM | (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s105044",
+    "codec": "mp3",
+    "bitrate": 56,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "OK-FM Legazpi",
+    "url": "https://stream.zeno.fm/bqqqtxviwvfuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "OK-FM Naga",
+    "url": "https://stream.zeno.fm/s2ismkjehmyvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "OK-FM Sogod",
+    "url": "https://mercury.reliastream.com/proxy/broadte3?mp=/;",
+    "codec": "MP3",
+    "bitrate": 56,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "OK-FM Sorsogon",
+    "url": "https://radio.garden/api/ara/content/listen/i5Au89ck/channel.mp3?1768232045244",
+    "codec": "MP3",
+    "bitrate": 73,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "OK-FM Sorsogon",
+    "url": "https://s20.reliastream.com:8178/stream",
+    "codec": "MP3",
+    "bitrate": 130,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "OPM Christmas",
+    "url": "https://listen.streamaudio.co/proxy/kaibiganradio/opmxmas",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "OPM Kaibigan (Kaibigan Radio)",
+    "url": "https://listen.streamaudio.co/proxy/kaibiganradio/kaibigan",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "OPM RADIO",
+    "url": "https://listen.streamaudio.co/proxy/kaibiganradio/opm",
+    "codec": "AAC+",
+    "bitrate": 112,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "OPM Rise Up Radio",
+    "url": "https://listen.streamaudio.co/proxy/opmriseupradio/opmriseup",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "One FM Baler",
+    "url": "http://uk18freenew.listen2myradio.com:6640/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "One FM Legazpi",
+    "url": "https://ssl.radyoph.com:8010/onefm_legazpi",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "One FM Legazpi",
+    "url": "https://prox.radyoph.com/s/efe2c021eb62b7d37978156cc6baac77",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "One FM Lucena",
+    "url": "https://ssl.radyoph.com:8010/onefm_lucena",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "One FM Palawan",
+    "url": "https://stream.zeno.fm/yiqeykhjdw5uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "One FM Tarlac",
+    "url": "https://ssl.radyoph.com:8010/onefm_tarlac",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "One Radio News FM Daet",
+    "url": "http://165.154.210.116:9907/oneradiodaet",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "One Radio Tabaco",
+    "url": "http://165.154.210.116:9907/oneradiotabaco",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "PAGUDPUD BEACH RADIO",
+    "url": "https://stream.zeno.fm/a3ggpf8rt6duv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "PGRP Radio",
+    "url": "http://stream.zeno.fm/2xm2rdg48cquv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 14.655567335513515,
+    "lon": 121.02842956781387,
+    "language": ""
+  },
+  {
+    "name": "PH Lite",
+    "url": "https://stream.amfm.link/listen/ch1/phlite",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "PH Lite",
+    "url": "https://xcite.radyoph.com:8000/phlite",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Palawan Wave FM",
+    "url": "https://xcite.radyoph.com:8020/dzrt",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Pines FM Bataraza",
+    "url": "https://xcite.radyoph.com:8010/pinesfm",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Pinoy DJ Radio",
+    "url": "http://usa4.fastcast4u.com:5276/stream?type=http&nocache=10",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,tagalog"
+  },
+  {
+    "name": "Pinoy Radio",
+    "url": "http://167.114.11.79:16224/stream/1/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Pinoy Rap Radio",
+    "url": "https://stream.zeno.fm/0cdp55nqam0uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "filipino"
+  },
+  {
+    "name": "Pinoy Seoul Radio",
+    "url": "https://radio.pinoyseoul.com/radio/8000/live.mp3",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Pinoy power radio media",
+    "url": "https://streaming.live365.com/a67821",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Prime FM Ilonggo",
+    "url": "http://148.72.153.65:9265/live",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Prime FM Tagalog",
+    "url": "http://148.72.153.65:9268/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "R6 News FM",
+    "url": "https://stream.zeno.fm/adqlxubrtshvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO MARIA PHILIPPINES",
+    "url": "http://dreamsiteradiocp.com:8028/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO WESLEYAN 89.7 DWUP FM",
+    "url": "https://usa2.server2028.com/listen/radio_wesleyan_89.7_dwup_fm/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADYO ASELCO 106.5 (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s341293",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADYO BAGTING 756",
+    "url": "http://209.126.124.126:8901/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RAYSLAND CEBU",
+    "url": "http://173.208.146.230:8002/stream",
+    "codec": "AAC+",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RJ FM 100.3",
+    "url": "http://111.125.87.226:8000/rjfm",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RMN DXDC Davao",
+    "url": "https://stream.zeno.fm/qrrgyy1hyuatv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RMN DYHB 747 Bacolod",
+    "url": "http://209.126.105.44:8848/stream",
+    "codec": "AAC+",
+    "bitrate": 24,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RMN DYHB Bacolod",
+    "url": "http://us2.amfmph.com:8848/live",
+    "codec": "AAC+",
+    "bitrate": 24,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "filipino"
+  },
+  {
+    "name": "RMN DYRI Iloilo",
+    "url": "https://us1.amfmph.com/ssl/rmniloilo?mp=/stream",
+    "codec": "AAC+",
+    "bitrate": 24,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "filipino"
+  },
+  {
+    "name": "RMN Iloilo",
+    "url": "http://209.126.124.126:8011/stream",
+    "codec": "AAC+",
+    "bitrate": 24,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RP-FM 99.9 Tagum City",
+    "url": "https://stream.zeno.fm/qfscc4bvry6tv?adtonosListenerId=01HXKTHC4FX6BFRP2QEVJ2TV3E",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RPN DXDX GenSan",
+    "url": "http://88.198.70.25:8952/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RPN DXKO Cagayan de Oro",
+    "url": "http://88.198.70.25:8960/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RPN DXKS Surigao",
+    "url": "http://dxks-rpnradio.radioca.st:8448/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "filipino"
+  },
+  {
+    "name": "RPN DXKS Surigao",
+    "url": "https://dxks-rpnradio.radioca.st/stream?1729944678085",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RPN DYKB Bacolod",
+    "url": "http://88.198.70.25:8251/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RPN DYKC Cebu",
+    "url": "http://88.198.70.25:8236/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RPN DZBS Baguio",
+    "url": "http://88.198.70.25:8169/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RPN DZRL Batac",
+    "url": "http://88.198.70.25:8956/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RTG FM ㋡",
+    "url": "https://regiocast.streamabc.net/regc-radiobobmetalcore1855704-mp3-192-1809267?sABC=67sn43rs%231%23ahyy%23ubzrcntr_jnpxra&mode=preroll&aw_0_1st.skey=1744454636&cb=424203436&listenerid=null&aw_0_1st.playerid=homepage_wacken&amsparams=playerid:homepage_wacken;skey:1744454639?.mp3;audio.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RTG RADIO",
+    "url": "https://eu4.fastcast4u.com/proxy/bxixolbj/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 9.818051233169088,
+    "lon": 124.49534856396644,
+    "language": ""
+  },
+  {
+    "name": "Radio Boracay 106.1 fm",
+    "url": "https://s135.radiolize.com/radio/8020/radio.mp3",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Libertas Pampanga",
+    "url": "https://stream.zeno.fm/9td2da86gg8uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Maria Philippines",
+    "url": "http://57.129.49.167:8052/stream",
+    "codec": "MP3",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Maria Philippines",
+    "url": "https://dreamsiteradiocp2.com/proxy/rmphilippine?mp=/stream?ver=748140",
+    "codec": "MP3",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,filipino"
+  },
+  {
+    "name": "Radio Maria Philippines 99.7 (Religious Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s283984",
+    "codec": "mp3",
+    "bitrate": 32,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Alternatibo Ilonggo",
+    "url": "http://de3.amfmph.com:8245/high_live",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Bandera Catarman",
+    "url": "http://rmms.duckdns.org:9905/radyobanderacatarman",
+    "codec": "AAC",
+    "bitrate": 112,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Bandera Malaybalay",
+    "url": "https://dj.radyoph.com:8000/bandera64",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Bandera Olongapo",
+    "url": "https://sound.amfm.link:8030/banderaolongapo",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Bandera Puerto Princesa Palawan",
+    "url": "https://bandera.radyoph.com:8000/895hq",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Bandera Sweet FM",
+    "url": "https://us1.amfmph.com/ssl/sweetfmbacolod?mp=%2Fstream",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Bandera Sweet FM Iloilo",
+    "url": "https://us1.amfmph.com/ssl/sweetfmiloilo?mp=/stream",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Bandera Trento",
+    "url": "https://cd.amfm.link:8010/bandera_trento",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Bandera Valencia",
+    "url": "https://xcite.radyoph.com:8000/rbvalencia64",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Boholano FM Online",
+    "url": "https://stream.zeno.fm/hwr0geklhbouv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Bol-anon Network",
+    "url": "https://ssl.radyoph.com:8000/dyma_fm",
+    "codec": "AAC",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Kalibasib",
+    "url": "https://eu1.fastcast4u.com/proxy/radyokalibasib?mp=/1",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Katribu Philippines Teleradyo",
+    "url": "https://io.radyoph.com:8020/katribu",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Kidlat - ASELCO 106.5 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s341126",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Kidlat 91.3 FM",
+    "url": "https://stream.zeno.fm/t3bvque9fc9uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin (Mindanao)",
+    "url": "https://mindanao.radyonatinfm.com:8000/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Agoo",
+    "url": "https://pinas.radyonatinfm.com:8000/agoo",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Alaminos",
+    "url": "https://pinas.radyonatinfm.com:8010/alaminos",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Argao",
+    "url": "https://sound.radyonatinfm.com:8030/argao",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Baao",
+    "url": "https://xcite.radyonatinfm.com:8030/baao",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Bais",
+    "url": "https://sound.amfm.link/radio/8000/dybr",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,filipino"
+  },
+  {
+    "name": "Radyo Natin Bais",
+    "url": "http://sound.amfm.link/radio/8000/dybr",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Baler",
+    "url": "https://wave.radyonatinfm.com:8010/baler",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Bangued",
+    "url": "http://tx.radyonatinfm.com:8030/bangued",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Bayombong",
+    "url": "https://web.radyonatinfm.com:8030/bayombong",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Bislig",
+    "url": "https://audio.radyonatinfm.com:8020/bislig",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Boac",
+    "url": "https://phils.radyonatinfm.com:8010/boac",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin BonPen",
+    "url": "https://stream.radyonatinfm.com:8020/bonpen",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Bongabong",
+    "url": "https://sound.radyonatinfm.com:8010/bongabong",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Borongan",
+    "url": "https://fx.radyonatinfm.com:8020/borongan",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Brooke's Point",
+    "url": "https://xcite.radyonatinfm.com:8010/brookespoint",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Bugasong",
+    "url": "https://net.radyonatinfm.com:8020/bugasong",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Buhi",
+    "url": "https://ph.radyonatinfm.com:8030/buhi",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin CDO",
+    "url": "https://wave.radyonatinfm.com:8030/cdo",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Calapan",
+    "url": "https://sound.radyonatinfm.com:8000/calapan",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Calbayog",
+    "url": "http://net.radyonatinfm.com:8010/calbayog",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Caluag",
+    "url": "https://dj.radyonatinfm.com:8000/calauag",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Candon",
+    "url": "https://io.radyonatinfm.com:8030/candon",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Coron",
+    "url": "https://xcite.radyonatinfm.com:8000/coron",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Cotabato",
+    "url": "https://amp.radyonatinfm.com:8000/cotabato",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Dipolog",
+    "url": "https://mbc.radyonatinfm.com:8010/dipolog",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Guiuan",
+    "url": "https://air.radyonatinfm.com:8030/guiuan",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Gumaca",
+    "url": "https://cd.radyonatinfm.com:8000/gumaca",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Hamtic",
+    "url": "https://link.radyonatinfm.com:8000/hamtic",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Iba",
+    "url": "https://phils.radyonatinfm.com:8000/iba",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Infanta",
+    "url": "https://cd.radyonatinfm.com:8010/infanta",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Iriga",
+    "url": "https://mbc.radyonatinfm.com:8030/iriga",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Isulan",
+    "url": "https://amp.radyonatinfm.com:8010/isulan",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Jagna",
+    "url": "https://stream.radyonatinfm.com:8030/jagna",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Kiamba",
+    "url": "https://hifi.radyonatinfm.com:8030/kiamba",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Kidapawan",
+    "url": "https://phils.radyonatinfm.com/listen/ch4/kidapawan",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Laguna",
+    "url": "https://wave.radyonatinfm.com:8020/laguna",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Laoang",
+    "url": "https://io.radyonatinfm.com:8000/laoang",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Lebak",
+    "url": "https://hifi.radyonatinfm.com:8000/lebak",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Lemery",
+    "url": "https://xcite.radyonatinfm.com:8020/lemery",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Looc",
+    "url": "https://audio.radyonatinfm.com:8030/looc",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Lucban",
+    "url": "https://link.radyonatinfm.com:8010/lucban",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Lupon",
+    "url": "https://link.radyonatinfm.com:8030/lupon",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Madridejos",
+    "url": "https://tx.radyonatinfm.com:8010/madridejos",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Malita",
+    "url": "https://link.radyonatinfm.com:8020/malita",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Maramag",
+    "url": "https://air.radyonatinfm.com:8010/maramag",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Margosatubig",
+    "url": "https://pinas.radyonatinfm.com:8030/margosatubig",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Masbate",
+    "url": "https://net.radyonatinfm.com:8030/masbate",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Mati",
+    "url": "https://io.radyonatinfm.com:8010/mati",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Moalboal",
+    "url": "https://fx.radyonatinfm.com:8030/moalboal",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Nabunturan",
+    "url": "https://web.radyonatinfm.com:8020/nabunturan",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Naga",
+    "url": "https://web.radyonatinfm.com:8010/naga",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Odiongan",
+    "url": "https://ph.radyonatinfm.com:8010/odiongan",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Padre Garcia",
+    "url": "https://amp.radyonatinfm.com:8030/padregarcia",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Pagadian",
+    "url": "https://dj.radyonatinfm.com:8030/pagadian",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Paracale",
+    "url": "https://mbc.radyonatinfm.com:8000/paracale",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Pilar",
+    "url": "https://mbc.radyonatinfm.com:8020/pilar",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Pinamungajan",
+    "url": "https://audio.radyonatinfm.com:8010/pinamungajan",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Roxas (Oriental Mindoro)",
+    "url": "http://hifi.radyonatinfm.com:8020/roxas",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Sablayan",
+    "url": "https://air.radyonatinfm.com:8020/sablayan",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Sagay",
+    "url": "https://cd.radyonatinfm.com:8030/sagay",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin San Jose Occ. Mindoro",
+    "url": "https://fx.radyonatinfm.com:8010/sanjose",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin San Jose de Buenavista Antique",
+    "url": "https://hifi.radyonatinfm.com:8010/sja",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Santiago",
+    "url": "https://pinas.radyonatinfm.com:8020/santiago",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Sipalay",
+    "url": "https://tx.radyonatinfm.com:8020/sipalay",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Sorsogon",
+    "url": "https://stream.radyonatinfm.com:8010/sorsogon",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Sta. Cruz",
+    "url": "https://audio.radyonatinfm.com:8000/stacruz",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Sta. Elena",
+    "url": "https://web.radyonatinfm.com:8000/sta.elena",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Sto. Tomas",
+    "url": "https://stream.radyonatinfm.com:8000/santotomas",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Tabuk",
+    "url": "https://net.radyonatinfm.com:8000/tabuk",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Tagum",
+    "url": "https://ph.radyonatinfm.com:8000/tagum",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Tiwi",
+    "url": "https://io.radyonatinfm.com:8020/tiwi",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Victoria",
+    "url": "https://wave.radyonatinfm.com:8000/victoria",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Daanbantayan",
+    "url": "https://ph.radyonatinfm.com:8020/daanbantayan",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Natin Naval",
+    "url": "https://dj.radyonatinfm.com:8010/naval",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Ni Sano",
+    "url": "https://cd.radyoph.com:8000/rns128",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Pilipinas 1 (RP1 News)",
+    "url": "http://58.97.187.52:5001/rp1",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Pilipinas Davao",
+    "url": "http://209.126.105.44:9210/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Pilipinas Lucena",
+    "url": "https://prox.radyoph.com/s/8b26349cf9f4fcf156f8b95f28e52784",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Pilipino Manila",
+    "url": "https://ssl.radyoph.com:8000/radyopilipino_manila",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Primera",
+    "url": "https://us1.amfmph.com:8838/live",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Serbato - Dinagat Island",
+    "url": "https://stream.zeno.fm/t62eakybmasuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Serbato Butuan",
+    "url": "https://stream.zeno.fm/uhvwdbxa1k8uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Sincero GenSan",
+    "url": "http://mercury.reliastream.com:8013/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyo Todo 88.5 FM",
+    "url": "http://rmstream.todostreamcast.com/radyotodoaklan",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radyong Sira!",
+    "url": "https://radio.ltg.network/listen/radyongsira/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,filipino"
+  },
+  {
+    "name": "Radyong Sira!",
+    "url": "https://a7.asurahosting.com:9110/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Rage Music Philippines",
+    "url": "https://stream.zeno.fm/yu9dryfs7x8uv.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 13.85064349435294,
+    "lon": 120.9503692657754,
+    "language": "english,tagalog"
+  },
+  {
+    "name": "Rainbow 107.1 Emotions FM",
+    "url": "https://cast.rainbow-fm.com/listen/rainbow_fm/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Raysland Radio",
+    "url": "https://stream.hornhost.com:8002/stream",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 10.296687542081855,
+    "lon": 123.90360827412223,
+    "language": "english"
+  },
+  {
+    "name": "Remy United Radio 95.9 (80's)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s357607",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Republika ni Juan 87.5",
+    "url": "http://58.97.187.52:5001/fm1",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Retro 95.5 Davao",
+    "url": "http://148.72.153.65:9235/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Retro Davao 95.5",
+    "url": "http://62.138.18.102:8135/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Retro House Radio",
+    "url": "https://listen.streamaudio.co/proxy/retrohouseradio/house",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Rhythm 101 FM Online",
+    "url": "https://stream.zeno.fm/kpbamsatoqxtv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "SANIB PWERSA 101.7 YLFM & 90.5 HFM",
+    "url": "https://chloreign.com/listen/sanibpwersa/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "SDTV Radio",
+    "url": "https://usa2.server2028.com/listen/sdtv_radio/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "STARR Radio Tayasan",
+    "url": "http://cast5.asurahosting.com/proxy/mosfet/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "San Jose City Hottest Online Radio",
+    "url": "https://usa13.fastcast4u.com/proxy/itunerworldwide?mp=/1",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Scream Radio",
+    "url": "https://stream.zeno.fm/us9zu5w8zxhvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 13.878512887718555,
+    "lon": 121.103213393585,
+    "language": ""
+  },
+  {
+    "name": "Scream Radio",
+    "url": "https://stream.zeno.fm/c3z135w8zxhvv.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 13.903955437317036,
+    "lon": 121.0972046620638,
+    "language": ""
+  },
+  {
+    "name": "Shakey's Radio",
+    "url": "https://play.radioking.io/shakeys-radio1",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Sky Radio 93.1",
+    "url": "https://prox.radyoph.com/s/15ab8693e449989e2db8e875e7932e8e",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Sky Radio Gamay",
+    "url": "https://ssl.radyoph.com:8000/skyradio_gamay",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Solid FM 99.1 Mati",
+    "url": "http://209.126.124.126:8813/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Spirit FM Calapan",
+    "url": "http://209.126.124.126:8019/stream",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Spirit FM Gumaca",
+    "url": "https://stream.zeno.fm/ybdnwr4ws4zuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Spirit FM Legazpi",
+    "url": "https://stream.zeno.fm/dkeieomtv0ruv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Spirit FM Lucena",
+    "url": "http://stream.zeno.fm/fp689r8sty8uv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Spirit FM Masbate",
+    "url": "http://us5new.listen2myradio.com:2199/proxy/ekidthig/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Spirit FM Masbate",
+    "url": "https://us4new.listen2myradio.com:12373/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Spotlight Radio FM",
+    "url": "https://cast2.my-control-panel.com/proxy/dennis/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Star FM 92.7 Pampanga",
+    "url": "https://stream-13.zeno.fm/g1pmt17nz9duv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,filipino,kapampangan"
+  },
+  {
+    "name": "Star FM 94.5 La Union",
+    "url": "https://stream-144.zeno.fm/sa27v4d29heuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzYTI3djRkMjloZXV2IiwiaG9zdCI6InN0cmVhbS0xNDQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjAzWkd2TktFVFk2ZDBYMjlQQk9WVUEiLCJpYXQiOjE3MzkxNDI4MjEsImV4cCI6MTczOTE0Mjg4MX0.k1L24899hTkQMsVjbACkzzfi8EpFurlfG1OJlkXpJiA",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,ilocano"
+  },
+  {
+    "name": "Star FM 95.5 Cebu",
+    "url": "https://stream-146.zeno.fm/60cb36c29heuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2MGNiMzZjMjloZXV2IiwiaG9zdCI6InN0cmVhbS0xNDYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImJMWEdONUVnUWFpUG1ETU1EeUhYX2ciLCJpYXQiOjE3NDE0MzA4NjIsImV4cCI6MTc0MTQzMDkyMn0.4qElo5I_0GF5A3aE5mUfF6T44wqKi0drur2zii2Q0KA",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "cebuano,english,filipino"
+  },
+  {
+    "name": "Star FM Bacolod",
+    "url": "https://stream.zeno.fm/kg6tx8w4t9duv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Star FM Baguio",
+    "url": "https://stream.zeno.fm/sa27v4d29heuv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Star FM Cebu",
+    "url": "https://stream.zeno.fm/60cb36c29heuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Star FM Cotabato",
+    "url": "https://stream.zeno.fm/hf1yubc29heuv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Star FM Dagupan",
+    "url": "https://stream.zeno.fm/kw40qqc29heuv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Star FM Davao",
+    "url": "https://stream.zeno.fm/sdtv271nz9duv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Star FM Dipolog",
+    "url": "https://stream.zeno.fm/qd45x88q0y5tv.aac",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Star FM Iloilo",
+    "url": "https://stream.zeno.fm/t9tm8gm29heuv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Star FM Manila",
+    "url": "https://stream.zeno.fm/536cwdq78heuv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Star FM Manila",
+    "url": "https://stream.zeno.fm/g1pmt17nz9duv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Star FM Roxas",
+    "url": "https://stream.zeno.fm/6qehcpd29heuv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Star FM Zamboanga",
+    "url": "https://stream.zeno.fm/sfaqs2c29heuv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Sweet 97.7 FM Santiago",
+    "url": "https://radio.garden/api/ara/content/listen/Cf0PBMJg/channel.mp3?1783643725859",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Switch FM",
+    "url": "http://stream.zeno.fm/st932y9xs98uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "TAPS RADIO ALICIA",
+    "url": "https://us1.amfmph.com/ssl/tapsradi?mp=/stream&1642337283814",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,filipino"
+  },
+  {
+    "name": "TAPS RADIO ALICIA",
+    "url": "http://209.126.124.126:8593/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "TAPS RADIO ILAGAN",
+    "url": "https://us1.amfmph.com/ssl/tapsradioilagan?mp=/stream",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,filipino"
+  },
+  {
+    "name": "TAPS RADIO ILAGAN",
+    "url": "http://209.126.124.126:8608/stream",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "TAPS RADIO ROXAS",
+    "url": "http://209.126.124.126:8599/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "TGON KoolFM 106.7",
+    "url": "https://stream-31.zeno.fm/2ss1hgnu6hhvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,filipino"
+  },
+  {
+    "name": "TGON Radio - DZEX 1026",
+    "url": "http://95.154.197.82:11004/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,filipino"
+  },
+  {
+    "name": "Tambayan 103.9",
+    "url": "https://tambayan1039.alwaysdata.net/stream.php?t=1769259796149",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Tee Radio",
+    "url": "https://stream.zeno.fm/7neg6f1hbm0uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Tingog Binisaya",
+    "url": "http://62.138.18.102:8888/stream",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Tops Media Center",
+    "url": "https://s2.radio.co/s8d8aade20/listen",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Tunog Pinoy Power FM",
+    "url": "http://streamnavs.net:8143/live",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "UM RADIO",
+    "url": "https://stream.zeno.fm/fing1gwxuqztv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Unbox Radio",
+    "url": "https://stream.zeno.fm/2m8rqpd37p8uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Unbox Radio 88 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s345126",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "V-Hive Radio Philippines",
+    "url": "http://192.99.8.192:3154/vhiveradiostream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Veritas 846 | (Catholic Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s345642",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Vibe 105.5 FM Bohol",
+    "url": "http://music.vibe1055live.com:8001/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Vibe 105.5 FM Bohol",
+    "url": "http://119.93.156.186:8001/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Vibe 95.9 FM Central Luzon",
+    "url": "https://stream.zeno.fm/zf0ac4raqy8uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Voice Radio Catarman",
+    "url": "https://stream.zeno.fm/gbfhjvrljhxuv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "WIN RADIO CEBU 107.5 (60's Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s49784",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "WOW RADIO",
+    "url": "https://ph.amfm.link:8030/wowradio",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "WXB 102",
+    "url": "https://edge.mixlr.com/channel/lldmm",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Wild FM Butuan",
+    "url": "http://62.138.18.102:8136/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Wild FM Butuan",
+    "url": "http://148.72.153.65:9238/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Wild FM Cagayan de Oro",
+    "url": "http://62.138.18.102:8129/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Wild FM Cagayan de Oro",
+    "url": "http://148.72.153.65:9241/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Wild FM Davao",
+    "url": "http://62.138.18.102:8130/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Wild FM Davao",
+    "url": "http://148.72.153.65:9244/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Wild FM Gensan",
+    "url": "http://62.138.18.102:8131/stream",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Wild FM Gensan",
+    "url": "http://148.72.153.65:9247/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Wild FM Iligan",
+    "url": "http://62.138.18.102:8132/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Wild FM Iligan",
+    "url": "http://148.72.153.65:9250/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Wild FM Iloilo",
+    "url": "http://148.72.153.65:9253/stream",
+    "codec": "AAC+",
+    "bitrate": 24,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Wild FM Valencia",
+    "url": "http://62.138.18.102:8137/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Win Radio Cagayan de Oro",
+    "url": "http://stream.zeno.fm/delhmcm1qhntv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Win Radio Cagayan de Oro",
+    "url": "https://stream.zeno.fm/delhmcm1qhntv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Win Radio Cebu",
+    "url": "https://stream.zeno.fm/dx1k9na7nznvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Win Radio Cebu",
+    "url": "http://stream.zeno.fm/sxk9ss4f4oeuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Win Radio Davao",
+    "url": "https://stream-42.zeno.fm/1noxhem5qpkuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "cebuano,filipino"
+  },
+  {
+    "name": "Win Radio Davao",
+    "url": "https://stream.zeno.fm/1noxhem5qpkuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Win Radio Iloilo",
+    "url": "https://stream.zeno.fm/vmifa1pxyjtuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Win Radio Naga",
+    "url": "https://stream.zeno.fm/sxzgyqjtehntv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Win Radio Valencia",
+    "url": "https://stream.zeno.fm/vzrt2visttbvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Win Radio Valencia",
+    "url": "https://stream.zeno.fm/1uphwerxpnquv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "X FM Naga City, Philippines (NEW)",
+    "url": "https://listen.imjinteractive.net:8028/stream",
+    "codec": "AAC",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "XFM 100.7 DAVAO REGION",
+    "url": "https://us1.amfmph.com/ssl/xfmdavao?mp=/live",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "XFM 101.7 BUKIDNON",
+    "url": "http://209.126.124.126:8736/stream",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "XFM 106.5 ROXAS CITY",
+    "url": "https://ssl.radyoph.com:8000/xfmroxascapiz",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "XFM 106.5 ROXAS CITY",
+    "url": "http://209.126.124.126:8921/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "XFM 92.3 Mega Manila",
+    "url": "http://62.138.18.102:8753/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "filipino"
+  },
+  {
+    "name": "XFM 96.5 KALIBO",
+    "url": "http://209.126.124.126:8800/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "XFM 96.7 BACOLOD",
+    "url": "https://us1.amfmph.com/ssl/xfmbacolod?mp=/live",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "XFM 99.5 Mega Manila",
+    "url": "http://148.72.153.65:9198/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "XFM 99.5 Zamboanga",
+    "url": "http://209.126.124.126:8832/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "XFM BACOLOD",
+    "url": "http://209.126.124.126:8684/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "XFM Bayugan",
+    "url": "http://209.126.124.126:8742/stream",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "XFM Cebu",
+    "url": "http://209.126.124.126:8748/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "XFM Davao",
+    "url": "https://prox.radyoph.com/s/5b7b0498c0d9a66ee056583bad87d8fc",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "XFM Davao City",
+    "url": "http://us1.amfmph.com:8724/live",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "XFM Gensan",
+    "url": "http://209.126.124.126:8797/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "XFM ILOILO",
+    "url": "http://us1.amfmph.com:8696/live",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "XFM Iloilo",
+    "url": "http://209.126.124.126:8696/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "XFM Naga City",
+    "url": "https://radio.garden/api/ara/content/listen/K4xq1Bn1/channel.mp3?1773999344042",
+    "codec": "AAC",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "XFM Palawan",
+    "url": "http://209.126.124.126:8835/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "XFM Sagay",
+    "url": "https://proud-glitter-ed5b.johnrserantes424.workers.dev/",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "XFM San Francisco",
+    "url": "http://209.126.124.126:8794/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "XFM Santiago",
+    "url": "http://209.126.124.126:8739/stream",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Y101 Cebu",
+    "url": "http://us1.amfmph.com:8849/live",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Y101FM 101.1 (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s2742",
+    "codec": "mp3",
+    "bitrate": 48,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Y101fm Cebu",
+    "url": "http://209.126.124.126:8849/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "YeY FM",
+    "url": "https://stream-174.zeno.fm/pnjlccj6jd2uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Yes FM Boracay",
+    "url": "http://95.217.34.48:8253/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Yes FM Cagayan de Oro",
+    "url": "http://comet.shoutca.st:8040/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Yes FM Cauayan",
+    "url": "http://142.132.158.102:9933/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Yes FM Cebu",
+    "url": "http://95.217.34.48:9136/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Yes FM Dagupan",
+    "url": "http://5.9.13.39:10300/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Yes FM Dumaguete",
+    "url": "http://148.251.43.231:8406/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Yes FM Iligan",
+    "url": "http://proxima.shoutca.st:8181/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Yes FM Urdaneta (mp3)",
+    "url": "http://proxima.shoutca.st:8258/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Yes FM Valencia",
+    "url": "http://proxima.shoutca.st:8231/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Yes FM Zamboanga",
+    "url": "http://proxima.shoutca.st:8313/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Yes FM Zamboanga",
+    "url": "https://yesfmzamboanga.radioca.st/tunein/yesfmzamboanga-stream.pls",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Yes The Best Cagayan de Oro",
+    "url": "http://yesfmcdo.radioca.st:8040/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Yes The Best Cauayan",
+    "url": "http://yesfmcauayan.radioca.st:9933/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Yes The Best Dagupan",
+    "url": "http://yesfmdagupan.radioca.st:10300/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Yes The Best Dumaguete",
+    "url": "http://yesfmdumaguete.radioca.st:8406/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Yes The Best Iligan",
+    "url": "http://yesfmiligan.radioca.st:8181/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Yes The Best Valencia",
+    "url": "http://yesfmvalencia.radioca.st:8231/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Yes The Best Zamboanga",
+    "url": "http://yesfmzamboanga.radioca.st:8313/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "iFM Bacolod",
+    "url": "https://ssl.radyoph.com/listen/ch2/ifm_bacolod",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "iFM Cebu",
+    "url": "http://45.136.19.0:8064/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "iFM Dagupan",
+    "url": "http://icecast.eradioportal.com:8000/ifm_dagupan",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "iFM Iloilo",
+    "url": "http://62.138.18.102:8288/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "iMix Radio",
+    "url": "https://stream.zeno.fm/sbmi7cx5z8buv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 13.87823758425786,
+    "lon": 121.1039081283032,
+    "language": "english,tagalog"
+  }
+]

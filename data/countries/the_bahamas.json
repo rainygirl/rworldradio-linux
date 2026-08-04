@@ -1,0 +1,112 @@
+[
+  {
+    "name": "103 The Beat",
+    "url": "https://stream.radiojar.com/01d8c449cyduv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 25.078447091841248,
+    "lon": -77.34134674072266,
+    "language": "english"
+  },
+  {
+    "name": "96.9 FM GuardianRadio",
+    "url": "https://radiostreams.streamcomedia.com:8000/969guardianradio",
+    "codec": "MP3",
+    "bitrate": 82,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "96.9FM GuardianRadio",
+    "url": "https://radiostreams.streamcomedia.com:8000/969guardianradio",
+    "codec": "MP3",
+    "bitrate": 82,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Abdulbasit Abdulsamad",
+    "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Bahamian or Nuttin",
+    "url": "https://s2.reliastream.com/proxy/rumcayme?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 25.070766205882947,
+    "lon": -77.35061645507814,
+    "language": "english"
+  },
+  {
+    "name": "Bahamianor Nuttin 92.5 FM",
+    "url": "https://s2.reliastream.com/proxy/rumcayme?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 25.07138815758652,
+    "lon": -77.35336303710939,
+    "language": "english"
+  },
+  {
+    "name": "Global 99.5 FM",
+    "url": "http://ice64.securenetsystems.net/GLOBALBS",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Kingdom Living Publications & Media Ltd",
+    "url": "https://s4.radio.co/s440e54fd7/listen",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "LCLHST R1",
+    "url": "http://s1.radio.lclhst.net:1437/r1",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "LCLHST R2",
+    "url": "http://s1.radio.lclhst.net:1437/r2",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Minimal, Techno, Electro Sets @ http://radio.lclhst.net/",
+    "url": "http://s1.radio.lclhst.net:1437/r2",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

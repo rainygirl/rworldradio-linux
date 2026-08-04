@@ -1,0 +1,202 @@
+[
+  {
+    "name": "AFN 360 Guantanamo Bay",
+    "url": "http://27783.live.streamtheworld.com:3690/AFNE_GMO_SC",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "CVCradio-online",
+    "url": "https://stream.zeno.fm/2ajykhn6m8hvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 22.343707160360804,
+    "lon": -80.27214556932451,
+    "language": ""
+  },
+  {
+    "name": "Canal Radio Cruces Cienfuegos",
+    "url": "https://stream.laut.fm/canalradio",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Cuban Flow Radio",
+    "url": "http://nap.casthost.net:9194/stream.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "CubanFlow Radio",
+    "url": "http://nap.casthost.net:9194/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Cubania Radio",
+    "url": "https://streamingv2.shoutcast.com/cubania?type=.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Emisora de Radio \"ATodaMecha\"",
+    "url": "https://stream.zeno.fm/gjexooyemj3uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 20.92296241226858,
+    "lon": -79.36523437500001,
+    "language": "english,spanish"
+  },
+  {
+    "name": "Hostal Azul Radio",
+    "url": "https://stream.zeno.fm/b4m2tic2ibbtv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,francés,italian,spanish"
+  },
+  {
+    "name": "La salsa cubana",
+    "url": "https://stream.zeno.fm/uf2r0d5ny39uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 26.59343927024179,
+    "lon": -81.63208007812501,
+    "language": "español mexico,ingles español"
+  },
+  {
+    "name": "Neonradioxl",
+    "url": "http://s12.myradiostream.com:16754/listen.m4a",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 23.027535887971304,
+    "lon": -82.0845954485574,
+    "language": "spanish"
+  },
+  {
+    "name": "Prensa Latina",
+    "url": "https://cdn4.onstream.audio:9267/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Prensa Latina - Agencia Informativa Latinoamericana",
+    "url": "https://cdn4.onstream.audio:9267/stream?download=false",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español internacional,latinoamerica"
+  },
+  {
+    "name": "ROMANCE106",
+    "url": "http://s13.myradiostream.com:41400/listen.m4a",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 23.04170844537619,
+    "lon": -82.33651141612123,
+    "language": "#spanish,spanish"
+  },
+  {
+    "name": "Radio Campesina Cubana",
+    "url": "https://radiocampesinacubana.stream.laut.fm/radiocampesinacubana?t302=2026-03-30_17-54-34&uuid=88a18688-fffa-480a-b5d6-ce0a3dc5d9b0",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio María de la Caridad",
+    "url": "https://stream-178.zeno.fm/5rul798y3xatv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI1cnVsNzk4eTN4YXR2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiYnBJZUcwVXNUVFNpOG5DdUdBVHhLUSIsImlhdCI6MTc2ODQ1OTYwOCwiZXhwIjoxNzY4NDU5NjY4fQ.IsCZjeoijiP6UAbbIuRw6WcW1C8FZ0o0RRQpr5J1Nzg",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 20.050634062998935,
+    "lon": -75.94912578457279,
+    "language": "castellano. español,español - latinoamerica,spanish"
+  },
+  {
+    "name": "Radio María de la Caridad",
+    "url": "https://stream-178.zeno.fm/5rul798y3xatv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI1cnVsNzk4eTN4YXR2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicWE2VTRtSS1UYktZaG9qQzdiZVhndyIsImlhdCI6MTc2ODQ2NDYzMCwiZXhwIjoxNzY4NDY0NjkwfQ.Sl_URE0_F__jKDTpgBCCsAGFrnrZSEKpPWCdSyiZGek",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 20.02619366672857,
+    "lon": -75.82545824632444,
+    "language": "español - latinoamerica,spanish"
+  },
+  {
+    "name": "Radio María de la Caridad",
+    "url": "https://usa6.fastcast4u.com/proxy/aserranog/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Progreso 90.3 FM",
+    "url": "https://securestreams7.autopo.st/?uri=https://icecast.teveo.cu/XjfW7qWN",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Rebelde 1180 AM",
+    "url": "https://securestreams7.autopo.st/?uri=https://icecast.teveo.cu/kHKL7tWd",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 23.108006631567505,
+    "lon": -82.38063812255861,
+    "language": ""
+  },
+  {
+    "name": "Radio Reloj Cuba 950 AM",
+    "url": "https://securestreams7.autopo.st/?uri=https://icecast.teveo.cu/b3jbfThq",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  }
+]

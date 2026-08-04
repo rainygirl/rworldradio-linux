@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Abdulbasit Abdulsamad",
+    "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Korean Central Broadcasting Station",
+    "url": "https://radio.intchoson.com/kcbs/index.m3u8",
+    "codec": "AAC",
+    "bitrate": 183,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "korean"
+  },
+  {
+    "name": "Korean Central Broadcasting System (KCBS)",
+    "url": "https://kctv.koryofront.org/stream/kcradio1/index.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Pyongyang",
+    "url": "https://listen7.myradio24.com/69366",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Pyongyang Radio FM",
+    "url": "https://listen7.myradio24.com/69366",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 38.86991912631935,
+    "lon": 125.826416015625,
+    "language": "spanish"
+  },
+  {
+    "name": "Voice of Chongro",
+    "url": "https://stream.zeno.fm/oldwnjuma3duv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "korean"
+  },
+  {
+    "name": "Voice of Korea",
+    "url": "https://listen7.myradio24.com/69366",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 39.03650652220644,
+    "lon": 125.75843937648436,
+    "language": ""
+  },
+  {
+    "name": "Voice of Korea",
+    "url": "https://radio.intchoson.com/vok/index.m3u8",
+    "codec": "AAC",
+    "bitrate": 195,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic,chinese,english,espaňol,german,japanese,korean,russian,spanish"
+  },
+  {
+    "name": "Voice of Korea (Russian)",
+    "url": "https://listen4.myradio24.com/60315",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "russian"
+  },
+  {
+    "name": "Голос Корей",
+    "url": "https://listen4.myradio24.com/60315",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "язык: русский"
+  },
+  {
+    "name": "조선의 소리",
+    "url": "https://radio.intchoson.com/vok/index.m3u8",
+    "codec": "AAC",
+    "bitrate": 185,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "korean"
+  },
+  {
+    "name": "조선중앙방송",
+    "url": "https://radio.intchoson.com/kcbs/index.m3u8",
+    "codec": "AAC",
+    "bitrate": 186,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "korean"
+  },
+  {
+    "name": "평양FM105.2",
+    "url": "http://listen7.myradio24.com/69366",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "korean"
+  }
+]

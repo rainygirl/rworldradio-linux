@@ -1,0 +1,1222 @@
+[
+  {
+    "name": "Ars",
+    "url": "http://mp3.rtvslo.si/ars",
+    "codec": "AAC",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovenian"
+  },
+  {
+    "name": "Best FM Ljubljana",
+    "url": "https://live.radio.si/BestFM",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "ENTER.RADIO",
+    "url": "https://stream.nextmedia.si/proxy/enter_1?mp=/enter",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 46.03365085916674,
+    "lon": 14.48281905584166,
+    "language": "slovenian"
+  },
+  {
+    "name": "FRAJER RADIO",
+    "url": "https://stream.nextmedia.si/proxy/frajer_1?mp=/frajer?uid=frjweb;",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Gorenjska TV",
+    "url": "http://91.220.221.60/gtv_hls/gtv.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 1500,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovenian"
+  },
+  {
+    "name": "Hit Radio Center (Ljubljana - 102.4MHz)",
+    "url": "http://stream3.radiocenter.si:8000/;center/1",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 46.05059924996085,
+    "lon": 14.504184722900392,
+    "language": "slovenian,slovenski"
+  },
+  {
+    "name": "Hitradio Center",
+    "url": "http://stream3.radiocenter.si:8000/center",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Hitradio Center",
+    "url": "http://stream2.radiocenter.si:8058/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Hitradio center 80's",
+    "url": "http://stream3.radiocenter.si:8064/;stream/1",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Hitradio center fresh pop",
+    "url": "http://stream3.radiocenter.si:8058/;stream/1",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Hitradio center latin",
+    "url": "http://stream3.radiocenter.si:8200/;stream/1",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,spanish"
+  },
+  {
+    "name": "Hitradio center love",
+    "url": "http://stream3.radiocenter.si:8060/;stream/1",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Hitradio center megamix",
+    "url": "http://stream3.radiocenter.si:8066/;stream/1",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Hitradio center rock",
+    "url": "http://stream.rockradio.si:9034/;stream/1",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,slovenian"
+  },
+  {
+    "name": "Hitradio center top 100",
+    "url": "http://stream3.radiocenter.si:9020/;stream/1",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Hitradio center yu",
+    "url": "http://stream3.radiocenter.si:8100/;stream/1",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "croatian,slovenian"
+  },
+  {
+    "name": "MARŠ 95,9 MHz",
+    "url": "http://frekvenca.eu:8000/radiomars.mp3",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Muravidéki Magyar Rádió",
+    "url": "http://mp3.rtvslo.si/mmr",
+    "codec": "AAC",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hungarian"
+  },
+  {
+    "name": "RADIO NET FM",
+    "url": "http://reflector.radionet.si:8000/stream.ogg",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "ROCK RADIO Hard & Heavy",
+    "url": "https://stream.nextmedia.si/proxy/rocks_2?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "ROCK RADIO SI",
+    "url": "http://stream.rockradio.si:9034/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovenian"
+  },
+  {
+    "name": "Radi Frajer",
+    "url": "https://stream2.nextmedia.si/hls/frj/128k/frj-128.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 46.03366257471062,
+    "lon": 14.482834339141847,
+    "language": ""
+  },
+  {
+    "name": "Radio 1",
+    "url": "https://live.radio1.si/Radio1",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 46.084772031353296,
+    "lon": 14.485806226730348,
+    "language": "slovenian"
+  },
+  {
+    "name": "Radio 1",
+    "url": "https://live.radio.si/Radio1",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 46.08460380025714,
+    "lon": 14.485453269913254,
+    "language": "slovenian"
+  },
+  {
+    "name": "Radio 1",
+    "url": "http://live.radio.si/Radio1",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovenian"
+  },
+  {
+    "name": "Radio 1 Koroska",
+    "url": "https://live.radio1.si/Radio1KOR",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 46.08457403436264,
+    "lon": 14.485469324598116,
+    "language": ""
+  },
+  {
+    "name": "Radio 1 Rock",
+    "url": "https://live.radio.si/Radio1Rock?t=1776880155210",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 46.04883590239146,
+    "lon": 14.606323242187502,
+    "language": "slovenian"
+  },
+  {
+    "name": "Radio 2",
+    "url": "http://live.radio2.si/Radio2?1448457274706.mo3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio 2",
+    "url": "http://live.radio2.si/Radio2?1448457274706.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovenian"
+  },
+  {
+    "name": "Radio 94",
+    "url": "http://77.38.12.198:8000/radio94",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovenian"
+  },
+  {
+    "name": "Radio ARS",
+    "url": "https://mp3.rtvslo.si/ars",
+    "codec": "AAC",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 46.05440176625423,
+    "lon": 14.5093136999097,
+    "language": ""
+  },
+  {
+    "name": "Radio Aktual",
+    "url": "http://195.95.158.131:9080/",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovenian"
+  },
+  {
+    "name": "Radio Antena",
+    "url": "http://live.radioantena.si/Antena",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovenian"
+  },
+  {
+    "name": "Radio Antena (105.2MHz)",
+    "url": "https://live.radio.si/Antena",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 46.08466189789014,
+    "lon": 14.484400749206545,
+    "language": "slovenian,slovenski"
+  },
+  {
+    "name": "Radio BOB",
+    "url": "http://live6.infonetmedia.si/Europa05",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovenian"
+  },
+  {
+    "name": "Radio Bob",
+    "url": "https://live.radio.si/BOB",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 46.05407793251436,
+    "lon": 14.50675964355469,
+    "language": "slovenian"
+  },
+  {
+    "name": "Radio Capodistria",
+    "url": "http://mp3.rtvslo.si/capo",
+    "codec": "AAC",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "italian"
+  },
+  {
+    "name": "Radio Capris 80",
+    "url": "http://stream02.exit.si:8000/80?",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 45.5478369923404,
+    "lon": 13.731043338775637,
+    "language": "slovenian"
+  },
+  {
+    "name": "Radio Capris 90 DANCE",
+    "url": "http://stream02.exit.si:8000/MEGAMIX?",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 45.54741623202582,
+    "lon": 13.73097896575928,
+    "language": "slovenian"
+  },
+  {
+    "name": "Radio Capris 90 POP",
+    "url": "http://stream02.exit.si:8000/90?",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 45.5478369923404,
+    "lon": 13.730828762054443,
+    "language": "slovenian"
+  },
+  {
+    "name": "Radio Capris Dalmacija",
+    "url": "http://stream02.exit.si:8000/DALMACIJA?",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 45.54789710069964,
+    "lon": 13.730356693267822,
+    "language": "slovenian"
+  },
+  {
+    "name": "Radio Capris EX - YU",
+    "url": "http://stream02.exit.si:8000/EXYU?",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 45.54780693813665,
+    "lon": 13.730313777923584,
+    "language": "slovenian"
+  },
+  {
+    "name": "Radio Capris Hits",
+    "url": "http://stream02.exit.si:8000/HITS?",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovenian"
+  },
+  {
+    "name": "Radio Capris ITALIA",
+    "url": "http://stream02.exit.si:8000/ITA?",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovenian"
+  },
+  {
+    "name": "Radio Capris LOVE",
+    "url": "http://stream02.exit.si:8000/LOVE?",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovenian"
+  },
+  {
+    "name": "Radio Capris POLETJE",
+    "url": "http://stream02.exit.si:8000/POLETJE?",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovenian"
+  },
+  {
+    "name": "Radio Capris Rock",
+    "url": "http://stream02.exit.si:8000/ROCK?",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 45.54723590521258,
+    "lon": 13.730807304382326,
+    "language": "slovenian"
+  },
+  {
+    "name": "Radio Capris SLO",
+    "url": "http://stream02.exit.si:8000/SLO?",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 45.547716775429045,
+    "lon": 13.730528354644775,
+    "language": "slovenian"
+  },
+  {
+    "name": "Radio Celje",
+    "url": "https://stream.rgl.si/Celje",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovenian"
+  },
+  {
+    "name": "Radio Center 80s",
+    "url": "http://stream2.radioekspres.si:8064/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,slovenian"
+  },
+  {
+    "name": "Radio Center Gen X",
+    "url": "https://stream2.nextmedia.si/hls/gex/live.m3u8",
+    "codec": "AAC",
+    "bitrate": 134,
+    "needsResolve": false,
+    "lat": 46.55013969936318,
+    "lon": 15.650711059570314,
+    "language": "slovenian,slovenski"
+  },
+  {
+    "name": "Radio City",
+    "url": "https://stream1.radiocity.si/CityMp3128.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio City (Maribor) 100.6 FM",
+    "url": "http://82.149.22.34:8000/CityMp364mono.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovenian"
+  },
+  {
+    "name": "Radio City MB",
+    "url": "http://82.149.22.34:8000/CityMp3128.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Ekspres SI",
+    "url": "http://145.14.14.93:8016/stream/1/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Expres",
+    "url": "http://stream2.radioekspres.si:8016/stream?type=http&nocache=138",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovenian"
+  },
+  {
+    "name": "Radio Frajer",
+    "url": "https://stream2.nextmedia.si/hls/frj/live.m3u8",
+    "codec": "AAC",
+    "bitrate": 134,
+    "needsResolve": false,
+    "lat": 46.03363347962416,
+    "lon": 14.482808264701482,
+    "language": "slovenian"
+  },
+  {
+    "name": "Radio Gorenc",
+    "url": "http://stream.radiogorenc.si:8000/radiogorenc.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovenian,slovenski,slowenisch"
+  },
+  {
+    "name": "Radio Hit",
+    "url": "http://stream03.exit.si:8000/radiohit",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 46.03768185559552,
+    "lon": 14.499151935665513,
+    "language": "slovenian"
+  },
+  {
+    "name": "Radio KRka",
+    "url": "https://live.radio.si/Krka",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 45.814383844698945,
+    "lon": 15.154566764831545,
+    "language": "slovenian,slovenski"
+  },
+  {
+    "name": "Radio Koper",
+    "url": "http://mp3.rtvslo.si/rakp",
+    "codec": "AAC",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovenian"
+  },
+  {
+    "name": "Radio METEOR .si",
+    "url": "https://stream.radiometeor.si/listen/meteor/live.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovenian"
+  },
+  {
+    "name": "Radio MMR",
+    "url": "https://mp3.rtvslo.si/mmr",
+    "codec": "AAC",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Maribor",
+    "url": "https://mp3.rtvslo.si/rmb",
+    "codec": "AAC",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 46.546051895137865,
+    "lon": 15.613701939582826,
+    "language": "slovenian"
+  },
+  {
+    "name": "Radio Maxi",
+    "url": "https://live.radio.si/Maxi?t=1722577989752",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Maxi",
+    "url": "http://live2.infonetmedia.si:8000/Maxi",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Meteor",
+    "url": "http://eu1.fastcast4u.com:20052/stream",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Mister Deejay",
+    "url": "http://stream.mister-deejay.com:9008/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovenian"
+  },
+  {
+    "name": "Radio Nula",
+    "url": "https://strm.radionula.com/classics",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Nula Beatz",
+    "url": "https://strm.radionula.com/lounge",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Nula Classics",
+    "url": "http://streaming.radionula.com:8800/classics",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Nula Organic",
+    "url": "https://strm.radionula.com/channel2",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Ognjišče",
+    "url": "https://live.radio.si/ognjisce.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Ognjišče - mp3 stream",
+    "url": "http://live.ognjisce.si/ognjisce.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovenian"
+  },
+  {
+    "name": "Radio Prlek",
+    "url": "http://86.61.68.81:8000/;stream.nsv&type=mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Prvi",
+    "url": "http://mp3.rtvslo.si/ra1",
+    "codec": "AAC",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovenian"
+  },
+  {
+    "name": "Radio Ptuj",
+    "url": "https://live.radio.si/Ptuj",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Rogla",
+    "url": "http://193.105.67.24:8010/;?type=http&nocache=3804",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 46.34141281830138,
+    "lon": 15.42395979166031,
+    "language": "slovenian"
+  },
+  {
+    "name": "Radio Roška",
+    "url": "http://stream.zeno.fm/q7300aptbwzuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bosnian,croatian,montenegrin,serbian,slovenian"
+  },
+  {
+    "name": "Radio S",
+    "url": "http://live.radio.si/radios",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Salomon",
+    "url": "http://84.52.138.44/Salomon",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovenian"
+  },
+  {
+    "name": "Radio Si",
+    "url": "http://mp3.rtvslo.si/rsi",
+    "codec": "AAC",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Sloven'c",
+    "url": "http://89.142.192.172/live",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 46.00516727077994,
+    "lon": 15.307104356432776,
+    "language": "slovenian"
+  },
+  {
+    "name": "Radio Slovenija 1",
+    "url": "https://mp3.rtvslo.si/prvi",
+    "codec": "AAC",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 46.04885808856456,
+    "lon": 14.506727079253473,
+    "language": ""
+  },
+  {
+    "name": "Radio Sora",
+    "url": "http://radio-sora.si:8000/radio-sora.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovenian"
+  },
+  {
+    "name": "Radio Sraka",
+    "url": "http://193.105.67.24:8006/",
+    "codec": "MP3",
+    "bitrate": 112,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovenian"
+  },
+  {
+    "name": "Radio Student",
+    "url": "http://kruljo.radiostudent.si:8000/hiq",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Student",
+    "url": "https://kruljo.radiostudent.si:8001/hiq",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Student",
+    "url": "http://kruljo.radiostudent.si:8000/ehiq",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Terminal",
+    "url": "https://air.radioterminal.si/live",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,slovenian"
+  },
+  {
+    "name": "Radio Tomi",
+    "url": "http://93.103.130.12:8080/tomi.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,slovenian"
+  },
+  {
+    "name": "Radio Triglav",
+    "url": "http://live.radiotriglav.si/Triglav",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovenian"
+  },
+  {
+    "name": "Radio Veseljak",
+    "url": "http://195.95.158.131:9060/",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovenian"
+  },
+  {
+    "name": "Radio Veseljak-Pumpa",
+    "url": "http://live.radio.si/VeseljakPumpa",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 48.69976759741503,
+    "lon": 19.687500000000004,
+    "language": ""
+  },
+  {
+    "name": "Radio Zica",
+    "url": "http://live.1chi.si/zica",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovenian"
+  },
+  {
+    "name": "Radio robin",
+    "url": "https://live.radio.si/Robin",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 45.95455794007237,
+    "lon": 13.668209910392765,
+    "language": "slovenian"
+  },
+  {
+    "name": "Radio Štajerski val",
+    "url": "https://stream.stajerskival.si:8443/live",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 46.21566624921268,
+    "lon": 15.395450592041016,
+    "language": "slovenian"
+  },
+  {
+    "name": "Radio Študent",
+    "url": "http://kruljo.radiostudent.si:8000/loq",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovenian"
+  },
+  {
+    "name": "Radio1",
+    "url": "https://live.radio1.si/Radio80",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Retro Radio",
+    "url": "https://zvok.ragla.si/gr",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 45.88373420818209,
+    "lon": 14.438685178756716,
+    "language": "slovenian"
+  },
+  {
+    "name": "Retro Radio",
+    "url": "https://zvok.ragla.si/gr?1670057106819",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Rock Maribor",
+    "url": "http://live.rockmaribor.si/RockMB",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovenian"
+  },
+  {
+    "name": "Rock Maribor",
+    "url": "https://live.radio.si/RockMB?t=1732114443550",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Rock Radio",
+    "url": "http://stream3.radiocenter.si:9032/;",
+    "codec": "AAC+",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovenian"
+  },
+  {
+    "name": "Rock Radio",
+    "url": "https://stream.nextmedia.si/proxy/rockr1_1?mp=/rock;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 46.033711989724935,
+    "lon": 14.482727050781252,
+    "language": "slovenian"
+  },
+  {
+    "name": "Rock Radio Best Ballads SLO",
+    "url": "https://stream.nextmedia.si/proxy/rocks_1?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovenian"
+  },
+  {
+    "name": "Rock Radio Classics",
+    "url": "https://stream.nextmedia.si/proxy/rocks_3?mp=/rock?uid=rrweb",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovenian,slovenski"
+  },
+  {
+    "name": "Rock Radio Classics SLO",
+    "url": "https://stream.nextmedia.si/proxy/rocks_3?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovenian"
+  },
+  {
+    "name": "Rock Radio SLO",
+    "url": "https://stream.nextmedia.si/proxy/rockr2_2?mp=/stream",
+    "codec": "AAC+",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Rock Radio Slovenia",
+    "url": "https://stream.nextmedia.si/proxy/rockr1_1?mp=/rock",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Rock radio classics",
+    "url": "https://stream.nextmedia.si/proxy/rocks_3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Rádio Timea",
+    "url": "http://evcast.mediacp.eu:1480/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,slovenian"
+  },
+  {
+    "name": "Toti Maxi",
+    "url": "https://live.radio.si/Maxi",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Toti Radio",
+    "url": "https://live.radio.si/Toti?t=1722581297315",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Toti Radio",
+    "url": "https://live.radio.si/Toti",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 46.55297294258766,
+    "lon": 15.647277832031252,
+    "language": "slovenian"
+  },
+  {
+    "name": "Univox",
+    "url": "https://solid33.streamupsolutions.com/proxy/vtmpasiq?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "VAL 202",
+    "url": "http://mp3.rtvslo.si:8000/val202",
+    "codec": "AAC",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 46.0499678221549,
+    "lon": 14.50706950967697,
+    "language": ""
+  },
+  {
+    "name": "Val 202",
+    "url": "http://mp3.rtvslo.si/val202",
+    "codec": "AAC",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovenian"
+  },
+  {
+    "name": "Zeleni val",
+    "url": "https://jurepeterka.radioca.st/stream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovenian"
+  },
+  {
+    "name": "bAm BaM RADIO - All shades of house",
+    "url": "https://stream.laidbackvib.es:8888/320",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "radio nula 2",
+    "url": "http://streaming.radionula.com:8800/channel2",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "radio nula lounge",
+    "url": "http://streaming.radionula.com:8800/lounge",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

@@ -1,0 +1,672 @@
+[
+  {
+    "name": "94.9 FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/949FM_ADP.m3u8",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "ARCA RADIO HD",
+    "url": "https://sh2.radioonlinehd.com:8136/arca",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Actitud 100.9",
+    "url": "https://ss.redradios.net:8002/stream?type=.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,spanish"
+  },
+  {
+    "name": "Astro Radio",
+    "url": "https://sonicpanel.streamsolutions.us:10945/stream",
+    "codec": "AAC+",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Atmósfera 96.5",
+    "url": "https://stream.zenolive.com/wbqp37gm8ueuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Azúcar 96.7 FM",
+    "url": "https://radiostreamingaac.com:8568/azucarzacapa",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Azúcar FM 99.9",
+    "url": "https://radiostreamingaac.com:8570/azucarjutiapa",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "CARACOL RADIO 105.1 FM",
+    "url": "https://stream.zeno.fm/u844q3w08mwtv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Caribean FM 105.1",
+    "url": "https://sh4.radioonlinehd.com:8547/stream",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Clásica 102.5 Guatemala",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CLASICA_1065AAC.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 14.643509527811169,
+    "lon": -90.51180839538576,
+    "language": "spanish"
+  },
+  {
+    "name": "Computer Forensic Radio",
+    "url": "https://radio.forensedigital.gt:8020/stream",
+    "codec": "AAC",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español internacional,inglés/portugués/español,spanish"
+  },
+  {
+    "name": "Criollisima GT",
+    "url": "https://radio.forensedigital.gt:8060/stream",
+    "codec": "AAC",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español - latinoamerica,español internacional,spanish"
+  },
+  {
+    "name": "Dinámica 89.9 FM",
+    "url": "https://cloudstream2032.conectarhosting.com/8312/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "EMAUS RADIO",
+    "url": "https://sh2.radioonlinehd.com:8141/;",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "El Comandante 101.3 FM",
+    "url": "http://108.62.0.141:7038/stream",
+    "codec": "AAC",
+    "bitrate": 40,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Emisoras Unidas 89.7",
+    "url": "https://stream.zenolive.com/z96sq8tndseuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Emisoras Unidas 91.1 FM",
+    "url": "https://stream.zeno.fm/3tfg0vng9ueuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Emisoras Unidas 91.1 FM",
+    "url": "https://stream.zeno.fm/0zashcvc9zquv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Estéreo Alegre 101.5 FM",
+    "url": "https://stream.zeno.fm/597dgr66e2zuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Estéreo Gerardi 107.9 FM",
+    "url": "https://aler.org:8445/gerardi.mp3",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Estéreo Santa Sion",
+    "url": "https://radio015.gt.gt/radio/8000/live.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Estéreo Solar 104.9 FM",
+    "url": "https://radiostreamingaac.com:8566/solarpeten",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Estéreo Solar 89.5 FM",
+    "url": "https://radiostreamingaac.com:8560/solarchiquimula",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Estéreo Solar 98.3 FM",
+    "url": "https://radiostreamingaac.com:8562/solarjutiapa",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Eventos Catolicos Radio 940 AM",
+    "url": "https://stream.zeno.fm/1g9cduy10bruv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Exa FM 101.7 Guatemala",
+    "url": "https://stream.zeno.fm/czdkk32qduhvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 14.626030940165991,
+    "lon": -90.51652908325195,
+    "language": "spanish"
+  },
+  {
+    "name": "FeLove Biblia en Quiché",
+    "url": "http://radio.produccionescasaverde.com:8788/autodj",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "quiché"
+  },
+  {
+    "name": "FeLove Clásica",
+    "url": "https://feloveclasica-radiofelove.radioca.st/stream?1741424230037",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Felicidad Stereo",
+    "url": "http://radio.produccionescasaverde.com:8720/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Futura 92.3",
+    "url": "https://unsaved-gadfly-addilyn.ngrok-free.dev/mystream.mp3",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Gaiteros de Guatemala",
+    "url": "https://radio.forensedigital.gt:8030/stream",
+    "codec": "AAC",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español - latinoamerica,español internacional,spanish"
+  },
+  {
+    "name": "Globo 98.9 Guatemala",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/GLOBO_989AAC.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 14.64334344236646,
+    "lon": -90.5130100250244,
+    "language": "spanish"
+  },
+  {
+    "name": "Hacker por Cristo Network",
+    "url": "https://radio.forensedigital.gt:8010/stream",
+    "codec": "AAC",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "#spanish,español internacional,spanish"
+  },
+  {
+    "name": "Josy Music Latin",
+    "url": "https://dj91.hostingnuclear.com/8144/stream",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Josy Music PLUS",
+    "url": "https://dj91.hostingnuclear.com/8116/stream",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Josy Music Swing",
+    "url": "https://dj91.hostingnuclear.com/8146/stream",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Juventud Palabra Miel",
+    "url": "http://juventudpalabramiel.org:8000/radio",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Kiss FM 97.7",
+    "url": "https://stream.zenolive.com/1sgzkhhm8ueuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "La Grande 99.3 FM",
+    "url": "https://stream.zeno.fm/f1bgph3ve0quv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "La Red 106.1 Guatemala",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LA_REDAAC.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 14.644672122401682,
+    "lon": -90.5123233795166,
+    "language": "spanish"
+  },
+  {
+    "name": "Maranatha Stereo Amen",
+    "url": "https://server.radiogs.net:7042/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Mía 93.7 Guatemala",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIAAAC.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 14.64344594824172,
+    "lon": -90.51416873931886,
+    "language": "spanish"
+  },
+  {
+    "name": "Nueva Fabuestéreo 88.1FM y Quetzaltenango 89.5FM",
+    "url": "https://stream.zeno.fm/vs325dhm8ueuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Observatorio OGDI Guatemala",
+    "url": "https://radio.forensedigital.gt:8000/stream",
+    "codec": "AAC",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "#spanish,español internacional,espaňol,spanish"
+  },
+  {
+    "name": "Oriòn Stereo",
+    "url": "https://ss.redradios.net:8046/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO ESLA",
+    "url": "http://stream.zeno.fm/wdr15uyuezzuv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO MARIA GUATEMALA",
+    "url": "http://dreamsiteradiocp.com:8072/stream",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO ORLA - CAMINO ROJO",
+    "url": "https://dj91.hostingnuclear.com/8080/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio 107 Exito - 107.1 FM",
+    "url": "http://play10.tikast.com:8159/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Activa 95.1 FM. En linea católica",
+    "url": "https://sh4.radioonlinehd.com:8557/stream",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 14.661449132019085,
+    "lon": -90.81812457399792,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Amiga 93.3 FM",
+    "url": "http://radiolatina.live:8072/;",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Camino Santidad",
+    "url": "http://audio.livecastnet.com:1290/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Central 91.9 FM",
+    "url": "http://live.myradioserver.net:7588/;",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Cultural TGN",
+    "url": "https://stream.infinityhdstream.com/7054/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 14.637756150915653,
+    "lon": -90.49507141113284,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Guate digital",
+    "url": "https://radioguatedigital.com/live/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Infinita",
+    "url": "https://streams.radio.co/see730c7ab/listen",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,spanish"
+  },
+  {
+    "name": "Radio Ixchel",
+    "url": "https://stream-153.zeno.fm/p5fpudbtguquv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwNWZwdWRidGd1cXV2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkhQQ0hFUkhUUUcyYVg1aXAyZ2R2M2ciLCJpYXQiOjE3Mjg1NzAzNTIsImV4cCI6MTcyODU3MDQxMn0.VvFIl3Nw_mS-gU9NqWTn58XakUv8FxUjIGavl6lfqcA",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 14.651939755839036,
+    "lon": -90.73956012725831,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Mesiánica",
+    "url": "https://felovemesianica-radiofelove.radioca.st/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Radio Punto 90.5 Guatemala",
+    "url": "http://stream.zeno.fm/qzhqyu07dkhvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 14.64230800058546,
+    "lon": -90.51137924194336,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Romance",
+    "url": "https://stream.zeno.fm/gnkysrxv3a0uv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español internacional"
+  },
+  {
+    "name": "Radio Sololá",
+    "url": "https://sh1.radioonlinehd.com:8039/stream",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 14.740623346313251,
+    "lon": -91.15960747003555,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Universidad",
+    "url": "https://stream.zeno.fm/xqbz7b86a0quv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 14.586224916109924,
+    "lon": -90.55326461791994,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Viva 95.3 Guatemala",
+    "url": "https://stream.zeno.fm/uus2ugdadkhvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 14.6425130132561,
+    "lon": -90.51318168640138,
+    "language": "spanish"
+  },
+  {
+    "name": "Rhema Stereo",
+    "url": "https://radio.fiberstreams.com:2000/stream/8710",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "SINAI WORKSHOP",
+    "url": "https://radio.forensedigital.gt:8070/stream",
+    "codec": "AAC",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español internacional,spanish"
+  },
+  {
+    "name": "Stereo 100, Quetzaltenango",
+    "url": "https://sh1.radioonlinehd.com:8056/stream?type=.mp3",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 14.840470035326694,
+    "lon": -91.5211140551115,
+    "language": "spanish"
+  },
+  {
+    "name": "TGW La Voz de Guatemala",
+    "url": "https://stream.radiotgw.gob.gt/8002/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

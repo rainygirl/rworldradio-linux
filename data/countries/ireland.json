@@ -1,0 +1,2232 @@
+[
+  {
+    "name": "1150 AM 101.7 FM WDEL",
+    "url": "https://live-bauerie.sharp-stream.com/KERRYAAC",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "2xM",
+    "url": "https://liveaudio.rte.ie/hls-radio/2xm/chunklist.m3u8",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 53.32282800230565,
+    "lon": -6.235084533691407,
+    "language": "english"
+  },
+  {
+    "name": "8Radio",
+    "url": "https://stream.rcast.net/66127",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 53.34410084363813,
+    "lon": -6.266986721846733,
+    "language": "english"
+  },
+  {
+    "name": "8radio",
+    "url": "https://edge4.audioxi.com/8RADIO",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "92.5 Phoenix FM",
+    "url": "https://audio-edge-5r6yd.cdg.o.radiomast.io/cfee4afe-9f7e-4902-84bd-807f6b5d1c02",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 53.39207776800134,
+    "lon": -6.3918301463127145,
+    "language": ""
+  },
+  {
+    "name": "98FM Throwback",
+    "url": "https://live-bauerie.sharp-stream.com/98",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "98fm Dance",
+    "url": "https://edge.audioxi.com/98DANCE",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Absolute Irish Radio",
+    "url": "http://stream.audioxi.com/IRISHAAC",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "BFBS Northern Ireland",
+    "url": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs4.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "BOB FM",
+    "url": "https://bobfm-seanashmore.radioca.st/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 53.34932510332232,
+    "lon": -6.259889602661133,
+    "language": ""
+  },
+  {
+    "name": "BRIAN DALY",
+    "url": "https://uksoutha.streaming.broadcast.radio:28140/lifefm",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 51.890702841673935,
+    "lon": -8.462905883789064,
+    "language": ""
+  },
+  {
+    "name": "Beat 102 103",
+    "url": "https://stream.audioxi.com/BEAT",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,irish"
+  },
+  {
+    "name": "Beat 102-103",
+    "url": "https://live-bauerie.sharp-stream.com/BEAT",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Beat 102-103",
+    "url": "http://stream.audioxi.com/BEATAAC",
+    "codec": "AAC",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 52.26273640796508,
+    "lon": -7.106609344482423,
+    "language": ""
+  },
+  {
+    "name": "Biggest Disco Radio",
+    "url": "https://s5.radio.co/s823d25743/low",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "C103 North",
+    "url": "http://wg.cdn.tibus.net/C103",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 52.1153027616824,
+    "lon": -8.660488128662111,
+    "language": ""
+  },
+  {
+    "name": "C103 West",
+    "url": "https://wg.cdn.tibus.net/C103West",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 52.116225114679835,
+    "lon": -8.66027355194092,
+    "language": ""
+  },
+  {
+    "name": "CFC FM",
+    "url": "https://visual.shoutca.st/stream/crcfm",
+    "codec": "AAC+",
+    "bitrate": 384,
+    "needsResolve": false,
+    "lat": 53.855104781080634,
+    "lon": -9.302115440368654,
+    "language": "english"
+  },
+  {
+    "name": "Ceol FM",
+    "url": "http://ceol.fm:8000/live",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 53.7149559391313,
+    "lon": -6.352436854136933,
+    "language": ""
+  },
+  {
+    "name": "Christmas FM",
+    "url": "https://christmasfm.cdnstream1.com/2547_128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Christmas FM",
+    "url": "https://christmasfm.cdnstream1.com/2547_128.mp3?listenerId=esAdblock0724411&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1671316064&aw_0_req.gdpr=false",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Christmas FM Classical",
+    "url": "https://christmasfm.cdnstream1.com/2549_128.mp3?listenerId=94d1ac3bf877b65e4e17cd7e9bfec132&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1692448390",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Christmas FM Classical & Carols",
+    "url": "https://christmasfm.cdnstream1.com/2549_128.mp3?",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Christmas FM Classical & Carols",
+    "url": "https://christmasfm.cdnstream1.com/2549_64.aac",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Christmas FM Classics",
+    "url": "https://christmasfm.cdnstream1.com/2550_128.mp3?listenerId=94d1ac3bf877b65e4e17cd7e9bfec132&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1692448283",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Christmas FM Ireland",
+    "url": "https://christmasfm.cdnstream1.com/2547_128.mp3?listenerId=esTrackblock097016&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1692448019",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Circle Of White Light Radio",
+    "url": "https://eu4.fastcast4u.com/proxy/cowlradio?mp=/1",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Clare FM",
+    "url": "http://edge.audioxi.com/CLAREFM",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Classic Hits 4FM",
+    "url": "http://stream.audioxi.com/CLASSIC",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Classic Hits 80s",
+    "url": "https://edge7.audioxi.com/CH80S",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Clonmellon Community Radio",
+    "url": "https://eu8.fastcast4u.com/proxy/ccr?mp=/1",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 53.66455761487399,
+    "lon": -7.016658782958985,
+    "language": "english"
+  },
+  {
+    "name": "Club FM  Dublin Dublins hottest dance mix",
+    "url": "https://c6.radioboss.fm:8225/autodj",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Club FM Dublin",
+    "url": "https://c6.radioboss.fm:8225/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Community Radio Castlebar",
+    "url": "https://radiozender.mpbnetwerken.nl/crcfm",
+    "codec": "AAC+",
+    "bitrate": 384,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Community Radio Castlebar (Backup)",
+    "url": "https://radiozender.mpbnetwerken.nl/crcfm-backup",
+    "codec": "AAC+",
+    "bitrate": 384,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Community Radio Youghal",
+    "url": "http://142.132.158.102:8221/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Cork City Community Radio",
+    "url": "https://stream.cr.ie:8402/mp3",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Cork's RedFM",
+    "url": "https://live-bauerie.sharp-stream.com/RED",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 51.87856806231769,
+    "lon": -8.516979217529299,
+    "language": "english"
+  },
+  {
+    "name": "DDM RADIO IRELAND",
+    "url": "http://93.107.98.107:8000/;stream.nsv",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 53.30987286871065,
+    "lon": -6.222930660697663,
+    "language": ""
+  },
+  {
+    "name": "DEEP HOUSE RADIO",
+    "url": "https://streaming.shoutcast.com/dhr?1728967549574",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Deep House Radio",
+    "url": "http://master.shoutcast.com:8000/dhr",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 51.901918172561714,
+    "lon": -8.473205566406252,
+    "language": ""
+  },
+  {
+    "name": "Deep House Radio",
+    "url": "https://deephouse-radio.com/api/stream/free",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Deephouse radio",
+    "url": "http://ec1.everestcast.host:1490/stream?xi1amefeqvksbquhue3jidp6boikushz",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Deise Christmas Radio",
+    "url": "https://drn.radioca.st/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Dublin Digital Radio",
+    "url": "https://dublin-digital-radio.radiocult.fm/stream",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Dublin's 98FM",
+    "url": "https://stream.audioxi.com/98",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Dublin's FM104",
+    "url": "https://onic.dublin.live.stream.broadcasting.news/stream-fm104",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 53.32824835864475,
+    "lon": -6.273193359375,
+    "language": "english"
+  },
+  {
+    "name": "Dublin's FM104",
+    "url": "https://wg.cdn.tibus.net/fm104MP3128",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 53.336777397085555,
+    "lon": -6.289672851562501,
+    "language": "english"
+  },
+  {
+    "name": "Dublin's Q102",
+    "url": "https://onic.dublin.live.stream.broadcasting.news/stream-q102",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 53.34202513462736,
+    "lon": -6.263580322265626,
+    "language": "english"
+  },
+  {
+    "name": "Dublin's Q102 80s",
+    "url": "http://wg.cdn.tibus.net/Q10280s",
+    "codec": "AAC",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Dundalk FM",
+    "url": "http://80.249.249.245:8000/;?1485109331489",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Dunnes Radio",
+    "url": "https://radiozender.mpbnetwerken.nl/dunnesradio.mp3",
+    "codec": "AAC",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Dunnes Radio",
+    "url": "http://icy-zurich.mpbnl.nl/dunnesradio.mp3",
+    "codec": "AAC",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Dunnes Radio",
+    "url": "https://stream.dunnesroblox.com/dunnesradio.mp3",
+    "codec": "AAC",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "East Coast FM",
+    "url": "https://live-bauerie.sharp-stream.com/EASTCOAST?_=999173",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "East Coast FM",
+    "url": "http://sirius.shoutca.st:8461/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 53.14617674117376,
+    "lon": -6.067584372105145,
+    "language": ""
+  },
+  {
+    "name": "Easy Radio Ireland, Easy Mix",
+    "url": "https://streaming.exclusive.radio/uber/easymix/icecast.audio",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Energy 106 Belfast Northern Ireland",
+    "url": "https://stream1.hippynet.co.uk:8189/Studio",
+    "codec": "AAC+",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "FM104",
+    "url": "https://wg.cdn.tibus.net/fm104MP3128?aw_0_1st.playerId=wireless-website&listenerid=79ac2cc9cb7616aca4d7286d94dd9291&awparams=companionAds%3Atrue&aw_0_req.gdpr=false&aw_0_req.userConsentV2=undefined&aw_0_1st.octave_permutive=%5B%2282977%22%5D&_=472417",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Finn Valley FM",
+    "url": "http://visual.shoutca.st:8000/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Flirt FM 101.3",
+    "url": "http://streams.radiomast.io/89e24041-fdab-4b2d-95bd-830f5bfda900",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 53.2782688697501,
+    "lon": -9.058010280132295,
+    "language": "english,gaeilge,irish"
+  },
+  {
+    "name": "Flirt FM 101.3",
+    "url": "https://streams.radiomast.io/89e24041-fdab-4b2d-95bd-830f5bfda900",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Freedom FM",
+    "url": "https://edge3.audioxi.com/FREEDOMFM",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 53.33569732138368,
+    "lon": -6.246070861816407,
+    "language": "english"
+  },
+  {
+    "name": "Funky Ass Tunes",
+    "url": "https://ams1.reliastream.com/proxy/john12/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 53.34919523614019,
+    "lon": -6.259546306796818,
+    "language": ""
+  },
+  {
+    "name": "GEM New Wave Radio",
+    "url": "http://95.217.34.48:8928/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "GOCOM Radio",
+    "url": "https://stream-57.zeno.fm/6rx2z8u2um0uv?zs=1dODRfWFRzyrlJXub0Ru6Q",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Galway Bay FM",
+    "url": "https://wg.cdn.tibus.net/galwaybay.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Gem New Wave Radio",
+    "url": "https://gemradionw.radioca.st/;stream.nsv",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Gem New Wave Radio",
+    "url": "https://gemradio.radioca.st/stream/1/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 53.362128594114495,
+    "lon": -6.300659179687501,
+    "language": "english"
+  },
+  {
+    "name": "Global Radio Cork (Ireland)",
+    "url": "http://media2.streambrothers.com:8186/Global",
+    "codec": "AAC+",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Gravity Hits",
+    "url": "https://live.btsstream.com/stream/gravityhits",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "HITMIX RADIO IRELAND",
+    "url": "https://a8.asurahosting.com:7180/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "HeadWax Radio",
+    "url": "https://headwaxradio.radioca.st/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Heartbeat FM",
+    "url": "https://cast5.magicstreams.gr:8010/",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Highland Radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/HIGHLAND_RADIO.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Ignoreradio Shoegaze",
+    "url": "https://sp1.autopo.st/8026/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Irish Country Music Radio",
+    "url": "http://46.28.49.164:7502/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Irish Country Music Radio",
+    "url": "http://streaming.galaxywebsolutions.com:7502/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Irish Pub Radio",
+    "url": "http://solid24.streamupsolutions.com:8026/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 53.12040528310657,
+    "lon": -8.613281250000002,
+    "language": "english"
+  },
+  {
+    "name": "Irish Pub Radio",
+    "url": "http://173.208.54.18:8026/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Irish Pub Radio",
+    "url": "http://solid24.streamupsolutions.com:8026/live",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "engilsh"
+  },
+  {
+    "name": "Kfm 97.6",
+    "url": "https://live-bauerie.sharp-stream.com/KFM?_=668840",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "LCRfm 102.9",
+    "url": "http://stream1.hippynet.co.uk/stream/loughrea",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 53.20005757041324,
+    "lon": -8.571013656624029,
+    "language": "english,irish"
+  },
+  {
+    "name": "LMFM",
+    "url": "https://wg.cdn.tibus.net/LMFM?aw_0_1st.playerId=wireless-website&listenerid=94d1ac3bf877b65e4e17cd7e9bfec132&awparams=companionAds%3Atrue&aw_0_req.gdpr=false&aw_0_req.userConsentV2=undefined&_=284507",
+    "codec": "AAC",
+    "bitrate": 127,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "LMFM Country",
+    "url": "http://gbradio.cdn.tibus.net/LMFMCountry?aw_0_1st.platform=website&aw_0_1st.playerid=wireless-website&aw_0_req.gdpr=true&aw_0_awz.listenerid=#ADVERTISINGID&_=223438",
+    "codec": "AAC",
+    "bitrate": 127,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Liffey Sound 96.4 FM",
+    "url": "http://stream.liffeysoundfm.ie:8000/listen.pls.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 53.34828596186182,
+    "lon": -6.423573864126851,
+    "language": "english,gaeilge,irish"
+  },
+  {
+    "name": "Limerick's Live 95FM",
+    "url": "https://wg.cdn.tibus.net/Live95fm",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Live95 Limerick",
+    "url": "https://live.onic.ie/stream-live95",
+    "codec": "AAC",
+    "bitrate": 127,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Live95FM",
+    "url": "https://wg.cdn.tibus.net/Live95fm?aw_0_1st.playerId=wireless-website&listenerid=48213c18339e02bbc93dc6ed298c2192&awparams=companionAds%3Atrue&aw_0_req.gdpr=false&aw_0_req.userConsentV2=undefined&_=796350",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "LiveIreland",
+    "url": "http://lynx.prostreaming.net:8058/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "engilsh,gaelic"
+  },
+  {
+    "name": "LiveIreland",
+    "url": "http://192.111.140.11:8058/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,gaelic"
+  },
+  {
+    "name": "Longwave Music Radio",
+    "url": "https://longwave.out.airtime.pro/longwave_b?_ga=2.49867887.852857122.1712754709-729263087.1631270723",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MPB Pride",
+    "url": "http://icy-zurich.mpbnl.nl/pride.mp3",
+    "codec": "AAC+",
+    "bitrate": 384,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MPB Radio 1",
+    "url": "https://sc.mpbnl.nl/radio1.mp3",
+    "codec": "AAC+",
+    "bitrate": 384,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MPB Radio 1",
+    "url": "https://sc.mpbnl.nl/radio1",
+    "codec": "AAC+",
+    "bitrate": 384,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MPB Radio 1 00s & 10s",
+    "url": "http://icy-zurich.mpbnl.nl/radio1-10s.mp3",
+    "codec": "AAC+",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MPB Radio 1 Dance",
+    "url": "https://icy1.mpbnl.nl/radio1-mm",
+    "codec": "AAC+",
+    "bitrate": 384,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MPB Radio 1 MixMingle",
+    "url": "https://radiozender.mpbnetwerken.nl/radio1mixmingle.mp3",
+    "codec": "AAC+",
+    "bitrate": 384,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MPB Radio 2",
+    "url": "https://sc.mpbnl.nl/radio2.mp3",
+    "codec": "AAC+",
+    "bitrate": 384,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MPB Radio 2 90s & 00s",
+    "url": "https://sc.mpbnl.nl/radio2-90s00s.mp3",
+    "codec": "AAC+",
+    "bitrate": 384,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MPB Radio 2 Christmas",
+    "url": "https://radiozender.mpbnetwerken.nl/radio2xmas.mp3",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MPB Radio 2 Easy",
+    "url": "https://sc.mpbnl.nl/radio2easy.mp3",
+    "codec": "AAC+",
+    "bitrate": 384,
+    "needsResolve": false,
+    "lat": 53.926389,
+    "lon": -9.373333,
+    "language": "english"
+  },
+  {
+    "name": "MPB Radio 2 Ulster",
+    "url": "https://radiozender.mpbnetwerken.nl/radioulster.mp3",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MPB Urban",
+    "url": "http://sc.mpbnl.nl/urban.flac",
+    "codec": "OGG",
+    "bitrate": 1200,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Midwest Radio",
+    "url": "http://tx.sharp-stream.com/http_live.php?i=midwestfmie2.aac&device=website",
+    "codec": "AAC",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Midwest Radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIOAAC.m3u8",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 53.76251214993962,
+    "lon": -8.765947222709658,
+    "language": ""
+  },
+  {
+    "name": "Midwest Radio [AAC]",
+    "url": "http://tx.sharp-stream.com/icecast.php?i=midwestfmie2.aac",
+    "codec": "AAC",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Midwest Radio [AAC]",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIOAAC.aac",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 53.76250655098815,
+    "lon": -8.766100108623506,
+    "language": "english"
+  },
+  {
+    "name": "Midwest Radio [MP3]",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIO.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 53.76246532682705,
+    "lon": -8.766062557697298,
+    "language": ""
+  },
+  {
+    "name": "Midwest Radio [MP3]",
+    "url": "http://direct.sharp-stream.com/midwestfmie.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "MixLive - Progressive & Tech-house",
+    "url": "https://strw3.openstream.co/939",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MixLive.ie - InsomniaFM",
+    "url": "http://635.cloudrad.io:8092/;stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "NEAR FM",
+    "url": "http://stream11.shoutcastsolutions.com:8114/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 53.38591525798995,
+    "lon": -6.188130969880772,
+    "language": ""
+  },
+  {
+    "name": "Near FM",
+    "url": "https://nearfm-radiohosting.radioca.st/stream.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Near FM (webcam)",
+    "url": "https://vdo.ssl-stream.com:3550/live/nearfmlive.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Newstalk",
+    "url": "https://edge.audioxi.com/NT",
+    "codec": "AAC+",
+    "bitrate": 25,
+    "needsResolve": false,
+    "lat": 53.3485838734705,
+    "lon": -6.251220703125001,
+    "language": ""
+  },
+  {
+    "name": "Newstalk Ireland AAC",
+    "url": "https://live-bauerie.sharp-stream.com/NTAAC",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 53.34136921526018,
+    "lon": -6.2587738037109375,
+    "language": ""
+  },
+  {
+    "name": "Northern Sound",
+    "url": "https://live-bauerie.sharp-stream.com/NORTHERNSOUNDAAC",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Nova Classic Rock",
+    "url": "https://edge2.audioxi.com/NOVA",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "british english"
+  },
+  {
+    "name": "Ocean FM Sligo",
+    "url": "https://edge4.audioxi.com/OCEANSAAC",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Off The Ball",
+    "url": "https://stream.audioxi.com/OTB?aw_0_1st.playerId=BMIE_GoLoudWeb&aw_0_1st.playerId=BMIE_GoLoudWeb&aw_0_1st.premium=false",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 53.327797422792976,
+    "lon": -6.251220703125001,
+    "language": ""
+  },
+  {
+    "name": "Onic 80s",
+    "url": "https://live.onic.ie/stream-80s?_=184336",
+    "codec": "AAC",
+    "bitrate": 127,
+    "needsResolve": false,
+    "lat": 53.34854524615698,
+    "lon": -6.23048722743988,
+    "language": "english"
+  },
+  {
+    "name": "Onic Alternative",
+    "url": "https://live.onic.ie/stream-alternative?_=623178",
+    "codec": "AAC",
+    "bitrate": 127,
+    "needsResolve": false,
+    "lat": 53.34767011797823,
+    "lon": -6.230835914611816,
+    "language": "english"
+  },
+  {
+    "name": "Onic Classical",
+    "url": "https://live.onic.ie/stream-classical?_=954716",
+    "codec": "AAC",
+    "bitrate": 127,
+    "needsResolve": false,
+    "lat": 53.34780421539977,
+    "lon": -6.230814456939697,
+    "language": "english"
+  },
+  {
+    "name": "Onic Country",
+    "url": "https://live.onic.ie/stream-country?_=267164",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 53.34785545251213,
+    "lon": -6.23098611831665,
+    "language": "english"
+  },
+  {
+    "name": "Onic Gold",
+    "url": "https://live.onic.ie/stream-gold?_=718030",
+    "codec": "AAC",
+    "bitrate": 127,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Onic Hits",
+    "url": "https://live.onic.ie/stream-hits?_=408214",
+    "codec": "AAC",
+    "bitrate": 127,
+    "needsResolve": false,
+    "lat": 53.347567643246435,
+    "lon": -6.23075008392334,
+    "language": "english"
+  },
+  {
+    "name": "Onic Kids",
+    "url": "https://live.onic.ie/stream-kids?_=661229",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 53.34871666710267,
+    "lon": -6.230460405349732,
+    "language": "english"
+  },
+  {
+    "name": "Onic Movies",
+    "url": "https://live.onic.ie/stream-movies?_=55552",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 53.34724820871278,
+    "lon": -6.231050491333009,
+    "language": "english"
+  },
+  {
+    "name": "Onic Pride Vibes",
+    "url": "https://live.onic.ie/stream-pride-vibes?_=895437",
+    "codec": "AAC",
+    "bitrate": 127,
+    "needsResolve": false,
+    "lat": 53.34777859682048,
+    "lon": -6.230771541595459,
+    "language": "english"
+  },
+  {
+    "name": "Onic RnB",
+    "url": "https://live.onic.ie/stream-rnb?_=890764",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 53.34767612234941,
+    "lon": -6.230685710906983,
+    "language": "english"
+  },
+  {
+    "name": "Onic Rock",
+    "url": "https://live.onic.ie/stream-rock?_=630901",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 53.34761888064313,
+    "lon": -6.230835914611816,
+    "language": "english"
+  },
+  {
+    "name": "OpenTempoFM",
+    "url": "http://178.32.146.187:8025/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Over the West Online Radio",
+    "url": "http://fast.citrus3.com:8302/stream",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 54.94796916028228,
+    "lon": -7.738494873046876,
+    "language": "english,irish"
+  },
+  {
+    "name": "PHEVER Radio",
+    "url": "https://uk1.internet-radio.com/proxy/phever?mp=/live",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Pacific FM",
+    "url": "https://radiozender.mpbnetwerken.nl/pacificfm",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Pacific FM Relax",
+    "url": "https://radiozender.mpbnetwerken.nl/pacificfm-relax",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Phantom Radio Ireland",
+    "url": "https://streaming05.liveboxstream.uk/proxy/prienter?mp=/stream&_=1739569292206",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Phever Dublin",
+    "url": "http://uk1.internet-radio.com:8200/live",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Planet Radio ACC",
+    "url": "https://media.planetradio.ie/radio/8000/ACC",
+    "codec": "AAC",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "PlanetRadioie",
+    "url": "https://media.planetradio.ie/radio/8000/OnAir",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "PowerFM Dublin 320Kbps Ogg/Vorbis",
+    "url": "https://www.powerfm.org:8443/powerfm.ogg",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Q102",
+    "url": "https://wg.cdn.tibus.net/q102MP3128",
+    "codec": "AAC",
+    "bitrate": 127,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RTE 2 FM",
+    "url": "https://icecast.rte.ie/2fm",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RTE Radio 1>",
+    "url": "http://icecast.rte.ie/ieradio1",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RTÉ 2FM",
+    "url": "https://liveaudio.rte.ie/hls-radio/2fm/chunklist.m3u8",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 53.32276151516164,
+    "lon": -6.236801147460938,
+    "language": "english"
+  },
+  {
+    "name": "RTÉ Gold",
+    "url": "https://liveaudio.rte.ie/hls-radio/gold/chunklist.m3u8",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 53.32285203377797,
+    "lon": -6.236114501953125,
+    "language": "english"
+  },
+  {
+    "name": "RTÉ Pulse",
+    "url": "https://liveaudio.rte.ie/hls-radio/pulse/chunklist.m3u8",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 53.323238137578066,
+    "lon": -6.23748779296875,
+    "language": "english"
+  },
+  {
+    "name": "RTÉ Radio 1",
+    "url": "https://liveaudio.rte.ie/hls-radio/radio1/chunklist.m3u8",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 53.32220658378357,
+    "lon": -6.236307621002197,
+    "language": "english"
+  },
+  {
+    "name": "RTÉ Radio 1",
+    "url": "http://icecast.rte.ie/radio1",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,irish"
+  },
+  {
+    "name": "RTÉ Radio 1 Extra",
+    "url": "https://liveaudio.rte.ie/hls-radio/radio1extra/chunklist.m3u8",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 53.32228048159399,
+    "lon": -6.236329078674316,
+    "language": "english"
+  },
+  {
+    "name": "RTÉ jr",
+    "url": "https://liveaudio.rte.ie/hls-radio/junior/chunklist.m3u8",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 53.32385333309546,
+    "lon": -6.236457824707032,
+    "language": "english"
+  },
+  {
+    "name": "RTÉ lyric fm",
+    "url": "https://liveaudio.rte.ie/hls-radio/lyric/chunklist.m3u8",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 53.322812782366135,
+    "lon": -6.236629486083985,
+    "language": "english"
+  },
+  {
+    "name": "RTÉ lyric fm",
+    "url": "http://icecast.rte.ie/lyric",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "RabbitHole Radio",
+    "url": "http://stream.zeno.fm/c88dha3fmzzuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 53.27198879259305,
+    "lon": -9.05724048614502,
+    "language": ""
+  },
+  {
+    "name": "Radio Cenzura",
+    "url": "http://live.radiocenzura.pl:8000/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Kerry",
+    "url": "http://edge.audioxi.com/KERRY",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Radio Leinster",
+    "url": "http://xt.stream.ie/leinster",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Maria Ireland",
+    "url": "http://dreamsiteradiocp2.com:8014/live",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Radio Nova",
+    "url": "https://stream.audioxi.com/NOVA?aw_0_1st.playerid=liveradio.ie",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Radio Nova 100",
+    "url": "http://stream.audioxi.com/NOVA",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Radio Psychobilly",
+    "url": "http://radio-psychobilly.stream.laut.fm/radio-psychobilly?pl=m3u&t302=2026-01-15_08-36-16&uuid=2c2a02d6-f3e1-408f-bf5a-0f06cd14d64a",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Siamsa",
+    "url": "https://cast02.siamsa.ie/radio/8000/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Radio Siamsa",
+    "url": "https://main.siamsa.ie:8000/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Zodiac Ireland",
+    "url": "http://www.radioking.com/play/radio-zodiac-ireland",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Raidió Rí-Rá",
+    "url": "http://icy-zurich.mpbnl.nl/rrr",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Raidió na Gaeltachta",
+    "url": "https://liveaudio.rte.ie/hls-radio/rnag/chunklist.m3u8",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 53.32387736399034,
+    "lon": -6.2369728088378915,
+    "language": "english,gaelic"
+  },
+  {
+    "name": "Raidió na Life",
+    "url": "http://beryl.streamguys.com:5010/live",
+    "codec": "MP3",
+    "bitrate": 224,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "irish"
+  },
+  {
+    "name": "Rana Sundi",
+    "url": "https://base44.app/api/apps/6a1fdf6444e437e5f3a701be/files/mp/public/6a1fdf6444e437e5f3a701be/1189115bf_AmordeAltavoz1.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 53.4,
+    "lon": -8.2,
+    "language": ""
+  },
+  {
+    "name": "Raídío Rí-Rá",
+    "url": "https://uksoutha.streaming.broadcast.radio/ri-ra?1728850589472=",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Retro Rewind",
+    "url": "https://a10.asurahosting.com:7050/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RetroNow",
+    "url": "http://retronow.radioca.st/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Rewind",
+    "url": "https://christmasfm.cdnstream1.com/2551_128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "SOLID GOLD RADIO IRELAND",
+    "url": "https://a1.asurahosting.com:10000/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 52.854806905200206,
+    "lon": -7.584428787231445,
+    "language": "english uk"
+  },
+  {
+    "name": "SOLID GOLD RADIO IRELAND",
+    "url": "https://az11.yesstreaming.net:8020/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 50.61366433600913,
+    "lon": -6.637204785136424,
+    "language": ""
+  },
+  {
+    "name": "SOLID GOLD RADIO IRELAND 1",
+    "url": "https://a4.asurahosting.com:6640/listen.mp3",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "SPIN South West",
+    "url": "https://live-bauerie.sharp-stream.com/SW",
+    "codec": "AAC+",
+    "bitrate": 89,
+    "needsResolve": false,
+    "lat": 52.651004949714526,
+    "lon": -8.629760742187502,
+    "language": "english"
+  },
+  {
+    "name": "SPIN South West",
+    "url": "https://edge.audioxi.com/SW",
+    "codec": "AAC+",
+    "bitrate": 88,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Scariff Bay Community Radio",
+    "url": "https://s4.radio.co/s87ac5cf5a/listen",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 52.91051702764266,
+    "lon": -8.530025482177736,
+    "language": ""
+  },
+  {
+    "name": "Shannonside",
+    "url": "http://edge.audioxi.com/SHANNONSIDE",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "South East Radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SOUTH_EAST_RADIO.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "South East Radio",
+    "url": "https://edge4.audioxi.com/SOUTHEAST",
+    "codec": "AAC+",
+    "bitrate": 88,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Spin1038",
+    "url": "https://live-bauerie.sharp-stream.com/SP",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 53.32693618614821,
+    "lon": -6.242980957031251,
+    "language": ""
+  },
+  {
+    "name": "St. Ita's Hospital Radio",
+    "url": "http://uk2.streamingpulse.com:8042/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "St. Itas Hospital Radio",
+    "url": "http://uk1.streamingpulse.com:7022/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 53.34809202306839,
+    "lon": -6.255340576171876,
+    "language": "irish"
+  },
+  {
+    "name": "St. Ita’s Hospital Radio",
+    "url": "https://de2.streamingpulse.com/ssl/8042",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Sunshine 106.8",
+    "url": "https://live-bauerie.sharp-stream.com/SUN?_=808250",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Sunshine 106.8",
+    "url": "http://sirius.shoutca.st:8291/;stream.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Svetur",
+    "url": "http://svetur.intellmedia.lt:8282/tiesiogiai-32aac",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "TIPP FM",
+    "url": "https://live-bauerie.sharp-stream.com/TIPPFM",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "The 90s Network",
+    "url": "http://uk1.streamingpulse.com:7020/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 53.32103040980665,
+    "lon": -6.240234375,
+    "language": "irish"
+  },
+  {
+    "name": "The Sound of Ireland",
+    "url": "https://ais-sa2.cdnstream1.com/2548_128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "The Zone - Dublin",
+    "url": "https://uk1.internet-radio.com/proxy/thezone/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Timewarp Ireland",
+    "url": "https://broadcast.shoutstream.co.uk:8052/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Tipp FM",
+    "url": "https://edge.audioxi.com/TIPPFM",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Tipperary Hospital Radio Clonmel",
+    "url": "https://de2.streamingpulse.com/ssl/THRCL",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": 52.35545273986346,
+    "lon": -7.714344263076783,
+    "language": "english"
+  },
+  {
+    "name": "Tipperary Mid West Community Radio",
+    "url": "https://rsstreaming.com/proxy/tippmwr/stream?type=.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Today FM",
+    "url": "https://live-bauerie.sharp-stream.com/TDAAC",
+    "codec": "AAC+",
+    "bitrate": 63,
+    "needsResolve": false,
+    "lat": 53.33021684206216,
+    "lon": -6.23748779296875,
+    "language": "english"
+  },
+  {
+    "name": "Today FM",
+    "url": "https://stream.audioxi.com/TD",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Today FM 80's",
+    "url": "https://edge3.audioxi.com/T80",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Today FM 80s",
+    "url": "https://live-bauerie.sharp-stream.com/T80",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 53.32365527795459,
+    "lon": -6.231994628906251,
+    "language": "english"
+  },
+  {
+    "name": "Today FM 90s",
+    "url": "https://live-bauerie.sharp-stream.com/T90",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 53.3446487612439,
+    "lon": -6.251907348632813,
+    "language": "english"
+  },
+  {
+    "name": "TodayFM 80s",
+    "url": "http://stream.audioxi.com/T80",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "TodayFm",
+    "url": "https://edge.audioxi.com/TDAAC",
+    "codec": "AAC+",
+    "bitrate": 76,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "TodayFm",
+    "url": "https://pri.gocaster.net/td",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Total Country Inchicore",
+    "url": "https://totalcountry.radioca.st/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "TrancePulse Dublin",
+    "url": "https://stream.trance.ie:8443/stream",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "TrancePulse [FLAC]",
+    "url": "http://stream.trance.ie:8000/tpmixes",
+    "codec": "OGG",
+    "bitrate": 1430,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "UCBI WORSHIP",
+    "url": "https://stream.btsstream.com/stream/iworship",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "UCC 98.3FM",
+    "url": "https://stream.btsstream.com:8062/ucc.mp3",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 51.8981897549909,
+    "lon": -8.46784960336146,
+    "language": "english"
+  },
+  {
+    "name": "University College Cork",
+    "url": "https://stream.btsstream.com:8060/ucc.mp3",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "WLR FM",
+    "url": "https://live-bauerie.sharp-stream.com/WLRAAC",
+    "codec": "AAC",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "West Cork FM",
+    "url": "http://lyra.shoutca.st:8147/live",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 51.74913908790854,
+    "lon": -8.766087708353595,
+    "language": "english"
+  },
+  {
+    "name": "West Limerick 102 FM",
+    "url": "https://s29.myradiostream.com/17796/listen.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,irish"
+  },
+  {
+    "name": "West Limerick 102 fm",
+    "url": "http://s29.myradiostream.com/17796/listen.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 52.4490839722169,
+    "lon": -9.052648544311523,
+    "language": "english,irish"
+  },
+  {
+    "name": "West Side Radio",
+    "url": "https://radiozender.mpbnetwerken.nl/westsideradio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Wired 99.9",
+    "url": "https://s2.radio.co/sf0986595a/listen",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "XT independent alternate",
+    "url": "http://xt.stream.ie/xt",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "[ vinyl stacks ]",
+    "url": "https://vinylstacks.uncool.club/vinyl-stacks.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "all Classical Radio",
+    "url": "https://christmasfm.cdnstream1.com/2548_128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "eist",
+    "url": "https://eist-radio.radiocult.fm/stream",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "iRadio",
+    "url": "https://live-bauerie.sharp-stream.com/IRADNWAAC",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 53.36945241405164,
+    "lon": -6.289672851562501,
+    "language": "english"
+  },
+  {
+    "name": "spin1038",
+    "url": "https://edge.audioxi.com/SP",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

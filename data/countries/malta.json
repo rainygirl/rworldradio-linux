@@ -1,0 +1,292 @@
+[
+  {
+    "name": "88.7 Vibe FM | (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s132222",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "89.7 BAY | (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s15183",
+    "codec": "mp3",
+    "bitrate": 256,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "89.7 Bay",
+    "url": "https://stream.v3.network/proxy/897bay/stream.mp3",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "All Rock Radio (Rock)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s166570",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "BKR 94 (World Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s15185",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bay 89.7",
+    "url": "https://stream.v3.network/proxy/897bay/stream.mp3?_=1",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bay Easy (Chill)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s143834",
+    "codec": "mp3",
+    "bitrate": 256,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bay Easy 100.2",
+    "url": "https://stream.v3.network/proxy/easy/stream.mp3",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Calypso Radio",
+    "url": "https://s4.radio.co/sf3aa4c25a/listen",
+    "codec": "AAC",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "maltese"
+  },
+  {
+    "name": "Calypso Radio 101.8 | (60's Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s80902",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Campus 103.7",
+    "url": "https://campusfm.radioca.st/campusfm_live",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Campus 103.7 | (College Radio)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s18846",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Christmas Radio Malta",
+    "url": "http://philae.shoutca.st:8402/stream?type=http&nocache=165",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MALTIN BISS",
+    "url": "https://s4.voscast.com:8837/default",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Magic 91.7 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s181939",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Mediterranea Radio (Dance & Electronic)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s329243",
+    "codec": "mp3",
+    "bitrate": 256,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "NET FM 101.0 (80's)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s2739",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "NET FM 95.5 (80's)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s15176",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "ONE Radio, 92.7 FM, Marsa | (Entertainment & Media)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s15174",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "One Radio",
+    "url": "http://s10.voscast.com:8202/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "malti"
+  },
+  {
+    "name": "One Radio",
+    "url": "http://cdn.voscast.com/resources/?key=249f148a69ad7268c63c10098840e4d6&c=wmp",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "malti"
+  },
+  {
+    "name": "RADJU MARIJA MALTA",
+    "url": "http://dreamsiteradiocp.com:8102/stream",
+    "codec": "MP3",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "maltese"
+  },
+  {
+    "name": "Radio 105 105.0 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s15192",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio RTK 103.0 (Christian Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s15177",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio RTK 97.8 (Christian Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s6696",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radju Malta 1 93.7 (News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s8520",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radju Malta 2 105.9 (World Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s218827",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radju Maria Malta",
+    "url": "http://dreamsiteradiocp.com:8102/",
+    "codec": "MP3",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "maltese"
+  },
+  {
+    "name": "Smash 104.6FM | (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s355236",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

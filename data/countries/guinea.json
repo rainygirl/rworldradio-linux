@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Ado FM GUINEE 96.9 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s346887",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bonheur FM Guinée 101.4 (Local News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s235162",
+    "codec": "mp3",
+    "bitrate": 24,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "LGF Fun 99 (World Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s229230",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "LGF Pop 102 (African Rhythms)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s335753",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "LGF Talk 99.7 (African Rhythms)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s124815",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Nostalgie FM GUINEE 98.2 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s134427",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "modrak",
+    "url": "http://37.157.242.101:16196/;stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 49.67059278761472,
+    "lon": 14.438290373207982,
+    "language": "čeština"
+  }
+]

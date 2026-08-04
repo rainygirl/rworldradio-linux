@@ -1,0 +1,1932 @@
+[
+  {
+    "name": "1766線上電臺-百家知識",
+    "url": "http://livestream.1766.today:1768/live1.mp3",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "1766線上電臺-私房音樂",
+    "url": "http://livestream.1766.today:1769/live1.mp3",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "A-Line Radio",
+    "url": "http://202.39.43.67:1935/live/RA000001/chunklist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "Ai Radio TAIWAN 台灣AI電台",
+    "url": "https://n10.rcs.revma.com/h4ta80hbqwuvv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "AsiaFM 亞太電台",
+    "url": "https://n13.rcs.revma.com/kydend74hv8uv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "AsiaFM 亞洲電台",
+    "url": "https://n13.rcs.revma.com/xpgtqc74hv8uv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "B&B RADIO 幫幫廣播網",
+    "url": "https://cdn280.ccdntech.com/live-http/_definst_/vod280_Live/bb/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 139,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "BIG BIG MIX – 乐享音乐",
+    "url": "https://hi.bigbigmix.com/stream",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Boss Boss Radio",
+    "url": "https://n0b.radiojar.com/ehzvurp9tv8uv?rj-ttl=5&rj-tok=AAABnhLAJhsA5_MD50tsg_xfJQ",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Boss Online Radio",
+    "url": "https://n06.radiojar.com/ehzvurp9tv8uv?rj-ttl=5&rj-tok=AAABnm0QuTkAewm7X_5zLTUONg",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Boss Online Radio",
+    "url": "https://n06.radiojar.com/ehzvurp9tv8uv?rj-ttl=5&rj-tok=AAABnm0O7A8AApuzVhj7xc204g",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Boss Online Radio",
+    "url": "https://stream.radiojar.com/ehzvurp9tv8uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "CanCheers",
+    "url": "https://us3.internet-radio.com/proxy/cancheers?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Classical FM 97.7 | (Classical)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s91584",
+    "codec": "mp3",
+    "bitrate": 256,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Classical 古典音樂台 FM 97.7",
+    "url": "http://59.120.88.155:8000/live.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese,mandarin"
+  },
+  {
+    "name": "FM 90.5 大樹下電台",
+    "url": "http://60.250.148.112:8000/live",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "FM96.9 主人電台",
+    "url": "http://125.227.87.206:8000/FM96.9",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hokkien"
+  },
+  {
+    "name": "HappyRadio",
+    "url": "https://happyradio.com.tw/live",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 22.979759879141913,
+    "lon": 121.89279378795104,
+    "language": "chinese"
+  },
+  {
+    "name": "Hit FM台北之音廣播",
+    "url": "http://202.39.43.67:1935/live/RA000036/chunklist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "ICRT",
+    "url": "http://n03.rcs.revma.com/x27mfpztxp3vv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "IC之音竹科廣播",
+    "url": "http://n01a-eu.rcs.revma.com/7mnq8rt7k5zuv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "M Radio 全國廣播",
+    "url": "https://n03.rcs.revma.com/044q61ha7a0uv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "MCBS 銘傳廣播電台",
+    "url": "http://radio.mcu.edu.tw:8080/radio?1747274117052",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "NER教育電臺",
+    "url": "http://wowza.ner.gov.tw/live/_definst_/1/playlist.m3u8",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Needs Radio 全球華語廣播網",
+    "url": "https://cdn280.ccdntech.com/live-http/_definst_/vod280_Live/needs/chunklist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "Nei-Di's ACG Music",
+    "url": "http://neidi.homeip.net:8080/;",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Phate",
+    "url": "http://phate.io/listen",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RTI 臺灣之音",
+    "url": "https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/chunklist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio ICRT",
+    "url": "https://n27a-eu.rcs.revma.com/nkdfurztxp3vv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Stars RADIO星蹤之愛廣播網",
+    "url": "https://cdn280.ccdntech.com/live-http/_definst_/vod280_Live/stars/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 133,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Supreme Master TV",
+    "url": "https://radio.suprememastertv.com/128K",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 25.20957996368239,
+    "lon": 121.6286167971792,
+    "language": "arabic,chinese,english,hindi,korean,mandarin,russian,spanish,thai,vietnamese"
+  },
+  {
+    "name": "TAIWAN LOUNGE RADIO",
+    "url": "https://azuracast.conceptradio.fr/radio/8030/stream.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "TAIWAN LOUNGE RADIO",
+    "url": "https://azuracast.conceptradio.fr:8030/stream.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Taiwan Plus",
+    "url": "https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8",
+    "codec": "AAC,H.264",
+    "bitrate": 4292,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese,english"
+  },
+  {
+    "name": "UNI FM96.7 | (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s346557",
+    "codec": "mp3",
+    "bitrate": 256,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "https://www.csbc.com.tw",
+    "url": "http://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live1/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 66,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "下港之聲FM90.5",
+    "url": "http://59.120.255.155:8081/",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hokkien"
+  },
+  {
+    "name": "世新廣播電台-1",
+    "url": "https://stream.ginnet.cloud/live0115lo-89xv/_definst_/fm881/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 65,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "世新廣播電台-2",
+    "url": "https://stream.ginnet.cloud/live0115lo-89xv/_definst_/am729/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 65,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "中國華藝廣播公司 AM873",
+    "url": "https://lhttp-hw.qtfm.cn/live/20500139/64k.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "中廣 I GO",
+    "url": "https://n03.rcs.revma.com/1qxn2vg3qtzuv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hokkien"
+  },
+  {
+    "name": "中廣新聞網",
+    "url": "https://n03.rcs.revma.com/78fm9wyy2tzuv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "中廣流行網",
+    "url": "https://n03.rcs.revma.com/aw9uqyxy2tzuv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "中廣鄉親網",
+    "url": "https://n03.rcs.revma.com/p2e3rfg3qtzuv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hokkien"
+  },
+  {
+    "name": "中廣音樂網",
+    "url": "https://n03.rcs.revma.com/ndk05tyy2tzuv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "九八新聞台",
+    "url": "https://n17a-eu.rcs.revma.com/pntx1639ntzuv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "人人廣播電台",
+    "url": "https://n01.rcs.revma.com/fkdywbc59duvv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "人人電台 好事聯播網FM98.9",
+    "url": "http://202.39.43.67:1935/live/RA000013/chunklist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "佳音經典音樂網",
+    "url": "https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/classic/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 65,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "佳音電台",
+    "url": "https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/fm909/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 65,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "佳音音樂網",
+    "url": "https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/modern/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 66,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "先聲廣播電台 (基北桃竹苗)",
+    "url": "http://43.254.16.40:8000/TY.AM774",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "凱旋廣播電台",
+    "url": "http://59.125.209.209:8081/",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hokkien"
+  },
+  {
+    "name": "勝利之聲AM756",
+    "url": "http://test.taiwan-radio.tw:8000/PH.AM756",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "勝利之聲台南1台AM774",
+    "url": "http://test.taiwan-radio.tw:8000/TN.AM774",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "勝利之聲台南2台AM1188",
+    "url": "http://test.taiwan-radio.tw:8000/TN.AM1188",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "南方之音",
+    "url": "http://43.254.16.40:8000/KS.FM89.3",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "古都電台",
+    "url": "http://n03.rcs.revma.com/8bpxy9a122hvv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hokkien"
+  },
+  {
+    "name": "台中古典音樂台",
+    "url": "http://onair.family977.com.tw:8000/live.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "台中城市廣播",
+    "url": "http://fm901.cityfm.tw:8080/901.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "台中廣播",
+    "url": "http://211.20.119.101:8081/",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "台中歡喜之聲FM105.5",
+    "url": "http://59.125.41.65:8081/",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "台北古典廣播",
+    "url": "https://stream.zeno.fm/w66d3dp6ynhvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "台北廣播電台",
+    "url": "https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 322,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "台北流行音樂廣播",
+    "url": "http://202.39.43.67:1935/live/RA000080/chunklist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "台南建國廣播公司",
+    "url": "http://test.taiwan-radio.tw:8000/TN.AM801",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "台海之聲",
+    "url": "https://satellitepull.cnr.cn/live/wxzhzs/playlist.m3u8?wsSession=c650605f64c6488d38b66982-174761774475052&wsIPSercert=270c8446fe14303f2433a2f164ccd9e5",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese,hakka,hokkien"
+  },
+  {
+    "name": "台灣廣播 中興台",
+    "url": "http://test.taiwan-radio.tw:8000/NT.AM963",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "台灣廣播 台中台",
+    "url": "http://test.taiwan-radio.tw:8000/TC.AM774",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "台灣廣播 台北一台",
+    "url": "http://test.taiwan-radio.tw:8000/TP.AM1323",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "台灣廣播 台北二台",
+    "url": "http://test.taiwan-radio.tw:8000/TP.AM1188",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "台灣廣播 大溪一台",
+    "url": "http://43.254.16.40:8000/TY.AM621",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hokkien"
+  },
+  {
+    "name": "台灣廣播 大溪二台",
+    "url": "http://43.254.16.40:8000/TY.AM1062",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hokkien"
+  },
+  {
+    "name": "台灣廣播 松嶺台",
+    "url": "http://test.taiwan-radio.tw:8000/NT.AM630",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "台灣廣播公司台北二台 1188 (Chinese Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s112541",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "嘉義之音",
+    "url": "http://test.taiwan-radio.tw:8000/CY.FM91.3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "嘉義北回廣播電台",
+    "url": "http://test.taiwan-radio.tw:8000/CY.FM91.7",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "嘉義環球廣播",
+    "url": "http://60.248.53.115:8081/",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "噶瑪蘭廣播電台",
+    "url": "http://61.220.209.152:8081/",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hokkien"
+  },
+  {
+    "name": "城市廣播網-南投廣播",
+    "url": "https://fm997.cityfm.com.tw:8083/997",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "城市廣播網-台南知音",
+    "url": "http://fm971.cityfm.tw:8080/971.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "城市廣播網-城市廣播",
+    "url": "http://fm929.cityfm.tw:8080/929.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "城市廣播網-大苗栗廣播",
+    "url": "https://fm983.cityfm.com.tw:8083/983",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "基隆輕鬆電台 Chillax Radio",
+    "url": "http://n03.rcs.revma.com/k41z6wadu5hvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hokkien"
+  },
+  {
+    "name": "大千電台",
+    "url": "http://taiwan-radio.tw:8000/ML.FM97.1",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "大愛網路電台",
+    "url": "http://test.taiwan-radio.tw:8000/DaAiRadio",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "大樹下 FM90.5",
+    "url": "https://cast.tunzilla.com/http://60.250.148.112:8000/live",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "天南AM999",
+    "url": "http://43.254.16.40:8000/TP.AM999",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hokkien"
+  },
+  {
+    "name": "天聲AM1215",
+    "url": "http://test.taiwan-radio.tw:8000/ML.AM1215",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "天聲AM1314",
+    "url": "http://test.taiwan-radio.tw:8000/ML.AM1314",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "太陽電台",
+    "url": "http://211.20.119.102:8081/",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "好事聯播網 蓮花電台",
+    "url": "http://202.39.43.67:1935/live/RA000011/chunklist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "好事聯播網 高雄港都",
+    "url": "http://202.39.43.67:1935/live/RA000012/chunklist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "好家庭廣播電台（Classical 台中古典音樂台）",
+    "url": "http://test.taiwan-radio.tw:8000/TC.FM97.7",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "寶島客家廣播電台",
+    "url": "http://taiwan-radio.tw:8000/TP.FM93.7",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "寶島新聲廣播電台",
+    "url": "http://125.227.87.206:8000/FM98.5",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "寶島新聲廣播電台 98.5 (World Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s91575",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "屏東之聲廣播電台FM92.5",
+    "url": "http://59.120.255.169:8081/",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hokkien"
+  },
+  {
+    "name": "屏東大武山廣播",
+    "url": "http://59.120.255.171:8081/",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "山海屯青少年之聲",
+    "url": "https://n02.rcs.revma.com/zr7xzec59duvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "幸福廣播電台TR Radio FM102.5",
+    "url": "http://61.218.61.251:8080/",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "彰化國聲廣播AM1179",
+    "url": "http://test.taiwan-radio.tw:8000/CH.AM1179",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hokkien"
+  },
+  {
+    "name": "彰化國聲廣播AM810",
+    "url": "http://test.taiwan-radio.tw:8000/CH.AM810",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hokkien"
+  },
+  {
+    "name": "彰化花園廣播電台",
+    "url": "http://211.72.215.231:8000/OnAir",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "彰化花園廣播電台",
+    "url": "http://test.taiwan-radio.tw:8000/CH.FM88.7",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "彰化關懷電台",
+    "url": "http://test.taiwan-radio.tw:8000/CH.FM91.1",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "彰化靉友廣播電台 FM97.3",
+    "url": "http://43.254.16.40:8000/CH.FM97.3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hokkien"
+  },
+  {
+    "name": "微微笑廣播網 - 桃園風城廣播電台FM98.7",
+    "url": "https://cast.tunzilla.com/http://61.220.245.236:8080",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "教育廣播電臺-彰化分臺FM",
+    "url": "https://cast.ner.gov.tw/4",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "教育廣播電臺-臺北總臺AM臺",
+    "url": "https://cast.ner.gov.tw/2",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "教育廣播電臺-臺北總臺FM臺",
+    "url": "https://cast.ner.gov.tw/1",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "教育廣播電臺-臺東分臺FM-1",
+    "url": "https://cast.ner.gov.tw/6",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "教育廣播電臺-臺東分臺FM-2",
+    "url": "https://cast.ner.gov.tw/7",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "教育廣播電臺-花蓮分臺FM-1",
+    "url": "https://cast.ner.gov.tw/8",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "教育廣播電臺-花蓮分臺FM-2",
+    "url": "https://cast.ner.gov.tw/9",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "教育廣播電臺-高雄分臺",
+    "url": "https://cast.ner.gov.tw/5",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "新客家廣播電台",
+    "url": "http://live.fm935newhakka.com.tw:5006/live",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hakka"
+  },
+  {
+    "name": "新竹之音",
+    "url": "http://test.taiwan-radio.tw:8000/HC.FM97.9",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hokkien"
+  },
+  {
+    "name": "新竹勞工之聲",
+    "url": "http://202.39.43.67:1935/live/RA000101/chunklist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "新竹好聽廣播電台",
+    "url": "http://202.39.43.67:1935/live/RA000124/chunklist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "新聲廣播FM99.3",
+    "url": "http://test.taiwan-radio.tw:8000/HC.FM99.3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "曾文溪廣播電台",
+    "url": "https://n09.rcs.revma.com/9ssfduqkr0hvv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "栗子的輕音樂",
+    "url": "https://lizeradio.com/webplayer/actions.php",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "栗子的輕音樂",
+    "url": "http://lizeradio.com:8080/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "桃園GO GO104.3",
+    "url": "https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/fm1043/chunklist_w1108784103.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "桃園先聲廣播AM774",
+    "url": "http://test.taiwan-radio.tw:8000/TY.AM774",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "正聲台北調幅台 AM819",
+    "url": "http://test.taiwan-radio.tw:8000/TP.AM819",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "正聲廣播公司",
+    "url": "https://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live1/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 66,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "正聲廣播電台FM104",
+    "url": "https://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live1/chunklist_w872521607.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 25.045792240303445,
+    "lon": 121.52526855468751,
+    "language": "chinese"
+  },
+  {
+    "name": "正聲綜合",
+    "url": "http://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live2/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 66,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "每日廣播公司SAKURA RADIO",
+    "url": "http://test.taiwan-radio.tw:8000/TC.FM98.7",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "民本電台-1",
+    "url": "https://streamak0134.akamaized.net/live0134lh-5gst/_definst_/am1296/chunklist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "民本電台-2",
+    "url": "https://streamak0134.akamaized.net/live0134lh-5gst/_definst_/am855/chunklist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "海峽之聲廣播電台",
+    "url": "http://ls.qingting.fm/live/1744.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "漁業廣播電台",
+    "url": "http://n03.rcs.revma.com/mk0c5vq122hvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "漢聲中波",
+    "url": "http://202.39.43.67:1935/live/RA000074/chunklist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "漢聲調頻",
+    "url": "http://202.39.43.67:1935/live/RA000076/chunklist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "潮州之聲",
+    "url": "http://59.120.255.170:8081/",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hokkien"
+  },
+  {
+    "name": "濁水溪FM90.1",
+    "url": "http://test.taiwan-radio.tw:8000/YL.FM90.1",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "燕聲AM1044",
+    "url": "http://test.taiwan-radio.tw:8000/HL.AM1044",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "燕聲AM1242",
+    "url": "http://test.taiwan-radio.tw:8000/HL.AM1242",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "牽手之聲網路台",
+    "url": "http://us3.internet-radio.com:8232/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 25.11312786637466,
+    "lon": 121.55610054731372,
+    "language": "chinese"
+  },
+  {
+    "name": "環宇廣播電台",
+    "url": "https://n06.rcs.revma.com/srn5f9kmwxhvv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "益世廣播電台",
+    "url": "http://210.209.16.1:1935/YSLive/YSLive/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 1379,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "神州之聲",
+    "url": "https://satellitepull.cnr.cn/live/wxszzs/playlist.m3u8?wsSession=d966c1f28016a758d88ba0c2-174761731342853&wsIPSercert=270c8446fe14303f2433a2f164ccd9e5",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese,hakka,hokkien"
+  },
+  {
+    "name": "神農廣播電台",
+    "url": "https://n03.rcs.revma.com/uyaghqmdm3hvv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hokkien"
+  },
+  {
+    "name": "福建東南廣播",
+    "url": "http://live.ximalaya.com/radio-first-page-app/live/788/64.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese,hakka,hokkien"
+  },
+  {
+    "name": "竹塹廣播電台",
+    "url": "http://211.72.230.118:8081/",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hokkien"
+  },
+  {
+    "name": "美聲廣播電臺",
+    "url": "http://1.34.23.16:8080/broadwavehigh.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hokkien"
+  },
+  {
+    "name": "臺北電台AM",
+    "url": "https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/am/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 322,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "苗栗客家文化廣播電台",
+    "url": "http://test.taiwan-radio.tw:8000/ML.FM91.7",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "苗栗正義電台",
+    "url": "http://211.20.119.103:8081/",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hokkien"
+  },
+  {
+    "name": "華聲1台 AM1152",
+    "url": "http://43.254.16.40:8000/TP.AM1152",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hokkien"
+  },
+  {
+    "name": "華聲2台 AM1224",
+    "url": "http://43.254.16.40:8000/TP.AM1224",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hokkien"
+  },
+  {
+    "name": "講客廣播電台",
+    "url": "https://n08.rcs.revma.com/akqrbx94gbkvv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hakka"
+  },
+  {
+    "name": "警察廣播電台 - 全國治安交通網",
+    "url": "http://stream.pbs.gov.tw:1935/live/mp3:PBS/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese,mandarin"
+  },
+  {
+    "name": "警察廣播電台 - 台中台",
+    "url": "http://stream.pbs.gov.tw:1935/live/TCS/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "警察廣播電台 - 台北台",
+    "url": "http://stream.pbs.gov.tw:1935/live/TPS/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese,mandarin"
+  },
+  {
+    "name": "警察廣播電台 - 宜蘭台",
+    "url": "http://stream.pbs.gov.tw:1935/live/ELS/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "警察廣播電台 - 花蓮台",
+    "url": "http://stream.pbs.gov.tw:1935/live/HLS/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "警察廣播電臺 - 全國治安交通網 FM 104.9",
+    "url": "https://stream.pbs.gov.tw/live/PBS/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 25.03603646467649,
+    "lon": 121.50758833617697,
+    "language": "chinese,mandarin"
+  },
+  {
+    "name": "警察廣播電臺 - 宜蘭分臺 FM 101.3",
+    "url": "https://stream.pbs.gov.tw/live/ELS/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 24.75442480721671,
+    "lon": 121.7481717873661,
+    "language": "chinese,mandarin"
+  },
+  {
+    "name": "警察廣播電臺 - 新竹分臺 AM 1512",
+    "url": "https://stream.pbs.gov.tw/live/SCS/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 24.810254098454525,
+    "lon": 121.02077295272808,
+    "language": "chinese,mandarin"
+  },
+  {
+    "name": "警察廣播電臺 - 臺中分臺 FM 94.5",
+    "url": "https://stream.pbs.gov.tw/live/TCS/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 24.152939392587815,
+    "lon": 120.63225966821184,
+    "language": "chinese,mandarin"
+  },
+  {
+    "name": "警察廣播電臺 - 臺北分臺 FM 94.3",
+    "url": "https://stream.pbs.gov.tw/live/TPS/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 25.03601702312708,
+    "lon": 121.507630993431,
+    "language": "chinese,mandarin"
+  },
+  {
+    "name": "警察廣播電臺 - 臺南分臺 AM 1314",
+    "url": "https://stream.pbs.gov.tw/live/TNS/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 23.18828227142604,
+    "lon": 120.26517583133948,
+    "language": "chinese,mandarin"
+  },
+  {
+    "name": "警察廣播電臺 - 臺東分臺 FM 94.3",
+    "url": "https://stream.pbs.gov.tw/live/TTS/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 22.755859927883822,
+    "lon": 121.15135881341727,
+    "language": "chinese,mandarin"
+  },
+  {
+    "name": "警察廣播電臺 - 花蓮分臺 FM 94.3",
+    "url": "https://stream.pbs.gov.tw/live/HLS/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 23.9936076571303,
+    "lon": 121.62028404758524,
+    "language": "chinese,mandarin"
+  },
+  {
+    "name": "警察廣播電臺 - 高雄分臺 FM 93.1",
+    "url": "https://stream.pbs.gov.tw/live/KSS/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 22.68833841814295,
+    "lon": 120.31700462016288,
+    "language": "chinese,mandarin"
+  },
+  {
+    "name": "資悠網路廣播實驗電台",
+    "url": "http://mail.guidetw.com.tw:8000/live",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "資悠網路廣播實驗電台",
+    "url": "http://test.taiwan-radio.tw:8000/GUIDECast.AH",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "農鄉廣播電台",
+    "url": "http://test.taiwan-radio.tw:8000/YL.FM106.3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "連花廣播電台",
+    "url": "https://n05.rcs.revma.com/vh0xgcc59duvv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "都會聲音FM99.7",
+    "url": "http://test.taiwan-radio.tw:8000/TN.FM99.7",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "金聲廣播電台",
+    "url": "http://60.249.186.105:9000/;",
+    "codec": "MP3",
+    "bitrate": 80,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hokkien"
+  },
+  {
+    "name": "陽光電台",
+    "url": "http://202.39.43.67:1935/live/RA000079/chunklist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "雲端新廣播",
+    "url": "http://test.taiwan-radio.tw:8000/KS.FM99.5",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "電台測試2",
+    "url": "http://125.227.87.206:8000/SuperUS",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "電聲電台",
+    "url": "http://test.taiwan-radio.tw:8000/TN.AM1071",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "電聲電台",
+    "url": "http://59.120.102.91:8000/OnAir",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "領袖廣播",
+    "url": "https://n14.rcs.revma.com/hpeqh9mkc6hvv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hokkien"
+  },
+  {
+    "name": "飛揚調頻FM89.5",
+    "url": "https://n13.rcs.revma.com/e0tdah74hv8uv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese,hokkien"
+  },
+  {
+    "name": "飛碟聯播網 南台灣之聲",
+    "url": "http://cast.uforadio.com.tw:8000/kao-stream",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "飛碟聯播網 台中真善美",
+    "url": "http://cast.uforadio.com.tw:8000/tai-stream",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "飛碟聯播網 台東知本電台",
+    "url": "http://cast.uforadio.com.tw:8000/don-stream",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "飛碟聯播網 太魯閣之音",
+    "url": "http://cast.uforadio.com.tw:8000/hua-stream",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "飛碟聯播網 澎湖社區電台",
+    "url": "http://cast.uforadio.com.tw:8000/pen-stream",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "飛碟聯播網 苗栗中港溪",
+    "url": "http://cast.uforadio.com.tw:8000/miao-stream",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "飛碟聯播網 雲嘉民生展望",
+    "url": "http://cast.uforadio.com.tw:8000/yun-stream",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "飛碟聯播網 飛碟電台",
+    "url": "https://n10.rcs.revma.com/em90w4aeewzuv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "高雄廣播電台",
+    "url": "https://n13.rcs.revma.com/pet2dvug1bkvv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "高雄廣播電台AM1089",
+    "url": "https://n05.rcs.revma.com/4r99rt1g1bkvv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "高雄港都廣播",
+    "url": "https://n10.rcs.revma.com/q2m07dc59duvv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  }
+]

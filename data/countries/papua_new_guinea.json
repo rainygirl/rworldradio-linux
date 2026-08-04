@@ -1,0 +1,52 @@
+[
+  {
+    "name": "LegendFM 101.1",
+    "url": "https://27163.live.streamtheworld.com/PNGLEGENDFM.mp3",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "NauFM",
+    "url": "https://27163.live.streamtheworld.com/NAUFM.mp3",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": -9.472835254436776,
+    "lon": 147.15774536132815,
+    "language": ""
+  },
+  {
+    "name": "NauFM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NAUFM.mp3",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Bantaba",
+    "url": "https://radio.streemlion.com/radiobantaba",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "YumiFM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/YUMIFM.mp3",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": -9.45890553998636,
+    "lon": 147.17390788522093,
+    "language": ""
+  }
+]

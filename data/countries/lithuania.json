@@ -1,0 +1,1302 @@
+[
+  {
+    "name": "-=PoWeR=-",
+    "url": "https://cast1.my-control-panel.com/proxy/eventas/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,lithuanian,russian"
+  },
+  {
+    "name": "Audiomastering.lt",
+    "url": "http://radio.audiomastering.lt:8000/hq",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Cold Tear Radio",
+    "url": "https://radio.rad10x.com/listen/coldtear/coldtear.mp3",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DomantasFM",
+    "url": "https://radio.domkutis.com/listen/domantasfm/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Easy FM",
+    "url": "https://netradio.ziniur.lt/easyfm.mp3",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,lithuanian"
+  },
+  {
+    "name": "European Hit Radio",
+    "url": "https://stream.ehr.lt:8443/ehr",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "European Hit Radio 99.7 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s80816",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Extra FM 100.2 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s280657",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Extra FM 105.4 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s15911",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Extra FM 88.5 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s280653",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Extra FM 89.1 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s280660",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Extra FM 89.3 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s280654",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Extra FM 91.3 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s280658",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Extra FM 93.2 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s280655",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Extra FM 98.5 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s280656",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "FM99 99.0 (Lithuanian Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s15896",
+    "codec": "mp3",
+    "bitrate": 181,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Fred Film Radio-24 lietuvių kalba",
+    "url": "https://s10.webradio-hosting.com/proxy/fredradiolt/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "lithuanian"
+  },
+  {
+    "name": "Fréquence Protestante",
+    "url": "https://freqpro.streamakaci.com/frequenceprotestante.mp3",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "GOLD FM 102.6 (Classic Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s110619",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Geras FM",
+    "url": "http://stream.goldfm.lt/gerasfm.aac",
+    "codec": "AAC",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "lithuanian"
+  },
+  {
+    "name": "Geras FM 101.9 (World Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s54790",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Geras FM 92.0 (World Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s70604",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Geras2 FM",
+    "url": "https://stream.goldfm.lt/gerasfm.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Gold FM",
+    "url": "http://stream.goldfm.lt/goldfm.aac",
+    "codec": "AAC",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Gold FM",
+    "url": "https://stream.goldfm.lt/goldfm.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "KAB Radio",
+    "url": "https://node-25.zeno.fm/29xtapvkzhhvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Kapsai",
+    "url": "http://91.211.246.42:8000/Kapsai-HD",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Kelyje Kaunas",
+    "url": "http://212.95.45.82:8014/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Kelyje Klaipėda",
+    "url": "http://212.95.45.82:8024/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "LALUNA 94 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s9851",
+    "codec": "mp3",
+    "bitrate": 160,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "LRT Klasika",
+    "url": "https://stream-live.lrt.lt/klasika/master.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 3667,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "LRT Opus",
+    "url": "https://stream-live.lrt.lt/opus/master.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 3667,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "LRT Radijas",
+    "url": "https://stream-live.lrt.lt/radijas/master.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 3667,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Laluna [AAC]",
+    "url": "http://radio.m-1.fm/laluna/high",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "lithuanian"
+  },
+  {
+    "name": "Laluna [MP3]",
+    "url": "http://radio.m-1.fm/laluna/mp3",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "lithuanian"
+  },
+  {
+    "name": "Leproradio",
+    "url": "https://live.leproradio.com/bender.ogg",
+    "codec": "OGG",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "M-1 Dance",
+    "url": "https://radio.m-1.fm/m-1dance/aac",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "M-1 Plius",
+    "url": "http://radio.m-1.fm/m1plius/mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "lithuanian"
+  },
+  {
+    "name": "M-1 Plius",
+    "url": "https://radio.m-1.fm/m1plius/aacp64",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "M-1 [AAC]",
+    "url": "http://stream.m-1.fm/M-1aacp",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "lithuanian"
+  },
+  {
+    "name": "M1 DANCE 1008 (Dance & Electronic)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s26014",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "M1 PLIUS 1062 (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s6692",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "M1 Radio 106.0 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s15901",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "M1 Radio 106.3 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s15942",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "M1 Radio 10608 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s15909",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "M1 Radio 97.6 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s15912",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "M1 Radio 98.3 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s15927",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MANO FM LT",
+    "url": "http://stream.manofm.lt/listen?",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "lithuanian"
+  },
+  {
+    "name": "Mano",
+    "url": "http://klausyk.manofm.lt:8000/Icecast2",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Mantinho Dance Pulse FM",
+    "url": "https://mira.streamerr.co/listen/mantinhodancepulsefm/radio.aac",
+    "codec": "AAC",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Marijos radijas",
+    "url": "http://stream.marijosradijas.lt:8001/marijosradijas.mp3",
+    "codec": "MP3",
+    "bitrate": 75,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "lithuanian"
+  },
+  {
+    "name": "Marso Radijas",
+    "url": "https://radijas.marsas.me/live",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Mazeikiai FM",
+    "url": "http://91.211.246.42:8000/Mazeikiai",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Mažeikių Aidas",
+    "url": "http://maidas.kli.lt:8000/admin.mp3",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "lithuanian"
+  },
+  {
+    "name": "Neringa FM",
+    "url": "http://radio.15min.lt:8000/neringafm",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Neringa fm *",
+    "url": "http://185.11.24.72:8000/neringafm",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "PMR",
+    "url": "http://pmr.lt/streams/pmr-1",
+    "codec": "AAC+",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Palanga Street Radio",
+    "url": "https://stream.palanga.live:8443/palanga128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Patejago",
+    "url": "https://stream-46.zeno.fm/f6m1zbud5p8uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Play Radio",
+    "url": "https://n08.radiojar.com/d9cm273ystzuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Power 97.9",
+    "url": "https://azuracast.obsidianhost.net/listen/power_97.9/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Power Hit Radio LT",
+    "url": "https://ice.leviracloud.eu/phr192-mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "lithuanian"
+  },
+  {
+    "name": "Power Hit Radio LT",
+    "url": "https://n02a-eu.rcs.revma.com/f31w7e0fveuvv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Power LT",
+    "url": "http://cast1.my-control-panel.com:8527/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Pukas Lt",
+    "url": "http://212.95.45.82:8000/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Pulsas",
+    "url": "https://pulsas.lt/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Pulsas 107 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s15902",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO R",
+    "url": "https://stream1.rusradio.lt/rrb128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 54.68399374374693,
+    "lon": 25.224609375000004,
+    "language": "russian"
+  },
+  {
+    "name": "RELAX FM Lietuva",
+    "url": "https://stream1.relaxfm.lt/relaxfm128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "lithuanian"
+  },
+  {
+    "name": "Radijo Musikii",
+    "url": "https://stream.radijo-musikii.net/radio/8000/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radijo Stotis Kelyje 105.9 (Dance & Electronic)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s87589",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radijo stotis Lietus",
+    "url": "https://radio.m-1.fm/LIETUS",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Fiesta",
+    "url": "https://stream2.radiofiesta.lt/rfs128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Lietus 1031 (Lithuanian Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s15931",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio R",
+    "url": "https://stream1.relaxfm.lt/rrb128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "lithuanian,russian"
+  },
+  {
+    "name": "Radio Znad Wilii 103.8 (Polish Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s9793",
+    "codec": "mp3",
+    "bitrate": 256,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio stotis Laluna",
+    "url": "https://radio.m-1.fm/laluna/mp3",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radiocentras",
+    "url": "https://stream2.rockfm.lt/crf128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radiocentras",
+    "url": "https://stream2.rc.lt/rc128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 55.373258314187176,
+    "lon": 24.104003906250004,
+    "language": ""
+  },
+  {
+    "name": "Radiocentras 101.1 (Lithuanian Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s15897",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radiocentras 101.3 (Lithuanian Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s15914",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radiocentras 101.5 (Lithuanian Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s15928",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radiocentras 107.1 (Lithuanian Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s15922",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Raduga 100.8 (Russian Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s10035",
+    "codec": "mp3",
+    "bitrate": 32,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Relax FM 100 Hitu",
+    "url": "https://klausyk.radijas.lt/listen/100hitu/live",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Relax FM 96.4 (Lithuanian Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s150527",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Relax FM Senti",
+    "url": "https://klausyk.radijas.lt/listen/sentimentai/live",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Rock FM 94.9 (Rock)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s183971",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Rock Radio",
+    "url": "http://65.21.202.84:8026/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RockFM",
+    "url": "https://stream3.rc.lt/rockfm.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Saules Radijas 102.5 (Lithuanian Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s87593",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Saules Radijas LT",
+    "url": "http://saule-mp3.vinlita.lt:8008/stream.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 55.91812206139973,
+    "lon": 23.30532292884107,
+    "language": ""
+  },
+  {
+    "name": "Saules radijas",
+    "url": "http://saule-aac.vinlita.lt:8000/stream.aac",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "lithuanian"
+  },
+  {
+    "name": "Sol fm",
+    "url": "http://radiosolfm.bounceme.net:8002/solfm",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Start FM 94.2 MHz Vilnius [MP3]",
+    "url": "http://eteris.startfm.lt/startfm.mp3",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "lithuanian"
+  },
+  {
+    "name": "Start FM 94.2 | (Jazz)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s87594",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Super FM",
+    "url": "http://82.140.131.217:8000/superfm.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "TOP FM",
+    "url": "https://radio.topfm.lt/listen/topfm/topfm-320",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Tau",
+    "url": "http://radijas.tau.lt:8000/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "lithuanian"
+  },
+  {
+    "name": "Tauragės radijas",
+    "url": "http://stream.tauragesradijas.lt:8000/tr1",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "lithuanian"
+  },
+  {
+    "name": "Tavo Balsas LT",
+    "url": "https://c18.radioboss.fm:8529/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 54.6760543151901,
+    "lon": 25.283182992617427,
+    "language": ""
+  },
+  {
+    "name": "Utenos Radijas",
+    "url": "https://gyvai.ursrv.eu/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Vaikų radijas",
+    "url": "http://88.119.151.74:8001/vaikuradijas",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "lithuanian"
+  },
+  {
+    "name": "Vilnius fm",
+    "url": "https://stream.vilniusfm.lt/stream",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "X-RADIO",
+    "url": "http://185.8.60.5:8000/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "язык: русский"
+  },
+  {
+    "name": "XFM Radijas",
+    "url": "http://88.119.151.74:8001/xfm",
+    "codec": "MP3",
+    "bitrate": 185,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "lithuanian"
+  },
+  {
+    "name": "ZIP FM",
+    "url": "https://stream1.zipfm.lt/zipfm128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "lithuanian"
+  },
+  {
+    "name": "ZIP FM 100 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s125837",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Zip FM is Kasetes",
+    "url": "https://klausyk.radijas.lt/listen/is-kasetes/live",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "ZipFM",
+    "url": "https://stream2.zipfm.lt/zipfm128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 55.31371246684659,
+    "lon": 24.180908203125,
+    "language": ""
+  },
+  {
+    "name": "lsg radijas",
+    "url": "https://streamingp.shoutcast.com/JamendoLounge?lang=lt%3bq%3d0.9",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "m-1",
+    "url": "http://radio.m-1.fm/lietus/MP3320",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 55.2921521531026,
+    "lon": 24.048679671017982,
+    "language": ""
+  },
+  {
+    "name": "radio.audiomastering.lt",
+    "url": "https://transliacija.audiomastering.lt/pure",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "thisislit",
+    "url": "https://litradio.org/listen/thisislit/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,lithuanian"
+  },
+  {
+    "name": "Žinių Radijas",
+    "url": "http://netradio.ziniur.lt:8000/ziniur.mp3",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "lithuanian"
+  },
+  {
+    "name": "Žinių radijas 100.0 (Variety)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s60614",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Žinių radijas 102.2 (Variety)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s15929",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Žinių radijas 103.7 (Variety)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s60611",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Žinių radijas 104.8 (Variety)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s60613",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Žinių radijas 104.9 (Variety)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s15919",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Žinių radijas 107.9 (Variety)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s16519",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Žinių radijas 92.3 (Variety)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s60612",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Žinių radijas 93.4 (Variety)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s15936",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Žinių radijas 97.0 (Variety)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s60610",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Žinių radijas 97.3 (Variety)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s15907",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Žinių radijas [64 kbps MP3]",
+    "url": "http://netradio.ziniur.lt/ziniur_64.mp3",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "lithuanian"
+  },
+  {
+    "name": "Радио Лента stream 2",
+    "url": "https://streaming.broadcastrd.com/audio/radio-lenta.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "russian"
+  },
+  {
+    "name": "Радио Свободынх Народов",
+    "url": "https://radio.freenations.online/listen/radio_free_nations/radio.mp3?refresh=1768495046250",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "komi,sakha,tatar,tyvan"
+  },
+  {
+    "name": "Радио Сигнал",
+    "url": "https://streaming.broadcastrd.com/audio/radio-singnal.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Радио Сигнал",
+    "url": "https://media-edge2.hostin.live/radio-singnal.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "russian"
+  }
+]

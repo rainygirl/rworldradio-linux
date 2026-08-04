@@ -1,0 +1,452 @@
+[
+  {
+    "name": "102FM.RE",
+    "url": "https://ecmanager4.pro-fhi.net/102fmoriginale",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": -21.343181654120897,
+    "lon": 55.47632217407227,
+    "language": "french"
+  },
+  {
+    "name": "AZOT RADIO 98.9 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s350859",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Antenne Réunion Radio",
+    "url": "https://rtlre.ice.infomaniak.ch/rtlre-64.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Azot Radio",
+    "url": "https://azotradio1.ice.infomaniak.ch/azotradio1-128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "CHERIE FM REUNION 101.9 (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s346791",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Capital FM Réunion",
+    "url": "https://capitalfmreunion.ice.infomaniak.ch/capitalfmreunion.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -20.917128595945773,
+    "lon": 55.49430370330811,
+    "language": "french"
+  },
+  {
+    "name": "Chérie FM Réunion",
+    "url": "https://streaming.nrjaudio.fm/ouw82wsk6j4d",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Exo FM",
+    "url": "https://exofmreunion.ice.infomaniak.ch/exofmreunion-64.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Free Dom",
+    "url": "http://freedomice.streamakaci.com/freedom.mp3",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Fréquence sud Réunion 97.8 (Variety)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s337146",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Fun Radio Reunion 95.5 (Dance & Electronic)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s6349",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Hit FM Réunion",
+    "url": "https://hitfm.ice.infomaniak.ch/hitfm-192.mp3",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": -20.88146560373321,
+    "lon": 55.44842720031739,
+    "language": "french"
+  },
+  {
+    "name": "Konect Radio",
+    "url": "https://listen.radioking.com/radio/129973/stream/169819",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -21.32641341900401,
+    "lon": 55.60752088112483,
+    "language": "french"
+  },
+  {
+    "name": "Kreolkoneksyon Radio",
+    "url": "https://listen.radioking.com/radio/511600/stream/569401",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -21.15940013659246,
+    "lon": 55.54000854492188,
+    "language": "french"
+  },
+  {
+    "name": "Le passage du chat blanc",
+    "url": "https://play.radioking.io/wa-ho",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Love Hit Reunion",
+    "url": "https://stream.zeno.fm/wcfjkonehdlvv.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MaronRfm",
+    "url": "https://listen.radioking.com/radio/331087/stream/379402",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Music Intense 974",
+    "url": "https://listen.radioking.com/radio/737336/stream/803717",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -20.88194676284562,
+    "lon": 55.44928550720216,
+    "language": "french"
+  },
+  {
+    "name": "NRJ Réunion",
+    "url": "https://streaming.nrjaudio.fm/ougonmrb92oc",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Passion Tropical",
+    "url": "https://listen.radioking.com/radio/7495/stream/16988",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -21.14373070085792,
+    "lon": 55.53657531738282,
+    "language": "french"
+  },
+  {
+    "name": "RC Radio Reconnaissance du Coeur",
+    "url": "https://listen.radioking.com/radio/672001/stream/736156",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -21.15427723403184,
+    "lon": 55.53726196289063,
+    "language": "creole,french"
+  },
+  {
+    "name": "RFM Réunion",
+    "url": "https://rfmreunio.ice.infomaniak.ch/rfmrun-128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "RIRE & CHANSONS REUNION 106.5 (Comedy)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s346792",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RPI 974",
+    "url": "http://rpiradio974.ice.infomaniak.ch/rpiradio974-32.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "RSL Radio",
+    "url": "https://rslradio.ice.infomaniak.ch/rslradio-128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "RSL Radio 104.7 (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s6357",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Arc-en-Ciel 103.4 (Catholic Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s6356",
+    "codec": "mp3",
+    "bitrate": 158,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio First Réunion",
+    "url": "http://radio7.pro-fhi.net/listen-zntwyaal-stream.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Radio Freedom 2",
+    "url": "https://freedomice.streamakaci.com/freedom2.mp3",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Radio Freedom FM",
+    "url": "https://freedomice.streamakaci.com/freedom.mp3",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Radio Freedom FM 97.4 (French Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s16223",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Kayanm",
+    "url": "https://hosting.studioradiomedia.fr:2245/stream",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Radio Merveille Océan Indien",
+    "url": "https://listen.radioking.com/radio/694373/stream/759203",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -21.146292356711893,
+    "lon": 55.53108215332031,
+    "language": "french"
+  },
+  {
+    "name": "Radio Oxygène Réunion",
+    "url": "https://ecmanager2.pro-fhi.net:1535/stream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": -21.128718857646867,
+    "lon": 55.79205036163331,
+    "language": "french"
+  },
+  {
+    "name": "Radio Pikan",
+    "url": "https://stream4.vestaradio.com/RADIOPIKAN?nocache=6650",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Radio Star Réunion",
+    "url": "https://cdnradio.streamakaci.com/radiostar.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Rire et Chansons Réunion",
+    "url": "https://streaming.nrjaudio.fm/oun3wuqn5eyc",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Réunion La 1ère",
+    "url": "https://reunion.ice.infomaniak.ch/reunion-128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "creole,french"
+  },
+  {
+    "name": "Réunion La 1ère 89.2 (Music News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s6346",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "SUN FM | 97.8 | 102 | 94.1",
+    "url": "https://listen.radioking.com/radio/669814/stream/733864",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -21.3422446712416,
+    "lon": 55.481107392829635,
+    "language": "french"
+  },
+  {
+    "name": "Sensuelle Radio Réunion",
+    "url": "https://radio10.pro-fhi.net/radio/9169/stream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": -20.880965647709985,
+    "lon": 55.4482126235962,
+    "language": "french"
+  },
+  {
+    "name": "Sunlight FM",
+    "url": "https://listen.radioking.com/radio/355933/stream/405250",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -21.36105058722109,
+    "lon": 55.76926231384278,
+    "language": "creole,french"
+  },
+  {
+    "name": "Top Fm Maxi Dance",
+    "url": "https://streamingv2.shoutcast.com/-TopFm-Maxidance",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -21.137326367443436,
+    "lon": 55.53245544433594,
+    "language": "french"
+  },
+  {
+    "name": "Urban Hit Réunion",
+    "url": "https://listen.radioking.com/radio/400111/stream/452236",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Waho",
+    "url": "https://listen.radioking.com/radio/214300/stream/257431",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -21.16256183954398,
+    "lon": 55.56060791015626,
+    "language": "french"
+  }
+]

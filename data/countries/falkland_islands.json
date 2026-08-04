@@ -1,0 +1,62 @@
+[
+  {
+    "name": "BFBS Falkland Islands 90.0 (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s7681",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "BFBS Falklands",
+    "url": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs6.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "british english,english,english uk"
+  },
+  {
+    "name": "Falklands Radio",
+    "url": "http://streaming.broadcastradio.com:8330/flklnd",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Falklands Radio",
+    "url": "https://streaming.broadcastradio.com:8332/flklnd?1721893143541=",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Falklands Radio 530 Stanley",
+    "url": "https://streaming.broadcastradio.com:8332/flklnd",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": -51.721583890010585,
+    "lon": -57.81005859375001,
+    "language": "english"
+  },
+  {
+    "name": "Falklands Radio 88.3 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s111551",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

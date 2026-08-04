@@ -1,0 +1,192 @@
+[
+  {
+    "name": "92.1 Capital FM",
+    "url": "http://cfm.albaservers.com:8010/",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "albanian,english,shqip"
+  },
+  {
+    "name": "Club FM Kosove 101.7 (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s350423",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Glam Radio",
+    "url": "https://stream.glamradio.fm:8443/glamradio",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "KLAN Kosova FM",
+    "url": "http://s4.radio.co/sd1d1904dc/listen",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 42.633188946020574,
+    "lon": 21.135616728246163,
+    "language": ""
+  },
+  {
+    "name": "Kolektiv Radio",
+    "url": "https://studio28.radiolize.com/radio/8100/radio.mp3",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO MARIA KOSOVO",
+    "url": "http://dreamsiteradiocp2.com:8124/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RTK Radio Kosova 1",
+    "url": "http://82.114.72.2:8088/;.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "albanian"
+  },
+  {
+    "name": "RTK Radio Kosova 2",
+    "url": "http://82.114.72.2:8098/;stream.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "albanian"
+  },
+  {
+    "name": "Radio Dukagjini",
+    "url": "http://s6.voscast.com:8824/;stream.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Dukagjini 99 (World Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s54361",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio K4 Shqip",
+    "url": "http://fm.radiokfor.com:8080/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,shqip"
+  },
+  {
+    "name": "Radio Kosova 1",
+    "url": "http://82.114.72.2:8088/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "albanian,shqip"
+  },
+  {
+    "name": "Radio Kosova 2",
+    "url": "http://82.114.72.2:8098/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "albanian,serbian,shqip"
+  },
+  {
+    "name": "Radio Kosova 2 97.7 (Entertainment & Media)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s25797",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Kosova E Lire",
+    "url": "http://quasar.shoutca.st:8018/",
+    "codec": "MP3",
+    "bitrate": 80,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "albanian"
+  },
+  {
+    "name": "Radio Kosova e Lirë 94.2 (Variety)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s71228",
+    "codec": "mp3",
+    "bitrate": 80,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Plus",
+    "url": "https://cast2.my-control-panel.com/proxy/radiopl1/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Zëri i Shtimes",
+    "url": "http://radio.1dhe1.com:8090/radio.mp3",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Urban FM 103.5",
+    "url": "https://radio.itprishtina.com/urbanfm.ogg",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

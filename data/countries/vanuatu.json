@@ -1,0 +1,32 @@
+[
+  {
+    "name": "BUZZ FM 96.3",
+    "url": "https://streamer.dailypost.vu/live",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Femme Pawa FM",
+    "url": "https://radio.vbtc.vu/femmefm",
+    "codec": "MP3",
+    "bitrate": 90,
+    "needsResolve": false,
+    "lat": -17.74083892258535,
+    "lon": 168.31604003906253,
+    "language": "bislama,english,french"
+  },
+  {
+    "name": "Paradise 98FM",
+    "url": "https://radio.vbtc.vu/paradisefm",
+    "codec": "MP3",
+    "bitrate": 90,
+    "needsResolve": false,
+    "lat": -17.746070780233776,
+    "lon": 168.33389282226565,
+    "language": "bislama,english"
+  }
+]

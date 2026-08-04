@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Buja FM 87.6 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s337231",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO MARIA BURUNDI",
+    "url": "http://dreamsiteradiocp.com:8058/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Isanganiro 89.7 (News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s9179",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Maria Burundi",
+    "url": "http://57.129.49.167:8082/stream",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

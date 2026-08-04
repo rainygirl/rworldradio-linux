@@ -1,0 +1,702 @@
+[
+  {
+    "name": "103",
+    "url": "http://radiostream.neotel.mk/kanal103",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "=KECO=70s ROCK",
+    "url": "http://jfm1.hostingradio.ru:14536/rock70.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "engilsh"
+  },
+  {
+    "name": "Antenna 5",
+    "url": "https://fms.off.net.mk:8000/antenna5.stream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Antenna 5 Macedonia",
+    "url": "http://antenna5stream.neotel.mk:8000/live128",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 41.99439691825032,
+    "lon": 21.43587112426758,
+    "language": ""
+  },
+  {
+    "name": "Antenna 5 Radio Network 95 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s15950",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bubamara 105.2 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s25093",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bum Kumanovo",
+    "url": "http://iandonov.radioca.st/;stream/1",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "City Radio 94.7 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s54366",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Club FM 103.4 | (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s67623",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Club Radio - Skopje, Mcedonia",
+    "url": "https://radiomk-portal.com/listen/club_radio_macedonia/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 41.99726342796974,
+    "lon": 21.43685117453417,
+    "language": ""
+  },
+  {
+    "name": "Club Radio Macedonia",
+    "url": "http://161.97.114.58:8040/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "macedonian,spanish"
+  },
+  {
+    "name": "Energy Radio - Skopje, Macedonia",
+    "url": "http://161.97.114.58:8000/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "macedonian,spanish"
+  },
+  {
+    "name": "Gradski Media Service (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s291107",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Hits Sky Radio 102.5 FM Macedonia (MP3 128 kbps)",
+    "url": "https://s1.skyradio.com.mk/hits.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Jazz FM",
+    "url": "https://radio.jazzfm.mk/listen/jazzfm/live",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 41.99232276696362,
+    "lon": 21.418251693248752,
+    "language": ""
+  },
+  {
+    "name": "Jazz FM 100.8 Skopje | (Jazz)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s118158",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Just Music Radio",
+    "url": "https://radiostream.neotel.mk/justmusicradio",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,macedonian"
+  },
+  {
+    "name": "Kanal 103 103.0 (Alternative Rock)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s48037",
+    "codec": "mp3",
+    "bitrate": 256,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Lider FM 107,4",
+    "url": "https://liderfm.ipradio.mk/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "macedonian"
+  },
+  {
+    "name": "Life Radio",
+    "url": "https://worldradio.online/proxy/?q=http://liferadio.ddns.net:8000/stream&plugin_id=13399&site_id=14630760",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Life Radio",
+    "url": "http://liferadio.ddns.net:8000/",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,macedonian"
+  },
+  {
+    "name": "Life Radio 89.1 (Rock)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s188170",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Life Radio 89.1 Macedonia",
+    "url": "http://liferadio.ddns.net:8000/;",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 41.99949993350543,
+    "lon": 21.432094573974613,
+    "language": ""
+  },
+  {
+    "name": "Maestro FM",
+    "url": "https://maestrofm.md/maestro",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Makedonsko Radio 1 - Radio Skopje",
+    "url": "https://vod-c57.interspace.com/channel_abr/47/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "macedonian"
+  },
+  {
+    "name": "Metropolis Radio Network",
+    "url": "https://eu4.fastcast4u.com/proxy/metradio?mp=/1",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 41.99516239662422,
+    "lon": 21.43655776977539,
+    "language": "macedonian"
+  },
+  {
+    "name": "Metropolis Radio Network 99.4 (00's Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s110834",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Play Radio 90.4 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s149195",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIOBAR",
+    "url": "https://cp1.sednastream.com/proxy/radiobar?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RFM 91.3 - North Macedonia",
+    "url": "http://213.133.109.18:10004/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "macedonian"
+  },
+  {
+    "name": "Radio 105 Bombarder",
+    "url": "https://radio105bombarder.com:21010/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 41.03157717082056,
+    "lon": 21.334811751982787,
+    "language": "macedonian"
+  },
+  {
+    "name": "Radio 105 Bombarder 100.5 (European Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s81265",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio 5 coki 89.5 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s181106",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio 5fm 107.1 (Public Radio)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s190660",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Bravo Smooth Jazz Mix Radio",
+    "url": "http://server.webnetradio.net:5490/stream?",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Bubamara 105.2 Skopje, Macedonia",
+    "url": "https://stream.bubamara.com.mk/live",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 41.99606580863793,
+    "lon": 21.43166542053223,
+    "language": "macedonian"
+  },
+  {
+    "name": "Radio Fortuna 96.8 (World Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s10251",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Fortuna 96.8 FM",
+    "url": "https://radiofortuna.ipradio.mk/;*.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Fortuna 96.8 Skopje, Macedonia",
+    "url": "https://radiofortuna.ipradio.mk/;*.mp3%22",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 41.996094513539056,
+    "lon": 21.431708335876465,
+    "language": "macedonian"
+  },
+  {
+    "name": "Radio Kanal 77 Skopje, Macedonia",
+    "url": "https://radiocnd.mms.mk/proxy/offnet/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio MEFF 98.7 (Folk Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s112950",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Maria Macedonia",
+    "url": "http://dreamsiteradiocp.com:8118/stream",
+    "codec": "MP3",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "macedonian"
+  },
+  {
+    "name": "Radio Meff",
+    "url": "https://s32.myradiostream.com:16040/;?type=http&nocache=1688299470?0.591044522318551",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio VMRO 1",
+    "url": "https://radiovmro.radioca.st/;*.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Valandovo 91.6 FM",
+    "url": "https://cloud.mkdstream.com/p/7391/stream",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RadioBar",
+    "url": "https://visual.shoutca.st:8122/stream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Retro Sky Radio 102.5 FM Macedonia (MP3 128 kbps)",
+    "url": "https://s1.skyradio.com.mk/retro.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "SKY FOLK",
+    "url": "https://eu.live.skyfolk.mk/live.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "macedonian"
+  },
+  {
+    "name": "STIL RADIO",
+    "url": "https://eu4.fastcast4u.com/proxy/stilradiomk?mp=/1",
+    "codec": "AAC+",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Samo MK",
+    "url": "https://radiostream.neotel.mk/samomk",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": 41.99616627561355,
+    "lon": 21.426716744899753,
+    "language": "macedonian"
+  },
+  {
+    "name": "SamoMK",
+    "url": "http://radiostream.neotel.mk/samomk",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Sky Radio 102.5 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s109868",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Sky Radio 102.5 FM Macedonia (MP3 128 kbps)",
+    "url": "http://s1.skyradio.com.mk:8000/",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Sky Radio 102.5 Skopje, Macedonia",
+    "url": "https://s1.skyradio.com.mk/;*.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 41.99611843423953,
+    "lon": 21.43178343772888,
+    "language": "macedonian"
+  },
+  {
+    "name": "Star Folk Radio - Skopje, Macedonia",
+    "url": "http://161.97.114.58:8010/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "macedonian,spanish"
+  },
+  {
+    "name": "Star Radio (Boemi) Skopje, Macedonia",
+    "url": "https://a2.asurahosting.com/listen/stil_radio/starboem",
+    "codec": "AAC",
+    "bitrate": 384,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "macedonian"
+  },
+  {
+    "name": "Star Radio (Ex-YU Retro) Skopje, Macedonia",
+    "url": "https://radiostar.pro/stream/exyuretro.php",
+    "codec": "AAC",
+    "bitrate": 384,
+    "needsResolve": false,
+    "lat": 41.996022751383634,
+    "lon": 21.431633234024048,
+    "language": "macedonian"
+  },
+  {
+    "name": "Star Radio (Live) Skopje, Macedonia",
+    "url": "https://radiostar.pro/stream/starlive.php",
+    "codec": "AAC",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 41.99606261925775,
+    "lon": 21.43168151378632,
+    "language": "macedonian"
+  },
+  {
+    "name": "Star Radio (MK Narodna) Skopje, Macedonia",
+    "url": "https://radiostar.pro/stream/mknarodna.php",
+    "codec": "AAC",
+    "bitrate": 384,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "macedonian"
+  },
+  {
+    "name": "Star Radio (Plus) Skopje, Macedonia",
+    "url": "https://radiostar.pro/stream/starplus.php",
+    "codec": "AAC+",
+    "bitrate": 384,
+    "needsResolve": false,
+    "lat": 41.99603231952971,
+    "lon": 21.431708335876465,
+    "language": "macedonian"
+  },
+  {
+    "name": "Star Radio (Urban Folk) Skopje, Macedonia",
+    "url": "https://radiostar.pro/stream/narodna.php",
+    "codec": "AAC",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "macedonian"
+  },
+  {
+    "name": "Star Radio (World Hits) Skopje, Macedonia",
+    "url": "https://radiostar.pro/stream/worldretro.php",
+    "codec": "AAC",
+    "bitrate": 384,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "macedonian"
+  },
+  {
+    "name": "Super Radio - Skopje, Macedonia",
+    "url": "http://161.97.114.58:8020/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "macedonian,spanish"
+  },
+  {
+    "name": "Time FM Gevgelija",
+    "url": "https://s2.free-shoutcast.com/stream/18058",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 41.1400012780909,
+    "lon": 22.503851652145386,
+    "language": "macedonian"
+  },
+  {
+    "name": "Time FM Gevgelija 93.6 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s197212",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Urban FM 90.8 Skopje",
+    "url": "https://securestreams4.autopo.st:1668/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Urban FM Skopje 90.8 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s290318",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "radio 22",
+    "url": "https://radio.server14.kariha.net:8008/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Експрес Радио 101.1 Струмица, Македонија",
+    "url": "http://ekspresradio.dyndns.org:8000/",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Канал 77 Радио Мрежа",
+    "url": "https://radiocnd.mms.mk/proxy/player/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 41.74392518638831,
+    "lon": 22.203004261932264,
+    "language": ""
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "name": "((beu))",
+    "url": "https://stream.beufm.kz/beufm",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 43.233580428700115,
+    "lon": 76.94789886474611,
+    "language": "kazakh,russian"
+  },
+  {
+    "name": "Aspan FM",
+    "url": "http://77.240.38.228:8000/aspanfm",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 50.28095170189091,
+    "lon": 57.22795486450196,
+    "language": "kazakh"
+  },
+  {
+    "name": "Astana Fm",
+    "url": "https://icecast.vgtrk.cdnvideo.ru/vestifm_aac_64kbps",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 51.15040774121581,
+    "lon": 71.41113281250001,
+    "language": "kazakh,russian"
+  },
+  {
+    "name": "Auto Radio Kazakhstan",
+    "url": "http://178.88.167.62:8080/AVTORADIO_192",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 51.3553146394604,
+    "lon": 68.20312500000001,
+    "language": "kazakh,russian"
+  },
+  {
+    "name": "Darhan Radio",
+    "url": "https://stream.darhanradio.com/live",
+    "codec": "AAC",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Energy FM 102.2 (Dance & Electronic)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s134057",
+    "codec": "mp3",
+    "bitrate": 256,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "KTK TV",
+    "url": "http://89.218.30.37/ktklive/live.hq/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 3254,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "kazakh"
+  },
+  {
+    "name": "Love Radio Kazakhstan",
+    "url": "https://stream.gakku.tv:8443/love128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "NS-Rock",
+    "url": "https://icecast.ns.kz/radions",
+    "codec": "AAC+",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "kazakh,russian"
+  },
+  {
+    "name": "Palmera Blanca radio - Daystream",
+    "url": "https://daystream.palmerablanca.com/daystream-128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 43.08468041459464,
+    "lon": 77.07780361175539,
+    "language": "english,russian"
+  },
+  {
+    "name": "Pioner FM",
+    "url": "https://live.zhanafm.kz:8443/pionerfm",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 49.81579043207107,
+    "lon": 73.10800552368165,
+    "language": "english,kazakh,russian"
+  },
+  {
+    "name": "Qazaq radiosy",
+    "url": "https://radio-streams.kaztrk.kz/qazradio/qazradio/icecast.audio",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "kazakh"
+  },
+  {
+    "name": "Radio Azamat",
+    "url": "https://listen4.myradio24.com/8162",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "kazakh,russian"
+  },
+  {
+    "name": "Radio Bulbul",
+    "url": "https://radiobulbul.stream.laut.fm/radiobulbul",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "kazakh"
+  },
+  {
+    "name": "Radio TMK",
+    "url": "https://a4.radioheart.ru:9036/RH13170",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "tatar"
+  },
+  {
+    "name": "Radio Tengri FM",
+    "url": "http://91.201.214.229:8000/tengrifm",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "kazakh,russian"
+  },
+  {
+    "name": "Russian Dance Radio",
+    "url": "https://lux-radio.com:8015/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "SVETILO.ONLINE - духовно - осознанное",
+    "url": "https://streams.svetilo.online/listen/svetilo.online/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Shalqar",
+    "url": "https://radio-streams.kaztrk.kz/shalqar/shalqar/icecast.audio",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "kazakh"
+  },
+  {
+    "name": "Space Beat (128k)",
+    "url": "https://90116.web.hosting-russia.ru/listen/space_beat/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Space Beat (64k AAC)",
+    "url": "https://90116.web.hosting-russia.ru/listen/space_beat/mobile.aac",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "The Holy Quran  by Sheikh Mahmoud Al-Husari",
+    "url": "https://qurango.net/radio/mahmoud_khalil_alhussary_warsh",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Zhulduz Radio",
+    "url": "http://91.201.214.229:8000/zhulduz",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "kazakh,russian"
+  },
+  {
+    "name": "ВАШЕ РАДИО",
+    "url": "https://live.zhanafm.kz:8443/vasheradio",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 49.81486000268127,
+    "lon": 73.11229705810548,
+    "language": "english,kazakh,russian"
+  },
+  {
+    "name": "ЖАНА FM",
+    "url": "https://live.zhanafm.kz:8443/zhanafm_onair",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "kazakh,russian"
+  },
+  {
+    "name": "Жаңа Lounge",
+    "url": "https://live.zhanafm.kz:8443/zhanalounge",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 49.8184486954581,
+    "lon": 73.10045242309572,
+    "language": "english,kazakh,russian"
+  },
+  {
+    "name": "Жаңа MIX",
+    "url": "https://live.zhanafm.kz:8443/zhanamix",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 49.8187034400595,
+    "lon": 73.10616016387941,
+    "language": "english,kazakh,russian"
+  },
+  {
+    "name": "Жаңа Rock",
+    "url": "https://live.zhanafm.kz:8443/zhanarock",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 49.85852641623932,
+    "lon": 73.10028076171876,
+    "language": "english,kazakh,russian"
+  },
+  {
+    "name": "Народное Радио",
+    "url": "http://178.88.167.62:8080/DALA_192",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "russian"
+  },
+  {
+    "name": "Радио Classic",
+    "url": "https://radio-streams.kaztrk.kz/classic/classic/icecast.audio",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "kazakh"
+  },
+  {
+    "name": "Радио NS Павлодар",
+    "url": "https://service.ns.kz/bc/live",
+    "codec": "AAC+",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 52.29774571448588,
+    "lon": 76.93176269531251,
+    "language": ""
+  },
+  {
+    "name": "Радио SANA",
+    "url": "https://listen4.myradio24.com/radiosana",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "russian"
+  },
+  {
+    "name": "Радио Рауан",
+    "url": "https://listen4.myradio24.com/rauan",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Радио Талап",
+    "url": "https://okeyradio.ru/okey",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "kazakh,russian"
+  }
+]

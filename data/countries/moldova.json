@@ -1,0 +1,872 @@
+[
+  {
+    "name": "Aquarelle FM",
+    "url": "http://93.115.137.75:8000/aquarellefm.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "romanian"
+  },
+  {
+    "name": "CITY FM",
+    "url": "https://live.cityfm.md:8001/cityfm",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "CITY FM 103.9 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s337466",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Crucial Velocity Radio",
+    "url": "http://ais-sa2.cdnstream1.com/1369_128",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 46.02442760712411,
+    "lon": 28.828125000000004,
+    "language": ""
+  },
+  {
+    "name": "Dance Fm Moldova",
+    "url": "http://37.233.41.76:8000/dancefm",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "moldovian,romanian,russian"
+  },
+  {
+    "name": "DeepNova Radio",
+    "url": "https://a8.asurahosting.com:8820/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DeepNova Radio - DanceNova",
+    "url": "https://a3.asurahosting.com/listen/dance_house_hits/radio-192.mp3%20(320kbps%20MP3)",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Eco FM",
+    "url": "http://188.138.204.98:8080/ecoFM",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "romanian"
+  },
+  {
+    "name": "Focul din Vatră",
+    "url": "https://aiciascult.eu/radio",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Glowwave-FM",
+    "url": "https://commandcenter.tail5a820f.ts.net/stream",
+    "codec": "MP3",
+    "bitrate": 224,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Glowwave-FM",
+    "url": "https://wavehub.uk/api/functions/stationStream?uuid=1cf33481-5bc1-4e66-a95f-9d5278542df1",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "HIT FM 101.7 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s346883",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "HIT FM Eurovision Hits",
+    "url": "https://radio7.dixi.md/listen/hit_fm_eurovision_hits/eurovisionhits.aac",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,moldovian,romanian"
+  },
+  {
+    "name": "HIT FM K-Pop Hits",
+    "url": "https://radio3.dixi.md/listen/kpop_hits/kpop_hits.aac",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "korean"
+  },
+  {
+    "name": "HIT FM Latino Hits",
+    "url": "https://radio4.dixi.md/listen/hit_fm_latino_hits/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "portuguese,spanish"
+  },
+  {
+    "name": "HIT FM Trance Hits",
+    "url": "https://radio3.dixi.md/listen/hit_fm_trance/trance128.aac",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "HIT FM Tricolor de Hituri",
+    "url": "https://radio3.dixi.md/listen/hit_fm_tricolour/hitfmtricolor128.aac",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "romanian"
+  },
+  {
+    "name": "HIT FM Русский Хит",
+    "url": "https://radio3.dixi.md/listen/hit_fm_russkoe_hitovoe/hitfm_ruhit128.aac",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "молдавский,язык: русский"
+  },
+  {
+    "name": "Haliz Gagauz Radiosu - GRT",
+    "url": "http://s02.radio-tochka.com:8020/radio?type=.mp3",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "gagauz"
+  },
+  {
+    "name": "Hit FM 2000s HITS",
+    "url": "https://radio3.dixi.md/listen/hit_fm_2000s_hits/hitfm2000hit128.aac",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,russian"
+  },
+  {
+    "name": "Hit FM Best Hits",
+    "url": "https://radio3.dixi.md/listen/hit_fm_best_hits/hitfm_besthits128.aac",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Hit FM Dance",
+    "url": "https://radio4.dixi.md/listen/hit_fm_dance_hits/hitfmdancehits128.aac",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 47.01097476136412,
+    "lon": 28.8451661187761,
+    "language": ""
+  },
+  {
+    "name": "Hit FM Hot Hits",
+    "url": "https://radio3.dixi.md/listen/hit_fm_hot_hits/hitfm_hothits128.aac",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Hit FM Summer Hits",
+    "url": "https://radio4.dixi.md/listen/hit_fm_summer_hits/hitfmsummerhits128.aac",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Hit Fm Drive Mode",
+    "url": "https://radio7.dixi.md/listen/hit_fm_drive_mode/hitfmdrivemode128.aac",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "IMAGO.FM",
+    "url": "https://radio.imago.fm:8007/_a",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Inter FM 107.7",
+    "url": "https://inter-fm.com/hlsstream/stream.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 46.83624602517554,
+    "lon": 29.61114227771759,
+    "language": ""
+  },
+  {
+    "name": "Jurnal FM Chisinau 100.1 (Romanian Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s151282",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Jurnal FM Chisinau 98.7 (Romanian Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s201382",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Jurnal Fm",
+    "url": "https://audio.jurnalfm.md/hq",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "moldovian,romanian,russian"
+  },
+  {
+    "name": "Kiss FM Chișinău",
+    "url": "https://dc.digi.live.kissfm.ro/kissfm.chisinau",
+    "codec": "AAC",
+    "bitrate": 88,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "romanian"
+  },
+  {
+    "name": "Kiss FM Moldova",
+    "url": "https://live.kissfm.md/kissfm.chisinau",
+    "codec": "AAC",
+    "bitrate": 80,
+    "needsResolve": false,
+    "lat": 47.01912074293779,
+    "lon": 28.851814270019535,
+    "language": "moldovian"
+  },
+  {
+    "name": "LOVE PRO Dj Radio Chisinau",
+    "url": "http://live.prodjradio.net:8000/;",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "romanian"
+  },
+  {
+    "name": "Little Samaritan Radio / Radio Micul Samaritean 104 (Christian Contemporary)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s18337",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Love Radio Moldova",
+    "url": "http://37.233.41.76:8000/lovefm",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 47.021929410040514,
+    "lon": 28.843574523925785,
+    "language": "english,romanian"
+  },
+  {
+    "name": "Maestro FM 105.3 (Chill)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s201371",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Maestro FM 97.7 (Chill)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s188726",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Maestro FM 98.0 (Chill)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s201333",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Master Class FM (MD)",
+    "url": "https://listen3.myradio24.com/master1",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Megapolis Fm",
+    "url": "https://megapolisfm.md:8443/886",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "moldovian,romanian,russian"
+  },
+  {
+    "name": "Muz FM Moldova",
+    "url": "https://live.muzfm.md/muzfm",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 47.00310854194815,
+    "lon": 28.853821707432395,
+    "language": ""
+  },
+  {
+    "name": "Nebula-Radio",
+    "url": "http://myradio24.org/donsergio",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Novoe Radio 103.7 (Entertainment & Media)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s154072",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Orhei FM (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s341390",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "R Moldova Tineret 95.4 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s236756",
+    "codec": "mp3",
+    "bitrate": 256,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO MUZFM",
+    "url": "https://live.muzfm.md//muzfmhd",
+    "codec": "AAC+",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Ai Noștri",
+    "url": "https://s5.radio.co/sfd9f42d1d/listen",
+    "codec": "AAC",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "romanian"
+  },
+  {
+    "name": "Radio Chișinău",
+    "url": "https://radiochisinau.md/hls/RChisinau.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "romanian"
+  },
+  {
+    "name": "Radio DAR",
+    "url": "http://188.138.191.214/RadioDar",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Fresh MD",
+    "url": "https://stream-151.zeno.fm/ttofovumhg1vv?zs=3vmFlLhiROOIFik2GUoxgw",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Micul Samaritean",
+    "url": "https://s5.radio.co/sfff7b7e97/listen",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Moldova",
+    "url": "https://www.radio.md/stream/radiomoldovanews",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "romanian"
+  },
+  {
+    "name": "Radio Moldova 873 (World News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s16281",
+    "codec": "mp3",
+    "bitrate": 256,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Moldova Muzical",
+    "url": "http://radiolive.trm.md:8000/RM-muzical-256",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,romanian"
+  },
+  {
+    "name": "Radio Moldova Tineret",
+    "url": "https://radiolive.trm.md:8001/hls_rmt/tineret.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "romanian"
+  },
+  {
+    "name": "Radio Noroc Moldova",
+    "url": "https://stream.noroc.tv/radionoroc_aac",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Plai",
+    "url": "https://stream.radioplai.md/live",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "romanian"
+  },
+  {
+    "name": "Radio RFI Moldova",
+    "url": "https://asculta.radiorfi.ro/live.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 47.00647991252098,
+    "lon": 28.86245727539063,
+    "language": "english,french,romanian"
+  },
+  {
+    "name": "Radio ROKS (Moldova) - Classic Rock",
+    "url": "https://radio5.dixi.md/listen/classic_rock/roks_classic_rock128.aac",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio ROKS (Moldova) - Hard'n'Heavy",
+    "url": "https://radio5.dixi.md/listen/roks_hardnheavy/roks_hardnheavy.aac",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio ROKS (Moldova) - Indie Rock",
+    "url": "https://radio6.dixi.md/listen/indie_rock/indie_rock.aac",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio ROKS (Moldova) - New Rock",
+    "url": "https://radio6.dixi.md/listen/new_rock/new_rock128.aac",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio ROKS (Moldova) - Pop Rock",
+    "url": "https://radio6.dixi.md/listen/pop_rock/pop_rock.acc",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio ROKS (Moldova) - Rock Ballads",
+    "url": "https://radio6.dixi.md/listen/rock_ballads/rockballads128.aac",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio ROKS (Moldova) - Rock Tricolor",
+    "url": "https://radio5.dixi.md/listen/roks_tricolor/roks_tricolor128.aac",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "romanian"
+  },
+  {
+    "name": "Radio ROKS (Moldova) - Workout",
+    "url": "https://radio6.dixi.md/listen/workout_rock/workout.aac",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio ROKS Moldova",
+    "url": "https://stream.dixi.md:9443/Roks",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 47.01284752246169,
+    "lon": 28.843928306568447,
+    "language": "romanian"
+  },
+  {
+    "name": "Radio Record Moldova",
+    "url": "http://212.56.220.74:8000/RecordMD",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "moldovian,romanian,russian"
+  },
+  {
+    "name": "Radio Relax - Funk & Soul",
+    "url": "https://radio1.dixi.md/listen/relax_funk_soul/relaxfunkandsoul128.aac",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Relax - Jazz & Blues",
+    "url": "https://radio2.dixi.md/listen/relax_jazz__blues/relaxjazzblues128.aac",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Relax - Nature",
+    "url": "https://radio8.dixi.md/listen/relax_ice_arena/relaxicearena128.aac",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Relax - Tricolor",
+    "url": "https://radio1.dixi.md/listen/relax_tricolor/relaxtricolor128.aac",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "romanian"
+  },
+  {
+    "name": "Radio Relax - Versiuni Acustice",
+    "url": "https://radio8.dixi.md/listen/relax_acoustic_version/relax_acousticversion128.aac",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Relax - VinoPizza",
+    "url": "https://radio2.dixi.md/listen/relax_vinopizza/vinopizza.aac",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "italian"
+  },
+  {
+    "name": "Radio Relax - lo-fi",
+    "url": "https://radio8.dixi.md/listen/relax_lofi/relax_lofi128.aac",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Studentus",
+    "url": "http://radiolive.studentus.md:8000/live",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 47.023333688184934,
+    "lon": 28.84803771972657,
+    "language": "moldovian"
+  },
+  {
+    "name": "Radio Studentus 99 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s343640",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio ZUM 1",
+    "url": "https://streams.radiozum.md/listen/zum1/ZUM1",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "moldovian,romanian"
+  },
+  {
+    "name": "Radio ZUM 2",
+    "url": "https://streams.radiozum.md/listen/zum2/ZUM2",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "moldovian,romanian"
+  },
+  {
+    "name": "Radio ZUM4",
+    "url": "https://streams.radiozum.md/listen/zum4/ZUM4",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "romanian"
+  },
+  {
+    "name": "RadioBEAT",
+    "url": "https://ssl.omegahost.ro/9998/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Realitatea FM",
+    "url": "https://radio.realitatea.group/realitatea",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Retro FM Moldova",
+    "url": "https://efir.retrofm.md:8000/retro",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": 47.00716702709468,
+    "lon": 28.864203393459324,
+    "language": "romanian,russian"
+  },
+  {
+    "name": "Sex Sound Radio",
+    "url": "https://sexsoundradio.com:8000/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Smile FM",
+    "url": "https://sonicssl.namehost.ro/8050/;",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "romanian"
+  },
+  {
+    "name": "VibeFM",
+    "url": "https://stream.radio.co/s6a544f6c9/listen",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "imago.fm",
+    "url": "http://109.233.192.78:8000/_a",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 47.02426985309355,
+    "lon": 28.85215759277344,
+    "language": ""
+  }
+]

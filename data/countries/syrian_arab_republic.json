@@ -1,0 +1,332 @@
+[
+  {
+    "name": ".. مختصر التفسير",
+    "url": "https://qurango.net/radio/mukhtasartafsir",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Al Karma FM",
+    "url": "https://broadcast.shoutstream.co.uk/stream/8112",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "AlAsemeh Radio",
+    "url": "https://asima.out.airtime.pro/asima_a",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Althania TV",
+    "url": "https://live.kwikmotion.com/syriatvlive/syriatv_audio/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 194,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Arta FM",
+    "url": "http://edge.mixlr.com/channel/qtgru",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Arta Radio",
+    "url": "http://edge.mixlr.com/channel/qtgru",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Asima Online Radio",
+    "url": "http://asima.out.airtime.pro:8000/asima_a",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Asima Online Radio",
+    "url": "https://asima.out.airtime.pro/asima_a",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Denge Qamishlo",
+    "url": "https://dengeqamishlo.stream.laut.fm/dengeqamishlo",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "kurdish"
+  },
+  {
+    "name": "Emaar FM Radio",
+    "url": "https://stream-149.zeno.fm/4luag56o066uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Emaar FM Radio",
+    "url": "https://stream-149.zeno.fm/4luag56o066uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Emaar FM Radio",
+    "url": "https://stream-156.zeno.fm/4luag56o066uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Emaar FM Radio",
+    "url": "https://stream-149.zeno.fm/4luag56o066uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Exclusively Meat Loaf",
+    "url": "https://nl4.mystreaming.net/er/meatloaf/icecast.audio",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Farah FM",
+    "url": "https://radio.farah.fm/",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Farah FM",
+    "url": "https://radio.farah.fm/",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Nasaem Syria Radio | Breezes Syria",
+    "url": "https://stream-69.zeno.fm/u1wbm3k7gxquv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Orman Radio Jabal Alarab",
+    "url": "http://ormanland.no-ip.info:8200/mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Radio Damascus إذاعة دمشق",
+    "url": "https://radiodamascus.ortas.live/RDimshq/RDimshqAudioLive/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Radio Helmna",
+    "url": "https://radiohelmna.com/stream/;",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Radio Nasaem راديو نسائم",
+    "url": "https://stream.zeno.fm/u1wbm3k7gxquv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Radio Rozana",
+    "url": "https://stream.zeno.fm/sq7y5y2z06duv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic."
+  },
+  {
+    "name": "Radio Yeraz",
+    "url": "http://149.255.60.194:8008/stream",
+    "codec": "MP3",
+    "bitrate": 80,
+    "needsResolve": false,
+    "lat": 36.199182321338675,
+    "lon": 37.16297223622079,
+    "language": "armenian"
+  },
+  {
+    "name": "Rayan FM",
+    "url": "https://broadcast.shoutstream.co.uk:8078/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Sham FM",
+    "url": "https://radioshamfm.grtvstream.com:8400/;",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Syria TV",
+    "url": "https://live.kwikmotion.com/syriatvlive/syriatv_audio/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 194,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Syria TV - راديو تلفزيون سوريا",
+    "url": "https://stream2.syria.fm/syriatv1live/syriatv_audio/icecast.audio",
+    "codec": "AAC+",
+    "bitrate": 56,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Tayf Fm - راديو طيف - صدى السوريين",
+    "url": "https://stream.zeno.fm/xbohf8qf5uauv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Version FM",
+    "url": "https://versionfm.com:8100/stream",
+    "codec": "MP3",
+    "bitrate": 24,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "denge cudi",
+    "url": "https://denge-cudi.stream.laut.fm/denge-cudi?pl=m3u",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 37.0266767305112,
+    "lon": 41.268768310546875,
+    "language": "kurdish"
+  },
+  {
+    "name": "sham fm",
+    "url": "http://66.248.205.220:8400/stream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "قديم FM",
+    "url": "http://usa6.fastcast4u.com:5109/live",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "لا القارئ محمد أيوب",
+    "url": "https://qurango.net/radio/mohammed_ayyub",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

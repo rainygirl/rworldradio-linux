@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Grandes Clássicos da Música Moçambicana",
+    "url": "https://stream-177.zeno.fm/bm29ouxe0hrtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJibTI5b3V4ZTBocnR2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiekQ4STlaZDhRdXV0ZDR5NDk4a2lNZyIsImlhdCI6MTc2ODQ0OTIzMywiZXhwIjoxNzY4NDQ5MjkzfQ.kuFnolX_6S8uWE2W2OQYYG2V2I0VHXYgiIoA7shPXKs",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Grandes Clássicos da Música Moçambicana",
+    "url": "https://stream-177.zeno.fm/bm29ouxe0hrtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJibTI5b3V4ZTBocnR2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiUFF5eUJmenVSeFdVLTVWUElxLTZ4dyIsImlhdCI6MTc2ODQ2NDMzMywiZXhwIjoxNzY4NDY0MzkzfQ.YCQS__g2toDUabWuM9kqb9cC7VDyHTTtkJ4mgWPLmIo",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "LM Radio Mozambique",
+    "url": "https://edge.iono.fm/xice/392_medium.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": -25.947507710131532,
+    "lon": 32.498066647646276,
+    "language": "english,portuguese"
+  },
+  {
+    "name": "Radio Maria Mozambique 103.1 (Catholic Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s6288",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Miramar 101.4 (Entertainment)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s336746",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Mocambique 97.9 (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s10958",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Rádio Cidade - Beira 105.2 FM",
+    "url": "https://node.stream-africa.com:8443/RadioCidadeBeira",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": -19.828854582485828,
+    "lon": 34.84313964843751,
+    "language": "portuguese"
+  },
+  {
+    "name": "Rádio Moçambique Antena Nacional",
+    "url": "https://node.stream-africa.com:8443/AntenaNacional",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "portuguese"
+  },
+  {
+    "name": "Super FM 101.9",
+    "url": "http://41.223.153.14:8000/;stream/1",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

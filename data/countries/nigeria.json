@@ -1,0 +1,642 @@
+[
+  {
+    "name": "1Radio International",
+    "url": "https://fm.imediaport.com/1radio",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 5.770402200015781,
+    "lon": 7.250976562500001,
+    "language": "africa,carpatho-rusyn,englisgh,french,german,hausa,igbo,pigeon english,portoguese,yeruoba"
+  },
+  {
+    "name": "1Radio Oguta - Community",
+    "url": "https://fm.imediaport.com/1radio.oguta",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Adamimogo FM",
+    "url": "http://stream.zeno.fm/sywy4vua6zhvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Afrobeats Gospel Radio",
+    "url": "https://stream.zeno.fm/zyd9stmdlnlvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 5.0275515138905185,
+    "lon": 7.927322387695313,
+    "language": ""
+  },
+  {
+    "name": "Afrofusion Gospel Radio",
+    "url": "https://a3.asurahosting.com/listen/afrofusion_gospel_radio/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 4.981596254849752,
+    "lon": 7.790531770167536,
+    "language": "english,pigin"
+  },
+  {
+    "name": "Afrofusion Gospel Radio",
+    "url": "https://a10.asurahosting.com:7120/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 4.987831074158455,
+    "lon": 7.784637836455968,
+    "language": "english,pigin"
+  },
+  {
+    "name": "Afrofusion Gospel Radio",
+    "url": "https://radio.nitro-server.uk/listen/afrofusiongospelradio/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 4.982546490794954,
+    "lon": 7.790289752891676,
+    "language": ""
+  },
+  {
+    "name": "Air Gospel",
+    "url": "https://stream.zeno.fm/qkgrhugy908uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Air Radio",
+    "url": "https://stream.zeno.fm/xu7hp12tzv8uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Awoko Radio",
+    "url": "http://node-05.zeno.fm/tqq99en94v8uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Blast 98.3 FM",
+    "url": "https://stream.zeno.fm/94a8u4h2uhhvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bond 92.9 FM",
+    "url": "https://go.webgateready.com/bondfm",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Domi Radio",
+    "url": "https://domimedia.org/stream",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Dream Center Internet Radio",
+    "url": "https://admin.dciradio.org/radio/8010/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Esan binoculars",
+    "url": "https://fm.imediaport.com/ebradio",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 6.420861301892414,
+    "lon": 6.296539306640626,
+    "language": "english,esan,pigeon english"
+  },
+  {
+    "name": "FAD FM",
+    "url": "https://radio.gotright.net/listen/fadfm/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "GanGan Radio",
+    "url": "https://stream.zeno.fm/9reuhyz8up8uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "africa,english"
+  },
+  {
+    "name": "GoRadio",
+    "url": "https://online.goradio.com.ng/listen/gr/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Godfrey Okoye University Radio 106.9fm",
+    "url": "https://us5new.listen2myradio.com:2199/stream.php?port=8178",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Gospotainment Radio",
+    "url": "https://radio.gotright.net/radio/8000/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Green Radio Uganda",
+    "url": "https://servidor17-1.brlogic.com:7940/live?source=12124",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "HOD RADIO",
+    "url": "https://servidor21.brlogic.com:7766/live",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Hawa",
+    "url": "https://hawa.com.ng/stream",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 6.576757425225415,
+    "lon": 3.690621602843192,
+    "language": ""
+  },
+  {
+    "name": "Inform Me Radio",
+    "url": "http://stream.zeno.fm/ta1fke6sz1zuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "InterSpace Sound System",
+    "url": "https://radio.interspacemusic.com/stream.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "KCity Radio",
+    "url": "https://radio.gotright.net/radio/8010/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Konga103.7FM",
+    "url": "https://lunar.citrus3.com:8124/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 6.5515029758095675,
+    "lon": 3.3779928088188176,
+    "language": "english"
+  },
+  {
+    "name": "LagosJump Radio",
+    "url": "https://radio.lagosjumpradio.com/listen/lagosjump_radio/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "MEMORIES 96.5FM UYO",
+    "url": "https://a5.asurahosting.com:6670/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "METRO FM LAGOS",
+    "url": "https://go.webgateready.com/metrofm/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Magic sounds",
+    "url": "https://fun.lonelies.social/stream",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MajorFM",
+    "url": "http://stream.zeno.fm/pkza99xshkhvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 6.500050180123714,
+    "lon": 3.3769393269335706,
+    "language": "africa,english,ghana,usa"
+  },
+  {
+    "name": "Metro 97.7 FM",
+    "url": "https://go.webgateready.com/metrofm",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "NCBN Abuja",
+    "url": "https://stream.zeno.fm/1zur4ycs6x8uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Nagari Radio",
+    "url": "http://stream.zeno.fm/287z97ksdg8uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hausa"
+  },
+  {
+    "name": "Nigerian Gospel Music Radio (MP3)",
+    "url": "http://stream.zeno.fm/3fmqr74a7f8uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Obong Radio",
+    "url": "https://eu4.fastcast4u.com/proxy/obonguniversity?mp=/1",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 4.949616771881379,
+    "lon": 7.564528420141958,
+    "language": "english"
+  },
+  {
+    "name": "Obong Radio",
+    "url": "https://stream.zeno.fm/vlssnjcwkisvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 4.949986603651791,
+    "lon": 7.5671124458313,
+    "language": "annang,efik,engllish,ibibio"
+  },
+  {
+    "name": "Obong University Radio",
+    "url": "https://a10.asurahosting.com:7150/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 4.940714343350264,
+    "lon": 7.5718207511496844,
+    "language": "english,pigin"
+  },
+  {
+    "name": "RCCG Central Parish Radio",
+    "url": "https://s2.radio.co/s82911d13a/low",
+    "codec": "AAC",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RFI Haoussa",
+    "url": "http://live02.rfi.fr/rfihaoussa-96k.mp3",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio East",
+    "url": "http://stream.zeno.fm/7f4w4us5wp8uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "RadioTiwa",
+    "url": "https://stream.zeno.fm/tvqvamkwe5zuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Rose FM",
+    "url": "http://ec1.everestcast.host:4730/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Softlife Afrofusion Radio",
+    "url": "https://eu4.fastcast4u.com/proxy/softlife?mp=/1",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 5.032437546814431,
+    "lon": 7.927600090694709,
+    "language": ""
+  },
+  {
+    "name": "Softlife Afrofusion Radio",
+    "url": "http://eu4.fastcast4u.com:3768/stream?type=http&nocache=1",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 5.030749236131214,
+    "lon": 7.925800989920311,
+    "language": "english,pigin"
+  },
+  {
+    "name": "Softlife Afrofusion Radio",
+    "url": "http://eu4.fastcast4u.com:3768/stream?type=http&nocache=11",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Softlife Afrofusion Radio",
+    "url": "https://eu4.fastcast4u.com/proxy/softlife/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 5.031188133455701,
+    "lon": 7.926169416336687,
+    "language": "english,pigin"
+  },
+  {
+    "name": "Softlife Afrofusion Radio",
+    "url": "https://a10.asurahosting.com:7540/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 5.033203793692496,
+    "lon": 7.922617532115105,
+    "language": "english,pigin"
+  },
+  {
+    "name": "Splash FM 105.5",
+    "url": "https://edge.mixlr.com/channel/cfeki",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Splash FM Abeokuta",
+    "url": "https://stream.zeno.fm/m9x6zr5trp8uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Sports Radio Brila FM",
+    "url": "https://atunwadigital.streamguys1.com/brilafm",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "The Today Africa Radio",
+    "url": "http://stream.zeno.fm/e66eb3qmg48uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 8.233227395569616,
+    "lon": 8.16127270460129,
+    "language": ""
+  },
+  {
+    "name": "Trove Radio Station",
+    "url": "https://stream.zeno.fm/c4ghegiwnkcvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,yoruba"
+  },
+  {
+    "name": "URBAN RADIO ENUGU",
+    "url": "https://edge.mixlr.com/channel/cfldr",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Usaku FM 90.5",
+    "url": "https://eu8.fastcast4u.com/proxy/usakufm?mp=/1",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,hausa"
+  },
+  {
+    "name": "Vybz 94.5 FM",
+    "url": "https://mpc.my-control-panel.eu/stream/8138",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "YES 101.7 FM",
+    "url": "https://stream.zenolive.com/kqgbf9g3mfhvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Yes FM 101.7",
+    "url": "https://stream.zeno.fm/kqgbf9g3mfhvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "ZamRock Radio",
+    "url": "https://wild-haze-hifi.deathsmack-a51.workers.dev/",
+    "codec": "AAC",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "ZamRock Radio Nigeria Relay",
+    "url": "https://mega-public-relay.deathsmack-a51.workers.dev/",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "ZamRock Radio Nigeria Relay",
+    "url": "https://mega-public-relay.deathsmack-a51.workers.dev/hifi.aac",
+    "codec": "AAC",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "ZamRock Radio [Mega Relay]",
+    "url": "https://megason-radioinfo.deathsmack-a51.workers.dev/",
+    "codec": "AAC",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 6.5244,
+    "lon": 3.3792,
+    "language": "english"
+  },
+  {
+    "name": "ZamRock Radio [Nigeria Relay]",
+    "url": "https://megason-radioinfo.deathsmack-a51.workers.dev/hifi.aac",
+    "codec": "AAC",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 6.5244,
+    "lon": 3.3792,
+    "language": "english"
+  }
+]

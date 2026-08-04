@@ -1,0 +1,52 @@
+[
+  {
+    "name": "AFRICA RADIO - MANU DIBANGO FOREVER 94.5 (World Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s16087",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MARINA STEREO BARRANQUILLA 90.7 FM | (Salsa Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s345584",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Mambokadzi DreamRadio",
+    "url": "https://cast3.asurahosting.com/proxy/dreamradio/stream.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Ndeke Luka",
+    "url": "https://stream.radiondekeluka.org/ndekeluka",
+    "codec": "MP3",
+    "bitrate": 28,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Ndeke Luka FM",
+    "url": "http://stream.radiondekeluka.org:8001/ndekeluka",
+    "codec": "MP3",
+    "bitrate": 28,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

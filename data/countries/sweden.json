@@ -1,0 +1,2502 @@
+[
+  {
+    "name": "106,7 Rockklassiker",
+    "url": "http://tx-bauerse.sharp-stream.com/http_live.php?ua=WEB&i=rockklassiker_instream_se_mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "24/7 Continuous Music",
+    "url": "https://securestream.cuelightsmedia.com.au/listen/247_continuous_music/radio.mp3",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "90s Rewind",
+    "url": "https://mml1.prostream.se/listen/90s_rewind/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 59.3293,
+    "lon": 18.0686,
+    "language": "english"
+  },
+  {
+    "name": "Aftab",
+    "url": "https://mml1.prostream.se/listen/aftab/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 59.3293,
+    "lon": 18.0686,
+    "language": "english"
+  },
+  {
+    "name": "Alt Edge Radio",
+    "url": "https://mml2.prostream.se/listen/alt_edge_radio/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 59.3293,
+    "lon": 18.0686,
+    "language": "english"
+  },
+  {
+    "name": "American Truckers",
+    "url": "https://mml2.prostream.se/listen/american_truckers/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 59.3293,
+    "lon": 18.0686,
+    "language": "english"
+  },
+  {
+    "name": "Auralis Radio",
+    "url": "https://auralis-radio.com/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "BANANRADION",
+    "url": "https://lyssna.bananradion.se/listen/bananradion/128aac",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 59.3729609,
+    "lon": 13.7234144,
+    "language": "swedish"
+  },
+  {
+    "name": "Back to the 80s",
+    "url": "https://mml1.prostream.se/listen/back_to_the_80s/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 59.3293,
+    "lon": 18.0686,
+    "language": "english"
+  },
+  {
+    "name": "Bandit Alternative",
+    "url": "http://wr05-ice.stream.khz.se/wr05_mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bandit Ballads",
+    "url": "https://wr21-ice.stream.khz.se/wr21_aac",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 59.35111568253323,
+    "lon": 17.929687500000004,
+    "language": ""
+  },
+  {
+    "name": "Bandit Classic Rock",
+    "url": "https://wr11-ice.stream.khz.se/wr11_mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 59.319738182261645,
+    "lon": 18.127441406250004,
+    "language": "swedish"
+  },
+  {
+    "name": "Bandit Metal",
+    "url": "https://wr03-ice.stream.khz.se/wr03_mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 57.715108641509296,
+    "lon": 11.992435455322266,
+    "language": ""
+  },
+  {
+    "name": "Bandit Metal",
+    "url": "http://wr03-ice.stream.khz.se/wr03_mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Bandit Rock",
+    "url": "http://fm02-ice.stream.khz.se/fm02_mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Bandit ÍRock",
+    "url": "https://fm02-ice.stream.khz.se/fm02_mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 59.33253275786533,
+    "lon": 18.061523437500004,
+    "language": "swedish"
+  },
+  {
+    "name": "Banjalučki Sevdah Radio Šeherčani",
+    "url": "https://stream-172.zeno.fm/wazhcyi9ak5vv?zs=tApDLixiTGuqRhXqTfctZQ&1709234440014",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bosnian"
+  },
+  {
+    "name": "Best of ericade.radio",
+    "url": "https://radio.ericade.net/sc/stream/2/",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 59.327369257787545,
+    "lon": 18.011226654052738,
+    "language": ""
+  },
+  {
+    "name": "Blues",
+    "url": "https://mml1.prostream.se/listen/blues/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 59.3293,
+    "lon": 18.0686,
+    "language": "english"
+  },
+  {
+    "name": "Bollywood Bangers",
+    "url": "https://mml2.prostream.se/listen/bollywood_bangers/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 59.3293,
+    "lon": 18.0686,
+    "language": "english"
+  },
+  {
+    "name": "Borås Närradio",
+    "url": "http://lyssna.fnf.nu:8080/radioboras.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "BozRadio",
+    "url": "http://streaming.live365.com/a80252",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Classical",
+    "url": "https://mml2.prostream.se/listen/classical/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 59.3293,
+    "lon": 18.0686,
+    "language": "english"
+  },
+  {
+    "name": "Country",
+    "url": "https://mml1.prostream.se/listen/country/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 59.3293,
+    "lon": 18.0686,
+    "language": "english"
+  },
+  {
+    "name": "Country Rocks Radio",
+    "url": "http://stream.dbmedia.se/crrMP3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Country Rocks Radio",
+    "url": "http://stream.dbmedia.se/crr96",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Dagnys Jukebox",
+    "url": "https://stream4.rcast.net/73224",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "DansBandsRadio.se",
+    "url": "https://sc.dansbandsradio.se/dbr128.aac",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "danish,norwegian,swedish"
+  },
+  {
+    "name": "DansBandsRadio.se",
+    "url": "https://sc.dansbandsradio.se/dbr64.aac",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 55.8708,
+    "lon": 12.8302,
+    "language": "danish,norwegian,swedish"
+  },
+  {
+    "name": "DansBandsRadio.se",
+    "url": "https://sc.dansbandsradio.se/dbr128.mp3",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 55.8708,
+    "lon": 12.8302,
+    "language": "danish,norvegian\\,swedish"
+  },
+  {
+    "name": "Dansbandskanalen",
+    "url": "https://fm09-ice.stream.khz.se/fm09_mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 55.85064987433714,
+    "lon": 13.710937500000002,
+    "language": "swedish"
+  },
+  {
+    "name": "Dansbandskanalen.se*",
+    "url": "https://stream.dbmedia.se/dbkMP3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Decades",
+    "url": "https://mml1.prostream.se/listen/decades/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 59.3293,
+    "lon": 18.0686,
+    "language": "english"
+  },
+  {
+    "name": "Disco 54",
+    "url": "https://wr15-ice.stream.khz.se/wr15_mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 59.32646464098633,
+    "lon": 18.07633640584146,
+    "language": "swedish"
+  },
+  {
+    "name": "Dunken FM",
+    "url": "http://stream.nsp.se:8000/DFM_AAC_Hi",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 55.37739390228786,
+    "lon": 13.150634765625002,
+    "language": "swedish"
+  },
+  {
+    "name": "Dunken FM",
+    "url": "http://stream.nsp.se:8000/DFM_MP3_Hi",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "EDM",
+    "url": "https://mml2.prostream.se/listen/edm_/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 59.3293,
+    "lon": 18.0686,
+    "language": "english"
+  },
+  {
+    "name": "Epic Soundtracks Only",
+    "url": "https://mml2.prostream.se/listen/epic_soundtracks_only/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 59.3293,
+    "lon": 18.0686,
+    "language": "english"
+  },
+  {
+    "name": "FUN RADIO 95,3 Sweden",
+    "url": "http://stream.funradio.se:81/live192",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Faith Beats Radio",
+    "url": "https://mml2.prostream.se/listen/faith_beats_radio/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 59.3293,
+    "lon": 18.0686,
+    "language": "english"
+  },
+  {
+    "name": "Gamla Favoritter",
+    "url": "https://wr09-ice.stream.khz.se/wr09_mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 59.2771080105117,
+    "lon": 18.039550781250004,
+    "language": ""
+  },
+  {
+    "name": "Gen X",
+    "url": "https://mml1.prostream.se/listen/gen_x/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 59.3293,
+    "lon": 18.0686,
+    "language": "english"
+  },
+  {
+    "name": "Go Country",
+    "url": "https://wr14-ice.stream.khz.se/wr14_mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,swedish"
+  },
+  {
+    "name": "Gold FM Växjö, Sweden",
+    "url": "https://live-bauerse-fm.sharp-stream.com/goldfm_web_se_aacp?direct=true&amp;listenerid=undefined&amp;aw_0_1st.bauer_listenerid=undefined&amp;aw_0_1st.playerid=BMUK_inpage_html5&amp;aw_0_1st.skey=1678939562&amp;aw_0_1st.bauer_loggedin=false&amp;aw_0_req.userConsentV2=CPot5gAPot5gAAGABCENC7CsAP_AAE_AABJ4IoNF5GdUTXFBOH59YJtwKYxXx1BwoKAhBgAFA4AAyJIELJAGVEEaJAyKACACAAYAIEIBAABAEAFAAAgAYIEBIACEAEEEJAAAIAAAEEABIEQAEAAMAAAAUAIAgEBWEhAggBQA4RJETMBACoABCUAwigkEAAAAAgAAAAAAQAAAAAAAAAAAAAAAAAAAgAQNvgEAAIAJ-AXUA7YB-wF2gNoAbeAoEgVgAIAAXABQAFQAMgAcAA8ACAAGQANIAiACKAEwAJ4AVQA3gBzAD8AISARABEgCOAEsAKUAZAA-AB-wD_AQAAigBGACOAEmAJSAT8AoIBigDaAIdATKAtgBeYDDQGSAMnAbeBEMIAKABIAD8ARQA5wCBgHVATYApsBdQDFg0AgAZABAACMAEmgLQAtIB1QEOgMnDABADZAHUATYApsRAHAGQAQAAjABJgDqgIdAZOIABAAkATYKgDgAUACYAI4AjkBaAFpAWwAvMUACAOqAmwZAFACYAI4AjgC2AF5jAAYB1QEnAJsHQMwAFwAUABUADIAHAAQAAuABkADQAH0ARABFACYAE8AKoAYgAzABvADmAH6ARABEgCWAFGAKUAZAAygBogD9AH-AQMAigBFgCMAEcAJMASkAn4BQYC0ALSAYoA2gB1AEOgJUAVYAtgBdoC8wGGgMkAZOAywBt44AsACQAH4AUAAyACKAEcAOcAdwBAACIgGBAOOAdIA6oCYoEyATKAmwBSACmwFqALqAYsQgNgALAAoABkAFwATAAqgBiADMAG8ARwApQBlAD_AIoARwAlIBQYC0ALSAYoA2gB1AEqAKsAWwAu0Bk4DgCIAEA_ZAAOAOcA6oB2wEnAJiATYApAlAbAAQAAsACgAGQAOABEACYAFUAMQAZoBEAESAI4AUYApQBlAEcgLQAtIBigDqAIdAWwAu0BeYDJwGWANvAcASADgBkAFyAO4AgAB1QE2AMWKQKAAFwAUABUADIAHAAQAAyABpAEQARQAmABPACkAFUAMQAZgA5gB-gEQARIAowBSgDIAGUANEAfoBFgCMAEcAJSAUEA2gCHQEnAKsAWwAu0BeYDDQGSAMnAZYA28qABAP2UAKAAkAB-AGQANoAjgBcgDnAHcAQAAkQBigDqgHbATEAmUBNgCkAFNgMWAakAAA.YAAAAAAAAAAA",
+    "codec": "AAC+",
+    "bitrate": 56,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Groove Revival Radio",
+    "url": "https://mml2.prostream.se/listen/groove_revival_radio/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 59.3293,
+    "lon": 18.0686,
+    "language": "english"
+  },
+  {
+    "name": "Guldkanalen (80-tal)",
+    "url": "https://stream.dbmedia.se/gk80tal96",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Guldkanalen (90-tal)",
+    "url": "https://stream.dbmedia.se/gk90tal96",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 59.08044665021323,
+    "lon": 15.908203125000002,
+    "language": ""
+  },
+  {
+    "name": "Guldkanalen 60-tal",
+    "url": "https://stream.dbmedia.se/gk60tal96",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 58.53959476664049,
+    "lon": 16.699218750000004,
+    "language": "swedish"
+  },
+  {
+    "name": "Guldkanalen Helsingborg",
+    "url": "http://stream.dbmedia.se/gkhbg96",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Guldkanalen Malmö/Lund",
+    "url": "http://stream.dbmedia.se/gk96",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Göteborgs Närradio 102.6 MHz",
+    "url": "http://lyssna.fnf.nu:8080/gnf102.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Göteborgs Närradio 103.1 MHz",
+    "url": "http://lyssna.fnf.nu:8080/gnf103.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Göteborgs Närradio 94.9 Mhz",
+    "url": "http://lyssna.fnf.nu:8080/gnf094.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "HITCITY",
+    "url": "https://stream.hitcity.se/live",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 55.87429544555874,
+    "lon": 12.831567694372197,
+    "language": "swedish"
+  },
+  {
+    "name": "HITCITY",
+    "url": "https://stream.hitcity.se/live.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 55.874282203799176,
+    "lon": 12.831585657847306,
+    "language": "english,swedish"
+  },
+  {
+    "name": "Harmony Frequencies",
+    "url": "https://mml2.prostream.se/listen/harmony_frequencies_radio/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 59.3293,
+    "lon": 18.0686,
+    "language": "english"
+  },
+  {
+    "name": "Hello Africa",
+    "url": "https://mml1.prostream.se/listen/hello_africa/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 59.3293,
+    "lon": 18.0686,
+    "language": "english"
+  },
+  {
+    "name": "Helsinborgs närradio",
+    "url": "http://deb.patrikmalmgrenrask.se:8010/",
+    "codec": "MP3",
+    "bitrate": 140,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Himlen TV7",
+    "url": "http://vod.tv7.fi:1935/tv7-se/mp4:tv7-se.stream_720p/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 2790,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,swedish"
+  },
+  {
+    "name": "HitMix90's",
+    "url": "https://wr19-ice.stream.khz.se/wr19_mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 59.32478310834112,
+    "lon": 18.067016601562504,
+    "language": ""
+  },
+  {
+    "name": "Hitzfm 97,8 Sommenbygd",
+    "url": "https://s2.stationplaylist.com:7098/listen.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "House",
+    "url": "https://mml1.prostream.se/listen/house/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 59.3293,
+    "lon": 18.0686,
+    "language": "english"
+  },
+  {
+    "name": "Höganäs Närradio",
+    "url": "https://deb.patrikmalmgrenrask.se:10443/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 56.20453060605407,
+    "lon": 12.5583815574646,
+    "language": "swedish"
+  },
+  {
+    "name": "Ivory Echoes",
+    "url": "https://mml1.prostream.se/listen/ivory_echoes/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 59.3293,
+    "lon": 18.0686,
+    "language": "english"
+  },
+  {
+    "name": "Jazz",
+    "url": "https://mml1.prostream.se/listen/jazz/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 59.3293,
+    "lon": 18.0686,
+    "language": "english"
+  },
+  {
+    "name": "Julkanalen",
+    "url": "http://fm10-ice.stream.khz.se/fm10_mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Kpop",
+    "url": "https://mml2.prostream.se/listen/kpop/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 59.3293,
+    "lon": 18.0686,
+    "language": "english"
+  },
+  {
+    "name": "Latin",
+    "url": "https://mml2.prostream.se/listen/latin/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 59.3293,
+    "lon": 18.0686,
+    "language": "english"
+  },
+  {
+    "name": "Linköpings närradio",
+    "url": "https://stream.linkopingsnarradio.se:8005/radioprogram",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Lite FM 101.1",
+    "url": "http://live.litefm.se:8000/stream_mp3",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Lugna Favoriter Stockholm",
+    "url": "http://fm03-ice.stream.khz.se/fm03_mp3?",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 59.29506419340261,
+    "lon": 18.017578125000004,
+    "language": "swedish"
+  },
+  {
+    "name": "MRS 90.5 Stockholm",
+    "url": "http://radiostreamone.mine.nu/MRS9050one",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Mad Mix Beats",
+    "url": "https://mml1.prostream.se/listen/mad_mix_beats/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 59.3293,
+    "lon": 18.0686,
+    "language": "english"
+  },
+  {
+    "name": "Mad Mix Curated",
+    "url": "https://mml2.prostream.se/listen/mad_mix_curated/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 59.3293,
+    "lon": 18.0686,
+    "language": "english"
+  },
+  {
+    "name": "Mad Mix Main",
+    "url": "https://mml1.prostream.se/listen/mad_mix_main/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 59.3293,
+    "lon": 18.0686,
+    "language": "english"
+  },
+  {
+    "name": "Magic Radio",
+    "url": "http://stream.magicradio.se/magic",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 55.58930827021694,
+    "lon": 13.002319335937502,
+    "language": ""
+  },
+  {
+    "name": "Melancholy",
+    "url": "https://mml2.prostream.se/listen/melancholy/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 59.3293,
+    "lon": 18.0686,
+    "language": "english"
+  },
+  {
+    "name": "Metal Mayhem",
+    "url": "https://mml2.prostream.se/listen/metal_mayhem/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 59.3293,
+    "lon": 18.0686,
+    "language": "english"
+  },
+  {
+    "name": "Midnight Silk Eros",
+    "url": "https://mml1.prostream.se/listen/midnight_silk_eros/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 59.3293,
+    "lon": 18.0686,
+    "language": "english"
+  },
+  {
+    "name": "Mix Megapol",
+    "url": "http://tx-bauerse.sharp-stream.com/http_live.php?ua=WEB&i=mixmegapol_instream_se_mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Mix Megapol 104,3",
+    "url": "https://live-bauerse-fm.sharp-stream.com/mixmegapol_instream_se_mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 59.32715197400692,
+    "lon": 18.015351891517643,
+    "language": "swedish"
+  },
+  {
+    "name": "Mix Megapol 104,3",
+    "url": "https://live-bauerse-fm.sharp-stream.com/mixmegapol_instream_se_aacp",
+    "codec": "AAC+",
+    "bitrate": 56,
+    "needsResolve": false,
+    "lat": 59.32711694580528,
+    "lon": 18.015349209308628,
+    "language": "swedish"
+  },
+  {
+    "name": "Mix Megapol GBG",
+    "url": "http://tx-bauerse.sharp-stream.com/http_live.php?i=mixmegapolgbg_instream_se_mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 57.712263293154386,
+    "lon": 11.999816894531252,
+    "language": ""
+  },
+  {
+    "name": "NRJ",
+    "url": "http://live-bauerse-fm.sharp-stream.com/nrj_instreamtest_se_mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "NRJ Sweden",
+    "url": "http://tx-bauerse.sharp-stream.com/http_live.php?i=nrj_instreamtest_se_mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Narradion Boden",
+    "url": "http://radio.bodensradio.se:8000/stream.ogg",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Northern Metal Radio",
+    "url": "https://dc5.serverse.com/proxy/lvzgnvcj/stream",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Northern Metal Radio Extreme",
+    "url": "https://s2.free-shoutcast.com/stream/18092",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Oldies FM",
+    "url": "https://stream3.themediasite.co.uk:8030/",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "P4 Dalarna",
+    "url": "http://http-live.sr.se/p4dalarna-aac-192",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 60.60251754383246,
+    "lon": 15.636291503906252,
+    "language": "swedish"
+  },
+  {
+    "name": "P4 Jämtland",
+    "url": "https://live1.sr.se/p4jmtl-aac-320",
+    "codec": "AAC",
+    "bitrate": 296,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "P4 Kalmar",
+    "url": "https://live1.sr.se/p4kalm-mp3-96",
+    "codec": "MP3",
+    "bitrate": 140,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "P4 Norrbotten",
+    "url": "https://http-live.sr.se/p4norrbotten-mp3-192",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "P4 Värmland",
+    "url": "https://live1.sr.se/p4vrml-aac-320",
+    "codec": "AAC",
+    "bitrate": 312,
+    "needsResolve": false,
+    "lat": 59.70323001263191,
+    "lon": 17.226562500000004,
+    "language": ""
+  },
+  {
+    "name": "P4 Västerbotten",
+    "url": "https://live1.sr.se/p4vbtn-mp3-96",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 63.83565418579919,
+    "lon": 20.26045021054548,
+    "language": "swedish"
+  },
+  {
+    "name": "P4 Västernorrland",
+    "url": "https://live1.sr.se/p4vnrl-mp3-96",
+    "codec": "MP3",
+    "bitrate": 130,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "P4 Västernorrland",
+    "url": "https://live1.sr.se/p4vnrl-aac-320",
+    "codec": "AAC",
+    "bitrate": 296,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "P4 Västmanland",
+    "url": "https://live1.sr.se/p4vstm-mp3-96",
+    "codec": "MP3",
+    "bitrate": 152,
+    "needsResolve": false,
+    "lat": 59.62304746766944,
+    "lon": 16.545309801469436,
+    "language": "swedish"
+  },
+  {
+    "name": "P4 Örebro",
+    "url": "http://http-live.sr.se/p4orebro-aac-192",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 59.27233683384846,
+    "lon": 15.216785720768414,
+    "language": "swedish"
+  },
+  {
+    "name": "P4 Östergötland",
+    "url": "http://http-live.sr.se/p4ostergotland-aac-192?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=1&us_privacy=1YNY&gdpr_consent=CPSxGf7PSxGf7AcABBENB9CsAP_AAAAAACiQIfhBACZEDAFBAGBpAIsAAAAAAAAAACAwAAAAACAACDgAAAQAgAAAAAgAACAAAAgAIAAAAAAAAAAABAAAAAAAAADEAAAAAAEAAABAAAAAAAAAAAAAAICAAAAAAAAQAAAAkAwAPv____f_7-3_3__5_3---_e_V_99zLv9____39nP___9v-_9___4AAAEgkB4ACoAGQAOAAgABkADSAIgAigBMACeAKUAaoA7wEiAMNAYeAyIBkgDJwGXAM5AZ8A0gBp0DWANZAbrA5EDlQHLgOsAeOA-UIAZAC2AOcBiADFgGQgMjAZMA0IBowDSgGpgNoAbcA3QBwQDpAHYAOzAd0A8CB5IHlAPaAe6A-QB9gYAOAFsBkYDQgG6AOJAdmA90NAMARUAkQBh4DGAGTgM5AZ4Az4ByQDlAHWAPwEABgAtgNCAboA4kB2YD3REAkBIgDDwGTgM5AZ8A5IBygDrAH4CoBgATAFNgLzAYeAyIBnIDPAGfANyAckA5QB-AoAIA0IBrwDiQH2DIBYATAF5gMPAZEAzkBngDPgHJAOUAfEA_AYADAaEA4kB9g6BeABUADIAHAAQAAyABpAEQARQAmABPAC-AGIAUoA7wCLAF1ARUAkQBhoDDwGJAMYAY8AyQBk4DKgGWAMuAZyAz4BokDSANJAaWA04BqoDWAGxgN1AcXA5IDlQHLgOsAeOA9IB6oD5QH1gPwHAHwAtgDnAHcAQgBiADFgGQgMmAZeA0KBooGjANKAaaA1MBrwDaAG2ANuAcTA48DkAHSAOwAdmA8CB5IHlAPaAe6A-IB9gD8QH7EICwAGQAmABfADEAO8BIgDDwGJAMiAZOAzkBngDPgGiANJAaWA1UBwADkgHWAPHAfgQAIADnAaEA0UBpQDUwG2ANuAcSA6MB2EDyQPKAeiA90B8QD7AH7EoDAAGQAOABEACYAF8AMQApQBqgDvALqAioBIgDDwGRAMnAZYAzkBngDPgGkANYAcAA6wB-BIAUAO4BiwDSgG5AOJAdIA7AB5QD2gH2FIEoAFQAMgAcABAADIAGkARABFACYAE8AKQAXwAxAClAGqAO8AiwCRAGGgMPAYwAyIBkgDJwGXAM5AZ4Az6BpAGkwNYA1kBsYDdYHJgcoA5cB1gDxwHygPwKAFABzgDuALqAxYBkwDRAGlANNgakBqYDXgHBAOJAdgA7MB5QD2gHugPiAfYA_YA.f_gAAAAAAAAA&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY0MjA5OTA4OSwiaXNzIjoidGlzcnYifQ.lHS2wM3X_1OBMWllZXm4SFuLlvIaF92RC0UI7VYlDfc",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 58.5925929169881,
+    "lon": 16.16775512695313,
+    "language": ""
+  },
+  {
+    "name": "Pain",
+    "url": "https://stream.pcradio.ru/Pain-hi",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "engilsh"
+  },
+  {
+    "name": "Party 247",
+    "url": "https://mml2.prostream.se/listen/party_247/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 59.3293,
+    "lon": 18.0686,
+    "language": "english"
+  },
+  {
+    "name": "Pirate Rock  Västkustens bästa rock",
+    "url": "http://stream.piraterock.se:8101/webradio",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Polushon",
+    "url": "https://whsh4u-clients.com:18323/proxy/ndhfnbqx?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Pop & Rock",
+    "url": "http://62.101.46.15:8000/poporock",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Pop Radio Stockholm",
+    "url": "http://master.shoutcast.com:8000/popradio-stockholm",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 59.256755654679466,
+    "lon": 18.08006286621094,
+    "language": "swedish"
+  },
+  {
+    "name": "PopBurst",
+    "url": "https://mml1.prostream.se/listen/popburst/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 59.3293,
+    "lon": 18.0686,
+    "language": "english"
+  },
+  {
+    "name": "Power Club",
+    "url": "https://wr06-ice.stream.khz.se/wr06_mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 59.32282130062685,
+    "lon": 18.063884227633544,
+    "language": "swedish"
+  },
+  {
+    "name": "Power Hit Radio",
+    "url": "https://fm04-ice.stream.khz.se/fm04_mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Power Street",
+    "url": "https://wr07-ice.stream.khz.se/wr07_mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Puls FM Borås",
+    "url": "http://stream.pulsfm.se:8908/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Punk Classics",
+    "url": "https://mml2.prostream.se/listen/punk_classics/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 59.3293,
+    "lon": 18.0686,
+    "language": "english"
+  },
+  {
+    "name": "REPLAY NEWS - Svenska",
+    "url": "https://replaynewsse.ice.infomaniak.ch/replaynewsse-128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "RIX FM",
+    "url": "https://fm01-ice.stream.khz.se/fm01_mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 59.30991043531771,
+    "lon": 18.059155046939853,
+    "language": "swedish"
+  },
+  {
+    "name": "RIX FM 106,7",
+    "url": "https://fm01-ice.stream.khz.se/fm01_aac",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 59.30991317328533,
+    "lon": 18.059171140193943,
+    "language": "swedish"
+  },
+  {
+    "name": "RIX FM Fresh",
+    "url": "https://wr04-ice.stream.khz.se/wr04_mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 59.319738182261645,
+    "lon": 18.003718245658586,
+    "language": "swedish"
+  },
+  {
+    "name": "Radio 163",
+    "url": "https://mml1.prostream.se/listen/radio_163/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 59.3293,
+    "lon": 18.0686,
+    "language": "english"
+  },
+  {
+    "name": "Radio 567",
+    "url": "https://mml1.prostream.se/listen/radio_567/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 59.3293,
+    "lon": 18.0686,
+    "language": "english"
+  },
+  {
+    "name": "Radio 789",
+    "url": "https://mml1.prostream.se/listen/radio_789/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 59.3293,
+    "lon": 18.0686,
+    "language": "english"
+  },
+  {
+    "name": "Radio 88 Partille",
+    "url": "http://62.209.164.60:8000/mp128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Radio 88 Partille - Golden Hits",
+    "url": "https://streaming.943.se/radio88dans",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Båstad",
+    "url": "https://audio-edge-hy4wy.blr.d.radiomast.io/0cf89221-143e-4e91-8c1a-3668a99404ac",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Gbg Sevdah",
+    "url": "https://stream.radiogbg.se:8050/relay4",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bosnian,macedonian"
+  },
+  {
+    "name": "Radio Haninge",
+    "url": "http://213.115.49.175:1157/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 59.16740057079515,
+    "lon": 18.151130676269535,
+    "language": "swedish"
+  },
+  {
+    "name": "Radio Hope",
+    "url": "https://s2.radio.co/sfbf5f5b85/listen",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Radio Hope",
+    "url": "http://s2.radio.co/sfbf5f5b85/listen",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Radio Laholm",
+    "url": "http://stream.zeno.fm/tf8vczzxrg0uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Radio Nacka",
+    "url": "http://radiostreamone.mine.nu/9990MHz",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Nostalgi",
+    "url": "https://live-bauerse-fm.sharp-stream.com/nostalgi_aacp",
+    "codec": "AAC+",
+    "bitrate": 56,
+    "needsResolve": false,
+    "lat": 62.62838236760478,
+    "lon": 14.721973980095054,
+    "language": ""
+  },
+  {
+    "name": "Radio Nostalgi SE",
+    "url": "https://live-bauerse-fm.sharp-stream.com/nostalgi_mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Radio Orinoco",
+    "url": "https://icecast.radio-orinoco.com/orinoco",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Rainbow",
+    "url": "https://wr20-ice.stream.khz.se/wr20_mp3?platform=web",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Radio Rivendell",
+    "url": "https://play.radiorivendell.com/radio/8000/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Rivendell",
+    "url": "https://play.radiorivendell.com/radio/8000/radio.ogg",
+    "codec": "OGG",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Sandviken",
+    "url": "http://rssand.se:4027/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Radio Sandviken",
+    "url": "https://shout.rs8990.com/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Skövde",
+    "url": "http://video.webbplay.se:1935/liveradio/narradio/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Radio Sotenäs",
+    "url": "http://sc3.radiosotenas.se:8500/",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Radio Svea",
+    "url": "https://mml2.prostream.se/listen/radio_svea/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 59.3293,
+    "lon": 18.0686,
+    "language": "english"
+  },
+  {
+    "name": "Radio Sydvast",
+    "url": "http://radiosydvast.duckdns.org:12932/stream",
+    "codec": "MP3",
+    "bitrate": 102,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Treby",
+    "url": "http://streaming.943.se/treby878",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 58.254278806666335,
+    "lon": 12.962493896484377,
+    "language": ""
+  },
+  {
+    "name": "Radio bubb.la",
+    "url": "http://live.radio.bubb.la/stream.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Radio45 (Dalsland Sweden)",
+    "url": "https://streaming.943.se/radio45",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RadioGodis",
+    "url": "http://radiogodis.org:8004/",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Redback Radio",
+    "url": "https://redback.mywire.org/stream.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 59.91563372660059,
+    "lon": 16.623001098632816,
+    "language": "english"
+  },
+  {
+    "name": "Reggae",
+    "url": "https://mml1.prostream.se/listen/reggae/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 59.3293,
+    "lon": 18.0686,
+    "language": "english"
+  },
+  {
+    "name": "Relax & Meditation",
+    "url": "https://mml1.prostream.se/listen/relax_meditation/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 59.3293,
+    "lon": 18.0686,
+    "language": "english"
+  },
+  {
+    "name": "Retreat Radio",
+    "url": "http://retreatradio.out.airtime.pro:8000/retreatradio_b",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Retro FM Skåne",
+    "url": "https://live-bauerse-fm.sharp-stream.com/retrofm_aacp?ua=WEB&aw_0_1st.playerid=SBS_RP_WEB&aw_0_1st.skey=1575715192&companionAds=true&listenerId=@@GUID@@",
+    "codec": "AAC",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "RetroHits",
+    "url": "https://sc.retrohits.se/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RetroHits",
+    "url": "https://sc.retrohits.se/retrohits64.aac",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 55.859538294628,
+    "lon": 12.874603271484377,
+    "language": "english,swedish"
+  },
+  {
+    "name": "Rix FM",
+    "url": "http://fm01-ice.stream.khz.se/fm01_mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Rock",
+    "url": "https://mml1.prostream.se/listen/rock/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 59.3293,
+    "lon": 18.0686,
+    "language": "english"
+  },
+  {
+    "name": "Rocket FM Rock Home of Stockholm",
+    "url": "http://stream.thsradio.se:8000/rocket_hi.mp3",
+    "codec": "MP3",
+    "bitrate": 140,
+    "needsResolve": false,
+    "lat": 59.212019934942774,
+    "lon": 18.061523437500004,
+    "language": ""
+  },
+  {
+    "name": "Roxette",
+    "url": "https://stream.pcradio.ru/Roxette-hi",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "engilsh"
+  },
+  {
+    "name": "SDX synthetic experience - EBM, Synth and Industrial",
+    "url": "http://radio.dawnshadow.se:8000/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 59.33874354052215,
+    "lon": 18.03345874160518,
+    "language": ""
+  },
+  {
+    "name": "SLAY Radio [aac]",
+    "url": "http://relay1.slayradio.org:8300/",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "SR Din Gata",
+    "url": "https://http-live.sr.se/dingata-aac-192",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 55.576151587486464,
+    "lon": 13.041538032990903,
+    "language": "swedish"
+  },
+  {
+    "name": "SR P1",
+    "url": "https://live1.sr.se/p1-aac-32",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 59.270179047757885,
+    "lon": 18.078002929687504,
+    "language": "swedish"
+  },
+  {
+    "name": "SR P2",
+    "url": "https://live1.sr.se/p2-flac",
+    "codec": "OGG",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 59.334310730035355,
+    "lon": 18.102425543302125,
+    "language": ""
+  },
+  {
+    "name": "SR P2",
+    "url": "https://http-live.sr.se/p2-mp3-192",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 59.32758544549431,
+    "lon": 18.050537109375004,
+    "language": ""
+  },
+  {
+    "name": "SR P4 Jönköping",
+    "url": "https://http-live.sr.se/p4jonkoping-mp3-192",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 57.77886823046075,
+    "lon": 14.16292190551758,
+    "language": ""
+  },
+  {
+    "name": "SR P4 Kronoberg",
+    "url": "https://http-live.sr.se/p4kronoberg-mp3-192",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 56.878398829844606,
+    "lon": 14.798583984375002,
+    "language": ""
+  },
+  {
+    "name": "SR P4 Malmöhus",
+    "url": "https://live1.sr.se/p4malm-mp3-96",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": 55.602699351267646,
+    "lon": 13.009529113769531,
+    "language": ""
+  },
+  {
+    "name": "SR P4 Radio Malmöhus",
+    "url": "https://ljud1-cdn.sr.se/lc/p4malm.m3u8",
+    "codec": "AAC",
+    "bitrate": 37,
+    "needsResolve": false,
+    "lat": 55.59604013865638,
+    "lon": 13.00506591796875,
+    "language": ""
+  },
+  {
+    "name": "SR4- Sthlm",
+    "url": "https://live1.sr.se/p4sth-aac-32",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 59.31392186908167,
+    "lon": 18.028564453125004,
+    "language": "swedish"
+  },
+  {
+    "name": "STAR FM 107,1",
+    "url": "https://fm05-ice.stream.khz.se/fm05_aac",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 59.30990769734984,
+    "lon": 18.059149682521824,
+    "language": "swedish"
+  },
+  {
+    "name": "STAR FM 107,1",
+    "url": "https://fm05-ice.stream.khz.se/fm05_mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 59.30989674547619,
+    "lon": 18.059165775775913,
+    "language": "swedish"
+  },
+  {
+    "name": "SceneSat",
+    "url": "http://oscar.scenesat.com:8000/scenesatmax",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 59.28029807597087,
+    "lon": 17.73115123376001,
+    "language": ""
+  },
+  {
+    "name": "SceneSat Radio (AAC+ mobile)",
+    "url": "http://oscar.scenesat.com:8000/scenesatmed",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Skärgårdsradion",
+    "url": "http://fm06-ice.stream.khz.se/fm06_mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Skärgårdsradion",
+    "url": "https://fm06-ice.stream.khz.se/fm06_mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "SlayRadio",
+    "url": "http://relay1.slayradio.org:8000/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Soul Classics",
+    "url": "https://wr08-ice.stream.khz.se/wr08_mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Spinning Seal FM",
+    "url": "https://stream.zeno.fm/9q3ez3k3fchvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Star 70's",
+    "url": "http://wr10-ice.stream.khz.se/wr10_mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Star 80's",
+    "url": "http://wr02-ice.stream.khz.se/wr02_mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Star 90's",
+    "url": "http://wr12-ice.stream.khz.se/wr12_mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Star FM",
+    "url": "http://fm05-ice.stream.khz.se/fm05_mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Stars on 45",
+    "url": "https://mml2.prostream.se/listen/stars_on_45/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 59.3293,
+    "lon": 18.0686,
+    "language": "english"
+  },
+  {
+    "name": "Stocholm Närradio FM 95.3",
+    "url": "http://live.narradio.se:8020/;stream.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Stockholm FM 101,1 Sweden",
+    "url": "http://radiostreamthree.mine.nu:18020/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Stockholm FM 101.1 MHz Sweden",
+    "url": "http://live.narradio.se:8030/;stream.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Stockholm FM 88,0 Sweden",
+    "url": "http://radiostreamfour.sytes.net:18000/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Stockholm FM 88.0 MHz Sweden",
+    "url": "http://live.narradio.se:8010/;stream.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Sveiges Radio - P4 Kristianstad",
+    "url": "https://live1.sr.se/p4krist-mp3-96",
+    "codec": "MP3",
+    "bitrate": 104,
+    "needsResolve": false,
+    "lat": 56.029411896296864,
+    "lon": 14.157729148864748,
+    "language": ""
+  },
+  {
+    "name": "Sveiges Radio - P4 Malmöhus",
+    "url": "https://sverigesradio.se/topsy/direkt/207-hi.mp3",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": 55.59213356854291,
+    "lon": 13.013992309570314,
+    "language": ""
+  },
+  {
+    "name": "Svensk Folkmusik - AkkA radio",
+    "url": "http://mediaserv38.live-streams.nl:8107/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Svensk Pop",
+    "url": "http://tx.sharp-stream.com/http_live.php?i=svenskpop_se_mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Sveriges Radio - Ekot sänder direkt",
+    "url": "https://live1.sr.se/ekotdirekt-aac-320",
+    "codec": "AAC",
+    "bitrate": 304,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Sveriges Radio - P1",
+    "url": "https://live1.sr.se/p1-aac-320",
+    "codec": "AAC",
+    "bitrate": 312,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Sveriges Radio - P1",
+    "url": "http://sverigesradio.se/topsy/direkt/srapi/132-hi-aac-http",
+    "codec": "AAC",
+    "bitrate": 336,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Sveriges Radio - P2",
+    "url": "https://live1.sr.se/p2-aac-320",
+    "codec": "AAC",
+    "bitrate": 328,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Sveriges Radio - P2",
+    "url": "https://edge1.sr.se/p2-flac",
+    "codec": "OGG",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 59.33422803164917,
+    "lon": 18.102459311485298,
+    "language": "swedish"
+  },
+  {
+    "name": "Sveriges Radio - P2 Språk och musik",
+    "url": "https://live1.sr.se/p2sm-aac-320",
+    "codec": "AAC",
+    "bitrate": 312,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Sveriges Radio - P3",
+    "url": "https://live1.sr.se/p3-aac-320",
+    "codec": "AAC",
+    "bitrate": 312,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Sveriges Radio - P3",
+    "url": "https://live1.sr.se/p3-mp3-96",
+    "codec": "MP3",
+    "bitrate": 168,
+    "needsResolve": false,
+    "lat": 59.32404745440907,
+    "lon": 18.07113647460938,
+    "language": "swedish"
+  },
+  {
+    "name": "Sveriges Radio - P3 Din gata",
+    "url": "https://live1.sr.se/dingata-aac-320",
+    "codec": "AAC",
+    "bitrate": 280,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Sveriges Radio - P4 Blekinge",
+    "url": "https://live1.sr.se/p4blek-mp3-96",
+    "codec": "MP3",
+    "bitrate": 152,
+    "needsResolve": false,
+    "lat": 56.267551369294225,
+    "lon": 15.272455215454103,
+    "language": "swedish"
+  },
+  {
+    "name": "Sveriges Radio - P4 Halland",
+    "url": "https://sverigesradio.se/topsy/ljudfil/srse/8266576.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 56.67282942172565,
+    "lon": 12.85606384277344,
+    "language": "swedish"
+  },
+  {
+    "name": "Sveriges Radio - P4 Jämtland",
+    "url": "https://http-live.sr.se/p4jamtland-mp3-192",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 63.153393928970736,
+    "lon": 14.692668914794924,
+    "language": "swedish"
+  },
+  {
+    "name": "Sveriges Radio - P4 Plus",
+    "url": "https://live1.sr.se/p4plus-aac-320",
+    "codec": "AAC",
+    "bitrate": 272,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Sveriges Radio - P4 Sjuhärad",
+    "url": "https://www.sverigesradio.se/topsy/direkt/srapi/206.mp3",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "sv,swedish"
+  },
+  {
+    "name": "Sveriges Radio - P4 Värmland",
+    "url": "https://http-live.sr.se/p4varmland-mp3-128",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 59.3757495214906,
+    "lon": 13.52393209877003,
+    "language": ""
+  },
+  {
+    "name": "Sveriges Radio - P4 Väst",
+    "url": "https://live1.sr.se/p4vast-mp3-96",
+    "codec": "MP3",
+    "bitrate": 114,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Sveriges Radio - P4 Västmanland",
+    "url": "https://http-live.sr.se/p4vastmanland-mp3-192",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 59.61126278503581,
+    "lon": 16.554383789094683,
+    "language": "swedish"
+  },
+  {
+    "name": "Sveriges Radio - P6",
+    "url": "https://live1.sr.se/p6-aac-320",
+    "codec": "AAC",
+    "bitrate": 304,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Sveriges Radio - Radioapans knattekanal",
+    "url": "https://http-live.sr.se/knattekanalen-mp3-192",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Sveriges Radio - SR Extra 1",
+    "url": "https://http-live.sr.se/srextra01-aac-192",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Sveriges Radio - SR Extra 10",
+    "url": "https://http-live.sr.se/srextra10-aac-192",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Sveriges Radio - SR Extra 2",
+    "url": "http://http-live.sr.se/srextra02-aac-192",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Sveriges Radio - SR Extra 3",
+    "url": "https://http-live.sr.se/srextra03-aac-192",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Sveriges Radio - SR Extra 4",
+    "url": "https://http-live.sr.se/srextra04-aac-192",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Sveriges Radio - SR Extra 5",
+    "url": "https://http-live.sr.se/srextra05-aac-192",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Sveriges Radio - SR Extra 6",
+    "url": "https://http-live.sr.se/srextra06-aac-192",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Sveriges Radio - SR Extra 7",
+    "url": "https://http-live.sr.se/srextra07-aac-192",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Sveriges Radio - SR Extra 8",
+    "url": "https://http-live.sr.se/srextra08-aac-192",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Sveriges Radio - SR Extra 9",
+    "url": "http://http-live.sr.se/srextra09-aac-192",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Sveriges Radio - SR Sápmi",
+    "url": "http://http-live.sr.se/srsapmi-aac-192",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Sveriges Radio P1",
+    "url": "https://edge1.sr.se/p1-aac-320",
+    "codec": "AAC",
+    "bitrate": 336,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Sveriges Radio P1 192kbps",
+    "url": "https://http-live.sr.se/p1-mp3-192",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Sveriges Radio P2",
+    "url": "https://http-live.sr.se/p2musik-aac-320",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 59.33320618515925,
+    "lon": 18.100490570068363,
+    "language": "swedish"
+  },
+  {
+    "name": "Sveriges Radio P3",
+    "url": "https://edge1.sr.se/p3-aac-320",
+    "codec": "AAC",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Sveriges Radio P4 Dalarna",
+    "url": "https://live1.sr.se/p4dala-aac-320",
+    "codec": "AAC",
+    "bitrate": 288,
+    "needsResolve": false,
+    "lat": 60.82135752076436,
+    "lon": 14.963378906250002,
+    "language": ""
+  },
+  {
+    "name": "Sveriges Radio P4 Gotland",
+    "url": "https://http-live.sr.se/p4gotland-mp3-192",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 57.63352941160315,
+    "lon": 18.30036287388413,
+    "language": "swedish"
+  },
+  {
+    "name": "Sveriges Radio P4 Gävleborg",
+    "url": "https://http-live.sr.se/p4gavleborg-mp3-192",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 60.436626408196354,
+    "lon": 16.87088012695313,
+    "language": "swedish"
+  },
+  {
+    "name": "Sveriges Radio P4 Göteborg",
+    "url": "https://http-live.sr.se/p4goteborg-mp3-192",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Sveriges Radio P4 Göteborg",
+    "url": "https://live1.sr.se/p4gbg-aac-320",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 57.71398474622874,
+    "lon": 11.985883140228808,
+    "language": "swedish"
+  },
+  {
+    "name": "Sveriges Radio P4 Halland",
+    "url": "https://live1.sr.se/p4hall-aac-128",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 56.86928989111271,
+    "lon": 12.694702148437502,
+    "language": "swedish"
+  },
+  {
+    "name": "Sveriges Radio P4 Malmöhus",
+    "url": "https://live1.sr.se/p4malm-aac-32",
+    "codec": "AAC",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": 55.58574301126419,
+    "lon": 13.017425537109377,
+    "language": "swedish"
+  },
+  {
+    "name": "Sveriges Radio P4 Sjuharad",
+    "url": "https://http-live.sr.se/p4sjuharad-mp3-192",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Sveriges Radio P4 Skaraborg",
+    "url": "https://http-live.sr.se/p4skaraborg-mp3-192",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 58.39194242011395,
+    "lon": 13.838685750961304,
+    "language": ""
+  },
+  {
+    "name": "Sveriges Radio P4 Stockholm",
+    "url": "https://edge1.sr.se/p4sth-aac-320",
+    "codec": "AAC",
+    "bitrate": 288,
+    "needsResolve": false,
+    "lat": 59.345771564641424,
+    "lon": 18.095956390161508,
+    "language": "swedish"
+  },
+  {
+    "name": "Sveriges Radio P4 Stockholm",
+    "url": "https://http-live.sr.se/p4stockholm-mp3-192",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Sveriges Radio P4 Uppland",
+    "url": "https://http-live.sr.se/p4uppland-mp3-192",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 59.85833343535416,
+    "lon": 17.63442993164063,
+    "language": "swedish"
+  },
+  {
+    "name": "Sveriges Radio P4 Uppland",
+    "url": "https://live1.sr.se/p4uppl-aac-320",
+    "codec": "AAC",
+    "bitrate": 304,
+    "needsResolve": false,
+    "lat": 59.75953050005019,
+    "lon": 17.731933593750004,
+    "language": ""
+  },
+  {
+    "name": "Sveriges Radio P4 Uppland AAC",
+    "url": "https://http-live.sr.se/p4uppland-aac-192",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 59.85244560769117,
+    "lon": 17.649536132812504,
+    "language": "swedish"
+  },
+  {
+    "name": "Sveriges Radion P4 Östergötland",
+    "url": "https://live1.sr.se/p4ostg-mp3-96",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": 58.5894751343749,
+    "lon": 16.1815819144249,
+    "language": "swedish"
+  },
+  {
+    "name": "Swarm Radio",
+    "url": "https://stream.zeno.fm/d6ozvqgvrvktv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Swedish Truckers",
+    "url": "https://mml1.prostream.se/listen/swedish_truckers/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 59.3293,
+    "lon": 18.0686,
+    "language": "english"
+  },
+  {
+    "name": "Tyresöradion",
+    "url": "https://s5.radio.co/s8ace52d32/listen",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Urban Flow",
+    "url": "https://mml2.prostream.se/listen/urban_flow/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 59.3293,
+    "lon": 18.0686,
+    "language": "english"
+  },
+  {
+    "name": "VIBE Radio",
+    "url": "https://streamer.radio.co/s0c62f7351/listen",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Vinyl FM",
+    "url": "https://edge-bauerse-06-thn.sharp-stream.com/vinylfm_instream_se_mp3?",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 59.153403092050375,
+    "lon": 18.061523437500004,
+    "language": ""
+  },
+  {
+    "name": "Vinylgodis",
+    "url": "https://fwd.autopo.st/runedervall",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swedish"
+  },
+  {
+    "name": "Wolf FM",
+    "url": "https://sstream.ueteknik.se/listen/wolffm/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 60.607261183598645,
+    "lon": 15.627564126509764,
+    "language": "swedish"
+  },
+  {
+    "name": "Workout",
+    "url": "https://mml2.prostream.se/listen/workout/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 59.3293,
+    "lon": 18.0686,
+    "language": "english"
+  },
+  {
+    "name": "ericade.radio",
+    "url": "https://radio.ericade.net/sc/stream/1/",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "grillkol Radio",
+    "url": "http://radio.grillkol.net:8007/grillkol",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "kakaook Radio",
+    "url": "http://radio.grillkol.net:8007/kakaook",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

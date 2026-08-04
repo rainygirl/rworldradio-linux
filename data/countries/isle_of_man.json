@@ -1,0 +1,72 @@
+[
+  {
+    "name": "3FM (128Kbps MP3)",
+    "url": "https://n07a-eu.rcs.revma.com/0kv9v43t87zuv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "3FM (48Kbps AAC+)",
+    "url": "https://n07a-eu.rcs.revma.com/s1q7dc4c0znwv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 54.14984871438275,
+    "lon": -4.4794607162475595,
+    "language": ""
+  },
+  {
+    "name": "Alive - Live Music Radio around the clock (24h Blues, Rock, Pop)",
+    "url": "http://stream.laut.fm/alive",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Energy FM (Isle Of Man)",
+    "url": "http://ukwesta.streaming.broadcast.radio:15580/energyfm",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": 54.149526995205534,
+    "lon": -4.485082626342774,
+    "language": ""
+  },
+  {
+    "name": "EnergyFM",
+    "url": "https://ukwesta.streaming.broadcast.radio/energyfm",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": 54.205930143885446,
+    "lon": -4.564819335937501,
+    "language": ""
+  },
+  {
+    "name": "Isle of Man Free Radio",
+    "url": "https://play.radioking.io/ian-byrne",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Manx Radio FM",
+    "url": "http://tx.sharp-stream.com/http_live.php?i=manxradiofm.aac",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,manx"
+  }
+]

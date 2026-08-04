@@ -1,0 +1,1402 @@
+[
+  {
+    "name": "102.3 FM CORONILLA",
+    "url": "https://streaming01.shockmedia.com.ar/9184/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "24 de Agosto",
+    "url": "https://24deagosto-zikoxweb.radioca.st/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": -34.89705437628847,
+    "lon": -56.2005615234375,
+    "language": "english"
+  },
+  {
+    "name": "90.3 FM DEL ESTE",
+    "url": "http://usa15.ciudaddigital.com.uy:8010/DelEsteFM",
+    "codec": "MP3",
+    "bitrate": 24,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "970 Universal",
+    "url": "https://970universal-3.nty.uy/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "ARAPEY (AM 1450)",
+    "url": "http://emisiones.com.uy:8085/arapey",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Aire FM 100.3",
+    "url": "https://streaming3.hostingmontevideo.com/8064/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Alfa FM 96.3",
+    "url": "http://radioonline.netgate.com.uy:8000/alfafm",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Amatista FM 90.7",
+    "url": "http://usa15.ciudaddigital.com.uy:8044/AmatistaFM",
+    "codec": "MP3",
+    "bitrate": 56,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "America FM",
+    "url": "http://emisiones.com.uy:8118/america",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Armonía FM 92.5",
+    "url": "http://usa15.ciudaddigital.com.uy:8132/ArmoniaFM",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Atlantida FM 89.9",
+    "url": "http://server-uk1.radioseninternet.net:8034/;",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Azul FM 101.9",
+    "url": "https://azul-2.nty.uy/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Azul FM 101.9",
+    "url": "https://azul-1.nty.uy/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Azul Punta del Este 93.5",
+    "url": "https://icecasthd.net/proxy/azulp/live",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Babel",
+    "url": "https://radios.iwstreaming.uy/8030/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Boliche Radio",
+    "url": "https://streaming1.locucionar.com/proxy/bolicheradio?mp=/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "CX 10 Radio Continente 730 AM",
+    "url": "http://cx10continente.com:8152/",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "CX 20 Radio Monte Carlo",
+    "url": "https://streamingcasazorrilla.innovanexo.com:8000/montecarlo.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "CX 30 Radio Nacional",
+    "url": "https://a1.asurahosting.com:8650/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "CX 30 Radio Nacional (La Treinta)",
+    "url": "https://stream.rcast.net/73479",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "CX 40 Radio Fenix",
+    "url": "https://sp3.servidorrprivado.com/8070/;",
+    "codec": "MP3",
+    "bitrate": 80,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "CX 46 Radio America",
+    "url": "https://america-2.nty.uy/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "CX 580 Radio Rural",
+    "url": "https://radiolatina.live/9206/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "CX12 Radio Oriental 770 AM",
+    "url": "http://radiolatina.live:7906/1",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Cadena del Mar",
+    "url": "https://streamingraddios.online/proxy/cadena?mp=/stream&1669851387477",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Cadena del Mar 106.5 FM",
+    "url": "http://streamingraddios.online:9455/;",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Carve Deportiva",
+    "url": "https://streamingcasazorrilla.innovanexo.com:8000/carvedeportiva.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -34.37517887533528,
+    "lon": -55.89843750000001,
+    "language": "spanish"
+  },
+  {
+    "name": "Carve Deportiva",
+    "url": "https://streamingcasazorrilla.innovanexo.com:8000/radiocarve850.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Casupá FM 94.1",
+    "url": "https://stm1.ifantasy.com.br:7256/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Causes FM 89.1",
+    "url": "https://streaming.radiosenlinea.com.ar/8870/stream",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Celestial Fm 90.7",
+    "url": "https://cloudstream2036.conectarhosting.com/8032/stream",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Centenario",
+    "url": "https://streamusa.netgate.com.uy:8010/centenario",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español - latinoamerica"
+  },
+  {
+    "name": "Clásica 650 AM",
+    "url": "https://radios.iwstreaming.uy/8032/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Columbia FM 88.5",
+    "url": "https://stm.gmpro.top:7008/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Conaicop",
+    "url": "http://stream.zeno.fm/w5k0y0qbft5tv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Concierto FM 95.1",
+    "url": "https://conectperu.com/8012/stream",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": -34.945659921867396,
+    "lon": -54.93473052978516,
+    "language": "spanish"
+  },
+  {
+    "name": "Cosquin Rock Radio Uruguay",
+    "url": "https://icecast15.innovanexo.com:9000/radiocero.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -34.842971903208884,
+    "lon": -56.2005615234375,
+    "language": "spanish"
+  },
+  {
+    "name": "De La Cumbre",
+    "url": "http://158.106.131.228:9020/",
+    "codec": "MP3",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": -31.77600097107714,
+    "lon": -54.688712954521186,
+    "language": "spanish"
+  },
+  {
+    "name": "De La Cumbre FM 102.9",
+    "url": "https://nazca.globalhost1.com:7127/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": -31.77606406795762,
+    "lon": -54.68864858150482,
+    "language": "español - latinoamerica"
+  },
+  {
+    "name": "Del Plata FM 95.5",
+    "url": "https://alba-uy-delplata-delplata.stream.mediatiquestream.com/index.m3u8",
+    "codec": "AAC",
+    "bitrate": 108,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Del Sol FM",
+    "url": "https://delsol-1.nty.uy/?type=http&nocache=2780&dbl=0",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -34.89612513770326,
+    "lon": -56.16485595703126,
+    "language": ""
+  },
+  {
+    "name": "Del Sol FM",
+    "url": "http://radio.dl.uy:9950/radio",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Delta FM 88.3",
+    "url": "http://server-uk1.radioseninternet.net:8104/;",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Diamante FM 98.7",
+    "url": "https://radiolatina.live/8058/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Difusora Treinta y Tres 1390 AM",
+    "url": "https://server-usa2.radioseninternet.net/8132/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "ESPACIO SPORT 91.5 FM",
+    "url": "https://medios.ciudaddigital.com.uy:18098/EspacioFM",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "El Espectador 810",
+    "url": "https://espectador-1.nty.uy/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -34.91037506940214,
+    "lon": -56.17058783769608,
+    "language": "castellano. español,spanish"
+  },
+  {
+    "name": "El Libertador",
+    "url": "https://streamingraddios.online/proxy/llamadad?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "El Puente FM 103.3",
+    "url": "https://as100.globalhost1.com/8082/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "El Shaddai MIHA Online",
+    "url": "https://stm2.livecastradio.com:20160/stream/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Emisora Principal",
+    "url": "https://s7.myradiostream.com/10764/listen.mp3?ver=755704",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Emisora del Sur",
+    "url": "https://radios.iwstreaming.uy/8034/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Exito - FM 99.7",
+    "url": "http://salida.stream.com.uy:8506/stream",
+    "codec": "AAC+",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "espaňol"
+  },
+  {
+    "name": "Exito FM 99.7",
+    "url": "https://salida.stream.com.uy:8506/stream",
+    "codec": "AAC+",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "FM Buenos Aires 104.1",
+    "url": "http://radio.solumedia.com.ar:8352/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "FM Ciudadela 88.7",
+    "url": "https://streaming1.locucionar.com/proxy/fmciudadela887?mp=/stream",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "FM Digital 100.1",
+    "url": "https://sh1.radioonlinehd.com:8001/stream",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "FM Días de Gloria 101.9",
+    "url": "http://server.laradio.online:9114/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "FM HIT 90.3 Uruguay",
+    "url": "https://hit-1.nty.uy/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -34.90572239554836,
+    "lon": -56.17526829242706,
+    "language": "english,spanish"
+  },
+  {
+    "name": "FM La Costa 88.3",
+    "url": "https://streaming3.hostingmontevideo.com:8074/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "FM La Ley",
+    "url": "https://streaming2.locucionar.com/proxy/laleyfm?mp=/stream",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "FM Naturaleza 88.1",
+    "url": "http://stm.gmpro.top:7006/",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": -34.344327227609256,
+    "lon": -55.761014521121986,
+    "language": "spanish"
+  },
+  {
+    "name": "FM cordialidad 94.9",
+    "url": "https://cordialidad-zikoxweb2.radioca.st/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "FM de La Cumbre 102.9",
+    "url": "http://158.106.131.228:9020/;",
+    "codec": "MP3",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "FM del Carmen 105.3",
+    "url": "http://radios-online.info:2930/;",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Federal FM 99.1",
+    "url": "http://usa15.ciudaddigital.com.uy:8040/FederalFM",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Felicidad - AM 1240",
+    "url": "http://medios.ciudaddigital.com.uy:8042/Felicidad",
+    "codec": "MP3",
+    "bitrate": 24,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "espaňol"
+  },
+  {
+    "name": "Fm Inolvidable 93.1",
+    "url": "https://inolvidable-2.nty.uy/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Fm Like Uruguay",
+    "url": "https://alba-uy-fmlike-likefm.stream.mediatiquestream.com/index.m3u8",
+    "codec": "AAC",
+    "bitrate": 108,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Galaxia FM 105.9",
+    "url": "https://stream-30.zeno.fm/bf4gt1pem0quv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Horizonte - FM 106.3",
+    "url": "http://1063fm.ddns.net:8025/online",
+    "codec": "AAC",
+    "bitrate": 80,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "espaňol"
+  },
+  {
+    "name": "INOLVIDABLE FM",
+    "url": "https://inolvidable-1.nty.uy/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Impacto FM - Fray Bentos",
+    "url": "https://a3.asurahosting.com:7740/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Kairos FM Uruguay",
+    "url": "https://panel.streamenviron.com:8264/radiokairos",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "LA VEREDA WEB RADIO",
+    "url": "https://srv2.radiostreamuy.com/8012/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "La Bottega Radio Online",
+    "url": "https://streaming6.locucionar.com:24048/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "La Clave Uruguay 92.9 FM",
+    "url": "https://stream-151.zeno.fm/ndwvn44vebruv?zs=gsCKxmQESE6hL5yVzBYFAA",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "La Cotorra FM",
+    "url": "http://204.197.245.100:8238/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "La Diaria Radio",
+    "url": "https://radiolatina.live/8156/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "La Elegida FM",
+    "url": "https://stm1.srvif.com:7042/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "La Elegida FM",
+    "url": "https://stm1.srvif.com:7042/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "La Isla Radio Online Del Uruguay",
+    "url": "http://lirodu.zapto.org:8000/laislaradio",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "La Nueva del Sur",
+    "url": "http://stream.zeno.fm/s6hdmgb9na0uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": -34.91053644229421,
+    "lon": -54.84324312107887,
+    "language": ""
+  },
+  {
+    "name": "La Otra - FM 104.5",
+    "url": "https://cento02.mipanelradio.com/proxy/fmlaotra?mp=/stream",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "La Voz De Melo",
+    "url": "https://stream.zeno.fm/fzc86k96yy8uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "La voz de Paysandú - AM 1320",
+    "url": "http://salida.stream.com.uy:8508/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "espaňol"
+  },
+  {
+    "name": "Laser FM",
+    "url": "https://server.laradio.online/proxy/eduardo_correa?mp=/stream",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": -34.965606223683096,
+    "lon": -54.94773334343337,
+    "language": "spanish"
+  },
+  {
+    "name": "Latina - FM 95.3",
+    "url": "http://medios.ciudaddigital.com.uy:8168/LatinaFM",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "espaňol"
+  },
+  {
+    "name": "M24 - 97.9 fm MVD y 102.5 fm Maldonado",
+    "url": "https://streaming1.hostingmontevideo.com/8034/stream",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Mega FM",
+    "url": "https://radio.cimaspeed.com/8070/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Metropolis 104.9",
+    "url": "https://metropolis-web-1.nty.uy/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Montevideo Jazz Radio",
+    "url": "http://node-34.zeno.fm/2ykx0xbm6gruv?rj-ttl=5&amp=&rj-tok=AAABgdsb5DoAz8MV8KJpNVyteA",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Multimedios Rincón AM 1510 - Fray Bentos",
+    "url": "https://rinconam-zikoxweb.radioca.st/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Multimedios Rincón FM 107.7 - Fray Bentos",
+    "url": "https://rincon2-zikoxweb.radioca.st/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -33.11769092259536,
+    "lon": -58.31334613482767,
+    "language": "english,spanish"
+  },
+  {
+    "name": "Mundo fm",
+    "url": "http://emisiones.com.uy:8088/mundo",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español internacional"
+  },
+  {
+    "name": "OCEANO",
+    "url": "https://oceano-2.nty.uy/netradio/listen.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "OCÉANO FM",
+    "url": "https://oceano-2.nty.uy/netradio/listen.mp3:8000/;?download=false",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Oceano FM",
+    "url": "https://oceano-2.nty.uy/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -34.905132883084974,
+    "lon": -56.18499398231507,
+    "language": ""
+  },
+  {
+    "name": "Perfil FM",
+    "url": "https://radiosar.com:8086/stream",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO FELICIDAD - URUGUAY",
+    "url": "https://medios.ciudaddigital.com.uy:18042/Felicidad",
+    "codec": "MP3",
+    "bitrate": 24,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO MARIA URUGUAY",
+    "url": "http://dreamsiteradiocp.com:8088/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIOMUNDO 1170 AM",
+    "url": "https://stream1.enperspectiva.net:8443/radio.aac",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": -34.9055,
+    "lon": -56.1996,
+    "language": ""
+  },
+  {
+    "name": "Radio 098",
+    "url": "https://stream.zeno.fm/aam2ts855p8uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,spanish"
+  },
+  {
+    "name": "Radio 41",
+    "url": "https://stream20.usastreams.com:7008/;",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Activa Florida 101.1",
+    "url": "https://streaming1.hostingmontevideo.com:7014/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Acuarela",
+    "url": "https://onlineradiobox.com/json/uy/acuarela/play?platform=web",
+    "codec": "AAC+",
+    "bitrate": 144,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Babilonia",
+    "url": "http://89.167.37.248:8000/listen/babilonia2/radio.mp3",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Carmelo",
+    "url": "https://server.laradio.online/proxy/martin_barragan05?mp=/stream",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": -34.016336098849806,
+    "lon": -58.29345703125001,
+    "language": ""
+  },
+  {
+    "name": "Radio Centenario CX36 1250 AM",
+    "url": "http://rfm.radio.netgate.com.uy:8000/centenario",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Chiveo",
+    "url": "https://comodin.uy/listen/chiveo/320.mp3",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "castellano. español"
+  },
+  {
+    "name": "Radio Chiveo",
+    "url": "https://comodin.uy/listen/chiveo/128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "castellano. español"
+  },
+  {
+    "name": "Radio Clarin",
+    "url": "https://radioclarin-zikoxweb.radioca.st/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Continental 1600 AM Pando",
+    "url": "https://server-usa2.radioseninternet.net/9316/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Cristal AM 1470 - Las Piedras",
+    "url": "https://medios.ciudaddigital.com.uy:18126/CristalAM",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Disney Uruguay",
+    "url": "https://27383.live.streamtheworld.com/DISNEY_URY_MV.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Fm 99.1",
+    "url": "https://rr5100.globalhost1.com/8454/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Futura - 91.1 FM",
+    "url": "https://alba-uy-radiofutura-futura.stream.mediatiquestream.com/index.m3u8",
+    "codec": "AAC",
+    "bitrate": 108,
+    "needsResolve": false,
+    "lat": -34.884216530631484,
+    "lon": -56.19025111198426,
+    "language": ""
+  },
+  {
+    "name": "Radio La Zurda",
+    "url": "https://radios.solumedia.com:6270/stream",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": -34.843112789175365,
+    "lon": -56.21292114257813,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Mas FM",
+    "url": "https://s1.radiosenialesfm.com:8020/radio.mp3",
+    "codec": "AAC",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Nuevo Tiempo Uruguay",
+    "url": "https://stream.live.novotempo.com/radio/smil:rntMontevideoUY.smil/playlist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Nuevo Tiempo Uruguay",
+    "url": "https://streamradio.novotempo.com/CDN-RADIO-ES/smil:rntMontevideoUY.smil/playlist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Patria",
+    "url": "https://medios.ciudaddigital.com.uy:18052/PatriaAM",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Pedal",
+    "url": "https://streaming1.hostingmontevideo.com:7003/stream.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Pipí Cucú",
+    "url": "https://comodin.uy/radio/8000/320.mp3",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Pipí Cucú",
+    "url": "https://comodin.uy/hls/pipi_cucu/live.m3u8",
+    "codec": "AAC",
+    "bitrate": 105,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Pipí Cucú (128 kbps)",
+    "url": "https://comodin.uy/radio/8000/128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Prado Sur",
+    "url": "https://usa2.fastcast4u.com/proxy/wqzjjais?mp=/;",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": -34.860942307044844,
+    "lon": -56.20442390441895,
+    "language": ""
+  },
+  {
+    "name": "Radio Rivera CX144 AM 1440",
+    "url": "http://usa15.ciudaddigital.com.uy:8060/RiveraAM",
+    "codec": "AAC+",
+    "bitrate": 112,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Río Branco",
+    "url": "https://medios.ciudaddigital.com.uy:18164/RioBranco",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio San Carlos",
+    "url": "http://198.49.65.43:10396/;",
+    "codec": "AAC+",
+    "bitrate": 36,
+    "needsResolve": false,
+    "lat": -34.799370220901615,
+    "lon": -54.91104125976563,
+    "language": "espaňol"
+  },
+  {
+    "name": "Radio Señales",
+    "url": "https://s1.radiosenialesfm.com:8030/radio.mp3",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Uno FM",
+    "url": "http://radio.hostlagarto.com:9822/",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": -34.346953699933955,
+    "lon": -55.76395958662034,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Uruguay 1050",
+    "url": "https://radios.iwstreaming.uy/8036/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Vichadero",
+    "url": "http://204.197.245.100:9146/;",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": -31.775986862452008,
+    "lon": -54.6886619925499,
+    "language": "español - latinoamerica"
+  },
+  {
+    "name": "Radiocero 104.3 FM",
+    "url": "http://streamingcasazorrilla.innovanexo.com:9000/radiocero.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radiomundo 1170 AM - En Perspectiva",
+    "url": "https://edge.mixlr.com/channel/nuuij",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Sarandi 690",
+    "url": "https://radiolatina.live:10977/sarandi",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Sport 890",
+    "url": "https://alba-uy-sport890-sport890.stream.mediatiquestream.com/index.m3u8",
+    "codec": "AAC",
+    "bitrate": 107,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español - latinoamerica"
+  },
+  {
+    "name": "Zorrilla de San Martin",
+    "url": "https://server-usa2.radioseninternet.net/9312/stream",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "colonia am 550",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/COLONIA_ADP.aac",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

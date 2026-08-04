@@ -1,0 +1,422 @@
+[
+  {
+    "name": "99.8 Radio",
+    "url": "https://stream.zeno.fm/jxniabwipmhtv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "vietnamese"
+  },
+  {
+    "name": "Bolsa Radio VN",
+    "url": "http://stream.zenolive.com/ueychbrzv9duv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "CAND",
+    "url": "https://lives.antv.gov.vn/channel/antv/channel/antv_480p/chunks.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "CAND",
+    "url": "https://cf9a5872ebf6f9a.cmccloud.com.vn/ANTV/antv1.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 496,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "CHẠM RADIO",
+    "url": "https://vnno-ne-2-tf-multi-playlist-zmp3.zmdcdn.me/j20SDlO5EQk/zhls/playback-realtime/audio/59a2ee0ed24b3b15625a/audio.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "CRI Tiếng Việt",
+    "url": "https://ice5.securenetsystems.net:80/KALI",
+    "codec": "MP3",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Cherry Radio Music 247",
+    "url": "https://stream-176.zeno.fm/umt5gqmg3reuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1bXQ1Z3FtZzNyZXV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkNZUXVUREM3VGNtTjEyblNnR0x4UkEiLCJpYXQiOjE3Mjk3NDI5MzAsImV4cCI6MTcyOTc0Mjk5MH0.nXD9Wgj-wiNAqBZ-Pdh_3sfnI3b-Nsa4DwbcZgO1o5I&adtonosListenerId=01JAYBBMWV0MGTJKRSBW480E4Z",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "FM HANOI 90 MHz",
+    "url": "http://14.162.146.90:8000/HANOI90",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "FM HANOI 96 MHz",
+    "url": "http://222.252.21.96:8000/HANOI96",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Hà Nội Community Radio",
+    "url": "https://ha-noi-community-radio.radiocult.fm/stream",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "KC Radio Asia 80s & 90s",
+    "url": "https://kcradio.asia/stream/80s90s",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Kien Giang Radio",
+    "url": "http://tv.kgtv.vn/live/kgaudio/kgaudio.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "vietnamese"
+  },
+  {
+    "name": "Kien Giang TV",
+    "url": "http://tv.kgtv.vn/live/kgtv/kgtv.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "vietnamese"
+  },
+  {
+    "name": "Kien Giang TV-1",
+    "url": "http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "vietnamese"
+  },
+  {
+    "name": "L0ves0n9scafe",
+    "url": "http://listen.57fm.com/lscafe",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Little Saigon Radio",
+    "url": "https://stream-148.zeno.fm/kxynzu2qe7duv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJreHluenUycWU3ZHV2IiwiaG9zdCI6InN0cmVhbS0xNDguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IklCSlYyMXNuVC02QUFEWTVhQTUxWmciLCJpYXQiOjE3Mjk4MzExMTcsImV4cCI6MTcyOTgzMTE3N30.MnLyarUeN7gD-e-g1fZiD0UQWGzpIaPx7o3vYOhQCfk",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "M Radio Vietnam",
+    "url": "https://stream-155.zeno.fm/4q7y9hvkp2zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0cTd5OWh2a3AyenV2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImlpeGFsbUNWVE51cGxub1h2eE9NTmciLCJpYXQiOjE3MzE1NTExNjIsImV4cCI6MTczMTU1MTIyMn0.RQUqatQ8CtSaIcvH9kT1xRfeuptGIM13jzFd-2SehU0&aw_0_req_lsid=8196d2c78a734f244852a3f8bbbecbcb",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Nhân dân TV",
+    "url": "https://arpt.tvic.vn/live/nhandan720/chunklist_w1899174222.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "REPLAY NEWS - Tiếng Việt   Radio tin tức mỗi 5 phút",
+    "url": "https://replaynewsvi.ice.infomaniak.ch/replaynewsve-128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "vietnamese"
+  },
+  {
+    "name": "RFI Tiếng Việt",
+    "url": "https://rfienvietnamien64k.ice.infomaniak.ch/rfienvietnamien-64.mp3",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RVA Vietnamese",
+    "url": "https://livestream.rvasia.org:8443/Vietnamese.mp3",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Saigon Houston AM900",
+    "url": "http://142.4.215.82:8070/stream?type=http&nocache=151",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "TNT Atlanta Radio",
+    "url": "https://cast4.servcast.net/proxy/longpham2/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "VIET RADIO 1560",
+    "url": "http://71.4.56.20/3rdout/radio.hou.std2/icecast.audio",
+    "codec": "MP3",
+    "bitrate": 109,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "VIET WASHINGTON DC",
+    "url": "http://varadio.serverroom.net:7968/",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "VOH AM 610",
+    "url": "https://strm.voh.com.vn/radio/channel2/chunklist_w884773542.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "vietnamese"
+  },
+  {
+    "name": "VOH FM 87.7",
+    "url": "https://strm.voh.com.vn/radio/channel5/chunklist_w2071193605.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "vietnamese"
+  },
+  {
+    "name": "VOH FM 95.6",
+    "url": "https://strm.voh.com.vn/radio/channel1/chunklist_w829828563.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "VOH FM 99.9",
+    "url": "https://strm.voh.com.vn/radio/channel3/chunklist_w1005696319.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "vietnamese"
+  },
+  {
+    "name": "VOV English 24/7",
+    "url": "https://stream.vovmedia.vn/vov247",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "VOV GT (FM91) HCMC",
+    "url": "https://play.vovgiaothong.vn/live/gthcm/playlist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 255,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "vietnamese"
+  },
+  {
+    "name": "VOV GTHN (HD + for copyrighted contents)",
+    "url": "https://tfx70gr4nhct1gwzdrcttfa5urmmbqi1g153ppt3zgmusp75nh7uq.100ycdn.com/audio-lss.vov.vn/live/giao_thong_ha_noi.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 72,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "vietnamese"
+  },
+  {
+    "name": "VOV Giao thông Hà Nội",
+    "url": "https://play.vovgiaothong.vn/live/gthn/playlist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 230,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "vietnamese"
+  },
+  {
+    "name": "VOV Mekong",
+    "url": "https://stream.vovmedia.vn/vovmekong",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "VOV1",
+    "url": "https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": 21.024945412407845,
+    "lon": 105.83816528320314,
+    "language": "vietnamese"
+  },
+  {
+    "name": "VOV2",
+    "url": "https://audio-lss.vov.vn/han/live/vov2/audio/haudio-eng.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "vietnamese"
+  },
+  {
+    "name": "VOV2 (HD + for copyrighted contents)",
+    "url": "https://audio-lss.vov.vn/live/vov2.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 72,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "vietnamese"
+  },
+  {
+    "name": "VOV3",
+    "url": "https://audio-lss.vov.vn/han/live/vov3/audio/haudio-eng.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "vietnamese"
+  },
+  {
+    "name": "VOV5 WORLD RADIO",
+    "url": "https://stream.vovmedia.vn/vov5",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese,english,french,german,japanese,russian,spanish"
+  },
+  {
+    "name": "Vietnamese National People",
+    "url": "http://c13.radioboss.fm:8127/stream",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "XONE FM",
+    "url": "https://vnno-ne-2-tf-multi-playlist-zmp3.zmdcdn.me/Wbo0diyYozY/zhls/playback-realtime/audio/e75e51f26db784e9dda6/audio.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "ZING BOLERO",
+    "url": "https://vnno-ne-3-tf-multi-playlist-zmp3.zmdcdn.me/BJ7DyJjfG_E/zhls/playback-realtime/audio/5bace800d4453d1b6454/audio.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

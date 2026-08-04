@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Saint FM Community Radio 93.1 (World Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s1283",
+    "codec": "mp3",
+    "bitrate": 94,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Saint.FM",
+    "url": "https://orbit.citrus3.com:8306/stream",
+    "codec": "MP3",
+    "bitrate": 100,
+    "needsResolve": false,
+    "lat": -15.632955745681755,
+    "lon": -5.822753906250001,
+    "language": ""
+  }
+]

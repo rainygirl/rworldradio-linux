@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Radio Archipel Fm 103.3 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s349523",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Atlantique 102.1 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s352348",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Saint-Pierre-et-Miquelon la 1ère 98.9 (Music News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s1816",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

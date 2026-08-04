@@ -1,0 +1,1002 @@
+[
+  {
+    "name": "1 канал Белорусского радио Минск 106.2 FM",
+    "url": "https://stream2.datacenter.by/1kanal",
+    "codec": "AAC",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "belarusian"
+  },
+  {
+    "name": "Alfa Radio 107.9 FM",
+    "url": "https://stream.sb.by/alpha",
+    "codec": "AAC+",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": 53.90087089186047,
+    "lon": 27.558393388369765,
+    "language": ""
+  },
+  {
+    "name": "Another Music Project",
+    "url": "https://radio.anothermusicproject.com:8443/idm",
+    "codec": "MP3",
+    "bitrate": 16,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Aplus Beat",
+    "url": "http://107.173.210.247:9000/aplus_beat_128",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Aplus One (aac, 16 kb/s)",
+    "url": "http://s.aplus.fm:9000/aplus_16.aac",
+    "codec": "AAC",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "russian"
+  },
+  {
+    "name": "Aplus.FM Rock",
+    "url": "https://shoutcast.aplus.fm/aplus_rock_256",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Center FM",
+    "url": "https://stream2.datacenter.by/stream",
+    "codec": "AAC",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 53.86232366460187,
+    "lon": 27.544688905981253,
+    "language": "russian"
+  },
+  {
+    "name": "Disco SSSR",
+    "url": "https://pub0202.101.ru:8443/stream/pro/aac/64/144",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "ENERGY FM 100.4 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s351724",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "ESC HOT HITS",
+    "url": "https://app.aloncast.com/api/stream/esc-hot-hits-7e4c5a",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Easy Listening BLR",
+    "url": "http://178.172.235.5:8001/10",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Energy",
+    "url": "https://stream2.datacenter.by/energy",
+    "codec": "AAC",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "russian"
+  },
+  {
+    "name": "Euroradio (Rock)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s97275",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Gomel FM",
+    "url": "https://stream2.datacenter.by/gomelfm",
+    "codec": "AAC",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "LOVE IS RADIO",
+    "url": "https://myradio24.org/3355",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Legendy FM",
+    "url": "http://live.legendy.by:8000/legendyfm",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "belarusian,russian"
+  },
+  {
+    "name": "Lider FM",
+    "url": "https://icecast.lider-fm.by/liderfm",
+    "codec": "AAC",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,russian"
+  },
+  {
+    "name": "MFM Belarus",
+    "url": "https://radio.105fm.by/radio.105.0mfm",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 53.6498477049762,
+    "lon": 23.867440205341623,
+    "language": ""
+  },
+  {
+    "name": "Pilot FM",
+    "url": "https://live.pilotfm.com/stream/pilotfm/aac128",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "belarusian,english,russian"
+  },
+  {
+    "name": "Pilot FM",
+    "url": "https://stream2.datacenter.by/pilotfm",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 53.87589539437156,
+    "lon": 27.543983155397683,
+    "language": "russian"
+  },
+  {
+    "name": "Radio Monte Carlo Lounge",
+    "url": "https://strw3.openstream.co/344?aw_0_1st.collectionid%3D7411%26stationId%3D7411%26publisherId%3D164%26k%3D1769798199",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 53.901516050412496,
+    "lon": 27.56100654602051,
+    "language": ""
+  },
+  {
+    "name": "Radio Plato",
+    "url": "https://azura.radioplato.by/radio/8000/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "belarusian"
+  },
+  {
+    "name": "Radio Roks",
+    "url": "https://stream02.pcradio.biz/roks_minsk-hi",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 53.901390935893104,
+    "lon": 27.564909794816693,
+    "language": ""
+  },
+  {
+    "name": "Radio Skif",
+    "url": "http://178.172.150.248:2530/",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Unistar",
+    "url": "https://edge2.usp.unistar.by/hls/unistar_main/96k.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "belarusian,english,russian"
+  },
+  {
+    "name": "Radius FM",
+    "url": "https://stream2.datacenter.by/radiusfm_main",
+    "codec": "AAC",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 53.87342583901451,
+    "lon": 27.547770610799184,
+    "language": "russian"
+  },
+  {
+    "name": "Retro Belarus",
+    "url": "https://air.sammit.tv:8443/retro",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "russian"
+  },
+  {
+    "name": "SKIF",
+    "url": "https://stream02.pcradio.biz/skif_orsha-med",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "TEPLOE RADIO NETOP FM",
+    "url": "https://listen.teploe.net:8001/netopfm",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Trance",
+    "url": "http://185.33.21.112/trance_64a",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "r"
+  },
+  {
+    "name": "Unistar - 2000-е",
+    "url": "https://stream.unistar.by/unistar_best_internal/unistar_best/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 149,
+    "needsResolve": false,
+    "lat": 53.9001308658443,
+    "lon": 27.5537109375,
+    "language": ""
+  },
+  {
+    "name": "Unistar - Rap-хиты",
+    "url": "https://stream.unistar.by/unistar_main_internal/unistar_main/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 149,
+    "needsResolve": false,
+    "lat": 53.893905113091165,
+    "lon": 27.546949423424763,
+    "language": "belarusian,russian"
+  },
+  {
+    "name": "Unistar - Rap-хиты",
+    "url": "https://stream.unistar.by/unistar_rap_internal/unistar_rap/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 149,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Unistar - В темпе",
+    "url": "https://stream.unistar.by/unistar_fast_internal/unistar_fast/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 150,
+    "needsResolve": false,
+    "lat": 53.89964537985395,
+    "lon": 27.557144165039062,
+    "language": ""
+  },
+  {
+    "name": "Unistar - Каверы",
+    "url": "https://stream.unistar.by/unistar_covers_internal/unistar_covers/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 149,
+    "needsResolve": false,
+    "lat": 53.89899805333817,
+    "lon": 27.556457519531257,
+    "language": ""
+  },
+  {
+    "name": "Unistar - Мой рок-н-ролл",
+    "url": "https://stream.unistar.by/unistar_rock_internal/unistar_rock/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 149,
+    "needsResolve": false,
+    "lat": 53.900575884311614,
+    "lon": 27.55954742431641,
+    "language": ""
+  },
+  {
+    "name": "Unistar - Офисный Канал",
+    "url": "https://stream.unistar.by/unistar_office_internal/unistar_office/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 149,
+    "needsResolve": false,
+    "lat": 53.90061633693369,
+    "lon": 27.55783081054688,
+    "language": ""
+  },
+  {
+    "name": "Unistar - Свежие Хиты",
+    "url": "https://stream.unistar.by/unistar_top_internal/unistar_top/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 149,
+    "needsResolve": false,
+    "lat": 53.90061634310684,
+    "lon": 27.559890747070316,
+    "language": "english"
+  },
+  {
+    "name": "WGFM-Trance",
+    "url": "https://sv.netradio.by/1/128",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Zefir FM",
+    "url": "https://stream2.datacenter.by/zefirfm",
+    "codec": "AAC+",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 53.14324648738053,
+    "lon": 29.217549562454227,
+    "language": ""
+  },
+  {
+    "name": "Zефир FM",
+    "url": "http://178.124.152.212:8008/Zefir",
+    "codec": "AAC+",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "russian"
+  },
+  {
+    "name": "http://ice-the.musicradio.com/CapitalXTRANationalM",
+    "url": "http://ice-the.musicradio.com/CapitalXTRANationalMP3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "russian"
+  },
+  {
+    "name": "humor fm Minsk",
+    "url": "http://live.humorfm.by:8000/veseloe",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Авторадио Минск",
+    "url": "https://live.humorfm.by:8443/avtoradio",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "russian"
+  },
+  {
+    "name": "Барановичи FM",
+    "url": "http://radio.100fm.by:8000/100fm128",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "russian"
+  },
+  {
+    "name": "Барановичи FM 100 (World Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s254549",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Беларусь 96.4 (News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s69058",
+    "codec": "mp3",
+    "bitrate": 256,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Беларусь 96.9 (News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s137079",
+    "codec": "mp3",
+    "bitrate": 256,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Город FM Брест 97,7",
+    "url": "https://stream2.datacenter.by/GorodFM",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Душевное радио",
+    "url": "https://stream2.datacenter.by/dushevnoe",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 53.901319264243845,
+    "lon": 27.56550192832947,
+    "language": ""
+  },
+  {
+    "name": "Еўрарадыё Alternative",
+    "url": "http://stream1.euroradio.fm:8000/euroradio1?seed=1493710910",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "belarusian"
+  },
+  {
+    "name": "Еўрарадыё BY",
+    "url": "http://stream1.euroradio.fm:8000/euroradio1",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "belarusian"
+  },
+  {
+    "name": "Канал \"Культура\"",
+    "url": "https://stream2.datacenter.by/kultura",
+    "codec": "AAC",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "belarusian"
+  },
+  {
+    "name": "Компас FM",
+    "url": "https://radio.mil.by/live",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "russian"
+  },
+  {
+    "name": "МВ-Радио",
+    "url": "https://stream2.datacenter.by/mvradio",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "russian"
+  },
+  {
+    "name": "Мелодии Века 96.2fm",
+    "url": "https://radiorecord.hostingradio.ru/sd9096.aacp",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,russian"
+  },
+  {
+    "name": "Местное радио 102.0 (Russian Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s110467",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Народное Радио",
+    "url": "https://live.novoeradio.by:444/live/narodnoeradio_aac128/icecast.audio",
+    "codec": "AAC+",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 53.908807071728326,
+    "lon": 27.54148969801943,
+    "language": "rus"
+  },
+  {
+    "name": "Новое радио",
+    "url": "https://live.novoeradio.by:444/live/novoeradio_aac128/icecast.audio",
+    "codec": "AAC+",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "belarusian"
+  },
+  {
+    "name": "Новое радио - Fresh",
+    "url": "https://live.novoeradio.by:444/live/novoeradio_fresh_aac128/icecast.audio",
+    "codec": "AAC+",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 53.90065679568975,
+    "lon": 27.5537109375,
+    "language": ""
+  },
+  {
+    "name": "Новое радио - MegaMix",
+    "url": "https://live.novoeradio.by:444/live/novoeradio_megamix_aac128/icecast.audio",
+    "codec": "AAC+",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 53.89689419836467,
+    "lon": 27.55233764648438,
+    "language": ""
+  },
+  {
+    "name": "Новое радио - Top Non-Stop",
+    "url": "https://live.novoeradio.by:444/live/novoeradio_TOP100_aac128/icecast.audio",
+    "codec": "AAC+",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 53.89940263011331,
+    "lon": 27.55577087402344,
+    "language": ""
+  },
+  {
+    "name": "Новое радио 106.7 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s139367",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Новое радио 92.8 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s104515",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Новое радио 92.9 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s104518",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Новое радио 95.7 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s139368",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Новое радио 98.4 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s104514",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Новое радио 98.7 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s104517",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Открытое Слово",
+    "url": "https://rt.radioslovo.net:4395/radio",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "russian"
+  },
+  {
+    "name": "Открытое Слово Авто Радио",
+    "url": "https://rt.radioslovo.net:4145/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "russian"
+  },
+  {
+    "name": "Открытое Слово Братские встречи",
+    "url": "https://rt.radioslovo.net:4135/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "russian"
+  },
+  {
+    "name": "Открытое Слово Инструментальная музыка",
+    "url": "https://rt.radioslovo.net:4275/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "russian"
+  },
+  {
+    "name": "РАДИО СКИФ 99.9 (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s254559",
+    "codec": "mp3",
+    "bitrate": 256,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Радио 123",
+    "url": "http://de1.internet-radio.com:8173/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "russian"
+  },
+  {
+    "name": "Радио ROKS",
+    "url": "https://stream.roks.com:8443/live256",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "belarusian,russian"
+  },
+  {
+    "name": "Радио Беларусь FM/Radio Belarus FM",
+    "url": "http://stream2.datacenter.by:8009/belarusfm",
+    "codec": "AAC",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic,belarusian,chinese,english,french,german,polish,russian,spanish"
+  },
+  {
+    "name": "Радио Беларусь/Radio Belarus",
+    "url": "http://stream2.datacenter.by:8008/belarus",
+    "codec": "AAC",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic,belarusian,chinese,english,french,german,polish,russian,spanish"
+  },
+  {
+    "name": "Радио Брест 104.8 FM",
+    "url": "https://stream2.datacenter.by/trkbrest",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "russian"
+  },
+  {
+    "name": "Радио Брест 104.8 Fm",
+    "url": "http://178.124.131.35:8012/trkbrest",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "belarusian,russian"
+  },
+  {
+    "name": "Радио Минск 100.4 (Classic Rock)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s135326",
+    "codec": "mp3",
+    "bitrate": 256,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Радио Минск 105.6 (Classic Rock)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s135329",
+    "codec": "mp3",
+    "bitrate": 256,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Радио Минск 106.4 (Classic Rock)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s135327",
+    "codec": "mp3",
+    "bitrate": 256,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Радио Минск 92.4 (Classic Rock)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s125977",
+    "codec": "mp3",
+    "bitrate": 256,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Радио Минск 98.1 (Classic Rock)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s135328",
+    "codec": "mp3",
+    "bitrate": 256,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Радио Могилёв",
+    "url": "https://stream2.datacenter.by/tvrmogilev",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Радио витебск",
+    "url": "https://stream2.datacenter.by/vtvby",
+    "codec": "AAC",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Радые Марыя",
+    "url": "https://server.radiorm.by:8443/live",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Радыё Relax",
+    "url": "http://live.humorfm.by:8000/radiorelax",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "belarusian"
+  },
+  {
+    "name": "Радыё Рацыя",
+    "url": "http://air.racyja.com:8000/racja128",
+    "codec": "AAC+",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "belarusian"
+  },
+  {
+    "name": "Радыё Сталiца",
+    "url": "https://media2.datacenter.by/stream/stalica/stream",
+    "codec": "AAC",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": 53.90110855726423,
+    "lon": 27.557659149169925,
+    "language": "belarusian,russian"
+  },
+  {
+    "name": "Русское радио Минск 98.9 FM",
+    "url": "https://stream.rusradio.by:8443/live128",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "russian"
+  },
+  {
+    "name": "Свое Радио (Пинск)",
+    "url": "https://live.svoyoradio.by:8443/svoyoradio",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": 52.13021332580192,
+    "lon": 26.11024260520935,
+    "language": "russian"
+  },
+  {
+    "name": "Своё радио 106 (2000s)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s356998",
+    "codec": "mp3",
+    "bitrate": 160,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Теплое Радио  NETOP FM 100.0 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s167335",
+    "codec": "mp3",
+    "bitrate": 160,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "ТрансМировое Радио в Беларуси",
+    "url": "http://eu3.fastcast4u.com:5026/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "belarusian,russian"
+  },
+  {
+    "name": "Харьков z",
+    "url": "http://control1.craftradio.ru:8000/stream02",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "ЭЙ АЙ РАДИО",
+    "url": "https://app.aloncast.com/api/stream/airadio-by-d3cac8",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 53.90527361454328,
+    "lon": 27.578430175781257,
+    "language": ""
+  },
+  {
+    "name": "Юмор FM",
+    "url": "http://live.humorfm.by:8000/veseloeradio",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "russian"
+  },
+  {
+    "name": "Юмор FM 93.7 (Russian Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s254560",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "радио Минск 92.4",
+    "url": "https://radio.mk.by:8443/radiominsk",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "russian"
+  }
+]

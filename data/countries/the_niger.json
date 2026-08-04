@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Abdulbasit Abdulsamad",
+    "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Radio BLAU Leipzig (trocken 320kbps)",
+    "url": "http://icecast.radioblau.de:8000/blau_320_dry",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 61.873513926826575,
+    "lon": 130.94359874725345,
+    "language": "upper chinook"
+  },
+  {
+    "name": "Radio Garkuwa 107 Maradi",
+    "url": "https://stream.zeno.fm/x0a1r1qu1nhvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french,hausa"
+  },
+  {
+    "name": "Wadata Radio 107.4 Niamey",
+    "url": "http://stream.zeno.fm/1y2c3qbgbchvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  }
+]

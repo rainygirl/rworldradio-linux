@@ -1,0 +1,102 @@
+[
+  {
+    "name": "NIA Lo-Fi",
+    "url": "https://radio.nia.nc/radio/8020/lofi-hq-stream.aac?1734100301",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "NIA Pacifique",
+    "url": "https://radio.nia.nc/radio/8000/pacific-hq-stream.aac?1734100041",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "NIA Radio - Pacifique",
+    "url": "https://radio.nia.nc/radio/8000/pacific-hq-stream.aac",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "NIA Radio Lo-Fi",
+    "url": "https://radio.nia.nc/radio/8020/lofi-hq-stream.aac",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Nouvelle-Calédonie La Première",
+    "url": "https://nouvelle-caledonie.ice.infomaniak.ch/nouvelle-caledonie-128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Nouvelle-Calédonie la 1ère 89.0 (Music News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s25631",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Djiido",
+    "url": "http://radiodjiido.nc:8002/",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Radio Djiido 97.4 (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s89294",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Rythme Bleu",
+    "url": "https://webradio.lagoon.nc/rrb",
+    "codec": "MP3",
+    "bitrate": 82,
+    "needsResolve": false,
+    "lat": -22.27172770713379,
+    "lon": 166.4524841308594,
+    "language": "francaise"
+  },
+  {
+    "name": "Radio Rythme Bleu 100.4",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s105345",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

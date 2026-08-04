@@ -1,0 +1,772 @@
+[
+  {
+    "name": "94.3 FM del Este",
+    "url": "http://radio.cdehosting.net:8040/;",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "ABC Cardinal 730AM",
+    "url": "http://media.streambrothers.com:18342/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": -25.286154811556575,
+    "lon": -57.63477087020875,
+    "language": "spanish"
+  },
+  {
+    "name": "Amabmay FM 100.5",
+    "url": "http://cp9.serverse.com:7221/amambayfm",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Aranduka 87.9 FM Paraguay",
+    "url": "http://tigocloud.desdeparaguay.net/movaranduka/movaranduka.stream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Aspen FM 102.7 Paraguay",
+    "url": "https://copaco.desdeparaguay.net/movaspen/movaspen.stream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 28,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español asunción"
+  },
+  {
+    "name": "Cuevas FM 91.7",
+    "url": "https://radio.host.com.py:7020/;",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Educación FM 99.7",
+    "url": "https://proxy01.servidorenlinea.net/cdehosting/8050/;",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Emisoras Paraguay 106.1",
+    "url": "https://rds3.desdeparaguay.net/movemisoras/movemisoras.stream/chunklist_w1882715633.m3u8?k=90ba439d59a58390e5abac95530dd4becd61b4e573b237e6fe0bf9eb4a529caf&exp=1693084452",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español paraguay"
+  },
+  {
+    "name": "Emisoras Paraguay 106.1 FM",
+    "url": "https://rds3.desdeparaguay.net/movemisoras/movemisoras.stream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 28,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Estacion 105  105.1 FM",
+    "url": "http://radio.host.com.py:9460/;",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Exclusiva FM 103.7",
+    "url": "https://rds3.desdeparaguay.net/movexclusiva/movexclusiva.stream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español paraguay"
+  },
+  {
+    "name": "FM Concert Online 107.7 (Classical)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s13905",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "FM POPULAR 103.1",
+    "url": "https://rds3.desdeparaguay.net/transpopular/transpopular/playlist.m3u8",
+    "codec": "AAC+",
+    "bitrate": 33,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español paraguay"
+  },
+  {
+    "name": "FM URBANO 96.5 RADIOTV | (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s338158",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Fabulosa FM 104.5",
+    "url": "https://radio.host.com.py:7034/;",
+    "codec": "AAC+",
+    "bitrate": 56,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "guarani,spanish"
+  },
+  {
+    "name": "GO Radio",
+    "url": "https://rds3.desdeparaguay.net:8002/go",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "asunción,spanish"
+  },
+  {
+    "name": "La Clave 103.9",
+    "url": "https://radio.host.com.py:7181/",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": -25.50602846574105,
+    "lon": -54.65389251708985,
+    "language": "español - latinoamerica"
+  },
+  {
+    "name": "Monumental 1080 AM",
+    "url": "https://mdstrm.com/audio/62d81ca6a459e4082203c95b/icecast.audio",
+    "codec": "AAC",
+    "bitrate": 125,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO CAAPUCU FM 91.7",
+    "url": "http://radio.host.com.py:9452/;",
+    "codec": "AAC+",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "RADIO EXITOS DE AYER",
+    "url": "http://stream.zeno.fm/hvnh6d5uebruv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,spanish"
+  },
+  {
+    "name": "RADIO MARIA PARAGUAY",
+    "url": "http://dreamsiteradiocp.com:8090/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO VALLENATOS CLÁSICOS",
+    "url": "http://stream.zeno.fm/z07vyxbqz8quv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio 1000 AM",
+    "url": "https://1000noticias.live:8000/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio 1000 | (News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s114766",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio ABC Cardinal 730 AM",
+    "url": "http://sc.abc.com.py:8000/stream",
+    "codec": "MP3",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio ABC Cardinal 730 AM (Asunción)",
+    "url": "https://media.streambrothers.com:8342/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "asunción,spanish"
+  },
+  {
+    "name": "Radio ABC Cardinal AM 730 (News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s17748",
+    "codec": "mp3",
+    "bitrate": 32,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio ABC FM 98.5",
+    "url": "http://200.3.249.91:8000/abcradio/fm.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "asunción"
+  },
+  {
+    "name": "Radio ABC FM 98.5 (Asunción)",
+    "url": "https://media.streambrothers.com:8350/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "asunción,espsñol"
+  },
+  {
+    "name": "Radio Amambay 100.5 FM",
+    "url": "http://cp9.serverse.com:7221/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "pedro juan caballero"
+  },
+  {
+    "name": "Radio Amor 95.9FM",
+    "url": "https://copaco.desdeparaguay.net/movamor/movamor.stream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": -25.32256266258606,
+    "lon": -57.56148487329484,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Aranduka 87.9 FM",
+    "url": "http://rds3.desdeparaguay.net/movaranduka/movaranduka.stream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "asunción"
+  },
+  {
+    "name": "Radio Arasuncion",
+    "url": "https://stream.radiaura.net/station-2ab200ee-b166-415a-b8df-7b20c6a37ff9",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Aspen 102.7 FM",
+    "url": "https://rds3.desdeparaguay.net/movaspen/movaspen.stream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 28,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "asunción"
+  },
+  {
+    "name": "Radio Aspen Paraguay",
+    "url": "https://tigocloud.desdeparaguay.net/movaspen/movaspen.stream/playlist.m3u8?k=cab33b6f9bb8d7e340d2a8ce8d4476e4576ce92fbc993b81666e7db795dc1da7&exp=1664206557",
+    "codec": "AAC",
+    "bitrate": 28,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Canal 100.1 FM",
+    "url": "https://rds3.desdeparaguay.net/movcanal100/movcanal100.stream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "asunción"
+  },
+  {
+    "name": "Radio Capital 101.7 FM",
+    "url": "http://ic2489.c1788.fastserv.com/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "coronel oviedo"
+  },
+  {
+    "name": "Radio Cerro Cora 91.5 FM",
+    "url": "http://135.181.103.10:8018/stream",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Colmenar FM 92.5 (Folk Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s114772",
+    "codec": "mp3",
+    "bitrate": 88,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Concierto 89.1",
+    "url": "https://radio.host.com.py/9572/stream",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Digital 88.5 Fm Paraguay",
+    "url": "http://streaming.camaronhosting.com:8036/",
+    "codec": "AAC+",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": -24.082831313256037,
+    "lon": -57.083891057716606,
+    "language": ""
+  },
+  {
+    "name": "Radio Disney Paraguay FM 96.5",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_PAR_ASAAC.m3u8?dist=web-radiodisney",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español paraguay,spanish"
+  },
+  {
+    "name": "Radio Encarnación 95.7 (News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s85885",
+    "codec": "mp3",
+    "bitrate": 32,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Estación 40 91.1 FM",
+    "url": "http://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/62d81cfbbfbcee0837ba1b60",
+    "codec": "AAC",
+    "bitrate": 125,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "asunción,spanish"
+  },
+  {
+    "name": "Radio Estación 40 91.1 FM",
+    "url": "http://rds3.desdeparaguay.net/transestacion40/transestacion40/playlist.m3u8",
+    "codec": "AAC+",
+    "bitrate": 33,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "asunción"
+  },
+  {
+    "name": "Radio Impacto 95.3",
+    "url": "https://radio.host.com.py:7137/;",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Impacto 95.3 FM",
+    "url": "http://radio.host.com.py:9714/stream",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "paraguay,pedro juan caballero,spanish"
+  },
+  {
+    "name": "Radio Itapúa FM 102.5 (Sports Talk & News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s8347",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Mix 90.1 FM",
+    "url": "https://rds3.desdeparaguay.net/movmix/movmix.stream/playlist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 250,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "asunción"
+  },
+  {
+    "name": "Radio Monumental 1080 AM",
+    "url": "http://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/62d81ca6a459e4082203c95b",
+    "codec": "AAC",
+    "bitrate": 125,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "asunción,spanish"
+  },
+  {
+    "name": "Radio Nacional del Paraguay 920 AM",
+    "url": "http://audio.radionacional.gov.py:8085/920",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "guarani,spanish"
+  },
+  {
+    "name": "Radio Nuevo Tiempo Paraguay 97.9",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s334752",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio OBEDIRA Online",
+    "url": "https://s17.ssl-stream.com/proxy/obedira?mp=/live",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Obedira 102.1 (Christian Spanish)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s13903",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Palma 106.5 FM",
+    "url": "http://rds3.desdeparaguay.net/transpalma/transpalma/playlist.m3u8",
+    "codec": "AAC+",
+    "bitrate": 33,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "asunción"
+  },
+  {
+    "name": "Radio Palma 106.5 FM",
+    "url": "http://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/62d81d48f5ef320830c8becf",
+    "codec": "AAC",
+    "bitrate": 93,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español asunción"
+  },
+  {
+    "name": "Radio Pop 93.3 FM",
+    "url": "http://rps1.radiopop.com.py:8000/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "encarnación"
+  },
+  {
+    "name": "Radio RQP 94.3 FM",
+    "url": "http://dx85eyfuo1x2i.cloudfront.net/index.m3u8",
+    "codec": "AAC",
+    "bitrate": 1842,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "asunción"
+  },
+  {
+    "name": "Radio RQP 94.3 FM",
+    "url": "http://rds3.desdeparaguay.net/transrqp/transrqp/playlist.m3u",
+    "codec": "AAC+",
+    "bitrate": 33,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "asunción"
+  },
+  {
+    "name": "Radio Sagrados Online",
+    "url": "http://rds3.desdeparaguay.net/movsagrados/movsagrados.stream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 28,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "asunción,spanish"
+  },
+  {
+    "name": "Radio Tapiracuai 88.7 FM",
+    "url": "https://tigocloud.desdeparaguay.net/movtapiracuai/movtapiracuai.stream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 28,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Top Milenium 91.5 FM",
+    "url": "http://sonic.host-live.com:8398/stream",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español asunción"
+  },
+  {
+    "name": "Radio Universo 92.5 Fm",
+    "url": "http://radio.cdehosting.net:8042/stream",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Uno 650AM | (News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s114816",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Urbana 106.9 FM",
+    "url": "http://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/62d81cdabff0bc082f8f1a24",
+    "codec": "AAC",
+    "bitrate": 125,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español asunción"
+  },
+  {
+    "name": "Radio Urbana 106.9 FM",
+    "url": "http://rds3.desdeparaguay.net/transurbana/transurbana/playlist.m3u8",
+    "codec": "AAC+",
+    "bitrate": 33,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "asunción"
+  },
+  {
+    "name": "Radio Vibras 92.7FM",
+    "url": "https://rds3.desdeparaguay.net/movvibras/movvibras.stream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": -25.32263880660027,
+    "lon": -57.56137490272523,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Ysapy 90.7 FM",
+    "url": "http://streamsoymedios.com:8014/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "asunción,dutch"
+  },
+  {
+    "name": "Radio ZP-30 610 (Christian Contemporary)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s50002",
+    "codec": "mp3",
+    "bitrate": 32,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Ñandutí 1020 (New Holiday Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s7173",
+    "codec": "mp3",
+    "bitrate": 48,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Rock&Pop Paraguay",
+    "url": "https://cp9.serverse.com/proxy/rockandpop/stream",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -25.300012836598857,
+    "lon": -57.59406298398972,
+    "language": ""
+  },
+  {
+    "name": "Sin Fronteras 98.5 FM",
+    "url": "http://tigocloud.desdeparaguay.net/movsinfronteras/movsinfronteras.stream/playlist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 250,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Tereré Mix Paraguay",
+    "url": "https://stream-154.zeno.fm/a0z8gjrlucluv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhMHo4Z2pybHVjbHV2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiT1R5U0I2Y0VTaHU2Sml1Z0xhTTJHUSIsImlhdCI6MTc2ODQ1MDg5NywiZXhwIjoxNzY4NDUwOTU3fQ.UNm8x5c-ruc6BdhRfyHfthXmGN-n76Z-NT6joh3-HCc",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "#spanish"
+  },
+  {
+    "name": "Tropicalia 93.9FM",
+    "url": "https://rds3.desdeparaguay.net/movtropicalia/movtropicalia.stream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -25.322544971407744,
+    "lon": -57.56139028351755,
+    "language": "spanish"
+  },
+  {
+    "name": "Vibras 92.7FM",
+    "url": "https://copaco.desdeparaguay.net/movvibras/movvibras.stream/chunklist_w1786225280.m3u8?k=5d1b32cc4cfb2b10be3ecff56d8aeee5e59993cfc1a5234cc73eca0b8b7f7487&exp=1651095717",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "ZP6 RADIO GUAIRA AM 840 (Folk Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s154215",
+    "codec": "mp3",
+    "bitrate": 32,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "super radio",
+    "url": "https://c32.radioboss.fm:8139/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "name": "AFRICA RADIO - MANU DIBANGO FOREVER 90.3 (World Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s16113",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Horizon FM 104.4 Ouagadougou",
+    "url": "https://stream.zeno.fm/0945crn4bf9uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Horizon FM Koudougou",
+    "url": "https://stream.zeno.fm/s2ypmeg0cf9uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Radio Balafon 102.7 Bobo-Dioulasso",
+    "url": "https://stream.zeno.fm/v3ddfda0cf9uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Radio Biwi Inter",
+    "url": "https://sonic.mediacp.eu/8040/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 12.685894460144546,
+    "lon": -2.0214843750000004,
+    "language": "french"
+  },
+  {
+    "name": "Radio Legende",
+    "url": "https://stream.zeno.fm/p1e2466d6ehvv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Radio Pulsar 94.8 (World Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s16115",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Savane FM 103.4 (News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s50143",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

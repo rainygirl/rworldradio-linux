@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Abdulbasit Abdulsamad",
+    "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Navidad Grupera",
+    "url": "https://radioforte.com/8006/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español mexico"
+  },
+  {
+    "name": "Navidad Grupera",
+    "url": "https://radioforte.com/8006/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español mexico"
+  },
+  {
+    "name": "Navidad Grupera",
+    "url": "https://radioforte.com/8006/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español mexico"
+  },
+  {
+    "name": "Navidad Grupera",
+    "url": "https://radioforte.com/8006/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español mexico"
+  }
+]

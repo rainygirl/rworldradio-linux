@@ -1,0 +1,22 @@
+[
+  {
+    "name": "1.FM - Top Hits 2000",
+    "url": "http://185.33.21.112/hits2000_128",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "TWR Africa 1170 (Christian Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s6416",
+    "codec": "mp3",
+    "bitrate": 32,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Ehlelradio",
+    "url": "https://stream.zeno.fm/c6cvywws538uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "mongolian"
+  },
+  {
+    "name": "Elgen Nutag",
+    "url": "https://a6.asurahosting.com:7210/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "mongolian"
+  },
+  {
+    "name": "Family Radio FM",
+    "url": "https://c2.radioboss.fm/stream/394",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "monoglian"
+  },
+  {
+    "name": "MGL Radio",
+    "url": "http://stream17.shoutcastsolutions.com:8096/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "mongolian"
+  },
+  {
+    "name": "MGLRADIO 102.1 (World Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s188449",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Mongolian Music Radio",
+    "url": "http://65.108.143.81:7700/1",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "mongolian"
+  },
+  {
+    "name": "Xadun 107.5",
+    "url": "https://stream.zeno.fm/z3sbdspshrhvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "mongolian"
+  },
+  {
+    "name": "内蒙古草原之声 Inner Mongolia Voice of Grassland",
+    "url": "https://lhttp-hw.qtfm.cn/live/20973/64k.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "mongolian"
+  }
+]

@@ -1,0 +1,952 @@
+[
+  {
+    "name": "0-24 2000ER POP ROCK",
+    "url": "https://0-242000erpoprock.stream.laut.fm/0-24_2000er_pop_rock",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "121212121",
+    "url": "https://cast.iplayradio.net/listen/powermixfm/stream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "師傅傅"
+  },
+  {
+    "name": "80s Alive",
+    "url": "http://media2.hostin.cc/80s-alive.mp3",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "80s Forever Radio",
+    "url": "http://premium.shoutcastsolutions.com:8050/256.mp3",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "90 Rak Thai",
+    "url": "http://radio11.plathong.net:8896/",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "ATN News FM 100.2 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s296666",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Al jazeera",
+    "url": "http://live-hls-audio-web-aja.getaj.net/VOICE-AJA/01.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Ambient Space",
+    "url": "http://immortalharmony.out.airtime.pro:8000/immortalharmony_a",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Ariana FM 93.5 (World Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s295061",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "BBC UNHCR",
+    "url": "http://stream.live.vc.bbcmedia.co.uk/bbc_pashto_radio",
+    "codec": "MP3",
+    "bitrate": 56,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "BEAUTIFUL INSTRUMENTALS",
+    "url": "http://hydra.cdnstream.com/1822_128",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "BFBS Afghanistan 102.1 (Military)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s196849",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "BIAS radio flac",
+    "url": "https://admin.biasradio.com/radio/8000/flac",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "BNR Horizont",
+    "url": "http://stream.bnr.bg:8011/horizont.aac",
+    "codec": "AAC+",
+    "bitrate": 36,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bhakti World",
+    "url": "http://gurbani.out.airtime.pro:8000/gurbani_a",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bt",
+    "url": "https://bigtunesradio.com:8100/trance.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Burj",
+    "url": "http://82.213.26.67:8000/stfeam",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Classic Country",
+    "url": "http://185.33.21.112/ccountry_mobile_mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Coast FM",
+    "url": "http://213.175.217.198:8000/tenerife",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Cosmo hi",
+    "url": "https://wdr-cosmo-live.icecastssl.wdr.de/wdr/cosmo/live/mp3/128/stream.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Dance Wave!",
+    "url": "https://dancewave.online/dance.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "DirtyBass.FM",
+    "url": "http://dirtybass.fm:8000/dirtybass.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Focus",
+    "url": "http://ice.greekstream.net/focusfm?listenerid=ec33c4dfc99a6f71e6dc23583cbc91f2&awparams=companionAds:true",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Indieparty by Greensleeves",
+    "url": "http://stream.laut.fm/indieparty",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "JFSR [320kbps]",
+    "url": "http://stream.dar.fm/10727",
+    "codec": "AAC",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Joy",
+    "url": "https://stream.joyhits.online:8072/joyhits.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Jus' Blues",
+    "url": "http://192.99.8.192:3444/",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "KISS FM",
+    "url": "https://kissfm.kissfmradio.cires21.com/kissfm.mp3",
+    "codec": "MP3",
+    "bitrate": 56,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "KQED",
+    "url": "http://streams.kqed.org/kqedradio.m3u",
+    "codec": "MP3",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MOMENTO LOVE GOSPEL",
+    "url": "http://stream.zeno.fm/526wmr2en98uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MegaStar FM",
+    "url": "http://megastar-cope-rrcast.flumotion.com/cope/megastar.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MeloRadio",
+    "url": "https://ml.cdn.eurozet.pl/mel-net.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Melody Radio Telugu",
+    "url": "https://a1.asurahosting.com:9580/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Michael Jackson music star",
+    "url": "https://icy.unitedradio.it/um2908.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Moon Phase Radio: Ambient",
+    "url": "https://cp12.serverse.com/proxy/moonphase/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Nick Jr. 102.9 FM Wayback Machine",
+    "url": "http://web.archive.org/web/20200815210240if_/https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream_7.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Nova Classics",
+    "url": "https://nova-vnt.ice.infomaniak.ch/nova-vnt-128",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Nova La Nuit",
+    "url": "https://nova-ln.ice.infomaniak.ch/nova-ln-128",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "PIRAT FM",
+    "url": "https://c22.radioboss.fm:18416/piratfm",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Paradise",
+    "url": "http://stream-uk1.radioparadise.com/aac-32",
+    "codec": "AAC",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "http://stream-uk1.radioparadise.com:80/aac-32"
+  },
+  {
+    "name": "Pocoyo 102.9 AM",
+    "url": "https://ga.video.cdn.pbs.org/videos/rootle/4079da95-9a9a-4532-86e5-131248390a5e/2000196692/hd-16x9-mezzanine-1080p/bpwkmaym-hls-16x9-1080p-720p-4500k.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Qamişlo",
+    "url": "http://dengeqamishlo.stream.laut.fm/dengeqamishlo?pl=m3u&t302=2026-01-15_01-18-57&uuid=bdfe18ca-cad4-4ceb-bc20-998c5fb19855",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "R.Radio",
+    "url": "https://metromedia.live24.gr/republicthess",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RAD",
+    "url": "http://213.141.131.10:8002/jazzmetal",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO MARIAM ARABIC",
+    "url": "http://dreamsiteradiocp4.com:8046/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO NORA OLDIES",
+    "url": "https://regiocast.streamabc.net/regc-noraoldie-mp3-192-4426850?sABC=69682so9%231%2305rr3oqro60pr97o7o5n8q8261306o0o%23ubzrcntr&mode=preroll&aw_0_req.gdpr=true&aw_0_1st.kuid=vhyh95oqv&aw_0_1st.ksg=[\"tsrazhtr3\",\"tow60dxfp\",\"s7lqc5jxe\",\"upxsvbudn\",\"uphudti45\",\"tz4swml9u\",\"s697d7eir\",\"s7ljhri17\",\"s7lo2do21\",\"s7lqvksor\",\"s7ltd00sq\",\"s7lul8vls\",\"s7lvpn712\",\"s7lwsqck7\",\"s78nn0wkd\",\"s71hrmzou\",\"s8cm9eyzj\",\"s8siicaeb\",\"takaaes6u\",\"ti505y9ml\",\"tan9djjrm\",\"ti54veycf\",\"tow80eky2\",\"uchw4pz1v\"]&listenerid=05ee3bdeb60ce97b7b5a8d8261306b0b&awparams=companionAds:true&aw_0_1st.playerid=homepage&amsparams=playerid:homepage;skey:1768435641",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RTVS",
+    "url": "http://icecast.stv.livebox.sk/slovensko_128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Activa",
+    "url": "https://stream9.mexiserver.com:7014/",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Koszalin",
+    "url": "http://91.232.4.33:9680/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Schizoid",
+    "url": "http://94.130.113.214:8000/schizoid",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Srood",
+    "url": "http://stream.cloud.radiosrood.com:8000/live",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Srood",
+    "url": "https://stream.radiosrood.com/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Tarana",
+    "url": "http://peridot.streamguys.com:7150/Tarana.aac",
+    "codec": "AAC+",
+    "bitrate": 56,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RetroFM",
+    "url": "http://retro128.streamr.ru/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Rock Classics",
+    "url": "http://185.33.21.112/rockclassics_128",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Rádio Nevasca 104.1 FM",
+    "url": "https://cast2.youngtech.radio.br/radio/8110/radio",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "SBS 파워 FM",
+    "url": "https://radio.bsod.kr/stream/?stn=sbs&ch=powerfm",
+    "codec": "AAC",
+    "bitrate": 146,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Sha3by FM",
+    "url": "https://radio95.radioca.st/stream/1/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Simulator FM",
+    "url": "https://simulatorfm.stream:8025/320Kbps",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Solar Radio",
+    "url": "https://msmn2.co/proxy/mp3high11/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Tempo FM 87.9",
+    "url": "http://usloft6143.startdedicated.com:7322/?=usloft6143.startdedicated.com_7322.aac",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Veronika",
+    "url": "http://play.global.audio/veronika.aac",
+    "codec": "AAC",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Vesti FM",
+    "url": "http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_128kbps",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Vocaloid",
+    "url": "https://vocaloid.radioca.st/stream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "WDSW 88.1  - The Trail Roots, Blues & Rock Cleveland, MS",
+    "url": "http://dsuradio.deltastate.edu:8000/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "chalabi",
+    "url": "https://listen.radioking.com/radio/291025/stream/337294",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "cool93",
+    "url": "https://coolism-web3rd.cdn.byteark.com/;stream/1",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "deutschrap Detmold",
+    "url": "http://stream.laut.fm/deutschrapradio",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "deutschrap TRAP",
+    "url": "http://stream.laut.fm/deutscherrap",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "esRADIO",
+    "url": "https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-med.aac?listenerid=0c6b1192515b0c9e2f0697d3ecbf43c6&awparams=companionAds%3Atrue&aw_0_1st.version=1.1.7%3Ahtml5&aw_0_1st.playerid=jPlayer%202.9.2&aw_0_1st.skey=1601646790",
+    "codec": "AAC+",
+    "bitrate": 56,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "flac",
+    "url": "http://stream.radioparadise.com/mellow-flac",
+    "codec": "OGG",
+    "bitrate": 1441,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "torres strait creole"
+  },
+  {
+    "name": "fm",
+    "url": "http://stm11.streaming.profesional.bo:11300/Fb",
+    "codec": "AAC+",
+    "bitrate": 24,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "gradio",
+    "url": "http://stream.laut.fm/gradio-rap",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "hhh",
+    "url": "https://stream.zeno.fm/60pqgs97f2zuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "i F",
+    "url": "http://quincy.torontocast.com:1920/stream",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "jeff",
+    "url": "http://web.archive.org/web/20201128202306if_/https://live-cdn.pbskids.org/out/u/est.m3u8",
+    "codec": "AAC",
+    "bitrate": 874,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "jjj",
+    "url": "https://listen.moe/fallback",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "k",
+    "url": "http://stream.zeno.fm/9e880vgncd0uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "louange radio",
+    "url": "https://radio13.pro-fhi.net:19079/",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "mujhe",
+    "url": "http://web.archive.org/web/20201128210604if_/https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream_7.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "o",
+    "url": "https://regiocast.streamabc.net/regc-80s80smweb2517500-mp3-192-1672667?sABC=653op5q6%230%235p58nn084q38sp434n9907261qno32q0%23gharva&aw_0_1st.playerid=tunein&amsparams=playerid:tunein;skey:1698416086",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "ofm stasie2",
+    "url": "https://edge.iono.fm/xice/47_high.aac",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "p",
+    "url": "https://sonic.onlineaudience.co.uk/8114/stream?listening-from-radio-garden=1657427657",
+    "codec": "AAC+",
+    "bitrate": 208,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "java"
+  },
+  {
+    "name": "radio Bandeirantes goiania",
+    "url": "http://suaradio2.dyndns.ws:13633/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "radio mundo",
+    "url": "http://stream.radiomundo.uy:8000/2.mp4",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "rrr",
+    "url": "http://media-ice.radiodns.ru/humour.m3u8",
+    "codec": "AAC",
+    "bitrate": 120,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "selah",
+    "url": "https://ice10.securenetsystems.net/KHHKHD3",
+    "codec": "AAC",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "sunshine-live fokus",
+    "url": "http://stream.sunshine-live.de/focus/mp3-128/stream.sunshine-live.de/",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "syaivo",
+    "url": "http://stream.ntktv.ua/syaivo.mp3",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "РУКИ ВВЕРХ",
+    "url": "https://ic6.101.ru:8000/stream/pro/aac/64/163",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Радио Дача",
+    "url": "http://194.58.122.69:8000/vdacha",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Романтика",
+    "url": "http://media-ice.radiodns.ru/romantika.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "גל עברי",
+    "url": "http://glzwizzlv.bynetcdn.com/glglz_classicil_mp3?awCollectionId=misc&awEpisodeId=glglz_classicil",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "גלגלצ להיטים חמים",
+    "url": "http://glzwizzlv.bynetcdn.com/glglz_hits_mp3?awCollectionId=misc&awEpisodeId=glglz_hits",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "רשת ג",
+    "url": "http://kanliveicy.media.kan.org.il/icy/kangimmel_mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Klass FM 92.9",
+    "url": "http://klassfm929.radioca.st:8165/stream",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Klass FM 92.9",
+    "url": "https://klassfm929.radioca.st/;",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "PJD2 102.7 FM Sint Maarten",
+    "url": "http://142.4.219.8:8181/",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "anguilla,english,sint maarten"
+  },
+  {
+    "name": "Sun 91.1",
+    "url": "http://listen.digital-origin.com:8005/",
+    "codec": "MP3",
+    "bitrate": 16,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "anguilla"
+  },
+  {
+    "name": "WRNO-HD2 Throwback 96.3 FM",
+    "url": "http://stream.revma.ihrhls.com/zc5873",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "new orleans louisiana,spanish"
+  }
+]

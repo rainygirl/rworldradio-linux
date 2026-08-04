@@ -1,0 +1,142 @@
+[
+  {
+    "name": "AFRICA RADIO - MANU DIBANGO FOREVER 91.1 (World Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s16121",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Africa Radio Abidjan",
+    "url": "https://africaradio.ice.infomaniak.ch/abidjan128.mp3",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 5.31988482674005,
+    "lon": -4.020309448242188,
+    "language": "french"
+  },
+  {
+    "name": "Afrobeat international",
+    "url": "https://listen.radioking.com/radio/397789/stream/449770",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 5.318517449545745,
+    "lon": -4.019622802734376,
+    "language": "french"
+  },
+  {
+    "name": "EB FM",
+    "url": "https://stream.zeno.fm/oy1uo8lwuy9uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 4.723396683110023,
+    "lon": -4.3369388580322275,
+    "language": "american english,french"
+  },
+  {
+    "name": "EB FM 95 (Entrepreneurship)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s341055",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "La Voix de l'Evangile 102.5 (Religious Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s259914",
+    "codec": "mp3",
+    "bitrate": 32,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Life radio Côte d’Ivoire",
+    "url": "https://cast4.asurahosting.com/proxy/life/stream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 5.317423520565482,
+    "lon": -4.029235839843751,
+    "language": "french"
+  },
+  {
+    "name": "Radio Al Bayane 95.7 (Islamic Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s89579",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Jam",
+    "url": "https://listen.radioking.com/radio/61201/stream/98566",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 5.932220939026557,
+    "lon": -5.326652526855469,
+    "language": "french"
+  },
+  {
+    "name": "Radio Jam 99.3 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s8971",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Maria Ivory Coast",
+    "url": "https://dreamsiteradiocp6.com/proxy/rmcosta?mp=/stream",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RadioAgonshu",
+    "url": "https://stream10.vestaradio.com/RadioAgonshu",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Skyrock Abidjan",
+    "url": "https://icecast.skyrock.net/s/abidjan_aac_64k",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 5.316466378058485,
+    "lon": -4.018936157226563,
+    "language": "french"
+  },
+  {
+    "name": "Trace FM Côte d’Ivoire",
+    "url": "http://stream.trace.tv/trace_fm_ci-midfi.aac",
+    "codec": "AAC+",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  }
+]

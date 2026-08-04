@@ -1,0 +1,1562 @@
+[
+  {
+    "name": "Abba FM",
+    "url": "http://streamingecuador.net:7500/stream",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Alfa Radio",
+    "url": "https://d2oubcpl50vyui.cloudfront.net/index.m3u8",
+    "codec": "AAC",
+    "bitrate": 344,
+    "needsResolve": false,
+    "lat": -2.1414725885446217,
+    "lon": -79.91281270980836,
+    "language": "spanish"
+  },
+  {
+    "name": "Amazonas FM 92.1",
+    "url": "https://dattavolt.com/8346/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Antena Uno 90.5",
+    "url": "https://dattavolt.com/8202/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Area Deportiva 99.3 FM",
+    "url": "https://radio.uncuartocomunicacion.com:8020/stream",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Armonica FM",
+    "url": "https://armonicafm.makrodigital.com:9570/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Besame",
+    "url": "http://stream.zeno.fm/5xq756t2gchvv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "espanish"
+  },
+  {
+    "name": "Brisa Azul FM",
+    "url": "https://streaming01.radiosenlinea.com.ar/8196/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español - latinoamerica"
+  },
+  {
+    "name": "Café Radio 91.7 FM",
+    "url": "https://usa3.lhdserver.es:8139/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Católica Cuenca 98.1 FM",
+    "url": "https://radiohdstreaming.com/radio/8230/catolica",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Cañar Stereo 97.3 FM",
+    "url": "https://ecuamedios.net:10937/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Clásica FM",
+    "url": "https://radio.soft-dg.com/clasica_fm/index.m3u8",
+    "codec": "AAC",
+    "bitrate": 385,
+    "needsResolve": false,
+    "lat": -1.4906515229506307,
+    "lon": -77.99886345863344,
+    "language": "english,espanish"
+  },
+  {
+    "name": "Color Stereo 105.3 FM",
+    "url": "https://cloudstream2032.conectarhosting.com/9470/;",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Conecta 2 Radio",
+    "url": "https://radio.conecta2service.com/8060/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Contigo FM 104.9",
+    "url": "https://panel.innovatestream.pe:10852/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Contigo Fm",
+    "url": "https://panel.innovatestream.pe:10852/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español ecuador"
+  },
+  {
+    "name": "Corp. Stereo 94.1",
+    "url": "http://stream.zeno.fm/rgbmruwhtuhvv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Cuenca TV",
+    "url": "http://stream.zeno.fm/63eny6sypuhvv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Cómplice FM 99.7 FM",
+    "url": "https://dattavolt.com/8422/stream",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "DIBLU FM 88.9",
+    "url": "https://streamingecuador.net:9002/stream",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Ecua Stereo Bohemia",
+    "url": "https://stream-069.zeno.fm/xlrqrx7wuwcvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Expresiun FM 102.9",
+    "url": "https://usa3.lhdserver.es:8031/stream",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "FB Radio 105.7 FM",
+    "url": "https://streamingecuador.com:7032/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "FM MUNDO 98.1 FM",
+    "url": "https://streamingecuador.com:9810/stream",
+    "codec": "AAC+",
+    "bitrate": 40,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Fabu 105.7 FM",
+    "url": "https://alba-ec-fabu-fabuguayaquil.stream.mediatiquestream.com/chunks.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Flama Plus 104.5 FM",
+    "url": "https://streaming.viphosting.cl/8286/stream?ver=541539",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Forever Radio 92.5",
+    "url": "https://streamingecuador.net:8014/forever",
+    "codec": "AAC+",
+    "bitrate": 40,
+    "needsResolve": false,
+    "lat": -2.1612083093503776,
+    "lon": -79.88330841064455,
+    "language": "espaňol"
+  },
+  {
+    "name": "Gualaceo Stereo 92.7",
+    "url": "https://stream.zeno.fm/s74szs5uquhvv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "HCJB La Voz de los Andes 89.3 FM",
+    "url": "https://streamingecuador.net:8287/hcjb",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "JC La Bruja",
+    "url": "http://s7.yesstreaming.net:8040/stream?1655753305283",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -0.1941888786962397,
+    "lon": -78.4867572784424,
+    "language": "english,spanish"
+  },
+  {
+    "name": "Jumbo Deep Radio",
+    "url": "http://stream.zeno.fm/juhqepbmmxqvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": -0.1878374430482115,
+    "lon": -78.47233772277833,
+    "language": "english,spanish"
+  },
+  {
+    "name": "LV Radio Satelital FM",
+    "url": "http://stream.zeno.fm/ech627b6u18uv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "La 961 - Suprema estacion",
+    "url": "https://dattavolt.com/8150/stream",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": -2.9063705538689497,
+    "lon": -79.0164962410927,
+    "language": "español ecuador"
+  },
+  {
+    "name": "La Coquetisima Online",
+    "url": "http://stream.zeno.fm/529kmm15gv8uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 0.22912679185597204,
+    "lon": -78.05666509214664,
+    "language": "spanish"
+  },
+  {
+    "name": "La Dinastia FM",
+    "url": "http://stream.zeno.fm/204egk2n5ehvv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "espanish"
+  },
+  {
+    "name": "La M3G4",
+    "url": "http://gradio.net:8000/lam3g4",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "La Main Street (Radios Ecuador Online)",
+    "url": "https://radiolatina.info/9930/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "La Nueva Unica",
+    "url": "https://streamingecuador.net:8035/stream",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": -0.3927581544837045,
+    "lon": -79.45312500000001,
+    "language": ""
+  },
+  {
+    "name": "La Radio Redonda 96.9 Quito",
+    "url": "https://laredondafm.makrodigital.com/stream/radiolaredondaquito",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": -0.22604312317387623,
+    "lon": -78.51036071777345,
+    "language": "spanish"
+  },
+  {
+    "name": "La Radio Redonda Guayaquil",
+    "url": "https://laredondafm.makrodigital.com:9550/stream",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "La Radio Redonda Quito - 96.9 FM",
+    "url": "http://laredondafm.makrodigital.com:9560/stream",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "La Voz de los Caras 95.3 FM",
+    "url": "http://streaming.hdserver.biz:9368/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "La Voz del Tomebamba 1070 AM",
+    "url": "https://streamingecuador.net:8074/lavozdeltomebamba",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": -2.889798373839243,
+    "lon": -79.00358676910402,
+    "language": "español ecuador,español internacional,spanish"
+  },
+  {
+    "name": "La tukka Ec",
+    "url": "http://grupomundodigital.com:8673/live",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "La99Radio",
+    "url": "https://cast10.plugstreaming.com/stream/la99fm",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Los 40 Ecuador",
+    "url": "https://streamingecuador.com:7051/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -0.22927327360954372,
+    "lon": -78.51864337921144,
+    "language": "español internacional"
+  },
+  {
+    "name": "Mega St☆r",
+    "url": "http://stream.zeno.fm/4xcrps37zs8uv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Mega St☆r Ecuador",
+    "url": "http://stream.zeno.fm/kc5hfz4aqs8uv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Modelo 97.7 FM",
+    "url": "https://usa3.lhdserver.es:8197/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -0.9497869757840856,
+    "lon": -80.72775632143022,
+    "language": "español ecuador,spanish"
+  },
+  {
+    "name": "Música para ver llover",
+    "url": "https://stream-152.zeno.fm/8ekvqc5urfhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4ZWt2cWM1dXJmaHZ2IiwiaG9zdCI6InN0cmVhbS0xNTIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiT1pkTWNRZ05TYW1rYk42dExtcUpxdyIsImlhdCI6MTc2ODQ1ODc2NiwiZXhwIjoxNzY4NDU4ODI2fQ.sYlUwUMZL7UuxghtqNrBYoR3wTqxZQpukKZ1UB6-ma4",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": -0.2792138358262728,
+    "lon": -78.52863805464588,
+    "language": "castellano. español"
+  },
+  {
+    "name": "No es merengue es una merengazo",
+    "url": "https://stream.zeno.fm/twem5wa0k0hvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": -0.2272785641245884,
+    "lon": -78.43333560267638,
+    "language": "español internacional"
+  },
+  {
+    "name": "PM RADIO Quevedo",
+    "url": "https://as100.globalhost1.com/8010/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Pa ti Pati cumbia",
+    "url": "https://stream.zeno.fm/7cm28ptuhxhvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": -0.3161681416410852,
+    "lon": -78.40007309223127,
+    "language": "español internacional"
+  },
+  {
+    "name": "Play FM 95.3",
+    "url": "https://streamingecuador.net:8008/radioplayfm",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Pon salsa y todo norte",
+    "url": "https://stream.zeno.fm/eft72w1vrnhvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": -0.4260285987778071,
+    "lon": -78.55010129674322,
+    "language": "español internacional"
+  },
+  {
+    "name": "R.S.N. La Indestructible",
+    "url": "https://stream.zeno.fm/wahxwkbdaoduv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español ecuador"
+  },
+  {
+    "name": "RADIO ANTENA SUR 89.5FM (LA SEñAL DE ORO DESDE PONCE ENRIQUEZ(",
+    "url": "https://grupomundodigital.com:8504/antenashd",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "RADIO ECOS DE RUMIÑAHUI 88.9 FM",
+    "url": "https://streamingecuador.com:9040/stream",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "RADIO IMPACTO 107.9",
+    "url": "https://cast.uncuartocomunicacion.com/listen/radioimpacto/live",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO LA UNIKA 92.3FM",
+    "url": "https://stream-150.zeno.fm/rpcvrn769e9uv?zs=cw5SUc59ROa91dNEStrAww",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO MARIA ECUADOR",
+    "url": "http://dreamsiteradiocp4.com:8010/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO VALLE FM",
+    "url": "http://stream.zeno.fm/veu31437sm0uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO VALLE FM",
+    "url": "https://stream-152.zeno.fm/veu31437sm0uv?zs=XGDQvsPmRX-Q-AFSbnseBg",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RCN CATOLICA NACIONAL",
+    "url": "https://dattavolt.com/8358/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "RCS.  Manabi Stereo",
+    "url": "http://stream.zeno.fm/esda9vaw438uv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "RCS. Chimborazo Stereo",
+    "url": "http://stream.zeno.fm/epr9867v438uv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "RCS. El Oro Stereo",
+    "url": "http://stream.zeno.fm/v4bvybbw438uv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "RCS. Guayas Stereo",
+    "url": "http://stream.zeno.fm/75b5ah2v438uv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "RCS. Imbabura Stereo",
+    "url": "http://stream.zeno.fm/kewgx19v438uv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "RCS. Morona Santiago Stereo",
+    "url": "http://stream.zeno.fm/2r6uvhcw438uv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "RCS. Noticias",
+    "url": "http://stream.zeno.fm/mz04b1exz08uv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "espanish"
+  },
+  {
+    "name": "RCS. Orellana Stereo",
+    "url": "http://stream.zeno.fm/pb4351gw438uv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "espanish"
+  },
+  {
+    "name": "RCS. Quito Stereo",
+    "url": "http://stream.zeno.fm/p6dy80yt6s8uv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "RNC La Mundialista 103.3 FM (AAC)",
+    "url": "https://streamingecuador.net:7008/radiornc",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "RTP 96.5 FM",
+    "url": "https://streamingecuador.net:8167/radiotropicana",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RVT Satelital 91.5 FM",
+    "url": "http://209.208.111.122:8000/rvtpeninsula",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio 11Q 104.9 FM",
+    "url": "https://streamingecuador.net:8012/radio11q",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio 27 Electro",
+    "url": "https://cast1.prosandoval.com/listen/radio_27_network/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Activa",
+    "url": "https://dattavolt.com/8394/stream",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español ecuador"
+  },
+  {
+    "name": "Radio Alegriafm",
+    "url": "https://cloudstream2032.conectarhosting.com/9376/;",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Amiga",
+    "url": "http://190.57.161.179:8000/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio América 104.5 FM",
+    "url": "https://streamingecuador.com:7030/stream?1657848016283",
+    "codec": "AAC+",
+    "bitrate": 40,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español internacional"
+  },
+  {
+    "name": "Radio Andina",
+    "url": "https://grupomundodigital.com:8580/stream",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -1.6843276922289687,
+    "lon": -78.6584762390703,
+    "language": "español internacional"
+  },
+  {
+    "name": "Radio Antena 3 91.7 FM",
+    "url": "https://streamingecuador.net:9368/radioantena3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Armonía 100.1 FM",
+    "url": "https://radiohdstreaming.com/radio/8040/armonia",
+    "codec": "AAC+",
+    "bitrate": 56,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Atenas",
+    "url": "http://stream.zeno.fm/63feuw9ezs8uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Aventura 107.1 FM",
+    "url": "http://streaming.hdserver.biz:9424/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Cadena Stereo 107.1",
+    "url": "http://stream.zeno.fm/10g8v80ta2zuv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Cadena Stereo Country",
+    "url": "http://stream.zeno.fm/wyr2sxuito5vv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Canela 106.5 FM",
+    "url": "https://canelaradio.makrodigital.com/stream/canelaradiotungurahua",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Canela Azuay 107.3 FM",
+    "url": "https://canelaradio.makrodigital.com/stream/canelaradiocuenca",
+    "codec": "AAC+",
+    "bitrate": 112,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Canela Chimborazo 94.5 FM",
+    "url": "https://canelaradio.makrodigital.com/stream/canelaradiochimborazo",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Canela El Oro 100.7 FM",
+    "url": "https://canelaradio.makrodigital.com/stream/canelaradiomachala",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Canela Guayas",
+    "url": "https://canelaradio.makrodigital.com/stream/canelaradioguayaquil",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": -2.162631548566959,
+    "lon": -79.88631248474123,
+    "language": "english,spanish"
+  },
+  {
+    "name": "Radio Canela Imbabura 92.7 FM",
+    "url": "https://canelaradio.makrodigital.com/stream/canelaradioibarra",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Canela Manabí 102.5 FM",
+    "url": "https://canelaradio.makrodigital.com/stream/canelaradiomanabi",
+    "codec": "AAC+",
+    "bitrate": 112,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Canela Morona Santiago 91.7 FM",
+    "url": "https://canelaradio.makrodigital.com/stream/canelaradiomacas",
+    "codec": "AAC",
+    "bitrate": 112,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "quechua,spanish"
+  },
+  {
+    "name": "Radio Canela Napo 106.1 FM",
+    "url": "https://canelaradio.makrodigital.com/stream/canelaradionapo",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Canela Pichincha",
+    "url": "https://canelaradio.makrodigital.com:9280/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -0.206636934558138,
+    "lon": -78.49868774414064,
+    "language": ""
+  },
+  {
+    "name": "Radio Canela Pichincha",
+    "url": "https://ecuadorstreaming.net:9280/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Canela Pichincha 106.5 FM",
+    "url": "https://canelaradio.makrodigital.com/stream/canelaradioquito",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -0.20173126115347484,
+    "lon": -78.48477464000352,
+    "language": "español - latinoamerica,spanish"
+  },
+  {
+    "name": "Radio Coqueta 96.5 FM",
+    "url": "http://cloudstream2032.conectarhosting.com:8214/;",
+    "codec": "AAC+",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Corazón de Jesús FM",
+    "url": "http://stream-178.zeno.fm/cu68600hswzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjdTY4NjAwaHN3enV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMG85NmVyUENUdmFqUkJ1Zl8wUGVqZyIsImlhdCI6MTc2ODQzOTE5MywiZXhwIjoxNzY4NDM5MjUzfQ.gmvxmPaD4ZsSmg-jozFSjyiluG11qN_EKFqjFYMHn7I",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio DJ's Retro",
+    "url": "https://www.streamingrv.com:8000/stream",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Elite 99.7 FM",
+    "url": "https://streamingecuador.net:8135/radioelite",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Eres",
+    "url": "https://sv70.ecuaradiotv.net:8000/eres933",
+    "codec": "AAC",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Evolución",
+    "url": "https://stream.gradio.net/evolucion",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": -0.1739127182669537,
+    "lon": -78.48708249722695,
+    "language": ""
+  },
+  {
+    "name": "Radio Gaviota 105.1 FM",
+    "url": "https://streamingecuador.net:9000/radiogaviota",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio HCJB German (32kbps)",
+    "url": "http://segenswelle.de:8000/hcjb-aac",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "german"
+  },
+  {
+    "name": "Radio La Metro Stereo",
+    "url": "https://alba-ec-lametro-lametro.stream.mediatiquestream.com/chunks.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": -0.2111773472728167,
+    "lon": -78.50543240669383,
+    "language": "english,español - latinoamerica"
+  },
+  {
+    "name": "Radio La Otra - 91.3 FM",
+    "url": "https://laotrafm.makrodigital.com/stream/laotrafmquito",
+    "codec": "AAC",
+    "bitrate": 112,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio La Red 102.1 FM",
+    "url": "https://icecast.radiolared.com.ec/radiolared",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Magica 87.7 (Ecuador)",
+    "url": "http://usa10.fastcast4u.com:1680/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -2.160728367858905,
+    "lon": -79.84278023242952,
+    "language": "english"
+  },
+  {
+    "name": "Radio Makro Digital",
+    "url": "http://streamingecuador.net:7000/stream",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,spanish"
+  },
+  {
+    "name": "Radio Marejada 100.9 FM",
+    "url": "http://streaming.hdserver.biz:9330/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Maria (Cuenca)",
+    "url": "http://radioserver11.profesionalhosting.com:9069/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Mix 105.7 FM",
+    "url": "https://streaming.ecuaradios.com/radiomix/stream",
+    "codec": "AAC+",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Mokawa 93.9 FM",
+    "url": "http://stream.hdserver.biz:9474/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Mágica 87.7 (Ecuador)",
+    "url": "https://usa10.fastcast4u.com:1680/;?type=http&nocache=1683305161",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -2.158905761441751,
+    "lon": -79.84196484088899,
+    "language": "english"
+  },
+  {
+    "name": "Radio Mágica 87.7 (Ecuador)",
+    "url": "https://usa10.fastcast4u.com:1680/;?type=http&nocache=1683302387",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -2.158972601550252,
+    "lon": -79.84222769737245,
+    "language": ""
+  },
+  {
+    "name": "Radio Nexo",
+    "url": "http://stream.zeno.fm/xvyq4g94fchvv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Nuevo Tiempo 92.1 FM",
+    "url": "http://stream.live.novotempo.com/radio/smil:rntQuitoEC.smil/playlist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Olímpica 96.3 FM",
+    "url": "http://stream.hdserver.biz:9320/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Onda Positiva 94.1 FM",
+    "url": "https://streamingecuador.net:8011/radioondapositiva",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Pichincha",
+    "url": "https://icecast.radiopichincha.com/radiopichincha",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "esapa"
+  },
+  {
+    "name": "Radio Platinum Fm",
+    "url": "https://streamingecuador.com:8160/radioplatinum",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": -0.1957956019765508,
+    "lon": -78.48037093877794,
+    "language": "español internacional,spanish"
+  },
+  {
+    "name": "Radio Popular 1230 AM",
+    "url": "http://stream-50.zeno.fm/py6f6znfntzuv?zs=noiOyzMaTqWxs_wNcfkWgg&1679303614411",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español ecuador,español internacional,spanish"
+  },
+  {
+    "name": "Radio Quito 760 AM",
+    "url": "https://streamingecuador.net:8332/radioquito?1679294453918",
+    "codec": "AAC",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español ecuador,español internacional,spanish"
+  },
+  {
+    "name": "Radio Rumba",
+    "url": "https://streamingecuador.net:8078/radiorumbanetwork",
+    "codec": "AAC+",
+    "bitrate": 40,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Rumba 107.3 FM",
+    "url": "https://streamingecuador.net:8078/RadioRumba",
+    "codec": "AAC+",
+    "bitrate": 40,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Samantha 89.3 FM",
+    "url": "http://5.135.183.124:8153/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Son De Manta 93.3 FM",
+    "url": "http://grupomundodigital.com:8649/live",
+    "codec": "AAC",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Sucumbíos 105.3 FM",
+    "url": "http://aler.org:8000/radiosucumbios.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Super Sol - 96.3 FM",
+    "url": "https://streamingecuador.com:8002/radiosupersol",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Tambo Mix",
+    "url": "https://stream.zeno.fm/gey7t9er11zuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Turbo 106.9 FM",
+    "url": "https://streamingecuador.com/stream/radioturbogye",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Ultimito Mix",
+    "url": "https://usa4.fastcast4u.com/proxy/rwrw1?mp=/1",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": -0.958855691292497,
+    "lon": -80.70719718933105,
+    "language": ""
+  },
+  {
+    "name": "Radio Xtrema FM",
+    "url": "https://s1.raudiostream.com:8004/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -1.2429681540895334,
+    "lon": -78.62649768590929,
+    "language": "english,spanish"
+  },
+  {
+    "name": "Radio Zaracay 100.5 FM",
+    "url": "http://stream-36.zeno.fm/as3xhhc0ts8uv?_=1",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español internacional"
+  },
+  {
+    "name": "Radio11Q 104.9 FM",
+    "url": "https://streamingecuador.net:8012/stream",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Retro Music by Pelambre Records",
+    "url": "http://streamingecuador.net:9300/stream",
+    "codec": "AAC",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Rockeando con Reguetón",
+    "url": "https://stream-155.zeno.fm/ck2uqw2dgphvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjazJ1cXcyZGdwaHZ2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTnRYXzZqZktSUnk3RW5lQW82WmNhQSIsImlhdCI6MTc2ODQ1MTkyNSwiZXhwIjoxNzY4NDUxOTg1fQ.dVXuuUb5VsrwWPKN8srb0yn2TrXlB0Dgs5VpTbFgSJo",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": -0.2582401979633686,
+    "lon": -78.3973472796601,
+    "language": "español - latinoamerica"
+  },
+  {
+    "name": "Rosate con bachata",
+    "url": "https://stream-151.zeno.fm/uagzy1yc5uhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1YWd6eTF5YzV1aHZ2IiwiaG9zdCI6InN0cmVhbS0xNTEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoibFMtSk9KZHpTaGlsN1c3QmhNTVpOdyIsImlhdCI6MTc2ODQzODQxMiwiZXhwIjoxNzY4NDM4NDcyfQ.We9RywzfrUyatDfp5hrbolPImoCJCU5s8FKdi_jbPpg",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": -0.36910159398715847,
+    "lon": -78.49830921887441,
+    "language": "español mexico"
+  },
+  {
+    "name": "San Fernando FM",
+    "url": "http://stream.zeno.fm/gqn5xf0fd18uv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "espanish"
+  },
+  {
+    "name": "TURBO FM - 93.3 FM TUNGURAHUA",
+    "url": "https://streamingecuador.com/stream/radioturboambato",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Tambo Stereo FM",
+    "url": "http://stream.zeno.fm/uqwrvvpvhm0uv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Tu Voz Stereo",
+    "url": "http://stream.zeno.fm/zy7aqxp4q98uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "espanish"
+  },
+  {
+    "name": "Turbo Imparable",
+    "url": "http://sonic.portalfoxmix.cl:8394/stream/;",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Virgen de Guadalupe Radio",
+    "url": "http://stream.zeno.fm/9f0rk1re508uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "espanish"
+  },
+  {
+    "name": "area deportiva",
+    "url": "https://cast.uncuartocomunicacion.com/listen/areadeportivafm/live",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español ecuador"
+  },
+  {
+    "name": "hot 106",
+    "url": "https://vmi2217864.contaboserver.net:8000/live",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español mexico"
+  },
+  {
+    "name": "http://streamingecuador.com:7048/stream",
+    "url": "http://streamingecuador.com:7048/stream",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "la chismosa",
+    "url": "https://sp.dattavolt.com/8052/stream",
+    "codec": "AAC+",
+    "bitrate": 40,
+    "needsResolve": false,
+    "lat": -2.793814361043002,
+    "lon": -78.84887695312501,
+    "language": "spanish"
+  },
+  {
+    "name": "la voz del Tomebamba",
+    "url": "https://streamingecuador.com:8074/lavozdeltomebamba",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": -2.9221942904558817,
+    "lon": -78.93676757812501,
+    "language": "spanish"
+  },
+  {
+    "name": "machdeportes",
+    "url": "https://ss.ecuastreamhd.com:8186/stream",
+    "codec": "AAC",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": -1.1249320105321443,
+    "lon": -78.75000000000001,
+    "language": "spanish"
+  },
+  {
+    "name": "super 949",
+    "url": "https://dattavolt.com/8028/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": -2.8179550211350866,
+    "lon": -78.99719238281251,
+    "language": "spanish"
+  }
+]

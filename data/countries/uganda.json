@@ -1,0 +1,1772 @@
+[
+  {
+    "name": "101.8 Radio Maria",
+    "url": "http://dreamsiteradiocp.com:8052/stream",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "lumasaba luganda english"
+  },
+  {
+    "name": "104.1 Favour FM - Gulu - 104.1 FM",
+    "url": "http://us5new.listen2myradio.com:2199/listen.php?port=8138&type=ice&mount=stream",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,luganda,swahili"
+  },
+  {
+    "name": "104.1 Power fm | (Christian Contemporary)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s166875",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "104.4 Kaboozi Fm",
+    "url": "http://162.244.80.52:8732/;stream.mp3",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "luganda"
+  },
+  {
+    "name": "106.1 Next Radio",
+    "url": "https://stream-154.zeno.fm/lbca7zintcnuv?zs=P9UBEqoSSr69riqZniMYMw",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "luganda"
+  },
+  {
+    "name": "107.3 BBC Radio Uganda",
+    "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_west_africa",
+    "codec": "MP3",
+    "bitrate": 56,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "107.9 Pearl Fm",
+    "url": "https://dc4.serverse.com/proxy/pearlfm/stream/1/",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "luganda"
+  },
+  {
+    "name": "107.9 Pearl Fm",
+    "url": "https://dc4.serverse.com/proxy/pearlfm/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "107.9 pearl FM Uganda | (African Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s273287",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "87.9 Kaboozi fm",
+    "url": "http://162.244.80.52:8732/stream.mp3",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "88.1 Centenary Fm",
+    "url": "https://c24.radioboss.fm:18185/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "luganda"
+  },
+  {
+    "name": "88.2 Sanyu FM - 88.2 FM (MP3)",
+    "url": "http://s44.myradiostream.com/8138/listen.mp3",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,luganda"
+  },
+  {
+    "name": "88.2 Sanyu Fm",
+    "url": "http://s44.myradiostream.com:8138/stream",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "88.6 Kiira Fm",
+    "url": "http://stream.zeno.fm/iydttapi8rguv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,luganda,lusoga"
+  },
+  {
+    "name": "89.5 Klas sports radio Jamaica",
+    "url": "http://ice.audionow.com/6283KLASSportsRadioopus.ogg",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "89.9 Spice FM Hoima | (African Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s288857",
+    "codec": "mp3",
+    "bitrate": 48,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "90.0 Kingston fm Jamaica",
+    "url": "http://ice.audionow.com/4692NationwideNewsNetworkLtdopus.ogg",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "90.1 Discovery fm Jamaica",
+    "url": "http://usa14.fastcast4u.com:5192/;",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "90.6 Busoga One",
+    "url": "https://stream.zeno.fm/xna2aad7gc9uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "lusoga"
+  },
+  {
+    "name": "91. 3 Capital fm",
+    "url": "http://5229.cloudrad.io:8316/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "91.2 Capital FM",
+    "url": "https://capitalfm.cloudrad.io/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "91.2 Crooze FM",
+    "url": "https://stream-159.zeno.fm/vyxwdk08apxtv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "91.3 Lift Worship US",
+    "url": "https://emg.streamguys1.com/lift-website",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "91.4 Nup Radio | (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s339413",
+    "codec": "mp3",
+    "bitrate": 160,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "91.6 Christ Fm",
+    "url": "http://5.135.154.69:15664/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "94.0 Jamaica fm",
+    "url": "https://stream.zeno.fm/cub84trbgy5tv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "94.8 XFM Kampala",
+    "url": "http://stream.hydeinnovations.com:2020/stream/xfm/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "95.0 Fame fm Jamaica",
+    "url": "https://stream.zenolive.com/d5mn12bchkeuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "95.5 Radio Buddu",
+    "url": "https://dc4.serverse.com/proxy/ccmxrgub/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "luganda"
+  },
+  {
+    "name": "96.3 Beat Fm",
+    "url": "http://5230.cloudrad.io:8354/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "97 Radio City",
+    "url": "http://radioone.loftuganda.tech/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "97.0 Radio City",
+    "url": "https://cast1.asurahosting.com/proxy/richar16/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "97fm Radiocity 97.0 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s166644",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "98.1 Isaiah FM Trinidad",
+    "url": "https://ice66.securenetsystems.net/FFBN?playSessionID=8D29A2B7-D966-0B14-AFCD7A340AFA6C15",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "98.7 MCF Radio",
+    "url": "http://streams.radio.co/s79fbbb432/listen",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "lumasaba luganda english"
+  },
+  {
+    "name": "98.7 Mutundwe Christian Fellowship",
+    "url": "https://streams.radio.co/s79fbbb432/listen",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "luganda"
+  },
+  {
+    "name": "99.5 Global Fm Bahamas",
+    "url": "http://ice64.securenetsystems.net/GLOBALBS",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Akaboozi 87.9 FM",
+    "url": "http://162.244.80.52:8732/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Akaboozi FM 87.9 (News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s162693",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "BEAT FM 96.3 FM ,UGANDA | (Music News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s255517",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "BIBLE 24/7",
+    "url": "http://c28.radioboss.fm:8335/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "BLOCK FM 103.2",
+    "url": "https://stream.zeno.fm/gxjhbloltwluv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "BLOCK FM 103.2 | (World Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s336810",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "BUSOGA ROYAL RADIO",
+    "url": "https://cast5.my-control-panel.com/proxy/busogaroyalradio/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "luganda"
+  },
+  {
+    "name": "Beat FM - Kampala - 96.3 FM (MP3)",
+    "url": "http://5230.cloudrad.io:8354/live",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,luganda"
+  },
+  {
+    "name": "Bible Indepth Radio",
+    "url": "https://stream.radiojar.com/n6c576nrga0uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "afrikaans"
+  },
+  {
+    "name": "Bible Trivia",
+    "url": "https://streamer.radio.co/se1aece429/listen",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Bugwere Fm",
+    "url": "https://stream-174.zeno.fm/jddn0e0z9f0uv?zt",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "lugwere"
+  },
+  {
+    "name": "Buyinza Fm",
+    "url": "http://stream.zeno.fm/wcancipcbrevv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "luganda"
+  },
+  {
+    "name": "CAPITAL FM,91.3 FM ,UGANDA 88.7 (Music News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s255520",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "CAPITAL FM,91.3 FM ,UGANDA 90.9 (Music News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s255519",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "CAPITAL FM,91.3 FM ,UGANDA | (Music News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s255518",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "CBN Christian",
+    "url": "http://cbnradio.streamguys1.com/news-128K?app=cbnplayer",
+    "codec": "MP3",
+    "bitrate": 56,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "CBN Christmas Channel",
+    "url": "https://streams.cbnradio.com/christmas-128K?%20Title1=CBN%20Christmas",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "CBS 89.2 FM | (African Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s68175",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "CBS News",
+    "url": "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
+    "codec": "AAC",
+    "bitrate": 273,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "CGTN Radio",
+    "url": "http://sk.cri.cn/am846.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english uk"
+  },
+  {
+    "name": "CHENNAI LIVE",
+    "url": "http://216.55.178.11:8008/",
+    "codec": "MP3",
+    "bitrate": 24,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indian"
+  },
+  {
+    "name": "CHRIST FM",
+    "url": "http://s39.myradiostream.com/:15664/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "luganda english"
+  },
+  {
+    "name": "Capital FM - 91.3 FM (MP3)",
+    "url": "http://capitalfm.cloudrad.io/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Capital FM UK",
+    "url": "http://media-ice.musicradio.com/CapitalLiverpoolMP3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Chosen Radio Uganda (MP3)",
+    "url": "http://stream.zeno.fm/6uxwuag3srhvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Christ Love Radio (MP3)",
+    "url": "http://stream.zeno.fm/orioba9siustv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Christ Radio - Lira (MP3)",
+    "url": "http://stream.zeno.fm/zupkzgrj4dauv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Christian life radio",
+    "url": "https://ice64.securenetsystems.net/CLR1MP3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Christian music channel",
+    "url": "http://streaming.live365.com/a08828",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Christmas choir",
+    "url": "https://christmas-chor-high.rautemusik.fm/?ref=radiobrowser%20Find%20more%20stations%20in%20app%20:%20https://play.google.com/store/apps/details?id=com.atf.radiogalaxy",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Church Radio (MP3)",
+    "url": "http://stream.zeno.fm/k0weys53f78uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Cloud Radio Uganda - Kampala (MP3)",
+    "url": "http://stream.zeno.fm/eq0vu571ekhvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,luganda"
+  },
+  {
+    "name": "Connect Uganda Radio (African Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s87757",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Dema Gospel Promotions (MP3)",
+    "url": "http://stream.zeno.fm/m96foqqk7bxuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,luganda"
+  },
+  {
+    "name": "Dove Fm",
+    "url": "https://ice64.securenetsystems.net/DOVEMAIN",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "EJAZZ Radio",
+    "url": "https://eu1.reliastream.com/proxy/ejazzug?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "EJAZZ Xtra",
+    "url": "https://c32.radioboss.fm:18320/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 0.3198142133654578,
+    "lon": 32.572746276855476,
+    "language": "english,luganda"
+  },
+  {
+    "name": "EKO FM 91.2 (African Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s355355",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "EMC Radio - Kampala (MP3)",
+    "url": "http://c22.radioboss.fm:18040/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,luganda,swahili"
+  },
+  {
+    "name": "East Africa Radio",
+    "url": "https://eatv.radioca.st/;",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "british english"
+  },
+  {
+    "name": "Enjiri Radio",
+    "url": "http://stream.zeno.fm/xdb8nazajqcvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,luganda,swahili"
+  },
+  {
+    "name": "Enjiri Radio (Religious Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s340920",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Exodus Comfort Radio",
+    "url": "http://stream.zeno.fm/k2zma0qewtjvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "luganda"
+  },
+  {
+    "name": "FAITH RADIO",
+    "url": "https://nwm.streamguys1.com/ktis-am",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Galaxy FM 100.2 FM ZZinna!",
+    "url": "https://stream.zeno.fm/ahtmyttw5mftv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "africa"
+  },
+  {
+    "name": "Galaxy FM 100.2 | (African Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s191194",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Glory FM Maganjo - Kampala (MP3)",
+    "url": "http://stream.zeno.fm/bn7dbg8w0nhvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,luganda,swahili"
+  },
+  {
+    "name": "Good News Radio",
+    "url": "http://node-01.zeno.fm/km203bn6qnruv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Gospel Kingz (MP3)",
+    "url": "http://stream.zeno.fm/vstzctms6rhvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,luganda,swahili"
+  },
+  {
+    "name": "Gospel Radio East Africa",
+    "url": "https://c32.radioboss.fm:18451/stream?1641237600584",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Great Hits Manchester",
+    "url": "https://listen-nation.sharp-stream.com/hull.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "luganda"
+  },
+  {
+    "name": "Heart Xmas",
+    "url": "https://media-ssl.musicradio.com/HeartXmas",
+    "codec": "AAC",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Heathafro FM",
+    "url": "http://stream.zeno.fm/rdf0qac95p8uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Heavenly Altar Church Radio - Kampala (MP3)",
+    "url": "http://stream.zeno.fm/6s8719ctbphvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,luganda,swahili"
+  },
+  {
+    "name": "HomeBoyz Radio Uganda 106.2 (Easy Listening)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s343191",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "ISLANDS FM",
+    "url": "http://radio.canstream.co.uk:8040/live.mp3",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "JOY HITS",
+    "url": "http://joyhits.online/joyhitshq.mp3",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Jesus radio",
+    "url": "https://streaming.radio.co/s1dc8ab02e/listen",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Jewish Music",
+    "url": "https://stream.jewishmusicstream.com:8000/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Jubilee Radio - Fort Portal - 105.6 FM (MP3)",
+    "url": "http://stream.zeno.fm/f3y3up2k07zuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Jubilee Radio 105.6",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s332801",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "KAHUNGE RADIO 90.1 (Public Radio)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s339310",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "KAHUNGE RADIO FM 90 (Gospel)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s341886",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "KFM - Kampala - 93.3 FM (MP3)",
+    "url": "http://radio.kfm.co.ug:8000/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "KIIS 100.9 - Kampala - 100.9 FM (MP3)",
+    "url": "http://14867.cloudrad.io:9224/live",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "KIIS 100.9 | (R&B Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s241130",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Kyoga Veritas Radio - Soroti - 91.5 FM (MP3)",
+    "url": "http://stream.zeno.fm/hyyzuphrsg0uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "ateso,english,kupsabiny,ngakarimojong"
+  },
+  {
+    "name": "LBC News",
+    "url": "http://media-ice.musicradio.com/LBCUK",
+    "codec": "AAC",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Mega 100 FM | (Sports)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s343876",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Mello fm Jamaica",
+    "url": "http://peridot.streamguys.com:5660/live",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Music for kids",
+    "url": "http://air.radioart.com/fMusic_for_kids.mp3",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "My Radio",
+    "url": "http://myradioug.duckdns.org:8000/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "NBC NEWS",
+    "url": "http://stream.revma.ihrhls.com/zc6043",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "NRG Radio Uganda",
+    "url": "https://dc4.serverse.com/proxy/nrgugstream/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Nakawa Online Radio - Kampala (MP3)",
+    "url": "http://stream.zeno.fm/6hs5suuvqfhvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,luganda,swahili"
+  },
+  {
+    "name": "Namaste Radio",
+    "url": "https://node-25.zeno.fm/cqak4ap7by8uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "indian"
+  },
+  {
+    "name": "Nup Radio 91.4 | (Politics)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s338749",
+    "codec": "mp3",
+    "bitrate": 112,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Open Gate FM 103.2",
+    "url": "https://139.162.195.139:8010/radio.mp3?1722393699669",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "PRIME RADIO KAMPALA 91.9 (Variety)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s199089",
+    "codec": "mp3",
+    "bitrate": 32,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Power 104.1 FM | (Christian Contemporary)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s339972",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Prayer Alter Radio",
+    "url": "https://node-33.zeno.fm/1gfmyttkephvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "luganda"
+  },
+  {
+    "name": "Prayer Tower Radio - Kampala (MP3)",
+    "url": "http://stream.zeno.fm/ymapb78yznhvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,luganda,swahili"
+  },
+  {
+    "name": "Progressive Radio Network",
+    "url": "http://216.55.165.146:8000/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Promise Radio UG (MP3)",
+    "url": "http://stream.zeno.fm/hkzgeqlcjoxuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,luganda,swahili"
+  },
+  {
+    "name": "RFI Kiswahili",
+    "url": "https://rfienswahili64k.ice.infomaniak.ch/rfienswahili-64.mp3",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "british english"
+  },
+  {
+    "name": "RX Radio",
+    "url": "https://c14.radioboss.fm:18223/stream?1615807421100=",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Radio Buddu",
+    "url": "https://dc4.serverse.com/proxy/ccmxrgub/stream?",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio One",
+    "url": "http://162.244.80.52:8740/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Radio One FM 90 - 90.0 FM (MP3)",
+    "url": "https://radioone.loftuganda.tech/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Radio Pacis",
+    "url": "http://148.251.43.231:8308/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Pacis 90.9",
+    "url": "https://radiopacisuganda.radioca.st/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Pacis 94.5",
+    "url": "http://136.243.44.41:8182/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Sapientia 94.4 (World Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s114921",
+    "codec": "mp3",
+    "bitrate": 48,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Simba 97.3 (African Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s18569",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Sinza (MP3)",
+    "url": "http://stream.zeno.fm/raoopfak6k2vv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,luganda,swahili"
+  },
+  {
+    "name": "Radio Yoo (MP3)",
+    "url": "http://stream.zeno.fm/v73tc5gwaphvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,luganda"
+  },
+  {
+    "name": "Rafa  radio music",
+    "url": "https://gains.reviveradio.net/proxy/rafaradio?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Rafa Bible radio",
+    "url": "https://gains.reviveradio.net/proxy/rafabibleradioeng?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Rock FM Uganda - Kampala (MP3)",
+    "url": "http://titan.shoutca.st:8341/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,luganda"
+  },
+  {
+    "name": "SANCTUARY FM",
+    "url": "http://stream.zeno.fm/vyx334hsbphvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "luganda"
+  },
+  {
+    "name": "SBN",
+    "url": "https://live.radio.sonlife.olympusatmedia.com/index.m3u8",
+    "codec": "AAC,H.264",
+    "bitrate": 717,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "SDA Missions radio",
+    "url": "https://stream-57.zeno.fm/mkkr2bcgkf9uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "SKYNET FM",
+    "url": "https://stream-44.zeno.fm/1uhqawtfk5zuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "luganda"
+  },
+  {
+    "name": "Scripture for America",
+    "url": "http://67.225.254.37:5530/",
+    "codec": "MP3",
+    "bitrate": 56,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Shalom Radio Jinja (MP3)",
+    "url": "http://stream.zeno.fm/rvnov6bmdhsvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Sky News",
+    "url": "https://video.news.sky.com/snr/news/snrnews.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english uk"
+  },
+  {
+    "name": "Smooth",
+    "url": "http://media-the.musicradio.com/SmoothLondonMP3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Smooth Radio",
+    "url": "http://media-the.musicradio.com/SmoothEastMids",
+    "codec": "AAC",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Smooth country",
+    "url": "https://media-ssl.musicradio.com/SmoothCountry",
+    "codec": "AAC",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Snow Wave 103.7 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s346312",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Sonlife Broadcasting Network",
+    "url": "https://storage.sardius.media/archives/Ea867F3e1F56B06/events/site_5F46D0A41C/playlist-eng.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Sound City",
+    "url": "http://pureplay.cdnstream1.com/6038_128.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRu",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Sport Live",
+    "url": "https://radio.talksport.com/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "StreamUG Radio",
+    "url": "https://c22.radioboss.fm:8814/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Street Deejays Radio - Mbarara (MP3)",
+    "url": "http://stream.zeno.fm/nbwdnxz7na0uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "TALK RADIO",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TALK_RADIO_EUROPE.mp3",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "TALKRADIO",
+    "url": "https://radio.talkradio.co.uk/stream",
+    "codec": "AAC",
+    "bitrate": 63,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "TALKSPORT",
+    "url": "http://radio.talksport.com/stream2?awparams=platform:ts-web&amsparams=playerid:ts-web;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Talksport",
+    "url": "https://radio.talksport.com/stream?aw_0_1st.platform=website&aw_0_1st.playerid=wireless-website&aw_0_req.gdpr=true&aw_0_awz.listenerid=#ADVERTISINGID&_=383957",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Teshuvah radio",
+    "url": "https://stream.zeno.fm/3qpkku63z5quv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Times Radio",
+    "url": "http://timesradio.wireless.radio/stream",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Top Cristiano Dominican",
+    "url": "https://radio.dominiserver.com/proxy/topcristianoradio?mp=/stream",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "latino"
+  },
+  {
+    "name": "Trace Urban",
+    "url": "http://hydra.cdnstream.com/1531_backup",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Turn Radio",
+    "url": "http://stream.zeno.fm/cuejngegi8btv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "luganda"
+  },
+  {
+    "name": "US Local News",
+    "url": "http://usa8.fastcast4u.com:5168/1/",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "luganda"
+  },
+  {
+    "name": "UgOnlineMedia - Kampala (MP3)",
+    "url": "http://stream.zeno.fm/8t4dtkxfgkuuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,luganda"
+  },
+  {
+    "name": "Uganda DJs",
+    "url": "https://stream.zeno.fm/muzrp86994zuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "VICTORS RADIO",
+    "url": "https://a13.asurahosting.com/listen/victors_radio_/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": -3.0280693789523534,
+    "lon": 32.78320312500001,
+    "language": ""
+  },
+  {
+    "name": "VU Radio",
+    "url": "https://s5.radio.co/sdf8bf7e2a/listen",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Voice Of Heaven - Kampala (MP3)",
+    "url": "http://stream.zeno.fm/s961sfesdmntv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,luganda,swahili"
+  },
+  {
+    "name": "Voice of Kyankwanzi - Kiboga - 89.7 FM (MP3)",
+    "url": "http://stream.zeno.fm/eyzf4ddwqcmvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "luganda"
+  },
+  {
+    "name": "Voice of Teso 88 (African Rhythms)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s354916",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Way To God Radio (MP3)",
+    "url": "http://stream.zeno.fm/g876nxxz8vzuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Yofochm",
+    "url": "https://c13.radioboss.fm:18053/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "luganda"
+  },
+  {
+    "name": "Yofochm Radio Uganda (MP3)",
+    "url": "http://c13.radioboss.fm:18053/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,luganda"
+  },
+  {
+    "name": "abc News",
+    "url": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8",
+    "codec": "AAC+,H.264",
+    "bitrate": 1840,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "crooze fm",
+    "url": "https://stream-159.zeno.fm/vyxwdk08apxtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2eXh3ZGswOGFweHR2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Imt4VUtoZGRnU0dLRGdSc0NkOE1CRHciLCJpYXQiOjE",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "old Christmas hit channel",
+    "url": "http://streams.80s80s.de/christmas/mp3-192/streams.80s80s.de/%20Find%20more%20stations%20in%20app%20:%20https://play.google.com/store/apps/details?id=com.atf.radiogalaxy",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "surefm 99.9 | (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s344336",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "talkSPORT 2",
+    "url": "http://radio.talksport.com/stream2?ref=rf",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  }
+]

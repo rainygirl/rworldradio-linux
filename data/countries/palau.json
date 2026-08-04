@@ -1,0 +1,12 @@
+[
+  {
+    "name": "UpBeat Radio",
+    "url": "https://live.upbeat.pw/",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

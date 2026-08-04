@@ -1,0 +1,322 @@
+[
+  {
+    "name": "90.7 Magic FM",
+    "url": "http://listen.rba.co.rw:8080/;",
+    "codec": "MP3",
+    "bitrate": 80,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "92.8 FM Radio O | (Christian Contemporary)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s234455",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "94.3 ROYAL FM | (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s349893",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bachwezi radio",
+    "url": "http://stream.zeno.fm/4vcb1euurnhvv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "FINE FM 93.1 | (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s352774",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Flash FM Rwanda 89.2 (African Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s195522",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Gendana n'igihe radio",
+    "url": "http://stream.zeno.fm/1ev107turnhvv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "ISANGO STAR 91.5 (African Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s221010",
+    "codec": "mp3",
+    "bitrate": 80,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "IZUBA Radio 100 (News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s342044",
+    "codec": "mp3",
+    "bitrate": 128000,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Isano Radio 92.0 FM | (Local News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s354720",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "KT Radio 96.7 (African Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s218931",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Magic FM",
+    "url": "http://listen.rba.co.rw:8080/",
+    "codec": "MP3",
+    "bitrate": 80,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Magic FM 90.7 (Bachata)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s231686",
+    "codec": "mp3",
+    "bitrate": 80,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO IJWI RYA GARE 98.4 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s352495",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO IMANZI 105.1 FM | (Educational)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s349371",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO ISHINGIRO 107.5 FM | (Classical)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s342356",
+    "codec": "mp3",
+    "bitrate": 128000,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO MARIA RWANDA",
+    "url": "http://dreamsiteradiocp.com:8044/stream",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO8 92.9 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s346651",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio 1",
+    "url": "http://80.241.215.175:5000/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Isangano 104 (Media)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s350005",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Maria Rwanda 88.6 (Catholic Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s183752",
+    "codec": "mp3",
+    "bitrate": 32,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Mariam Arabic 99.8 (Religious Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s183754",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Rwanda",
+    "url": "https://listen.rba.co.rw:8008/rwanda/",
+    "codec": "MP3",
+    "bitrate": 185,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Rwanda 100.7 (Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s16340",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Salus 97 (Educational)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s356365",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio1 Rwanda 91.1 (African Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s274564",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio10 87.6 (African Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s177322",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Umucyo Radio 102.8 (Gospel)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s278472",
+    "codec": "mp3",
+    "bitrate": 224,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Umwezi Radio 95.3 FM | (African Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s357511",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Urban Radio 106.7 fm | (Culture)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s348113",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "VOICE FM 94.5 | (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s352962",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "b&b kigalifm 89.7 | (00's Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s281307",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

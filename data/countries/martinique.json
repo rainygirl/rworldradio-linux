@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Martinique 1ère",
+    "url": "http://martinique.ice.infomaniak.ch/martinique-128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RCI Dancehall",
+    "url": "https://stream.rcs.revma.com/5stt0yrtpwzuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Fusion",
+    "url": "http://france16.coollabel-productions.com:8276/;listen.m3u",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "creole,french"
+  },
+  {
+    "name": "Radio Mojito",
+    "url": "https://fmcpmediatest.ice.infomaniak.ch/fmcp-128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Zoukla",
+    "url": "https://ecmanager4.pro-fhi.net:2605/stream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Super Radio",
+    "url": "http://str81.streamakaci.com:9160/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "creole,french"
+  },
+  {
+    "name": "radio sud-est Martinique",
+    "url": "https://stream.vestaradio.com/RADIOSUDEST",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "francaise,french"
+  }
+]

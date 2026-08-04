@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Dfm rtv int160k",
+    "url": "http://213.133.109.221:8205/dfm_1",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "dutch"
+  },
+  {
+    "name": "KNR Live Radio",
+    "url": "https://i1.cdn.jetstre.am:8000/sz=knr=audio192?token=ea282bc02bb373156231dd1522a33943&time=6a184ec2",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Kalaallit Nunaata Radioa 90.5 (Local News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s12620",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Nanoq FM",
+    "url": "http://getnanoq.retro-radio.dk/Nanoq-TX-1",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Original Laikos",
+    "url": "https://play.streams.gr:22035/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

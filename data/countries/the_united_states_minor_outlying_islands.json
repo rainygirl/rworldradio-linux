@@ -1,0 +1,182 @@
+[
+  {
+    "name": "93.7 KHJ Oldies",
+    "url": "https://ice26.securenetsystems.net/KKHJHD2",
+    "codec": "AAC+",
+    "bitrate": 56,
+    "needsResolve": false,
+    "lat": -14.33303409758556,
+    "lon": -170.73122415079737,
+    "language": ""
+  },
+  {
+    "name": "940 Gospel Radio",
+    "url": "https://servidor26.brlogic.com:7088/live",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 55.26738058912856,
+    "lon": -3.5595703125,
+    "language": ""
+  },
+  {
+    "name": "Abdulbasit Abdulsamad",
+    "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Classical KDFC",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KDFCFMAAC.aac",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 37.77158315442595,
+    "lon": -122.44400024414064,
+    "language": ""
+  },
+  {
+    "name": "Coolfm Dance 90",
+    "url": "https://mediagw.e-tiger.net/stream/zc06",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Dps Soul",
+    "url": "https://streaming.live365.com/a50157",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Grits Radio",
+    "url": "http://169.61.85.22/grits",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Halloween Radio Oldies",
+    "url": "https://radio1.streamserver.link/radio/8020/hro-aac",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Halloween Radio Oldies",
+    "url": "http://listen.halloweenradio.net/oldies",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MXTR FM",
+    "url": "https://streaming.live365.com/a03037",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Quiet Village Radio",
+    "url": "http://broadcast.shoutcheap.com:8424/streamhttp://broadcast.shoutcheap.com:8424/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "american english"
+  },
+  {
+    "name": "Radio Farda",
+    "url": "https://stream.radiojar.com/cp13r2cpn3quv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 22.19249131446977,
+    "lon": 46.40625000000001,
+    "language": ""
+  },
+  {
+    "name": "Rockin' the Suburbs Radio",
+    "url": "https://streaming.radio.co/sca22d43b1/listen",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 38.685509760012025,
+    "lon": -77.03613281250001,
+    "language": "english"
+  },
+  {
+    "name": "The Breeze",
+    "url": "http://65.108.105.26:7617/stream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "WLFC 88.3 - Univ. of Findlay North Baltimore,  OH",
+    "url": "http://206.244.84.72:8000/WLFC-FM.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "WSNR.US",
+    "url": "https://www.stepnorthdigitalradio.com:6008/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "WTMB 94.5 FM",
+    "url": "https://prod-23-20-60-37.amperwave.net/magnumbroadcasting-wtmbfmaac-hlsc1.m3u8",
+    "codec": "AAC",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "amR",
+    "url": "https://c25.radioboss.fm:8425/stream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

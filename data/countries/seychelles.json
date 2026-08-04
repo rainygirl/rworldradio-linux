@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Offshore Radio",
+    "url": "https://live.offshoreradio.net/listen/offshore_radio/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": -4.6191,
+    "lon": 55.4513,
+    "language": "english"
+  },
+  {
+    "name": "SBC Paradise FM - Seychelles Best Mix",
+    "url": "https://streaming.fabrik.fm/paradise-fm/echocast/audio/index.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "SBC Radyo Sesel",
+    "url": "https://streaming.fabrik.fm/radyo-sesel/echocast/audio/index.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": -4.6191,
+    "lon": 55.4513,
+    "language": "english,french,seychellois creole"
+  }
+]

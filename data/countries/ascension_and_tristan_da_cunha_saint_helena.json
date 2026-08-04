@@ -1,0 +1,22 @@
+[
+  {
+    "name": "EDM Radio",
+    "url": "https://laut.fm/edmradio",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "geopn"
+  },
+  {
+    "name": "Saint.FM",
+    "url": "https://orbit.citrus3.com:8306/stream",
+    "codec": "MP3",
+    "bitrate": 100,
+    "needsResolve": false,
+    "lat": -15.632955745681755,
+    "lon": -5.822753906250001,
+    "language": ""
+  }
+]

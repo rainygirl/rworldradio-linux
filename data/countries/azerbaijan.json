@@ -1,0 +1,432 @@
+[
+  {
+    "name": "106 fm",
+    "url": "https://stream.atv.az/WebRTCAppEE/streams/612758375034657638703581.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "106.3 fm Azad Azərbaycan radiosu",
+    "url": "https://stream.atv.az/WebRTCAppEE/streams/517878792239218486180700.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "ASAN Radio",
+    "url": "https://play.asanradio.az/",
+    "codec": "MP3",
+    "bitrate": 112,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "azerbaijani"
+  },
+  {
+    "name": "AVTO FM",
+    "url": "http://5.191.241.101:8000/avtofm",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "azerbaijani"
+  },
+  {
+    "name": "AVTOFM 107.7 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s218288",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Anti Radio",
+    "url": "https://stream.antiradio.net/listen/anti_radio/mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Anti Radio",
+    "url": "https://stream.antiradio.net/radio/8000/mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Araz FM 91.3 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s199942",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Araz Supermarket Radio",
+    "url": "http://5.191.241.101:8000/arazmarket",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "azerbaijani"
+  },
+  {
+    "name": "Araz fm 103.3",
+    "url": "http://s39.myradiostream.com/5458/listen.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Araz fm 103.3",
+    "url": "https://s14.myradiostream.com/30454/listen.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Asan Radio",
+    "url": "http://94.20.74.206:4448/stream1",
+    "codec": "MP3",
+    "bitrate": 112,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "azerbaijani"
+  },
+  {
+    "name": "AutoLife Azerbaijan",
+    "url": "https://radio.autoliferadio.com:8005/radio",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "AutoLife Radio Azerbaijan",
+    "url": "http://radio.autoliferadio.com:8090/radio",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "azerbaijani,english,russian,turkish"
+  },
+  {
+    "name": "Azerbaycan Radiosu 105.0 FM",
+    "url": "http://str.yodacdn.net/radio_respublica/video.m3u8",
+    "codec": "AAC",
+    "bitrate": 220,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "azerbaijani"
+  },
+  {
+    "name": "Azərbaycan Beynəlxalq Radiosu",
+    "url": "https://str.yodacdn.net/radio_int/tracks-a1/mono.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Baku Hit FM",
+    "url": "http://5.191.241.101:8000/bakuhitfm",
+    "codec": "MP3",
+    "bitrate": 144,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Baku Hit FM 97 (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s352995",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Baku Jukebox",
+    "url": "http://78.109.52.73:8000/listening-from-radio-garden-1696020096",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Baku Retro FM 93.3 (Local Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s352998",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Baku Retro Fm",
+    "url": "http://5.191.241.101:8000/bakuretrofm",
+    "codec": "MP3",
+    "bitrate": 144,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "azeri"
+  },
+  {
+    "name": "Bravo Supermarket Radio",
+    "url": "http://5.191.241.101:8000/bravo",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "azerbaijani"
+  },
+  {
+    "name": "Caspian Business Radio BOSS",
+    "url": "https://myradio24.org/bosscomaz",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 40.33369698231379,
+    "lon": 49.79147169739008,
+    "language": "azerbaijani,azeri,english,russian"
+  },
+  {
+    "name": "DalğaFM 92.5",
+    "url": "https://live.dinle.az/dalgafm",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "azerbaijani"
+  },
+  {
+    "name": "Kepez FM",
+    "url": "http://85.132.78.122:3344/now",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Media Fm 105.5",
+    "url": "https://icecast.livetv.az/mediafm",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "azerbaijani"
+  },
+  {
+    "name": "NAZ RADIO",
+    "url": "https://s2.myradiostream.com/5286/listen.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "azerbaijani"
+  },
+  {
+    "name": "Naxçıvan Radiosu",
+    "url": "http://s33.myradiostream.com:12782/listen.mp3",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "azerbaijani"
+  },
+  {
+    "name": "PLANET FM 88.7 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s349020",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "PlanetFM 88.7",
+    "url": "https://live.dinle.az/planetfm",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "azerbaijani"
+  },
+  {
+    "name": "Radio Enerji 101.0 (Local Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s69052",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Enerji 101.1 FM",
+    "url": "https://icecast.livetv.az/antennfm",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "azer,azerbaijani,azr"
+  },
+  {
+    "name": "Radio Enerji 101.2 (Local Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s199884",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Enerji 101.6 (Local Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s199886",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Space 104FM",
+    "url": "https://stream.zeno.fm/noozxmffa38uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "azerbaijani"
+  },
+  {
+    "name": "Radio Veten",
+    "url": "https://cdn2.cloudrad.io/radioveten/0kgkkzanmueuv/source/listen.m3u",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "azerbaijani"
+  },
+  {
+    "name": "Rahat Supermarket Radio",
+    "url": "http://5.191.241.101:8000/rahatmarket",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "azerbaijani"
+  },
+  {
+    "name": "Real FM 107",
+    "url": "http://94.20.137.130:8995/realfm?n=1ae9db9ce6bdfe42937a",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "azerbaijani"
+  },
+  {
+    "name": "Sağlam Radio",
+    "url": "https://s24.myradiostream.com/:17446/listen.mp3?nocache=1717082000",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "TMB 100.5",
+    "url": "http://s39.myradiostream.com:5458/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Xezer FM",
+    "url": "https://s40.myradiostream.com/:22546/listen.mp3?",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "azerbaijani,russian"
+  },
+  {
+    "name": "Yurd FM",
+    "url": "https://icecast.livetv.az/yurdfm",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "azerbaijani"
+  },
+  {
+    "name": "İctimai Radio – 90 FM",
+    "url": "https://stream.itv.az/rtmp:/radio/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 322,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "azerbaijani"
+  }
+]

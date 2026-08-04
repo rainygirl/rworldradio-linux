@@ -1,0 +1,5622 @@
+[
+  {
+    "name": "((La Reina Putumayo 106.3 Fm))",
+    "url": "https://radio25.virtualtronics.com/proxy/reinaputumayo?mp=/stream",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "104.1 Emisora Comunitaria - La Radio de Todos",
+    "url": "https://streamyes.alsolnet.com/comunitariafm/live/chunklist_w7037173.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "123 Vallenato",
+    "url": "http://radiolatina.info:7087/;",
+    "codec": "AAC+",
+    "bitrate": 28,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "123vallenato",
+    "url": "https://radiolatina.info:10903/;",
+    "codec": "AAC+",
+    "bitrate": 28,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "40 Principales Colombia",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/%20LOS40_COLOMBIA.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 4.144818737750843,
+    "lon": -74.88281250000001,
+    "language": "español internacional"
+  },
+  {
+    "name": "6.90 RADIO ROMANTICAS",
+    "url": "https://stream.zeno.fm/wdg5vb9hwy8uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "ABC La Emisora del Pueblo 1250AM",
+    "url": "https://mars.streamerr.co/8022/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "ACORD ANTIOQUIA RADIO",
+    "url": "https://radio25.virtualtronics.com:20061/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "ALR Jazz Radio",
+    "url": "https://radio30.virtualtronics.com/proxy/abaco?mp=/stream/",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": 1.6579745515799122,
+    "lon": -72.14159866468844,
+    "language": "spanish"
+  },
+  {
+    "name": "AS radio 690 am",
+    "url": "https://27393.live.streamtheworld.com/AS_COLAAC.aac?gdpr=0&gdpr_consent=&dist=caracol-web&ppid=50428527289607605859177371419013489275&pname=TDSdk&pversion=2.9&swm=false&tdsdk=js-2.9&banners=none&burst-time=15&sbmid=5bd61615-e45a-42a2-aaad-60bcd11305ab",
+    "codec": "AAC+",
+    "bitrate": 56,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español - latinoamerica"
+  },
+  {
+    "name": "Abaco Libros y Cafe Jazz Radio",
+    "url": "http://195.154.79.204:8638/stream",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Abaco Libros y Café Radio",
+    "url": "http://radio30.virtualtronics.com:8638/;",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,spanish"
+  },
+  {
+    "name": "Acuario Estéreo 1010 AM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACUARIOAAC.aac",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Afri Caribe Radio",
+    "url": "https://usa4.fastcast4u.com/proxy/eddie60?mp=/1",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Africa All Stars",
+    "url": "https://stream.zeno.fm/udhh2v1itqxtv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Aires De Timbio FM 88.9 \"La Gente con la Radio\"",
+    "url": "https://stream.integracionvirtual.com/proxy/airesdetimbio?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 40,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "AkadiaTechRADIO",
+    "url": "https://akadiaradio-akadiatechradio.pfhq7z.easypanel.host/listen/akadiatechradio/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 4.428909559411316,
+    "lon": -74.04785156250001,
+    "language": "english,español - latinoamerica"
+  },
+  {
+    "name": "Alegría y Gozo Radio Católica",
+    "url": "https://server2.ejeserver.com:8890/stream",
+    "codec": "AAC",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Alerta Bogotá 104.4 fm",
+    "url": "http://179.1.139.84:8000/play/a041/index.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 133,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español colombia"
+  },
+  {
+    "name": "Alfa Stereo 106.3 FM",
+    "url": "https://radiolatina.info/8088/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Alfa Stereo 107.8 FM",
+    "url": "http://stream.integracionvirtual.com:8114/autodj",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Alfa y Omega.",
+    "url": "https://stream.zeno.fm/ebsnme8phdovv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Ambientarte Radio",
+    "url": "https://radio35.virtualtronics.com:20116/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Ambiente Stereo 88.4 FM",
+    "url": "https://radio06.cehis.net:9036/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Ambiente stereo 88.5 FM",
+    "url": "https://play8.tikast.com/proxy/ambiente?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "America Stereo Relax",
+    "url": "http://stream.zeno.fm/62twtv23sfeuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,spanish"
+  },
+  {
+    "name": "Amor Stereo",
+    "url": "https://stream.zeno.fm/aycnet07h0hvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Amor Stereo",
+    "url": "https://stream.zeno.fm/0va78s07h0hvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Andina Stereo 95.1 FM",
+    "url": "https://impactodigitalcol.com/8018/stream",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Angelópolis Stereo 107.4 FM",
+    "url": "https://stream-152.zeno.fm/8k5715rkh5zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4azU3MTVya2g1enV2IiwiaG9zdCI6InN0cmVhbS0xNTIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicnZURzRDbThSRkN3OEt1Uld4VTRVQSIsImlhdCI6MTc2ODQ2NDYzMCwiZXhwIjoxNzY4NDY0NjkwfQ.7MIjSwbBGcddgj4whbXOTP6c9yg1tMNVkf_F89abh4s",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Angular Stereo 97.2 FM",
+    "url": "https://colombiawebs.com.co/proxy/juanpabl/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Animecol Radio",
+    "url": "https://stream.zeno.fm/6bfysacxc6quv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "japanese,spanish"
+  },
+  {
+    "name": "Anorí Estéreo 105.4 FM",
+    "url": "https://stream-159.zeno.fm/x7bboxazwdytv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4N2Jib3hhendkeXR2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiX19aSmUtR2RSTFNBOFFZZFotRy0tQSIsImlhdCI6MTc2ODQ0NzQxMywiZXhwIjoxNzY4NDQ3NDczfQ.JcfENsFCCK_b1Vb--y2X_qiRQS3Jv0OuTHMcp73rknE",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Antena de los Andes 1520 AM",
+    "url": "https://radiolatina.live/9374/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Apartadó Stereo 103.3 FM",
+    "url": "https://radiohd.streaminghd.co:7226/live",
+    "codec": "AAC",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Arauquita Stereo 88.3fm",
+    "url": "https://cp.sonicpanel.stream/8266/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Arenosa stereo",
+    "url": "https://play8.tikast.com:20106/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Armenia Stereo 89.4 FM",
+    "url": "https://stream-158.zeno.fm/wz4hzqtkh5zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ3ejRoenF0a2g1enV2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoic09VeFQ0dzZRdjZlZmdVWl9wRTV5QSIsImlhdCI6MTc2ODQ1NTExMSwiZXhwIjoxNzY4NDU1MTcxfQ.efAKNm4n_BwuA1b2Lxsiq5UwSgqsOiHKVHsvE73uXwY",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Armonias Boyacenses 950 AM",
+    "url": "https://virtualtronics.net/proxy/armoniasboyacenses?mp=/;",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Armonías del Caquetá 970 AM",
+    "url": "https://broadcasting.enlacestic.com/radio/8020/radio.mp3",
+    "codec": "AAC",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Aro Radio",
+    "url": "http://62.210.38.137:8132/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "espaňol"
+  },
+  {
+    "name": "Aviva2",
+    "url": "https://stream.avivamientoradio.net/radio/8000/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Azul Tricolrock",
+    "url": "https://cast.tricolrock.com/hls/azul_tricolrock/live.m3u8",
+    "codec": "AAC",
+    "bitrate": 52,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "B Mor",
+    "url": "http://streamingmediaradio.live/8086/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "BACANA 93.3 FM",
+    "url": "https://stream.zeno.fm/z3c6nhq2bjkvv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "BB Radio Rock",
+    "url": "http://streambbr.ir-media-tec.com/rock/mp3-128",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "BBC 80s",
+    "url": "https://18093.live.streamtheworld.com/SAM03AAC226_SC?Bravo?Bogota?Colombia&80s",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "BELEN STEREO 95.3 FM",
+    "url": "https://server2.ejeserver.com:9976/stream",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "BLU Radio Bogotá",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/BLURADIO_ADP_SC",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Bacatá Stereo 94.4 FM",
+    "url": "http://radio25.virtualtronics.com:8356/;",
+    "codec": "MP3",
+    "bitrate": 80,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Balada FM Bogota",
+    "url": "http://stream.zeno.fm/4d2et4w314zuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Balada FM Bogotá",
+    "url": "https://stream.zeno.fm/reqkn4w314zuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Baladas Inglés... RDC Radio",
+    "url": "https://stream-159.zeno.fm/a0zv4rck04gvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhMHp2NHJjazA0Z3Z2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicHctNkc0U0NRNFNubFhPbElRZHA0QSIsImlhdCI6MTc2ODQzNjQ3NSwiZXhwIjoxNzY4NDM2NTM1fQ.Bbc4D-YLh0eBtAKlM3G9dSqF1F2q73teO1jGVOwn3Uc",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Baladas Románticas",
+    "url": "http://stream.zeno.fm/unns06sxtfeuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "espanish"
+  },
+  {
+    "name": "Baladas Románticas",
+    "url": "http://stream.zeno.fm/y5ztkzpqhueuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "espanish"
+  },
+  {
+    "name": "Baladas Rs",
+    "url": "https://stream.zeno.fm/7ans8mgv2ehvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Baladas Rs",
+    "url": "https://stream.zeno.fm/fxzt1r5rp2zuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Balboa Stereo 88.4 FM",
+    "url": "http://stream.integracionvirtual.com:8010/live",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Banana Stereo 88.5 FM",
+    "url": "https://stream.zeno.fm/3r0rnyasc72vv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Bandida",
+    "url": "https://latina.streeemer.com/listen/latina/radio.aac",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Barrancabermeja Virtual",
+    "url": "https://stream1.305stream.com/proxy/client322?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Barranquilla AM",
+    "url": "https://stream.zeno.fm/8u9dmttw0ceuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Barranquilla Estereo",
+    "url": "http://radio.yaservers.com:8197/;stream.mp3",
+    "codec": "AAC+",
+    "bitrate": 56,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Betuliana Stereo 107.2 FM",
+    "url": "https://stream.zeno.fm/u1rp10yuis1vv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Betuliana Stereo 107.2 FM",
+    "url": "https://stream.zeno.fm/gh9xcb73mfhvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Blu Radio (Medellín) 97.9 FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/BLU_MEDELLIN_ADP.aac",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Blu Radio - Musica",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MUSICABLU.mp3",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Blu Radio Barranquilla / Caribe",
+    "url": "https://26643.live.streamtheworld.com/BLU_BARRANQUILLA_ADP.aac?dist=%2520blu_web",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Blu Radio Bogotá 89.9",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/BLURADIO.mp3",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Blu Radio Cali 91.5 FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/BLU_CALI_ADP_SC",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Blu Radio, señal nacional (HJCK, 89.9 MHz FM, Bogotá / HJN42, 96.3 MHz, San Martín, Meta / HJH87, 103.1 MHz, Paipa, Boyacá / HJOM, 1090 KHz, Cartagena de Indias / HJM47 103.1 MHz, Algeciras, Huila / HJQ43, 94.1 MHz, Bugalagrande, Valle del Cauca)",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/BLURADIO_ADP.aac",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 4.693712,
+    "lon": -74.0760039,
+    "language": "spanish"
+  },
+  {
+    "name": "Blu Radio, señal nacional (HJCK, 89.9 MHz FM, Bogotá / HJN42, 96.3 MHz, San Martín, Meta / HJH87, 103.1 MHz, Paipa, Boyacá / HJOM, 1090 KHz, Cartagena de Indias / HJM47 103.1 MHz, Algeciras, Huila / HJQ43, 94.1 MHz, Bugalagrande, Valle del Cauca)",
+    "url": "http://27433.live.streamtheworld.com:3690/BLURADIO_SC",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Bohemia RAVEL",
+    "url": "https://stream.zeno.fm/qypbs4hv9p2tv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Bolche radio",
+    "url": "http://stream.zeno.fm/hn61akk9up8uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Briceño Stereo 105.4 FM",
+    "url": "https://streamingmediaradio.live/8026/stream",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Brisa FM 93.1",
+    "url": "https://radio25.virtualtronics.com:20057/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Brisas del San Juan 106.3",
+    "url": "https://virtualtronics.net/proxy/brisasdelsanjuan",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Brutal (Medellín) 91.9 Fm",
+    "url": "https://streamingmediaradio.live/8086/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Buenisima Stereo - Barranquilla",
+    "url": "https://centova.hostingelectrica.net/proxy/buenisim?mp=/stream",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Buturama Stereo 101.7 FM",
+    "url": "https://tupanel.info:2000/stream/ButuramaStereo",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Bésame (Medellín) 94.9 FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_MEDELLINAAC.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Bésame 100.7 FM Cúcuta",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_CUCUTAAAC.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Bésame 104.7 FM Bucaramanga",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_BUCARAMANGAAAC.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Bésame 106.5 FM Cali",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_CALIAAC.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Bésame 106.9 FM Popayán",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_POPAYANAAC.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Bésame 90.7 FM Armenia",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_ARMENIAAAC.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Bésame 91.7 FM Manizales",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_MANIZALESAAC.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Bésame 93.7 FM Pereira",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_PEREIRA_FMAAC.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Bésame Barranquilla",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_BARRANQUILLA_SC",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "CANUTAL ESTEREO",
+    "url": "https://stream.zeno.fm/ajgwsujd9eatv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "CARDENAL STEREO RIOHACHA 91.7 FM",
+    "url": "http://198.27.78.145:8086/stream/2/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "CIELO CARTAGENA 103.0 FM",
+    "url": "https://stream.zeno.fm/v2pspfgm54zuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "CLÁSICOS REGGAETON 24_7",
+    "url": "https://stream.zeno.fm/2g1qkn4cbpeuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "CROSSOVER ESTEREO",
+    "url": "https://stream.zeno.fm/9rxqd1fndkeuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Cacica Stereo 89.7 FM",
+    "url": "http://sonic.paulatina.co:7062/;",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Cactus FM Tunja",
+    "url": "http://stream.zeno.fm/frz47rqv4f0uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Cafe Stereo 96.7 FM",
+    "url": "https://stremo.decibeles.net:8443/CafeStereo",
+    "codec": "OGG",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Café Estéreo 92.1 FM",
+    "url": "https://stream.zeno.fm/vwiypsezvanvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Calentura stereo",
+    "url": "https://emisorasdigitales2.com/8174/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español colombia"
+  },
+  {
+    "name": "Calidad Stereo 100.6 FM",
+    "url": "https://sonic.paulatina.co/7070/stream.mp3/live",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Caliente stereo 90.2",
+    "url": "https://play8.tikast.com:20003/stream",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Candela Cali 102.5 FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CANDELA_CALIAAC",
+    "codec": "FLV",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Candela Casanare 94.7 Fm",
+    "url": "https://cloudoledgo.com:8026/stream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Candela Estéreo Bogotá (HJPU 101.9)",
+    "url": "http://24403.live.streamtheworld.com:3690/CANDELAESTEREO_SC",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Canela Estereo 99.4 FM",
+    "url": "https://sv2.globalhostlive.com/proxy/canela/stream",
+    "codec": "AAC+",
+    "bitrate": 80,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Capital Salsa",
+    "url": "https://stream.integracionvirtual.com/proxy/capitalsalsa?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 3.451360105134734,
+    "lon": -76.53440980799009,
+    "language": "español colombia,spanish"
+  },
+  {
+    "name": "Caracol Radio (Bogotá) - 100.9 FM / 810 AM - HJGL / HJCY - PRISA Radio - Bogotá, Colombia",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CARACOL_RADIOAAC.aac",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": 4.6544085813455025,
+    "lon": -74.08432960510255,
+    "language": "spanish"
+  },
+  {
+    "name": "Caracol Radio Barranquilla",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CR_BARRANQ.mp3",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Caracol Radio Colombia (HJGL 100.9 / HJCY 810 AM, Bogotá) [AAC]",
+    "url": "http://24063.live.streamtheworld.com:3690/CARACOL_RADIOAAC_SC",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Caracol Radio Colombia (HJGL 100.9 / HJCY 810 AM, Bogotá) [AAC]",
+    "url": "http://27323.live.streamtheworld.com:3690/CARACOL_RADIOAAC_SC",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Carbón Stereo 92.5  FM",
+    "url": "http://51.15.160.78:8318/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Cardenal Stereo 94.7 FM",
+    "url": "http://198.27.78.145:8086/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Caribe Rumba",
+    "url": "https://stream.zeno.fm/gq47fz6ewg0uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Caribe Sports Radio",
+    "url": "https://play14.tikast.com:22048/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 8.858273653362607,
+    "lon": -75.88256835937501,
+    "language": ""
+  },
+  {
+    "name": "Carnavalxsiempre",
+    "url": "https://streaming.radiosenlinea.com.ar/8880/stream",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Cartago Stereo 89.0 FM",
+    "url": "http://radio40.virtualtronics.com:8584/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Cartago Stereo Colombia",
+    "url": "http://51.15.160.78:8584/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Cascada Stereo 107.4 FM",
+    "url": "https://play8.tikast.com/proxy/cascada?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Celeste Estéreo 105.4 FM",
+    "url": "https://play8.tikast.com/proxy/celeste?mp=/stream",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Celestial stereo link alterno",
+    "url": "https://stream2.305stream.com:8114/live",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español colombia"
+  },
+  {
+    "name": "Celestial stereo pereira",
+    "url": "https://stream2.305stream.com/proxy/client059?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español colombia"
+  },
+  {
+    "name": "Cerinza FM 100.6",
+    "url": "https://radio25.virtualtronics.com/proxy/cerinzafm?mp=/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Cerro Azul Stereo 107.4 FM",
+    "url": "http://radiolatina.info:9025/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Cerro murillo stereo",
+    "url": "https://sonic.paulatina.co/8048/stream",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Cerros Estéreo 107.4 Fm",
+    "url": "https://stream-159.zeno.fm/m543v7sds2zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJtNTQzdjdzZHMyenV2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiQVIzemVsVG5SUEd3WXMtR3BzM1RwQSIsImlhdCI6MTc2ODQ0ODkxOCwiZXhwIjoxNzY4NDQ4OTc4fQ.FUWXTcYUb7FpTYk52KRF6NrtTkb6nEGlTENadSAdXmI",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Champeta Cartagena Radio",
+    "url": "https://stream.zeno.fm/2rdvb6tuwchvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Champeta online",
+    "url": "https://stream.zeno.fm/ptqtr8urtfiuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 4.617968856173717,
+    "lon": -74.1103935521096,
+    "language": "castellano. español"
+  },
+  {
+    "name": "Charalá Estéreo 103.2 FM",
+    "url": "https://stream-158.zeno.fm/4ili1p9hiyktv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0aWxpMXA5aGl5a3R2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoienJfamZzVExRX1diRVk4bUg3ZUI2QSIsImlhdCI6MTc2ODQ1NDIzNywiZXhwIjoxNzY4NDU0Mjk3fQ.R0grH45LsBUN7Oo3cJvogUoN_ogNKINknfShxfvfZGI",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Charalá Estéreo 103.2fm",
+    "url": "https://stream-159.zeno.fm/4ili1p9hiyktv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0aWxpMXA5aGl5a3R2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoibnFsQVdTOG9RQUtLY0ZmYTczcGc2QSIsImlhdCI6MTc2ODQzMzQ5NiwiZXhwIjoxNzY4NDMzNTU2fQ.b3hB-w1ihRCKT3O_mVFvwqj8KpXpft-gLugThNd5440",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Cisneros Stereo 105.4 FM",
+    "url": "https://server2.ejeserver.com:8430/live",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Ciudad Stereo Tunja 94.7 FM",
+    "url": "http://stream.zeno.fm/5g2k2a6wd5zuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Clasica FM919",
+    "url": "http://tupanel.info:8018/stream/",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 6.248536803775956,
+    "lon": -75.5856639146805,
+    "language": "spanish"
+  },
+  {
+    "name": "Class FM",
+    "url": "http://stream4.mcvhost.com/classfm",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Colmundo Radio 1040 AM",
+    "url": "https://streaming.shoutcast.com/colmundo-radio-bogota",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Colmundo Radio Bogota",
+    "url": "http://master.shoutcast.com:8000/colmundo-radio-bogota",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 4.691404288203831,
+    "lon": -74.09729003906251,
+    "language": "español colombia"
+  },
+  {
+    "name": "Colombia Crossover",
+    "url": "https://radio35.virtualtronics.com/proxy/colombiacrossover?mp=/;",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 5.0542723664465905,
+    "lon": -75.50474166870117,
+    "language": "spanish"
+  },
+  {
+    "name": "Colombia Lounge",
+    "url": "https://play10.tikast.com/proxy/collounge?mp=/stream",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 5.048458547596329,
+    "lon": -75.50508499145508,
+    "language": "spanish"
+  },
+  {
+    "name": "Colombia Pop Rock",
+    "url": "https://play10.tikast.com/proxy/colpoprock?mp=/stream",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 5.064506537950071,
+    "lon": -75.50976276397706,
+    "language": "spanish"
+  },
+  {
+    "name": "Colombia Salsa Dura",
+    "url": "https://play10.tikast.com/proxy/colsalsadura?mp=/stream",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 5.050852479320202,
+    "lon": -75.50542831420898,
+    "language": "spanish"
+  },
+  {
+    "name": "Colombia Urbana",
+    "url": "https://play10.tikast.com/proxy/colurbana?mp=/stream",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 5.050852479320202,
+    "lon": -75.5061149597168,
+    "language": "spanish"
+  },
+  {
+    "name": "Conectando Estéreo 91.5 FM",
+    "url": "https://cloudstream2036.conectarhosting.com/8200/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 3.6121068894248256,
+    "lon": -75.41015625,
+    "language": "spanish"
+  },
+  {
+    "name": "Constellations Radio",
+    "url": "http://usa19.fastcast4u.com:6640/live",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Contando Radio",
+    "url": "https://stream.integracionvirtual.com/proxy/contando?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Cool-D Radio",
+    "url": "http://condor1760.startdedicated.com:8031/live",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Cooservicios Stereo Tunja",
+    "url": "http://stream.zeno.fm/27g88q2snd0uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Coral FM Stereo 107.4",
+    "url": "https://stream.zeno.fm/9ouribnm9cjvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Corazón1220 AM",
+    "url": "https://stream.zeno.fm/ahn5c8k56wquv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Creativa Stereo 88.2 FM",
+    "url": "https://stream.zeno.fm/ysktfqbbx58uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Cristal Stereo Isnos 95.8 FM",
+    "url": "http://104.131.99.205:9430/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Cristalina Estéreo 101.1 FM",
+    "url": "https://inrai03.radioca.st/cristalinaflorencia",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Cristalina Estéreo La Mesa 102.3 FM",
+    "url": "https://inrai02.radioca.st/LaMesa",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Cristalina Estéreo Neiva 101.3 FM",
+    "url": "https://inrai05.radioca.st/cNeiva",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Cristianas viejitas Isaías radio",
+    "url": "https://stream-153.zeno.fm/x8k74kh1hwzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4OGs3NGtoMWh3enV2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoibnc2VzRyQ3pUUUc4OFJibkVkVy1MZyIsImlhdCI6MTc2ODQ0ODkyMSwiZXhwIjoxNzY4NDQ4OTgxfQ.Lrymp6GAPUjnCAtbS_CHFw3gcUADdj6UvtMPRydkqBY",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Ctb stereo",
+    "url": "http://stream.zeno.fm/r4t5dkavfzzuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "CyC Radio (Instituto Caro y Cuervo)",
+    "url": "https://stream.radio.co/s978e5f6bd/listen",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Delfín Stereo 106.3 FM",
+    "url": "https://www.rads2.com/radio/8060/radio.mp3",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Diciebre Stereo",
+    "url": "https://c23.radioboss.fm:8195/stream",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Diciembre Radio Colombia",
+    "url": "https://stream.zeno.fm/8mklmefaucjuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "DiscoRumba 95.4 FM",
+    "url": "https://virtual1.emisorasvirtuales.com:8050/live",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "espaňol"
+  },
+  {
+    "name": "Dosis Electrónica Radio",
+    "url": "https://stream.zeno.fm/1zc80p7dyzzuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Durisima Radio Online",
+    "url": "http://stream.laut.fm/durisimaradio",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 0.9722433774513772,
+    "lon": -73.65234375000001,
+    "language": "español internacional,spanish"
+  },
+  {
+    "name": "EBENEZER STEREO",
+    "url": "http://s30.myradiostream.com:32622/listen.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 4.591902037453228,
+    "lon": -74.20432090759279,
+    "language": ""
+  },
+  {
+    "name": "EMISORA FARALLONES DIGITAL FM STEREO 95.4",
+    "url": "http://radio45.virtualtronics.com:8112/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "EMISORA TROPICAL DE ORO",
+    "url": "https://stream.zeno.fm/b7tg0hqhnkhvv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Ebenezer stereo 88.2 la Paz Cesar",
+    "url": "https://sonic.paulatina.co/7128/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español colombia"
+  },
+  {
+    "name": "Eco Stereo",
+    "url": "http://149.56.22.27:8022/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 4.810443338793336,
+    "lon": -74.10245560804952,
+    "language": "spanish"
+  },
+  {
+    "name": "Ecos 1360 Radio",
+    "url": "https://conectadosmultimedia.com.co/proxy/ecos/stream",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Ecos Prensa Radio La Calera Cundinamarca",
+    "url": "https://stream.zeno.fm/a8fgubmrv98uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Ecos del Combeima (HJNC, 790 kHz AM, Ibagué, Tolima)",
+    "url": "http://s2.viastreaming.net:8030/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "EdMateo's Radio",
+    "url": "https://radio.edmateo.site/live",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 4.71233637724339,
+    "lon": -74.16275739669801,
+    "language": "english,spanish"
+  },
+  {
+    "name": "Edward Ortega Radio - Mas + Popular",
+    "url": "https://cloud11.vsgtech.co/proxy/maspopular/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "El Sol (Barranquilla)",
+    "url": "https://mdstrm.com/audio/632cbdb5202d6801a31785b0/icecast.audio",
+    "codec": "AAC",
+    "bitrate": 93,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "El Sol (Medellín) 107.9 FM",
+    "url": "https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/632c9d30aa9ace684913b853",
+    "codec": "AAC",
+    "bitrate": 125,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Emisora Atlantico",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ATL_BARRANQUILLA.mp3",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Emisora Atlántico 1070 AM",
+    "url": "https://master.letio.com/io/?gs=9104&type=live.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 146,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Emisora Fusaonline",
+    "url": "https://stream-158.zeno.fm/mupcgbmwqhruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJtdXBjZ2Jtd3FocnV2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ilh5S18xSzJ2UzFpTVc2Y20xOFJhUkEiLCJpYXQiOjE3MTkzNzA2NzksImV4cCI6MTcxOTM3MDczOX0.82He79g1M6eBCgS8v75g0wNahk5HjZLRt3qPPE2Vkx8",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español colombia"
+  },
+  {
+    "name": "Emisora Mariana 1400 AM",
+    "url": "https://servidor24.brlogic.com:7654/live",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Emisora Minuto de Dios Bogotá 107.9 FM",
+    "url": "https://sp4.colombiatelecom.com.co/8002/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 4.697849565506738,
+    "lon": -74.09010708332063,
+    "language": "español colombia"
+  },
+  {
+    "name": "Emisora Nueva Época 1200 AM",
+    "url": "https://stream-151.zeno.fm/c1knbfegny8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjMWtuYmZlZ255OHV2IiwiaG9zdCI6InN0cmVhbS0xNTEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiYUNaQmRsOTRTWWF5ajhhWlBwM0JIZyIsImlhdCI6MTc2ODQzMzUwMCwiZXhwIjoxNzY4NDMzNTYwfQ.B4T2lQ-Z_Ls5BHqy1uTszmGKWVQzR5K4EV_sR7YavHc",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Emisora Sarare Stereo 88.3 FM",
+    "url": "https://cast.tunzilla.com/http://www.colombiaemite.com:10164/;",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Emisora Vallenata Cristiana",
+    "url": "https://stream.zeno.fm/06ksznkhns8uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Emisora cultural de Pereira Remitió Antonio Cañarte",
+    "url": "http://167.114.153.222:8028/;?type=http&nocache=17",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 4.812217709097116,
+    "lon": -75.69228172302248,
+    "language": "español - latinoamerica"
+  },
+  {
+    "name": "Emisora nueva época",
+    "url": "https://stream-152.zeno.fm/c1knbfegny8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjMWtuYmZlZ255OHV2IiwiaG9zdCI6InN0cmVhbS0xNTIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicEI0QVdyUldSVnVxQ2k5T1hMUkdHUSIsImlhdCI6MTc2ODQ1MDk4MywiZXhwIjoxNzY4NDUxMDQzfQ.wJR99gAaiNhV6dvwkWIC8RCnRb4y7CPqnru2zKRV77c",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 4.347412605399798,
+    "lon": -74.36111211776735,
+    "language": "español colombia"
+  },
+  {
+    "name": "Energia 102.5 FM",
+    "url": "https://audio1.energia1025.com/radio/8000/stream.mp3",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 3.451656754302534,
+    "lon": -76.53162002563478,
+    "language": "spanish"
+  },
+  {
+    "name": "Energía 102.5 FM",
+    "url": "http://audio1.energia1025.com:8000/;",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Espiritu Rock",
+    "url": "https://centova92.instainternet.com/proxy/santiago/stream",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 4.814028018710839,
+    "lon": -75.72052001953126,
+    "language": "english,spanish"
+  },
+  {
+    "name": "Estrella Estéreo (HJTD 104.3 MHz, La Estrella/Medellín, Antioquia)",
+    "url": "http://68.233.236.92:8006/;",
+    "codec": "MP3",
+    "bitrate": 112,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Estrella FM",
+    "url": "http://radiolatina.info:7084/;",
+    "codec": "AAC+",
+    "bitrate": 28,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Exitosa Stereo 107.8 FM",
+    "url": "https://stream.zeno.fm/zx3zzt5vvjdtv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "FIESTA ESTEREO DIGITAL",
+    "url": "https://stream.zeno.fm/exccakv632quv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "FIESTA ESTEREO VALLENATA",
+    "url": "https://stream.zeno.fm/c9bc24nmp3quv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "FRONTERA STEREO 89.1 FM",
+    "url": "https://stream.zeno.fm/kgbucu5a0tzuv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Fantástica Internacional (HJF92, 103.9 MHz FM, Leticia, Amazonas)",
+    "url": "http://51.15.160.78:8326/;",
+    "codec": "AAC+",
+    "bitrate": 28,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Fanática Stereo",
+    "url": "http://stream-179.zeno.fm/virlugnz0nmvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2aXJsdWduejBubXZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiNGRrQmh6dXRRaUNZWWo0U0dfT3JVZyIsImlhdCI6MTc2ODQ1NTcyNywiZXhwIjoxNzY4NDU1Nzg3fQ.1qS0AIVVPo3KaAAjczIIPnqVdeFefxBnGqrCRPgJjkA",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Fiesta 102.7 FM",
+    "url": "https://server1.intermediacolombia.com:8008/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Fiesta 106.2 FM",
+    "url": "https://server1.intermediacolombia.com:8006/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Fiesta Stereo 88.1 FM",
+    "url": "https://streaming.radiosenlinea.com.ar/8800/stream",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Fiesta Stereo 95.8 FM",
+    "url": "https://radiohd.streaminghd.co:7523/stream",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Frecuencia Arena",
+    "url": "http://88.198.9.174:8854/stream?icy=https",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": 4.425828874929916,
+    "lon": -75.17807006835939,
+    "language": "español colombia,spanish"
+  },
+  {
+    "name": "Frecuencia Bolivariana 1160 AM",
+    "url": "https://radiolatina.info/9326/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Frecuencia U 940 AM",
+    "url": "https://radiolatina.info/9988/stream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Fuego AM",
+    "url": "https://radio35.virtualtronics.com:20017/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Fuego y Sabor Radio",
+    "url": "https://radiohd3.streaminghd.co:8090/",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "espanish"
+  },
+  {
+    "name": "Fuego y Sabor Radio Online",
+    "url": "https://stream.zeno.fm/zjufeg9fhgptv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "castellano. español"
+  },
+  {
+    "name": "Global Estéreo 96.8 FM La Plata, Huila",
+    "url": "http://radiolatina.info/9840/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 2.3899406389699074,
+    "lon": -75.89194277576365,
+    "language": ""
+  },
+  {
+    "name": "Global Hits",
+    "url": "http://stream.zeno.fm/e3r11d73sfeuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Guarida Hip Hop",
+    "url": "https://stream.zeno.fm/ukum8z9cmvduv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Guarida Hip Hop",
+    "url": "http://stream.zeno.fm/sp1x3mye474tv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 4.706034682727389,
+    "lon": -74.1206817969202,
+    "language": "spanish"
+  },
+  {
+    "name": "Guarne Estéreo 88.1 FM",
+    "url": "http://streamingmediaradio.live:8046/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "HJ DOBLE K HUILA 840 AM",
+    "url": "https://inrai1.radioca.st/HJKKneiva",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "HJ Doble K Neiva 840AM",
+    "url": "http://inrai1.radioca.st/HJKKneiva",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 2.926917018539307,
+    "lon": -75.28350291014296,
+    "language": ""
+  },
+  {
+    "name": "HJMO - La FM Bogotá 94.9 FM",
+    "url": "https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/632c9b23d1dcd7027f32f7fe?aid=6271a4d5d206c3172f3c9a9c&pid=sR66otPFYVH3COaPvQsDYgj4TC1khK3P&sid=rd3blGfLcEBmEeiXR7YfQyOM0r0dWIfi&uid=pNLRZjrYOCf71dkLTshHFJVkLOYHJzUY&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1768543304362&ot=Z9sYngzRnYabwKpTcjO1Vg&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=demo-rcn-app-web&liveId=632c9b23d1dcd7027f32f7fe&propertyName=demo-rcn-app-web&listenerId=pNLRZjrYOCf71dkLTshHFJVkLOYHJzUY",
+    "codec": "AAC",
+    "bitrate": 93,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español colombia"
+  },
+  {
+    "name": "HJUN - Radio UNAL Bogotá 98.5 FM",
+    "url": "https://radio.unal.edu.co/streaming/bogota/;stream.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español colombia"
+  },
+  {
+    "name": "Himnos Cristianos del ayer (Radio)",
+    "url": "https://stream.zeno.fm/vkancadp2v8uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español - latinoamerica"
+  },
+  {
+    "name": "HuilaGeek Radio",
+    "url": "https://stream-50.zeno.fm/8smiwwvtfxxvv?zs=NsXtZkTESOS8WG3fMfF0hQ",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 2.7738905804075213,
+    "lon": -75.25463104248048,
+    "language": "spanish"
+  },
+  {
+    "name": "HuilaGeek Radop",
+    "url": "http://stream.zeno.fm/8smiwwvtfxxvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Idólos del Pueblo",
+    "url": "https://stream.zeno.fm/ebbgcc46uxquv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Impacto Radio",
+    "url": "https://radiolatina.info/8080/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Impacto Stereo 98.2 FM",
+    "url": "https://stream.zeno.fm/ezes9wd0ag8uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Improvisando Radio",
+    "url": "https://radio25.virtualtronics.com/proxy/improvisandoradio?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Inci Radio",
+    "url": "https://radiolatina.live/8038/stream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Internacional fm",
+    "url": "https://cloud8.vsgtech.co/8110/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español - latinoamerica"
+  },
+  {
+    "name": "JT 1",
+    "url": "http://sc10.conectarhosting.com/proxy/joventaoistaportal1?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español colombia"
+  },
+  {
+    "name": "JT 2",
+    "url": "https://sc10.conectarhosting.com/proxy/joventaoistaportal2?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español internacional"
+  },
+  {
+    "name": "JT 2",
+    "url": "http://sc10.conectarhosting.com/proxy/joventaoistaportal2?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español colombia"
+  },
+  {
+    "name": "JT 3",
+    "url": "http://sc10.conectarhosting.com/proxy/joventaoistaportal3?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español colombia"
+  },
+  {
+    "name": "Javeriana Estéreo 91,9",
+    "url": "https://radio06.cehis.net/proxy/javerian?mp=%2Fstream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "JuanKiss Radio",
+    "url": "https://emisorasdigitales2.com/8172/stream",
+    "codec": "AAC+",
+    "bitrate": 144,
+    "needsResolve": false,
+    "lat": 6.289090761180975,
+    "lon": -75.56396484375001,
+    "language": ""
+  },
+  {
+    "name": "Kalamary - Radio Cultural Online",
+    "url": "https://stream.zeno.fm/clxflencimitv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "King",
+    "url": "https://acortar.link/RadioNezuxKingMoralesPermanent",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español - latinoamerica"
+  },
+  {
+    "name": "LA CLÁSICA",
+    "url": "https://stream-156.zeno.fm/vbp236a2qzzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2YnAyMzZhMnF6enV2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiSHhTS21YM3VTN2VzeDA3MnJ0UV9FQSIsImlhdCI6MTc2ODQzOTk3NCwiZXhwIjoxNzY4NDQwMDM0fQ.Fe8B7skJKIFoEkwh2SPigH28hALA0e3ZIZdA5hJ2Zgg",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "LA DESPECHADA STÉREO",
+    "url": "https://stream-155.zeno.fm/ul8iy0iedlauv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1bDhpeTBpZWRsYXV2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTldHRVZIb19RdWFrSDFRV19mOVp6dyIsImlhdCI6MTc2ODQ1MDE4OCwiZXhwIjoxNzY4NDUwMjQ4fQ.a3drYcU6fZYvIva1aXYe_o23y6KxrnECtqUyiydQrGo",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "LA ESTACION VALLENATA FM",
+    "url": "https://stream.zeno.fm/zpm4h7k2znhvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "LA KALLE 96.9 FM",
+    "url": "https://27443.live.streamtheworld.com/LA_KALLE_ADP.aac",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "LA SALSERA RADIO",
+    "url": "https://streaming01.shockmedia.com.ar/8912/stream",
+    "codec": "AAC+",
+    "bitrate": 144,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "LA VOZ DE LA LIBERACION IBAGUÉ",
+    "url": "https://stream.zeno.fm/2wyefrmuruhvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "LA X 96.5 Cali",
+    "url": "https://onlineradiobox.com/json/co/lax/play?platform=web",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 3.452947232925887,
+    "lon": -76.52835845947267,
+    "language": "spanish"
+  },
+  {
+    "name": "LOS40 Colombia",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_COLOMBIAAAC.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 4.657448189440479,
+    "lon": -74.08338546752931,
+    "language": "spanish"
+  },
+  {
+    "name": "LOS40 Colombia",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_COLOMBIA.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "La 1070 de Radio Santa Fe (Q'Hubo Radio, HJCG, 1070 kHz, Bogotá)",
+    "url": "http://27413.live.streamtheworld.com/QHUBO_BOGOTAAAC_SC",
+    "codec": "AAC+",
+    "bitrate": 56,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "La Caqueteña 93.1 FM",
+    "url": "https://inrai04.radioca.st/lacaquetena",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "La Ciento 7 Digital - FM 107.8",
+    "url": "https://radiohd.streaminghd.co:7190/live",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "La Costeña Stereo 91.0 FM",
+    "url": "https://play8.tikast.com:20060/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "La Discoteca Radio",
+    "url": "https://streamingmediaradio.live:8002/stream",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "La Enamorada FM",
+    "url": "https://laenamoradafm.com/live/",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "La Exitosa Medellin 89.5 FM",
+    "url": "https://stream.zeno.fm/h5u3b6unxk8uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "La FM Bogotá",
+    "url": "https://mdstrm.com/audio/632c9b23d1dcd7027f32f7fe/live.m3u8",
+    "codec": "AAC",
+    "bitrate": 98,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "La FM plus",
+    "url": "https://us-b4-p-e-jn18-audio.cdn.mdstrm.com/live-audio-aw/627c1c39637d89088290f64d",
+    "codec": "AAC",
+    "bitrate": 125,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "La FM- Barranquilla",
+    "url": "https://cl-a3-p-e-av11-audio.cdn.mdstrm.com/live-audio-aw/632cbdb5202d6801a31785b0",
+    "codec": "AAC",
+    "bitrate": 93,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "La Isla 89.5 Fm",
+    "url": "https://radiohd.streaminghd.co:7238/stream?1708935217",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "La Jefa 1300 AM",
+    "url": "https://sonic.paulatina.co/7046/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "La Kalle",
+    "url": "http://26683.live.streamtheworld.com/LA_KALLE_SC",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "La Kalle FM",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/LA_KALLE.mp3",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "La Max Baladas Rock",
+    "url": "https://stream.zeno.fm/z47igaaa4xquv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "La Max Vallenata",
+    "url": "https://stream.zeno.fm/nbcpokz3q3wvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "La Mega (Medellín) 92.9 FM",
+    "url": "https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/632cb48f613bac0856b931ab",
+    "codec": "AAC",
+    "bitrate": 125,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "La Mega (Pereira) 105.2 FM",
+    "url": "https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/632ce0bf9234f869e9a522af",
+    "codec": "AAC",
+    "bitrate": 125,
+    "needsResolve": false,
+    "lat": 4.815686038648468,
+    "lon": -75.69483786821365,
+    "language": "español colombia,spanish"
+  },
+  {
+    "name": "La Mega Barranquilla",
+    "url": "https://mdstrm.com/audio/632cbad6d1dcd7027f32fff6/icecast.audio",
+    "codec": "AAC",
+    "bitrate": 93,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "La Máxima 89.1 FM",
+    "url": "https://streamming.dobitsoluciones.com:7032/live",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "La O Latina",
+    "url": "http://stream.zeno.fm/ywtwfn50tfeuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "La Ochentera Medellin Colombia",
+    "url": "https://tupanel.info/stream/emisora919fm",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 7.292724346622854,
+    "lon": -74.88281250000001,
+    "language": ""
+  },
+  {
+    "name": "La Pachanguera FM",
+    "url": "https://stream.zeno.fm/cc6vqgx4kv8uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "La Pachanguera FM",
+    "url": "http://radiolatina.info:8772/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "La Poderosa 104.1 FM",
+    "url": "https://samuel.i-radio.co:8001/araunastereo",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "La Radio Deportes",
+    "url": "https://samuel.i-radio.co:9000/radiodeportes",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "La Radio Estación ZaS Radio",
+    "url": "https://stream-176.zeno.fm/axxxe1rs2nhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJheHh4ZTFyczJuaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiSzhTeGJldHJUZTJ4c0ZIdDRaZjFaUSIsImlhdCI6MTc2ODQzNTU2OCwiZXhwIjoxNzY4NDM1NjI4fQ.Wz2sSUppTJA_hIBJUjMCvd7KxTa7ZpE2Bmc2GrWUuIo",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "La Radio de mi Gente 93.5 FM",
+    "url": "https://stream.zeno.fm/gvdivgxxlg7tv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "La Reina Barranquilla",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RNA_BARRANQUILLAAAC.aac?dist=oro_web",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "La Reina Barranquilla",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RNA_BARRANQUILLAAAC.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "La Reina Cartagena 95.5 FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RNA_CARTAGENAAAC.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "La Rockola FM",
+    "url": "https://stream.zeno.fm/uz2idrgoqnduv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español - latinoamerica"
+  },
+  {
+    "name": "La Sonora 100.6 Samacá",
+    "url": "https://sonic.paulatina.co/8122/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "La Sonora 100.6 Valle de Tenza",
+    "url": "https://sonic.paulatina.co/8088/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "La Sonora 88.1 Sogamoso",
+    "url": "https://sonic.paulatina.co/8126/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "La Sonora 89.1 Tunja",
+    "url": "https://sonic.paulatina.co/7068/stream",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "La Sonora 89.6 Márquez",
+    "url": "https://sonic.paulatina.co/8128/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "La Sonora 94.1 Bajo Ricaurte",
+    "url": "https://sonic.paulatina.co/8100/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "La Super Estación Online",
+    "url": "https://stream-154.zeno.fm/udaw685yezzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1ZGF3Njg1eWV6enV2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiR2ltdjBYQU1UTVdqQVlPSkVncHNZUSIsImlhdCI6MTc2ODQ1ODU5OSwiZXhwIjoxNzY4NDU4NjU5fQ.4-tjcb-Zm1CCKDR9L12H4p8snxcdxTU-DVMV0_lPXok",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "La Troja Radio",
+    "url": "https://streaming01.shockmedia.com.ar:8034/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "La Voz De Amagá 105.4 FM",
+    "url": "https://stream-157.zeno.fm/b7g2zzskh5zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJiN2cyenpza2g1enV2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiOHAzTzNYV0xTc1dyOUdoT0ZuTm1vdyIsImlhdCI6MTc2ODQ1MzQ0MSwiZXhwIjoxNzY4NDUzNTAxfQ.UTt5m_Zacw6t6hew8Nw-CbIEU3daLNvy8XEb-3uYbjY",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "La Voz De Dios",
+    "url": "http://stream.zeno.fm/wwny9dqrz8quv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español internacional,spanish"
+  },
+  {
+    "name": "La Voz Del Caribe",
+    "url": "https://streaming.radiosenlinea.com.ar:10886/stream",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 10.939034493668386,
+    "lon": -74.81140136718751,
+    "language": "spanish"
+  },
+  {
+    "name": "La Voz Del Cañaguate 860 AM",
+    "url": "https://sonic.paulatina.co/7278/stream/;",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "La Voz de Etashtitlan",
+    "url": "https://sc10.conectarhosting.com/proxy/vzdetashtitlan?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español internacional"
+  },
+  {
+    "name": "La Voz de Etashtitlan",
+    "url": "http://sc10.conectarhosting.com/proxy/vzdetashtitlan?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español colombia"
+  },
+  {
+    "name": "La Voz de Jesús",
+    "url": "https://stream-156.zeno.fm/phybdd3ph98uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwaHliZGQzcGg5OHV2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoibl9MaFNpOG9TZ3lQU1lwT01sRDJmQSIsImlhdCI6MTc2ODQ1MTQzOCwiZXhwIjoxNzY4NDUxNDk4fQ.0RO-v4KASByx3lmiCsdCxP6vVzRNCR9_w1U8gapnZsA",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "La Voz de Jesús",
+    "url": "http://stream-155.zeno.fm/phybdd3ph98uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwaHliZGQzcGg5OHV2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoialZvdTNBWWdUME9SeGdROXAwZnhJQSIsImlhdCI6MTc2ODQ0MDA2OSwiZXhwIjoxNzY4NDQwMTI5fQ.jxjFavcFFpTNxnas9G3dzfEbwSlKKF67aGJOhlnR_BY",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 8.752339907230898,
+    "lon": -75.88102340698244,
+    "language": ""
+  },
+  {
+    "name": "La Voz de los Llaneros 106.3FM",
+    "url": "https://1063.meta.gov.co/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "La Voz del Cinaruco 1050 AM",
+    "url": "https://radiolatina.info/7438/stream/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "La Voz del Rio Grande 910 AM",
+    "url": "https://tupanel.info:8410/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "La Voz del Tao 5",
+    "url": "http://mediacp15.rootservers.co:18070/stream",
+    "codec": "MP3",
+    "bitrate": 24,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español mexico"
+  },
+  {
+    "name": "La X 96.5",
+    "url": "https://tupanel.info/stream/2digitalradioHDsslLIVE040",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "La X Medellín 103.9 FM",
+    "url": "https://tupanel.info:8000/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "La X Más Música 03.9 Bogotá",
+    "url": "https://s5.radio.co/s980fc5249/listen",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,spanish"
+  },
+  {
+    "name": "La mezcla FM 89.4",
+    "url": "https://stream.zeno.fm/kjnnqoql3qrtv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "La voz de Jesús",
+    "url": "https://stream-157.zeno.fm/phybdd3ph98uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwaHliZGQzcGg5OHV2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiYXE4b3lRR2JUM2lwQ0lXRFRyYVJ2dyIsImlhdCI6MTc2ODQ0MzI5NiwiZXhwIjoxNzY4NDQzMzU2fQ.1IfeO9gxpKmOevHGtj8eKITAzLJOjTETwxh2itMHBAM",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "La voz de mi tierrita 94.1 FM",
+    "url": "https://radiohd4.streaminghd.co:8040/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 5.55394505300131,
+    "lon": -73.86567056179048,
+    "language": "spanish"
+  },
+  {
+    "name": "La voz del Norte 1040 AM",
+    "url": "https://play10.tikast.com:20021/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "La x Bogota",
+    "url": "https://www.laxmasmusica.com/static/web_dataNormal.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 4.613658322870578,
+    "lon": -74.08081054687501,
+    "language": "spanish"
+  },
+  {
+    "name": "Latina Stereo",
+    "url": "https://stream.latinastereo.com/proxy/latina/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "MIX 103.9 FM Barranquilla",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIX_BARRANQUILLAAAC.aac?dist=oro_web",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "MIX Cali 102.5 FM",
+    "url": "https://14133.live.streamtheworld.com/MIX_CALIAAC_SC",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 3.446940194391687,
+    "lon": -76.52890735667154,
+    "language": ""
+  },
+  {
+    "name": "Madrigal Stereo",
+    "url": "https://streaming.radiosenlinea.com.ar:10983/stream",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Madrigal Stereo 881 FM",
+    "url": "https://streaming.radiosenlinea.com.ar/8096/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Majuy Stereo",
+    "url": "https://yesfm.vip:8010/laquemegusta.mp3/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Marandua Stereo",
+    "url": "http://radiolatina.info/9430/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Mas Baladas Stereo",
+    "url": "https://stream-154.zeno.fm/5mqdcrn07pkuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI1bXFkY3JuMDdwa3V2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVmRyaGE1eGhUQ09qLXJOSTd5QlE2USIsImlhdCI6MTc2ODQ2NjE4NSwiZXhwIjoxNzY4NDY2MjQ1fQ.-f1k9Zqut0cHB6iWVjGm5xUE1fY7GIrd0Yq3SdoOPUs",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "MaximusRockFM",
+    "url": "http://stream.laut.fm/maximusrockfm",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 6.245619089562993,
+    "lon": -75.57626048325785,
+    "language": "english"
+  },
+  {
+    "name": "Medellin 104.9 - Olimpica Stereo",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_MEDELLINAAC.aac?1707017722",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Mega St☆r Colombia",
+    "url": "http://stream.zeno.fm/h9x7hs6aqs8uv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Metrópolis Stereo",
+    "url": "https://streaming.radiosenlinea.com.ar:10898/stream",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Mi Ruta Mi Musica Retro",
+    "url": "http://stream.zeno.fm/whvx8sy8hv8uv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 2.3138240057196446,
+    "lon": -76.58081056550147,
+    "language": "english,spanish"
+  },
+  {
+    "name": "Mi%Vallenatísima",
+    "url": "https://streaming.radiosenlinea.com.ar:10865/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Mix (Medellín) 89.9 FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIX_MEDELLINAAC.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Mix 1039 Barranquilla",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIX_BARRANQUILLA_SC",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Mix Bogota",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIX_BOGOTAAAC.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 2.0265548563992843,
+    "lon": -72.77343750000001,
+    "language": "spanish"
+  },
+  {
+    "name": "Mix Radio 103.9",
+    "url": "https://master.letio.com/io/?gs=9156&type=master.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 146,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Mix Radio Barranquilla",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIX_BARRANQUILLAAAC.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Mundo Retro - Rock & Pop en Español",
+    "url": "https://stream-151.zeno.fm/3y2q8paptqruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzeTJxOHBhcHRxcnV2IiwiaG9zdCI6InN0cmVhbS0xNTEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiNXdUV1BMVmtUZXF3OC1kV3NEVVg4USIsImlhdCI6MTc2ODQ0MDUyOSwiZXhwIjoxNzY4NDQwNTg5fQ.I4eOV4Q3D-02TuW_DvNTzSpx-6TLCRv6XhXa1Wtk9Ec",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Musical Stereo",
+    "url": "https://sonic.paulatina.co/8156/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 3.449609801519456,
+    "lon": -76.53345454732091,
+    "language": "castellano. español,español colombia"
+  },
+  {
+    "name": "Musical Stereo",
+    "url": "https://sonic.paulatina.co/8156/stream/;",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Música Tropical... RDC Radio",
+    "url": "https://stream-155.zeno.fm/4fcavsowcdvvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0ZmNhdnNvd2NkdnZ2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiUFQ5WWp0OFBRUjZDYy13TE95dVkxQSIsImlhdCI6MTc2ODQ2NTI3MywiZXhwIjoxNzY4NDY1MzMzfQ.rOKLIIm6wdPSd4ImIua6tu0Far8w463Uj4L6p3E8sro",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Namuy Wam 92.2 FM",
+    "url": "https://stream.zeno.fm/d2ctyx7x908uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Nevermore Radio - Nevermore Network",
+    "url": "https://panel.nevermorenetwork.com/listen/nevermorenetwork.com/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,español - latinoamerica,spanish"
+  },
+  {
+    "name": "Nueva Era Algeciras Sterio 107.8 FM",
+    "url": "https://radiohd.streaminghd.co:7154/stream",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "OLIMPICA ESTÉREO 89.5 GUAJIRA",
+    "url": "https://stream.zeno.fm/f4ese4m5prytv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "ORIENTAL STEREO 105.6 FM (Santo Tomas)",
+    "url": "https://stream.zenolive.com/4fp466sp46duv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Olimpica Stereo 101.5 Fm Sincelejo",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_SINCELEJOAAC.aac?1715700010",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Olimpica Stereo 90.5 Fm Monteria",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_MONTERIAAAC_SC?1715699972",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Olimpica Stereo 90.5 fm Cartagena",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_CARTAGENAAAC_SC?1715570345",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Olimpica Stereo Bucaramanga 97.7 FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_BUCARAMANGAAAC.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Olimpica Stereo Cali",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_CALIAAC.aac?dist=oro_web",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 3.4665415998488345,
+    "lon": -76.51752580294043,
+    "language": "spanish"
+  },
+  {
+    "name": "Olímpica Stereo (Barranquilla)",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_BARRANQUILLAAAC_SC",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Olímpica Stereo (Medellín) 104.9-FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_MEDELLINAAC.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "espanish"
+  },
+  {
+    "name": "Olímpica Stereo - Barranquilla",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_BARRANQUILLAAAC.aac?dist=oro_web",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Olímpica Stereo Pereira",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_PEREIRAAAC.aac?dist=oro_web",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 4.813509004435577,
+    "lon": -75.69588661193849,
+    "language": "español colombia"
+  },
+  {
+    "name": "Olímpica Stereo(Bogotá)",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_BOGOTAAAC.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 4.6559998993586,
+    "lon": -74.08081054687501,
+    "language": "español colombia,spanish"
+  },
+  {
+    "name": "Olímpica Stéreo 104.5 Cali",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_CALI.mp3",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Olímpica Stéreo 92.1 Barranquilla",
+    "url": "https://master.letio.com/io/?gs=9102&type=live.mp3",
+    "codec": "UNKNOWN",
+    "bitrate": 146,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Omega Digital Sterio Hispania 107.4 FM",
+    "url": "https://stream.zeno.fm/bb7ctrzeyy8uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Ondas de Ibagué 1470 AM",
+    "url": "https://stream.zeno.fm/3cng9cx5eeruv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Oyente Stereo",
+    "url": "https://server2.ejeserver.com:8364/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "PASION CRISTIANA",
+    "url": "https://stream.zeno.fm/ff5at146ctzuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "PENTECOSTES ESTEREO",
+    "url": "https://stream.zeno.fm/7hmh4gwy9gltv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "inglés/portugués/español"
+  },
+  {
+    "name": "POPAYAN FM 105.1",
+    "url": "http://148.72.152.176:8018/stream",
+    "codec": "AAC",
+    "bitrate": 112,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español colombia"
+  },
+  {
+    "name": "PRECURSOR RADIO",
+    "url": "https://stream.zeno.fm/14zkzvzn7s8uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 10.827702547283373,
+    "lon": -75.03378868103029,
+    "language": "spanish"
+  },
+  {
+    "name": "PUERTO ESTEREO 98.4 FM",
+    "url": "https://radiohd.streaminghd.co:7286/stream",
+    "codec": "AAC",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Paisa Estereo",
+    "url": "http://radiolatina.info:7094/",
+    "codec": "AAC+",
+    "bitrate": 28,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Parranda Vallenata",
+    "url": "https://stream.zeno.fm/yvkdptxuo5ivv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "PaseitoRadio",
+    "url": "https://stream.zeno.fm/pdtq1ksbcnruv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español mexico"
+  },
+  {
+    "name": "Pechichon Radio Vallenato",
+    "url": "https://stream.zeno.fm/1h4etup3cveuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Pedazo de Acordeón",
+    "url": "http://62.210.38.137:8446/stream?utm_source=chatgpt.com",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Pereira Stereo",
+    "url": "https://stream.zeno.fm/anv472sq0wzuv?1745577773388",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Pingüino Estéreo",
+    "url": "http://radiolatina.info:9750/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Playa Blanca Estéreo 97.7 FM",
+    "url": "https://stream.zeno.fm/txrl9mo5gkbuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Power Online",
+    "url": "https://stream.zeno.fm/s41r4my8uwzuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Puerto Berrío Stereo 89.4 FM",
+    "url": "https://radiolatina.info/9800/stream/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "R2 Audiovisual - Radio Tunja",
+    "url": "https://stream-151.zeno.fm/bufaptza04zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJidWZhcHR6YTA0enV2IiwiaG9zdCI6InN0cmVhbS0xNTEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTFJKbEo0V2ZUXy00cFdTTWIzZHJ2ZyIsImlhdCI6MTc2ODQ1MzU2OCwiZXhwIjoxNzY4NDUzNjI4fQ.Eptq0yOeqvc-20jACb2f5d7LPJn7LG7d56rLn22nFe4",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "R2 Audivisual Radio Tunja",
+    "url": "http://stream-154.zeno.fm/bufaptza04zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJidWZhcHR6YTA0enV2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRk5uWk12bEtSXzZISFNuT0VNR1MxQSIsImlhdCI6MTc2ODQ0NDE3NiwiZXhwIjoxNzY4NDQ0MjM2fQ.2gwSkGfvFlgPQZKk74i8hWy1Xl_kco6buoznT8zAIqw",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO EXPRESO LATINO",
+    "url": "https://stream.zenolive.com/qren9t8qd6quv.aac",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "RADIO INFORMATIVA DE COLOMBIA",
+    "url": "https://stream.zeno.fm/uhaugz8qk3rtv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "RADIO PALMIRA 1050 AM",
+    "url": "https://stream.zeno.fm/3e6q693tnd0uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "RADIO POLICIA NACIONAL 91.7 FM",
+    "url": "https://stream-157.zeno.fm/fzddg2ybssuuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJmemRkZzJ5YnNzdXV2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiYXBDbkZFbTlRbnEzWHZhQktfMEFJdyIsImlhdCI6MTc2ODQzNzM1OSwiZXhwIjoxNzY4NDM3NDE5fQ.xOfa4r4IWyTLQf_aTswrv5YfU12QBzrR1N7zec-YOOE",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "RADIO POLICÍA BUCARAMANGA 91.7 FM",
+    "url": "https://stream-156.zeno.fm/fzddg2ybssuuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJmemRkZzJ5YnNzdXV2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMV9wOFpmV2hUSmF5SjVNcjlVTDBGUSIsImlhdCI6MTc2ODQ1Nzg0MywiZXhwIjoxNzY4NDU3OTAzfQ.iUVNzZkEZTWLyj2IbJdqZ_Z41RpgNPIj2ifsoeW_KOc",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "RADIO POLICÍA NACIONAL\" \"106.0 FM (CARTAGENA)",
+    "url": "https://stream.zeno.fm/7uec7b5ukm0uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "RADIO SUPER FIESTA",
+    "url": "https://stream.zeno.fm/2aek8bfhewzuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 3.823148557391301,
+    "lon": -74.44335937500001,
+    "language": ""
+  },
+  {
+    "name": "RADIO UNO PEREIRA 94.7 FM",
+    "url": "https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/632ce1416197360894629aa6",
+    "codec": "AAC",
+    "bitrate": 125,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "RCS. Cartagena Stereo",
+    "url": "http://stream.zeno.fm/get7vdy9dchvv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "RENCORDRADIO",
+    "url": "https://sonicpanel.streaming10.net/8134/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 5.824369747214179,
+    "lon": -75.78369140625001,
+    "language": "english,spanish"
+  },
+  {
+    "name": "ROCK POP LATINO",
+    "url": "https://stream.zeno.fm/6wna3u3m21zuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio 1040 (1040 AM)",
+    "url": "https://streamming.dobitsoluciones.com:7036/live",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Autentica Villavicencio 1080 AM",
+    "url": "http://radio35.virtualtronics.com:8285/;",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Auténtica Bogotá 540 AM",
+    "url": "https://radiolatina.info:10835/;",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Auténtica Cali 660 AM",
+    "url": "https://play10.tikast.com:20113/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Bolivariana AM 1110 kHz",
+    "url": "https://streaming.codigoe-marketing.co:8620/test.mp3",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": 6.242042085705773,
+    "lon": -75.59048652648927,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Bolivariana FM (HJA94, 92.4 MHz FM, Medellín) Universidad Pontificia Bolivariana",
+    "url": "http://streaming.radiobolivarianavirtual.com:7630/",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Capital 1250 AM",
+    "url": "https://radiolatina.info/9322/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Centro Cristiano Bogotá",
+    "url": "http://fluoz.zeno.fm/b8cq8kmx5x8uv/source",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Chipazaque Junin Cundinamarca",
+    "url": "https://stream.zeno.fm/ig1twwgxkiavv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Chipazaque Tunja",
+    "url": "http://stream.zeno.fm/9k31xz9004zuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Cristiana Colombia",
+    "url": "https://stream.zeno.fm/a3y646rxcfhvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Cristiano Bíblico",
+    "url": "https://stream-158.zeno.fm/jth8it4lbfmuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJqdGg4aXQ0bGJmbXV2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRGFNeW9OZGVRSG1FVlFBN2N6aDNWUSIsImlhdCI6MTc2ODQ0ODQyOCwiZXhwIjoxNzY4NDQ4NDg4fQ.oYWoTUQYmMlLzTksqguQUcv2dAYLcf_6-BJ49FT1-nE",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Eco Cali",
+    "url": "https://stream.zeno.fm/5gdds772w2quv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio El Mundo Del Rock",
+    "url": "https://stream.zeno.fm/e6snw5vr6s8uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Guatapuri",
+    "url": "https://sonic.paulatina.co/7106/stream?1715700597",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio INEM Popayán",
+    "url": "https://stream-179.zeno.fm/wmpttle6ysmtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ3bXB0dGxlNnlzbXR2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiZllFNkZGb2dUb1dQQmxrRU1tUzA4dyIsImlhdCI6MTc2ODQ2MTY4MywiZXhwIjoxNzY4NDYxNzQzfQ.jryHqutKPGpmVRSFm1O1GT_KbWQWtOOLgdB56yGGe3Q",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Ipiales Caracol (HJJJ, 1400 kHz AM)",
+    "url": "http://radiolatina.info:9456/;stream.nsv",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Laodicea",
+    "url": "https://stream.zeno.fm/thpvjfgwiuquv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio María Colombia",
+    "url": "http://dreamsiteradiocp.com:8076/",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Mas RocknPop",
+    "url": "https://streaming.masrocknpop.com/8188/stream",
+    "codec": "AAC+",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": -18.74857507993667,
+    "lon": -72.28678327856332,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Meridiano 70 1170 AM",
+    "url": "https://mediacp15.rootservers.co/stream/8018",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Nacional de Colombia",
+    "url": "https://streaming.rtvc.gov.co/Radio_Radionacional/Radionacional.stream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Nacional de Colombia",
+    "url": "http://shoutcast.rtvc.gov.co:8000/;",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Online Fusagasuga",
+    "url": "https://stream-176.zeno.fm/rxsg20wcfg8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyeHNnMjB3Y2ZnOHV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTnc5NGVOV0ZRWDJXTW10anFtQ0U0QSIsImlhdCI6MTc2ODQ0ODYxMCwiZXhwIjoxNzY4NDQ4NjcwfQ.n-wul-HLTN7ycxfUPKYSXxuQNPvEDRDfMySS9Lm8iEc",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Planeta Cali",
+    "url": "https://sp4.colombiatelecom.com.co/8098/stream",
+    "codec": "AAC",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 3.636228608845185,
+    "lon": -76.58486217683011,
+    "language": ""
+  },
+  {
+    "name": "Radio Policia Nacional 95.7 FM",
+    "url": "https://stream.zeno.fm/7hnb530h1v8uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Policía (Medellín) Nacional 96.4 FM",
+    "url": "https://radio35.virtualtronics.com/proxy/radiopolicia964?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Power",
+    "url": "https://stream.zeno.fm/dlvtl3hthyxvv.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Power",
+    "url": "https://stream.zeno.fm/nfmtu6yyw8rvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,spanish"
+  },
+  {
+    "name": "Radio Power Urbana",
+    "url": "https://stream.zeno.fm/cxf1r8zukyhuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 4.1258992588098415,
+    "lon": -74.32662596076014,
+    "language": ""
+  },
+  {
+    "name": "Radio Recuerdos 1230 AM",
+    "url": "https://radio35.virtualtronics.com/proxy/radiorecuerdos?mp=/;",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Rock Colombia",
+    "url": "https://stream-164.zeno.fm/cbw0z9hzy68uv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 4.6826445836464385,
+    "lon": -74.08191250993984,
+    "language": "english,spanish"
+  },
+  {
+    "name": "Radio Santa Barbara 1310 AM",
+    "url": "https://stream.zeno.fm/2a68q1cr0c9uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Tango",
+    "url": "https://stream.zeno.fm/uxxf2xaxdzzuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Tiempo",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RT_CARTAGENAAAC.aac?1715700626",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Tiempo 96.1 FM",
+    "url": "https://radio.garden/api/ara/content/listen/bQueuUi0/channel.mp3?1721304580410",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Tiempo Barranquilla",
+    "url": "https://master.letio.com/io/?gs=9100&type=master.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 146,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Tiempo Barranquilla",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RT_BARRANQUILLAAAC.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Tiempo Cali 89.5 FM",
+    "url": "https://26583.live.streamtheworld.com/RT_CALIAAC_SC",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 3.4496296244265556,
+    "lon": -76.52168679618725,
+    "language": ""
+  },
+  {
+    "name": "Radio Tiempo Cartagena Colombia",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RT_CARTAGENAAAC.aac?dist=RtCarWeb",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Tiempo Medellín",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RT_MEDELLINAAC.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Universidad Nacional",
+    "url": "https://radio.unal.edu.co/streaming/bogota/stream.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 4.639710808466049,
+    "lon": -74.0902090072632,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Uno (Barranquilla)",
+    "url": "https://mdstrm.com/audio/632cbb54ebfe48089b0c504d/icecast.audio",
+    "codec": "AAC",
+    "bitrate": 93,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Viva Fenix Ipiales (HJB29, 89.1 MHz FM)",
+    "url": "https://radiolatina.info/8170/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 0.830076028170638,
+    "lon": -77.63458428263682,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Viva Fenix Ipiales (HJNM, 1220 kHz AM)",
+    "url": "https://radiolatina.info/8172/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 0.8300781725340763,
+    "lon": -77.63460794467655,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Viva Fenix Pasto (HJFV, 780 kHz AM)",
+    "url": "https://radiolatina.info/8166/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 1.2042231787308584,
+    "lon": -77.27663575307274,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Voces del Pacífico (106.6 FM)",
+    "url": "https://virtualtronics.net/proxy/pacifico?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Voltio",
+    "url": "https://radio.lacasaradio.com/radiovoltio/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio opita",
+    "url": "https://stream.zeno.fm/5vrzasq2by0tv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 1.944284849226394,
+    "lon": -76.06219543827068,
+    "language": "español colombia"
+  },
+  {
+    "name": "Radio tropical cristiano",
+    "url": "https://stream.zeno.fm/vwqjwmcm8cfuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "RadioActiva 97.9FM. El planeta Rock",
+    "url": "http://27583.live.streamtheworld.com:3690/RADIO_ACTIVAAAC_SC",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radioacktiva (Bogotá) - 97.9 FM - HJJK - PRISA Radio - Bogotá, Colombia",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ACTIVAAAC.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 4.657106000267011,
+    "lon": -74.08510208129884,
+    "language": "spanish"
+  },
+  {
+    "name": "Radioacktiva (Medellín) - 102.3 FM - PRISA Radio - Medellín, Colombia",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOACKTIVA_MEDAAC.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 6.2463236247620255,
+    "lon": -75.57314872741699,
+    "language": "spanish"
+  },
+  {
+    "name": "Radioacktiva 97.9 FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ACTIVA.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radioaktiva",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ACTIVA.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 4.6395632356581675,
+    "lon": -74.08630371093751,
+    "language": "spanish"
+  },
+  {
+    "name": "Radiónica (HJYM 99.1 Bogotá) RTVC",
+    "url": "http://shoutcast.rtvc.gov.co:8010/;",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radiónica Bogotá",
+    "url": "https://streaming.rtvc.gov.co/Radio_Radionica/Radionica.stream/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": 4.6380381313766215,
+    "lon": -74.09221261739732,
+    "language": "spanish"
+  },
+  {
+    "name": "Refrigerio para el Alma",
+    "url": "https://stream.zeno.fm/ccpylahpmg4uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 3.243644485237555,
+    "lon": -76.55277847382854,
+    "language": "spanish"
+  },
+  {
+    "name": "Romántica Radio Digital",
+    "url": "https://stream.radiolive.com.co/listen/romantica_radio_digital/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 6.334578201730801,
+    "lon": -75.54748535156251,
+    "language": "español internacional"
+  },
+  {
+    "name": "Romántica Stereo 88.1 FM Pasto",
+    "url": "http://radiolatina.info:7096/stream?type=http&nocache=24848",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Rosareña stereo 93.1 FM",
+    "url": "https://stream-179.zeno.fm/74w6xdg9wf9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3NHc2eGRnOXdmOXV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiY1Zod2hsbEFTZHFDbGNTOWZNSE9qUSIsImlhdCI6MTc2ODQ1NzY5OSwiZXhwIjoxNzY4NDU3NzU5fQ.okjCHEJY6ohluOsIDvqGw5cocfb3D_mB9XMZAC2G-JM",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "SALSA CRISTIANA",
+    "url": "https://stream.zeno.fm/131byu0uvmzuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "SALSA Y CHARANGA 24/7",
+    "url": "https://stream.zeno.fm/3wxfyaqc1rhvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "SOLO BALADAS RADIO",
+    "url": "https://stream.zeno.fm/fnsco8ngeszvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Sabor Boricua Radio",
+    "url": "http://usa19.fastcast4u.com:6170/live",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Salmistas Radio",
+    "url": "https://servers58.com/proxy/salmista?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Salsa Clásica Éxitos",
+    "url": "http://stream.zeno.fm/2uva4f786reuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Salsa Latina",
+    "url": "https://play10.tikast.com/proxy/zsalsalatina?mp=/stream",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 6.199349569077189,
+    "lon": -75.38818359375,
+    "language": ""
+  },
+  {
+    "name": "Salsa Magistral",
+    "url": "https://cloud8.vsgtech.co/8004/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 3.452902256754972,
+    "lon": -76.53206707581026,
+    "language": "spanish"
+  },
+  {
+    "name": "Salsa y mas Cali",
+    "url": "https://stream.zeno.fm/42w3pfn7pzzuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "San Sebastián stereo 107.0 fm",
+    "url": "https://stream.zeno.fm/acvoec7qdqntv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Santa Barbara Stereo 106.6 FM",
+    "url": "https://sonic.paulatina.co/7376/;",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Son Latino Medellín",
+    "url": "https://sonlatinomedellin.com/envivo",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español mexico"
+  },
+  {
+    "name": "Su Presencia",
+    "url": "http://supresenciaradio.out.airtime.pro:8000/supresenciaradio_a",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Su Presencia Radio",
+    "url": "https://supresenciaradio.out.airtime.pro/supresenciaradio_a",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Su Presencia radio",
+    "url": "http://supresenciaradio.out.airtime.pro:8000/supresenciaradio_c",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "SupaJamz Radio",
+    "url": "http://usa19.fastcast4u.com:6210/live",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Super Clásica",
+    "url": "http://77.73.69.238:8000/stream",
+    "codec": "MP3",
+    "bitrate": 56,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Super Clásica",
+    "url": "http://sclasica-stream.sytes.net:8012/;",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Super Estación 88.9",
+    "url": "https://emisorasdigitales2.com/8018/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 4.671929756506085,
+    "lon": -74.0553778409958,
+    "language": "english,español - latinoamerica"
+  },
+  {
+    "name": "TAME FM STEREO 88.3",
+    "url": "https://stream.zeno.fm/yxhbza3fndpuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Techno Live Sets",
+    "url": "https://streamlive1.hearthis.at:8000/1329668.ogg?time=1783357004",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": 6.2425814795458505,
+    "lon": -75.58001518249513,
+    "language": "spanish"
+  },
+  {
+    "name": "Techno Record FM Tunja",
+    "url": "http://stream.zeno.fm/r3d2u9pu87zuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Telemedellín Radio",
+    "url": "https://colombiawebs.com.co/proxy/stream320?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "The Beatles Radio",
+    "url": "http://stream.zenolive.com/g91u6ddb86duv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "espaňol"
+  },
+  {
+    "name": "Toca Stereo 105.3 fm",
+    "url": "https://colombiawebs.com.co/proxy/tocaestereo/stream/1/",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 4.343755187448188,
+    "lon": -74.36116992277468,
+    "language": ""
+  },
+  {
+    "name": "Toque Latino",
+    "url": "https://radiohd.streaminghd.co:7077/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Tres Fronteras FM 96.3",
+    "url": "https://play8.tikast.com/proxy/frontera?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Tropicalisima FM Tunja",
+    "url": "http://stream.zeno.fm/vp6ab0schg8uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Tropicana (Medellín) 98.9 FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TR_MEDELLINAAC.aac",
+    "codec": "AAC+",
+    "bitrate": 56,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Tropicana Barranquilla",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TR_BARRANQUILLA_SC",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Tropicana Bogotá (HJRX 102.9) Caracol Radio",
+    "url": "http://26673.live.streamtheworld.com:3690/TROPICANA_SC",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Tropicana Cali 93.1 fm",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/TR_CALI.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 3.4460932185149313,
+    "lon": -76.52698516845705,
+    "language": "spanish"
+  },
+  {
+    "name": "Tropicana Popayán  106.1",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TR_POPAYAN_SC",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Tropicanal 98.9 FM",
+    "url": "http://stream.zeno.fm/kmnekh2929duv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Tropicanal Tropical 98.9 FM",
+    "url": "https://stream.zeno.fm/kmnekh2929duv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Tu 95.5 FM",
+    "url": "https://stream20.usastreams.com:7094/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "UN Radio Bogotá",
+    "url": "https://radio.unal.edu.co/streaming/bogota/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 4.6355723426950615,
+    "lon": -74.0829885005951,
+    "language": "spanish"
+  },
+  {
+    "name": "UNIAUTÓNOMA 94.1 FM",
+    "url": "https://cast6.my-control-panel.com/proxy/unica/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "UdeC Radio",
+    "url": "http://190.242.62.236:8000/;",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": 10.42589077906563,
+    "lon": -75.55162668228151,
+    "language": ""
+  },
+  {
+    "name": "Unicauca stereo",
+    "url": "https://emisora.unicauca.edu.co/stream",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Unicórdoba Estéreo 90.0 FM",
+    "url": "https://unicordobaestereo.unicordoba.edu.co/unicor",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Uniminuto radio 1430 AM Bogotá",
+    "url": "https://uniminutoradiobogota.out.airtime.pro//uniminutoradiobogota_a",
+    "codec": "AAC",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": 4.698433759211265,
+    "lon": -74.08916294574739,
+    "language": ""
+  },
+  {
+    "name": "Uninorte FM 103.1 Barranquilla",
+    "url": "https://cactus2.uninorte.edu.co/stream.mp3",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Universal Stereo",
+    "url": "http://stream.zeno.fm/zs01y0bv1reuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Universal Stereo FM",
+    "url": "https://stream.zeno.fm/zs01y0bv1reuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Universitaria Estéreo",
+    "url": "https://www.utp.edu.co/stream/",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "VIDA STEREO 94.5 FM",
+    "url": "http://radio40.virtualtronics.com:8044/;",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "VILMAR STEREO 91.4 FM",
+    "url": "https://stream.zeno.fm/pfrwo2fzcbktv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Veracruz Estereo Medellín",
+    "url": "https://radio.veracruzstereo.com:8000/live",
+    "codec": "AAC",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": 6.2381273986827,
+    "lon": -75.57771801491975,
+    "language": "english,spanish"
+  },
+  {
+    "name": "Verdad y Vida Radio 100.1 FM",
+    "url": "https://stream.zeno.fm/vvon5xkmvhwvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Verdad y Vida Radio 870AM",
+    "url": "https://stream.zeno.fm/zznllllp06cuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Verdades Eternas Radio",
+    "url": "https://live.voltajedigital.com/listen/verdades_eternas_radio/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Vibra Bogotá 104.9 FM",
+    "url": "http://24063.live.streamtheworld.com/VIBRAAAC_SC",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Vibra Radio",
+    "url": "https://radio35.virtualtronics.com:20152/;?type=http&nocache=107036",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Vibra Radio 96.9",
+    "url": "https://sp2.servidorrprivado.com:10859/stream?type=http&nocache=9",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Vida 890 a.m. crvradio",
+    "url": "https://26283.live.streamtheworld.com/VIDA_BOGOTA_SC",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "españo,español internacional,spanish"
+  },
+  {
+    "name": "Viejitas Pero Bonitas Radio",
+    "url": "https://stream.zeno.fm/t4pj1qaktrwtv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Viejitas pero Bonitas Radio",
+    "url": "https://stream.zeno.fm/fpzw6c6ootzvv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español - latinoamerica"
+  },
+  {
+    "name": "Viejoteca y algo más",
+    "url": "https://stream-303.zeno.fm/mtfnuz2day8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJtdGZudXoyZGF5OHV2IiwiaG9zdCI6InN0cmVhbS0zMDMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiM3g5eVhvZmFTNEc2aXVIX3FfZHRPdyIsImlhdCI6MTc2ODQ2NDE5OSwiZXhwIjoxNzY4NDY0MjU5fQ.dY9FKz-HN4jy4MG2QfimFYhGr_O8_LSVr-56SLouvGw",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Vilmar Stereo",
+    "url": "https://stream.zeno.fm/pfrwo2fzcbktv?zt=",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Violeta Stereo Casanare 89.7 FM",
+    "url": "https://stream.zeno.fm/qtlh7auu9m7uv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Voz de la capilla",
+    "url": "https://sonic.paulatina.co/7446/stream",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": 5.10345434836022,
+    "lon": -73.44407155201225,
+    "language": ""
+  },
+  {
+    "name": "W Radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WRADIOAAC.aac",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "W Radio",
+    "url": "http://27613.live.streamtheworld.com:3690/WRADIO_SC",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español internacional"
+  },
+  {
+    "name": "W Radio Colombia, Bogotá (HJCZ 690 AM; HJLN 99.9 MHz FM) Caracol Estéreo / Caracol Radio",
+    "url": "http://26653.live.streamtheworld.com/WRADIO_SC",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "WOR FM  Pre Recording Sessions Bogotá",
+    "url": "https://stream.zeno.fm/x5zfbbtt83ktv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "WOR FM Bogotá ZM",
+    "url": "http://stream-151.zeno.fm/zksuzty7z4zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6a3N1enR5N3o0enV2IiwiaG9zdCI6InN0cmVhbS0xNTEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoibmJ2OFlRV01TLUMwdnJfV2NwaVNZZyIsImlhdCI6MTc2ODQ2NTg5NCwiZXhwIjoxNzY4NDY1OTU0fQ.JkRuKPqPxeKlr0qfSlTCh78jDLBd6dvczNe7TU-XSdI",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "WOR FM Croosover Bogota",
+    "url": "http://stream.zeno.fm/um30vzk214zuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "WOR FM Dance Bogota",
+    "url": "http://stream.zeno.fm/650pdt7z24zuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "WOR FM Latin Pop",
+    "url": "https://stream.zeno.fm/4z0tf23wm0hvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "WOR FM Love Bogota",
+    "url": "http://stream.zeno.fm/3zmse170p48uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "WOR FM Retro Bogota",
+    "url": "http://stream-160.zeno.fm/9r2umrrt97zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI5cjJ1bXJydDk3enV2IiwiaG9zdCI6InN0cmVhbS0xNjAuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiNG5yZkFwcmdUTjJhNTVvNlJmUHlTdyIsImlhdCI6MTc2ODQ0OTM5NiwiZXhwIjoxNzY4NDQ5NDU2fQ.FPQJKDyhJSPxEJn_8-2CPa6Wr6fwRvw3nbYARA8-ZbM",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "WOR FM Tunja Rock y Pop",
+    "url": "http://stream.zeno.fm/5mss6vk214zuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "WRadio Colombia",
+    "url": "https://27403.live.streamtheworld.com/WRADIOAAC.aac?csegid=2000&dist=wradio_co-web-playperm-live_str_play&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&gdpr=0&burst-time=15&sbmid=a073ee70-7fed-4b4c-80d2-7a4d57fe52f6",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": 5.895813258396784,
+    "lon": -74.88281250000001,
+    "language": "spanish"
+  },
+  {
+    "name": "Walkman Radio",
+    "url": "https://colombiawebs.com.co/proxy/walkmanradio?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Wilos Stereo Bogota",
+    "url": "http://stream-154.zeno.fm/acbe04shgf9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhY2JlMDRzaGdmOXV2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoieEtXbFN4T1BSTnU1bTRnWHlCcWluUSIsImlhdCI6MTc2ODQ1NDkwOCwiZXhwIjoxNzY4NDU0OTY4fQ.JnNdtQ2StO_wZyaTLSPiwbYw55oK1wijt_IuV7exPfg",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Worproducer Radio Bogotá",
+    "url": "http://stream.zeno.fm/d8mxhnset7zuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "YEIKON.DEMONIO",
+    "url": "https://stream.zeno.fm/60nboncgcmavv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Yacopi Stereo 107.8 FM",
+    "url": "https://play8.tikast.com:20033/stream/1/",
+    "codec": "AAC+",
+    "bitrate": 112,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Yolombo Estereo",
+    "url": "https://a12.asurahosting.com/listen/yolomb%C3%B3_est%C3%A9rep/radio.mp3",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 6.582279524926418,
+    "lon": -74.9870307128229,
+    "language": "español colombia"
+  },
+  {
+    "name": "ZonaSalsa",
+    "url": "http://s40.myradiostream.com:8520/listen.mp3?1507069161743",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "ZonaSalsa",
+    "url": "https://cast6.asurahosting.com/proxy/salsafou/stream",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 3.4518107852002853,
+    "lon": -76.53245419263841,
+    "language": "spanish"
+  },
+  {
+    "name": "angrybabyarm.com",
+    "url": "https://cast.angrybabyarm.com:8000/stream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "arjona stereo 93.5",
+    "url": "https://accplus.tecnohost.ec/8160/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español colombia"
+  },
+  {
+    "name": "as radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AS_COLAAC.aac?DIST=TuneIn&TGT=TuneIn&maxServers=2&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTc3MzUzMTU4OSwiaXNzIjoidGlzcnYifQ.1GnFC8wj1ks0MxaGmCofDz_VjIr3wzjjUOPhDt_9zOs&aw_0_1st.playerid=RadioTime&aw_0_1st.skey=1773531589&aw_0_1st.bundleId=tunein.com&lat=10.4653&lon=-73.2498&aw_0_1st.persona=Spanish&aw_0_1st.abtest=&partnerId=RadioTime&aw_0_1st.stationId=s309390&aw_0_1st.premium=false&source=TuneIn&aw_0_1st.platform=tunein&aw_0_1st.genre_id=g255&aw_0_1st.class=talk&aw_0_1st.ads_partner_alias=dsk.Web&aw_0_azn.planguage=%5biv%2c+es%5d&aw_0_1st.is_ondemand=false&aw_0_1st.topicId=na&aw_0_1st.programId=p1607309&aw_0_1st.affiliateIds=a39100%2ca40075%2ca40084%2ca40115&aw_0_1st.bandId=2&delivery=1&aw_0_1st.lotamesegments=%3b%3b",
+    "codec": "AAC+",
+    "bitrate": 56,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "auténtica radio 97.1 el copey cesar",
+    "url": "https://radio35.virtualtronics.com/proxy/autenticaradio?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "boom fm 99.1 cali",
+    "url": "https://streamming.dobitsoluciones.com/livestream/1",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español colombia"
+  },
+  {
+    "name": "buenísima radio tv",
+    "url": "https://radiohd.streaminghd.co:7319/stream",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "campo serrano radio 96.7 aguachica",
+    "url": "https://virtual5.emisorasvirtuales.com:8150/live",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "caracol girardot 1230 am",
+    "url": "https://radio.mipanel.stream:6786/stream.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "colvalencia radio 97.7",
+    "url": "https://radiohd.streaminghd.co:7763/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "el esplendor de la verdad 88.7 Valledupar",
+    "url": "https://server2.ejeserver.com:7018/stream",
+    "codec": "AAC",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "elbaulsalsero",
+    "url": "https://stream.zeno.fm/tpsecnamx4zuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "energía 103.7",
+    "url": "https://radiostreamcolombia.albpo.com:8070/radio.mp3",
+    "codec": "AAC",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "fiesta stereo 107.7 fm Barrancas",
+    "url": "https://streaming.radiosenlinea.com.ar/8744/stream",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español colombia"
+  },
+  {
+    "name": "juventud Stereo 101.9 FM",
+    "url": "https://stream.zeno.fm/8dp0r5hamzzuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "la Vos del Tao 4",
+    "url": "http://mediacp15.rootservers.co:18068/stream",
+    "codec": "MP3",
+    "bitrate": 24,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español colombia"
+  },
+  {
+    "name": "la Vos del Tao 6",
+    "url": "http://mediacp15.rootservers.co:18136/stream",
+    "codec": "MP3",
+    "bitrate": 24,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español colombia"
+  },
+  {
+    "name": "la cordobesa 96.0 link alterno",
+    "url": "http://192.99.169.136:8187/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "la cordobesa 96.0 saagún",
+    "url": "https://radiohd4.streaminghd.co:8187/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "la costeña 91.0 montería",
+    "url": "https://radiohd4.streaminghd.co:8015/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "la que te gusta 100.5 becerril cesar",
+    "url": "https://streaming.radiosenlinea.com.ar/9014/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "la que te gusta 94.7 san juan del cesar",
+    "url": "https://streaming.radiosenlinea.com.ar/9040/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "la sinuana 107.0 san carlos",
+    "url": "https://radiohd.streaminghd.co:7052/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "la super estación latina 104.1 armenia",
+    "url": "https://server1.intermediacolombia.com:8010/stream",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español - latinoamerica,español colombia,español internacional,inglés/portugués/español"
+  },
+  {
+    "name": "la triple a 97.2 fm",
+    "url": "https://play14.tikast.com:22079/;?_=1776090282498",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "la voz de marquezote 103.9 la jagua del pilar",
+    "url": "https://streaming.radiosenlinea.com.ar/8016/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "latina stereo 107.1 cicuco bolivar",
+    "url": "https://stream.zeno.fm/2y8ebb4x6hhvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "m radio 106.3 corozal",
+    "url": "https://s1.free-shoutcast.com/stream/18188/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "maravilla stereo 105.7 valledupar",
+    "url": "https://r90.letio.com/io/?gs=7282&type=live.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 146,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "mas radio pb",
+    "url": "https://radiolatina.info/8076/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "mix 100.5 montería",
+    "url": "https://radio25.virtualtronics.com/proxy/emisoramix?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "mix 103.0 cereté",
+    "url": "https://stream.zeno.fm/x3sxe2nv0p8uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "mix 106.7 Valledupar",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIX_VALLEDUPARAAC.aac?dist=onlineradiobox",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "olímpica stereo Valledupar 93.7 fm",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_VALLEDUPARAAC.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "omega stereo 105.0 saagún",
+    "url": "https://radiohd.streaminghd.co:7369/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "radio buenaventura 1240 am",
+    "url": "https://panel2.intermediahost.co:8050/stream",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "radio delfín 1060 am riohacha",
+    "url": "https://virtualtronics.net/proxy/vcertain?mp=/;",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "radio ipuc",
+    "url": "https://virtualtronics.net/proxy/ipuc?mp=/stream/1/",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español - latinoamerica,español colombia,español internacional"
+  },
+  {
+    "name": "radio tiempo 97.3 sincelejo",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RT_SINCELEJOAAC_SC?dist=RtSinWeb",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "radio tiempo montería 104.5 montería",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RT_MONTERIA_SC",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "radio uno Valledupar 100.7",
+    "url": "https://mdstrm.com/audio/69ca82282eb98b3410aad7d9/live.m3u8?_=1776720627418&dnt=true&player=6865fe1cb8f25d7257c85a93&uid=sNRVJu8ra1Gtv4rEC8P5XdCTw0wbYabl&sid=dd5rvfetTioiExm3wtnq14E34J2E5Vvt&pid=TB8KYyUNUNbY0HDFw2bgBYVdjFJ2Xljb&an=player-audio-ott-rcn&at=web-app&av=v1.0.62&sc=0&ref=www.rcnradio.com&res=1920x1080&CMCD=cid%3D%2269ca82282eb98b3410aad7d9%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22TB8KYyUNUNbY0HDFw2bgBYVdjFJ2Xljb%22%2Csu",
+    "codec": "AAC",
+    "bitrate": 131,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "radioparallevar",
+    "url": "https://laradio.stream/proxy/rumbafm/stream",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "salsa y mas Cali",
+    "url": "https://stream-161.zeno.fm/4ps00gn7pzzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0cHMwMGduN3B6enV2IiwiaG9zdCI6InN0cmVhbS0xNjEuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ik5WTWVndlNJVFg2eTdYakdib3pqdXciLCJpYXQiOjE3MzIyMjE2MTUsImV4cCI6MTczMjIyMTY3NX0.qBrmRbXfSRxqcx-xpK0Zk1uRbJWKSXDLxlUhd-Pw37Y",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "sasagordaradio",
+    "url": "http://stream.zeno.fm/s4s85axxaseuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "sistema Cardenal Valledupar 1050 am",
+    "url": "http://198.27.78.145:8086/stream/4/;",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "unisucre fm",
+    "url": "https://master.letio.com/io/?gs=5048",
+    "codec": "UNKNOWN",
+    "bitrate": 146,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "vallenata stereo",
+    "url": "https://stream.zeno.fm/08qxk717fd0uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "voces del corazón",
+    "url": "http://vocesdelcorazon.net:8095/live",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español colombia"
+  },
+  {
+    "name": "yumbo estereo",
+    "url": "http://209.126.119.28:8303/stream?type=http&nocache=4",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": 3.583047547690658,
+    "lon": -76.49175167083742,
+    "language": "español colombia"
+  },
+  {
+    "name": "Ídolos Del Pueblo",
+    "url": "http://stream.zeno.fm/3yuyec46uxquv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

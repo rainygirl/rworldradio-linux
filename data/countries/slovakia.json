@@ -1,0 +1,1232 @@
+[
+  {
+    "name": "897",
+    "url": "https://c34.radioboss.fm:8106/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "BB FM rádio",
+    "url": "http://stream.bbfm.sk/bbfm128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "BestFM",
+    "url": "https://stream3.bestfm.sk:8000/160.aac",
+    "codec": "AAC",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Detské Rádio",
+    "url": "http://stream.21.sk/detskeradio-192.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "Dobré Rádio",
+    "url": "https://stream.dobreradio.sk/dobreradio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "Duflo Radio",
+    "url": "http://stream.zeno.fm/kxwhyvz2fm0uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Europa 2",
+    "url": "https://stream.bauermedia.sk/europa2.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "FUN RÁDIO 80-90",
+    "url": "http://stream.funradio.sk:8000/80-90-128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 48.15660160950058,
+    "lon": 17.10575414760819,
+    "language": ""
+  },
+  {
+    "name": "Fit family Radio",
+    "url": "https://solid67.streamupsolutions.com/proxy/reqsithw/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 48.35643380565586,
+    "lon": 19.57083195447922,
+    "language": "slovak"
+  },
+  {
+    "name": "Fred Film Radio-25 Slovenčina",
+    "url": "https://s10.webradio-hosting.com/proxy/fredradiosk/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "Fresh Rádio",
+    "url": "https://icecast2.radionet.sk/freshradio.sk",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "Fun Radio",
+    "url": "http://stream.funradio.sk:8000/fun128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Fun Radio  Chill",
+    "url": "https://stream.funradio.sk:8000/chill128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 48.15446657982691,
+    "lon": 17.107357084751133,
+    "language": "slovak"
+  },
+  {
+    "name": "Fun Radio CZ",
+    "url": "http://stream.funradio.sk:8000/cs128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "Fun Radio Dance",
+    "url": "http://stream.funradio.sk:8000/dance128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "Funrádio Mileniálky",
+    "url": "http://stream.funradio.sk:8000/milenialky128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "G-Radio",
+    "url": "http://88.212.34.18:8050/mp3midband",
+    "codec": "MP3",
+    "bitrate": 80,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "Hitrádio Slovakia",
+    "url": "https://hitradioslovakia.stream.laut.fm/hitradioslovakia",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "House Radio",
+    "url": "http://stream.zeno.fm/qm8e21gta18uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "InfoVojna",
+    "url": "https://stream3.infovojna.com:8000/live",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "InfoVojna 2",
+    "url": "https://stream2.infovojna.com:8000/live",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Info_vojna",
+    "url": "https://stream1.infovojna.com:8000/live",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Infovojna",
+    "url": "http://159.69.219.5:8010/aac",
+    "codec": "AAC",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Jubilanti",
+    "url": "http://109.71.67.102:8000/beta_jubilanti.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "METALSCENA netRADIO",
+    "url": "https://listen.radioking.com/radio/263218/stream/308365",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "Mirjam Rádio - Mária Rádió Felvidék",
+    "url": "http://193.87.81.131:8081/MariaRadioFelvidek",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hungarian"
+  },
+  {
+    "name": "Party Mix Radio",
+    "url": "http://stream.zeno.fm/rw6ckefezs8uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Party Radio",
+    "url": "https://mpc1.mediacp.eu/stream/partyradio",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "Pátria Rádió",
+    "url": "https://icecast.stv.livebox.sk/patria_128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hungarian,slovak"
+  },
+  {
+    "name": "RADIO BIBLIA SK",
+    "url": "http://radiobiblia.online:8000/stream.ogg",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "Radio 7",
+    "url": "https://play.radio7.sk/128",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "Radio Basavel",
+    "url": "https://stream.zeno.fm/6gd9c6yn4nhvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "roma,slovak"
+  },
+  {
+    "name": "Radio Bela",
+    "url": "http://65.109.81.84:8855/live",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "Radio Dychovka",
+    "url": "https://epanel.mediacp.eu:7661/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "czech,slovak"
+  },
+  {
+    "name": "Radio Ekspres",
+    "url": "https://stream.nextmedia.si/proxy/ekspres1?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Extra",
+    "url": "http://live.topradio.cz:8000/extra192",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "Radio KIKS Československo",
+    "url": "https://online.radiokiks.sk:8000/kiks_czsk.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "Radio Melody",
+    "url": "https://stream.bauermedia.sk/melody-lo.mp3?aw_0_req.gdpr=false&aw_0_1st.playerid=melody_web_mobile",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Suita",
+    "url": "https://radioserver.online/proxy/radiosuita/radiosuita.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 48.15688848799896,
+    "lon": 17.11364418268204,
+    "language": "slovak"
+  },
+  {
+    "name": "Radio VIVA",
+    "url": "https://stream.sepia.sk/viva128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio X 256",
+    "url": "https://stream.radiox.sk:8443/radiox_256.mp3",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": 49.20716817877197,
+    "lon": 18.758073697946855,
+    "language": "slovak"
+  },
+  {
+    "name": "Radio X Metal",
+    "url": "https://stream.radiox.sk:8443/metal.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 49.20627937560232,
+    "lon": 18.758013271901085,
+    "language": "slovak"
+  },
+  {
+    "name": "Radio X Ľudovky (Uniza)",
+    "url": "https://stream.radiox.sk:8443/ludovky.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 49.20700836367747,
+    "lon": 18.758422634803345,
+    "language": "slovak"
+  },
+  {
+    "name": "Radio X64",
+    "url": "https://stream.radiox.sk:8443/radiox_64.mp3",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 49.20676583610274,
+    "lon": 18.75824085017243,
+    "language": "slovak"
+  },
+  {
+    "name": "Radio Zabava",
+    "url": "https://stream.zeno.fm/eyac00cx1nhvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "Regina Východ",
+    "url": "https://icecast.stv.livebox.sk/regina-ke_128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 48.76545991195742,
+    "lon": 21.656841142603596,
+    "language": "slovak"
+  },
+  {
+    "name": "Repete",
+    "url": "http://stream.rusyn.fm/rusyny-low.mp3",
+    "codec": "MP3",
+    "bitrate": 112,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Rusyn FM",
+    "url": "https://stream.rusyn.fm/rusyny.mp3",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": 48.14767153667088,
+    "lon": 17.10433959960938,
+    "language": "carpatho-rusyn"
+  },
+  {
+    "name": "RusynFM",
+    "url": "http://stream.rusyn.fm/rusyny.mp3",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "RÁDIO BEST FM",
+    "url": "https://stream3.bestfm.sk:8000/128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "RÁDIO BETA - České a Slovenské hity",
+    "url": "http://109.71.67.102:8000/beta_cspop.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "RÁDIO BETA 80-90",
+    "url": "http://109.71.67.102:8000/beta_80a90.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "RÁDIO EXPRES",
+    "url": "http://stream.expres.sk/128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RÁDIO EXPRES",
+    "url": "https://stream.bauermedia.sk/128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "RÁDIO SLOVENSKO",
+    "url": "https://icecast.stv.livebox.sk/slovensko_128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 48.15132697843394,
+    "lon": 17.11000442504883,
+    "language": ""
+  },
+  {
+    "name": "RÁDIO VIVA",
+    "url": "http://stream.sepia.sk:8000/viva128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 48.1620121474756,
+    "lon": 17.075859432955717,
+    "language": "slovak"
+  },
+  {
+    "name": "RÁDIO VLNA 60-70",
+    "url": "https://stream.radiovlna.sk/gold-hi.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 49.12803932455622,
+    "lon": 20.42844618447035,
+    "language": ""
+  },
+  {
+    "name": "RÁDIO VLNA Classic Rock",
+    "url": "http://stream.radiovlna.sk:8000/rock-hi.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RÁDIO_FM",
+    "url": "http://live.slovakradio.sk:8000/FM_256.mp3",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "Rádio Aetter",
+    "url": "http://stream.aetter.sk:8000/aetter",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "Rádio Beta",
+    "url": "http://109.71.67.102:8000/beta_live_high.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "Rádio Devín",
+    "url": "https://icecast.stv.livebox.sk/devin_128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "Rádio Devín",
+    "url": "http://live.slovakradio.sk:8000/Devin_256.mp3",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": 48.154022695412486,
+    "lon": 17.113933448551457,
+    "language": "slovak"
+  },
+  {
+    "name": "Rádio FM",
+    "url": "https://icecast.stv.livebox.sk/fm_128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "Rádio Folk",
+    "url": "https://mpc1.mediacp.eu/stream/demo2",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "Rádio Frontinus",
+    "url": "http://stream.frontinus.sk:8000/frontinus128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "Rádio Janko Hraško",
+    "url": "http://78.24.9.110:31088/;",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "Rádio Jazz",
+    "url": "http://stream.sepia.sk:8000/jazz128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "Rádio KIKS",
+    "url": "https://online.radiokiks.sk:8000/kiks_hq.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "Rádio KIKS - Big 80s",
+    "url": "https://online.radiokiks.sk:8000/kiks_big80s.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Rádio KIKS - Big 90s",
+    "url": "https://online.radiokiks.sk:8000/kiks_big90s.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "Rádio KIKS - Rock Music",
+    "url": "https://online.radiokiks.sk:8000/kiks_rock.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "Rádio Košice",
+    "url": "http://stream.ecce.sk:8000/radiokosice-128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "Rádio Košice BA",
+    "url": "http://176.102.98.74:8000/radiokosice-ba-128.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "Rádio Litera",
+    "url": "https://icecast.stv.livebox.sk/litera_128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "Rádio Logos",
+    "url": "http://radioserver.online:8824/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "Rádio Lumen",
+    "url": "http://audio.lumen.sk:8000/live128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "Rádio Maria Slovensko",
+    "url": "http://dreamsiteradiocp5.com:8012/streaming.mp3",
+    "codec": "AAC+",
+    "bitrate": 40,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovenian"
+  },
+  {
+    "name": "Rádio Melody",
+    "url": "https://stream.bauermedia.sk/melody-hi.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Rádio MÁRIA SLOVENSKO",
+    "url": "https://dreamsiteradiocp5.com/proxy/radiomariaslomp3?mp=/stream.mp3",
+    "codec": "MP3",
+    "bitrate": 40,
+    "needsResolve": false,
+    "lat": 48.15102348287551,
+    "lon": 17.111206054687504,
+    "language": ""
+  },
+  {
+    "name": "Rádio Paráda",
+    "url": "https://extra.mediacp.eu/stream/RadioParada,o.z.",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "Rádio Pohoda 2",
+    "url": "http://mpc1.mediacp.eu:18111/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "Rádio Pyramída",
+    "url": "https://icecast.stv.livebox.sk/klasika_128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "Rádio RSI",
+    "url": "https://icecast.stv.livebox.sk/rsi_128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,french,german,russian,slovak,spanish"
+  },
+  {
+    "name": "Rádio Rebeca",
+    "url": "https://mpc2.mediacp.eu:8200/rebecaweb",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "Rádio Regina Západ",
+    "url": "https://icecast.stv.livebox.sk/regina-ba_128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "Rádio Rock",
+    "url": "https://stream.bauermedia.sk/rock-hi.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 48.14768716774815,
+    "lon": 17.107056677341465,
+    "language": ""
+  },
+  {
+    "name": "Rádio Rock SV",
+    "url": "https://s2.myradiostream.com/:4870/listen.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Rádio Sity",
+    "url": "https://radiosity.online:8000/aac",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "Rádio Topolčany",
+    "url": "http://80.242.44.249:8000/",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 48.55887312707968,
+    "lon": 18.16975593566895,
+    "language": "slovak"
+  },
+  {
+    "name": "Rádio Topoľčany",
+    "url": "http://80.242.44.249:8000/;",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Rádio Vlna",
+    "url": "http://stream.radiovlna.sk/vlna-hi.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "Rádio Vlna Oldies Party",
+    "url": "https://stream.radiovlna.sk/party-hi.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "Rádio v Nitre",
+    "url": "http://195.210.28.150:8932/radiovnitre_live.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "SKY Rádio",
+    "url": "http://stream.skyradio.sk:8000/sky128",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "SRo1 Rádio Slovensko",
+    "url": "http://live.slovakradio.sk:8000/Slovensko_128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "SRo1 Rádio Slovensko (256k)",
+    "url": "http://live.slovakradio.sk:8000/Slovensko_256.mp3",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "SRo2 Rádio Regina Stred",
+    "url": "http://icecast.stv.livebox.sk/regina-bb_128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "SRo2 Rádio Regina Východ",
+    "url": "http://icecast.stv.livebox.sk/regina-ke_128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "SRo2 Rádio Regina Západ",
+    "url": "http://icecast.stv.livebox.sk/regina-ba_128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "SRo3: Rádio Devín",
+    "url": "http://icecast.stv.livebox.sk/devin_128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "SRo5 Rádio Pátria /RSI",
+    "url": "http://live.slovakradio.sk:8000/Patria_128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hungarian"
+  },
+  {
+    "name": "SRo6 Radio Slovakia International",
+    "url": "http://icecast.stv.livebox.sk/rsi_128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "SRo8 Rádio Litera",
+    "url": "http://icecast.stv.livebox.sk/litera_128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "SRo9 Rádio Junior",
+    "url": "http://live.slovakradio.sk:8000/Junior_128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "SRo9 Rádio Junior (256k)",
+    "url": "http://live.slovakradio.sk:8000/Junior_256.mp3",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "SUB:FM",
+    "url": "http://stream.subfm.sk/subfm",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "Sllobodný vysielač",
+    "url": "http://159.69.219.5:8010//aac",
+    "codec": "AAC",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Slobodný vysielač",
+    "url": "http://vysielanie.online/radio/8020/SV128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "Slobodný vysielač",
+    "url": "http://159.69.219.5:8010/mp3",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "SubFM",
+    "url": "https://stream.subfm.sk/subfm",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 48.58979706205218,
+    "lon": 17.831161916255954,
+    "language": "slovak"
+  },
+  {
+    "name": "TA3",
+    "url": "https://n13.stv.livebox.sk/ta3/685d9a141bd846e8facf83bc378da26b/1.smil/chunklist_b2691072.m3u8",
+    "codec": "AAC",
+    "bitrate": 631,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "TV Lux (audio)",
+    "url": "https://stream.tvlux.sk/lux/lux.stream_aac/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "Tiché Rádio",
+    "url": "https://stream.ticheradio.sk/tiche.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "Top Rádio",
+    "url": "https://solid1.streamupsolutions.com/proxy/vhhggmih/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "Trnavské Rádio",
+    "url": "https://solid33.streamupsolutions.com/proxy/mujdmamw/trnavske",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 48.378280032570366,
+    "lon": 17.585771977901462,
+    "language": "slovak"
+  },
+  {
+    "name": "Záhorácke Rádio",
+    "url": "http://live.zahorackeradio.sk:8080/zr128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "janko hraško",
+    "url": "http://78.24.9.110:31088/",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "mars dance",
+    "url": "https://stream-153.zeno.fm/683gf5xrxfeuv?zs=gtI4gERBSUGu8f0FOcDOWw&1686916511841",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovenian"
+  },
+  {
+    "name": "radio metropolitan",
+    "url": "https://mpc2.mediacp.eu:8214/stream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovak"
+  },
+  {
+    "name": "rádio Piešťany",
+    "url": "https://solid33.streamupsolutions.com/proxy/gktiemqb/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 48.59804541195494,
+    "lon": 17.833557128906254,
+    "language": "slovak"
+  },
+  {
+    "name": "rádio pokoj",
+    "url": "http://radioserver.online:8822/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "slovenski"
+  },
+  {
+    "name": "Československé radio",
+    "url": "http://live.topradio.cz:8000/csradio128",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

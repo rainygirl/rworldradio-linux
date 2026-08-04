@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Bollywood Radio",
+    "url": "https://stream.zeno.fm/t961q1d0vp6vv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english hindi"
+  },
+  {
+    "name": "Tick Tock Radio - 1992",
+    "url": "https://nl4.mystreaming.net/tt/1992/icecast.audio",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Tick Tock Radio - 1993",
+    "url": "https://streaming.ticktock.radio/tt/1993/icecast.audio",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Tick Tock Radio - 1994",
+    "url": "https://nl4.mystreaming.net/tt/1994/icecast.audio",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Tick Tock Radio - 2022",
+    "url": "https://streaming.ticktock.radio/tt/2022/icecast.audio",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Підсунути свиню",
+    "url": "https://stream.zenolive.com/u5enyd4c28quv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,spanish"
+  }
+]

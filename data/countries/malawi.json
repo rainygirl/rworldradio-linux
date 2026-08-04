@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Amaryllis E-Radio",
+    "url": "https://s4.radio.co/s40c05d6b1/low",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Groove100 FM | (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s341750",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MBC Radio 2FM",
+    "url": "http://radiostream.mbc.mw:86/broadwavehigh.mp3?src=1",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Mdubs Entertainment",
+    "url": "https://stream.zeno.fm/ogxfqt7gumguv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Power Global Media",
+    "url": "https://a10.asurahosting.com:7270/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO MARIA MALAWI",
+    "url": "http://dreamsiteradiocp.com:8040/stream",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "TWR Africa 89.1 (Christian Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s6269",
+    "codec": "mp3",
+    "bitrate": 32,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Timveni Radio",
+    "url": "https://play.streamafrica.net/timveni",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Wakhama Radio FM 265 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s352080",
+    "codec": "mp3",
+    "bitrate": 265,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "ZBS Zodiak FM",
+    "url": "https://ice31.securenetsystems.net/0079",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  }
+]

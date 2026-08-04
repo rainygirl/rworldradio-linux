@@ -1,0 +1,452 @@
+[
+  {
+    "name": "1 FM Hits Radio",
+    "url": "https://stream.zeno.fm/yg1gkzwabzzuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "ingles español,spanish"
+  },
+  {
+    "name": "94 SU FM 94.1 Tegucigalpa",
+    "url": "http://ice42.securenetsystems.net/94SUFM",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "ABC Radio AM 550 FM 89.7",
+    "url": "http://137.184.101.169:8000/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Blue Wave Radio",
+    "url": "https://streaming.shoutcast.com/101-1-blue-wave-radio-roatan",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Cadena Radial del Centro 89.7 FM",
+    "url": "https://sonic.portalfoxmix.cl/8442/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Cortes FM",
+    "url": "https://cortesfm-zikoxweb.radioca.st/stream/1/",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español - latinoamerica"
+  },
+  {
+    "name": "DCR Difusora Cristiana de Radio 103.1 FM",
+    "url": "http://stream.playerlive.info:8165/",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,spanish"
+  },
+  {
+    "name": "Dee Jay",
+    "url": "https://stream.zeno.fm/6wpxyt9htg0uv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "EXA FM Honduras: Tegucigalpa 100.5 FM / San Pedro Sula 89.3 FM / Choluteca 95.9 FM / Litoral 93.9 FM",
+    "url": "https://stream.zeno.fm/0n4tnx3wd5zuv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 14.106590859121116,
+    "lon": -87.20316410064699,
+    "language": "spanish"
+  },
+  {
+    "name": "Encuentro Digital 104.3 FM",
+    "url": "https://stream.zeno.fm/n1dn94e661zuv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Estereo Clase 92.9 FM",
+    "url": "https://stream.zeno.fm/k6grbcx0zceuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Estereo Clásica",
+    "url": "https://streaming.radio.co/s0c06b7076/listen",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,spanish"
+  },
+  {
+    "name": "Estereo Sur 91.3 FM",
+    "url": "https://cast.az-streamingserver.com/proxy/estereosur2?mp=/stream",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "GD Dubai",
+    "url": "https://streaming.exclusive.radio/er/gratefuldead/icecast.audio",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 37.771148980863856,
+    "lon": -122.44503021240236,
+    "language": ""
+  },
+  {
+    "name": "Girasol Stereo 102.3 FM",
+    "url": "https://stream.playerlive.info:8037/live.aac",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "HRYW 95.9 Radio Panamericana - Tegucigalpa",
+    "url": "http://online.radiodifusion.net:1935/panam-hn/panam.stream/master.m3u8",
+    "codec": "AAC",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "LA RADIO GLOBAL",
+    "url": "https://sonicpanel.us/8022/stream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "LHT FM 104.1",
+    "url": "https://ice26.securenetsystems.net/LHTFM",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "engish"
+  },
+  {
+    "name": "La Top 102.9 FM - San Pedro Sula, Honduras",
+    "url": "https://us9.maindigitalstream.com/ssl/latop102",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 15.50955774802629,
+    "lon": -88.02340507507324,
+    "language": "spanish"
+  },
+  {
+    "name": "Musiquera 93.3 FM",
+    "url": "https://stream.zeno.fm/83h238tqsceuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español - latinoamerica"
+  },
+  {
+    "name": "Musiquera 93.3 FM",
+    "url": "https://stream-142.zeno.fm/83h238tqsceuv?zs=vZNVzaY3QLy9RmUb9QK5uA",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "NUEVA VISIÓN 88.3 FM",
+    "url": "http://159.69.43.96:9304/;",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Neformatnoe Radio",
+    "url": "http://neformatnoe.ru:8777/live",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,russian"
+  },
+  {
+    "name": "Otoro Radio",
+    "url": "https://stream.playerlive.info:8089/live.aac",
+    "codec": "AAC",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español - latinoamerica"
+  },
+  {
+    "name": "RADIO FÉNIX INTERNACIONAL",
+    "url": "http://listen.usuarios.space:8036/live",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "RNH",
+    "url": "https://stream.zeno.fm/mb5f69fk0d0uv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "ROCK N' POP",
+    "url": "https://ice42.securenetsystems.net/ROCKNPOP",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Activa Honduras",
+    "url": "https://stream.zeno.fm/6n7fp9t2pceuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 15.505825115447845,
+    "lon": -88.02932739257812,
+    "language": ""
+  },
+  {
+    "name": "Radio America  94.7 Tegucigalpa",
+    "url": "http://23033.live.streamtheworld.com:3690/AMERICA_SC",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Globo 88.5 HN",
+    "url": "https://stream.radiosmundiales.com:8016/GLOBO885",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español - latinoamerica"
+  },
+  {
+    "name": "Radio HRN La Voz de Honduras",
+    "url": "https://ice42.securenetsystems.net/HRN",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Progreso HN",
+    "url": "https://streamingcwsradio30.com:7045/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Radical",
+    "url": "https://stream.zeno.fm/vcumd3susq5vv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Radio Radical HN",
+    "url": "https://s2.free-shoutcast.com/stream/18036",
+    "codec": "MP3",
+    "bitrate": 80,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "RadioActiva 99.7 Honduras",
+    "url": "https://stream.zeno.fm/fh8qfg75puquv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Soy Garifuna Radio",
+    "url": "https://radio.soygarifuna.com/live",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Stereo Cafe 100.3 FM",
+    "url": "https://stream.zeno.fm/vt667xqryd0uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Stereo Ceiba 99.9 - La Ceiba",
+    "url": "http://27383.live.streamtheworld.com/RADIO_CEIBAAAC_SC",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Stereo Dimensión - La 96",
+    "url": "https://rr5100.globalhost1.com:7328/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español - latinoamerica"
+  },
+  {
+    "name": "Stereo Exitos 88.1 Tegucigalpa",
+    "url": "http://ice42.securenetsystems.net/EXITOS",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Stereo Luz",
+    "url": "https://stream.playerlive.info:8081/;",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español - latinoamerica"
+  },
+  {
+    "name": "Suave FM 102.5 Tegucigalpa",
+    "url": "http://ice42.securenetsystems.net/SUAVE",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Super 100 Tegucigalpa 100.1",
+    "url": "http://27383.live.streamtheworld.com:3690/SUPER100_SC",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "XY 90.5 FM - Tegucigalpa, Honduras",
+    "url": "http://ice42.securenetsystems.net/XY905",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 14.106904318481416,
+    "lon": -87.20372200012207,
+    "language": "spanish"
+  },
+  {
+    "name": "radio templaria online",
+    "url": "https://stream.zeno.fm/3mvrdwj6orqtv",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "español mexico"
+  }
+]

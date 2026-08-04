@@ -1,0 +1,1002 @@
+[
+  {
+    "name": "All The Best Radio",
+    "url": "https://c4.radioboss.fm/stream/537",
+    "codec": "AAC",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Duo Country",
+    "url": "http://le09.euddn.net/65895ff446f29baa300ade8193108aba74bb58b20e601f6b2ee7c69e00c05c4d71571b9c9ea55367e98560428822c3980c0faabd92a4814bd275d4db32c303ca851c6587f68911c558f37da588cbaf7d85036ef69835aa238f7fd2f6501a11e917587a91b84d7e6aed47a24f2f4b5762498333850d66807634761a659b4255694b560f43726fef9e155211b637abe18ae73621a8c4b1bf88bfb8ceddff5db8f5a4548c4e1236665f0075344977f89821beb81151b1586a41f801c8cf4f377b0d/dc_duocountry.aac",
+    "codec": "AAC+",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 59.42659137318512,
+    "lon": 24.74533081054688,
+    "language": ""
+  },
+  {
+    "name": "Duo Gold (Estonia)",
+    "url": "https://le03.euddn.net/4df6a80de9754b0e96ad4f84e1c81111811f7aba47d2379509ac3cbf474a04b02b5cc342cbe85748a652849ef6b557dda027a1725d936e8d1f25fd0e841b894709b70f0f525144b33433c8b11a853594c38c2f95f06d924d1909db25332562e9198fa4958617b73f0901c7b4bdee50e54299aed5b34df299926ffc79562e4040987dd1987c98e6f11b4b79430ce2294e9d29e186016d517792d06519c9185df1/kuld.aac",
+    "codec": "AAC+",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 59.43606799799344,
+    "lon": 24.744987487792972,
+    "language": "eesti,estonia,estonian"
+  },
+  {
+    "name": "Duo GreatestHits (Estonia)",
+    "url": "http://le05.euddn.net/7645bcdfabdc43b61734d3ee52ccd371dca16916ba069981f225cda718e1af94108f0f5193eb727fb5b60c12fb5b27a1ddacaf27ff4da84559347b7f1b888bc79362fb99619ff449190cf9c34fb67afa158fa59d8456788050f76821853d1529ea8abbb616ad55ab63f49cda88ec1e626836880b6e5a3b33924c43a11e873ea0c662c85cab4afce94edf474c1e66819b777fd588cd8ed718ab2954c3688e31a19a082c050b71e902958b4134ddc5fe93/hitmix.aac",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 59.433169854123285,
+    "lon": 24.743614196777344,
+    "language": "english,estonian"
+  },
+  {
+    "name": "Duo Party",
+    "url": "https://le06.euddn.net/279bb1630f135084caa1ff583ca3033a5af28635cd98c5054a0fa7c91d1158b29ddd2089f845c9a2cbffc0490e8dd2fc22e20f561ca25b616e663652a55374ce5dc45b1a5aede252bf5e3df5574a261d1657c8f31cd2492f484ee70a1ccfd63c5f5a77195682bf1efcafdd9ff711aa0c243bdfdeedcc8d2a9c1a3a8721597acaa1313ac70837a5a0d415257abb29501f1253b9b029063a9ba2ef175e8c8f26935285961fd373a829ad4ab2607c39b7b9/duodance.aac",
+    "codec": "AAC+",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 59.42610459322465,
+    "lon": 24.77945923805237,
+    "language": "estonia"
+  },
+  {
+    "name": "Duo Rock",
+    "url": "http://le08.euddn.net/fe9f39555c5d7604eca568a5fe3171dd3b7cb629b4f775dcf08dde1307ae0e542131378493063be6a955dd5275dbc92e4553156600ae5fa51b6fbdffd0e130399765e13e32b6a1a1a8608bc737b15c47bd148a08010ca5fc522d80c578de4f64b4b80232c090247732ba0a2926ac10c71900ee104c5f984743b159774528f4c077d822d54f7486295a454209c864a7467325995c339a8e02231c3232af47d7906f4e11415b32123cbcebdc2e6ea2d76e/rokk.aac",
+    "codec": "AAC+",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 59.42611332471574,
+    "lon": 24.779614806175235,
+    "language": "estonia"
+  },
+  {
+    "name": "ERR Klassikaraadio",
+    "url": "http://icecast.err.ee/klassikaraadio.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "estonian"
+  },
+  {
+    "name": "ERR Raadio 2",
+    "url": "http://icecast.err.ee/raadio2.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "estonian"
+  },
+  {
+    "name": "ERR Raadio 2 - 320kbps",
+    "url": "http://icecast.err.ee/raadio2korge.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 59.434364413534546,
+    "lon": 24.7714576708358,
+    "language": "estonian"
+  },
+  {
+    "name": "ERR Raadio 4",
+    "url": "http://icecast.err.ee/raadio4.mp3?type=.mp3/;stream.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "russian"
+  },
+  {
+    "name": "Elmari Kuld",
+    "url": "https://le11.euddn.net/d15d071d4f73afad16807c29a8cfe7447ef9fb6dc8928de64be3300e8ca0f3ca5c5b547137da3e2640917468e13ac1d7701b052f6ec9a2a3e207246d31ad7e936db6e1331b35e581cf1c988b303c617e81caf69b44a4afdcaceb809a218d0a9dd4aec230d75e57587a911bdb0faaaaa126ba9f040b7014729c340e2ab241ccfc0af5a1112d14756b8f322bf7a153eace53f699eeebaffdff8ab7ca1c91e4b2505f8f7dee05e2d8150305addddea91bd3/elmarikuld.aac",
+    "codec": "AAC+",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": 59.43875350610243,
+    "lon": 24.747481547168594,
+    "language": "estonian"
+  },
+  {
+    "name": "Elmari tantsuõhtu 24/7",
+    "url": "http://le06.euddn.net/ae8821b28a7ca7c6ddaf673b4ee3c0458a952561d983bb63ec515fa5d7770f7309dc7883405cad14b4e6d606be0c2e88cf797f09212f2fac552f26ffe4c1ce6aec65ef71ad9508fefc3ec62528c09b3ec49f63d556f3f18b205a4443f6074e9675c7e31610197735b447dc2343bf9fe282cfc05c4272b471b2bd5b07b254d9cf4ddd6dba52319f62a590b206d5144be1c6a4fb61bfa69e3344f293ba1432ef47ef3ea702ad52b3c3d19db1cce7f44d8b04927aef2c3cc776aaf8fa295de1faea/elmaritantsuohtu.aac",
+    "codec": "AAC+",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 58.8637683778892,
+    "lon": 25.532226562500004,
+    "language": "estonia"
+  },
+  {
+    "name": "Estonian Party Radio",
+    "url": "http://maggie.torontocast.com:8110/stream",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 58.95850707383433,
+    "lon": 25.438627472909296,
+    "language": "english,estonia,estonian"
+  },
+  {
+    "name": "FinEst Radio",
+    "url": "https://shoutcast.finestfm.fi/stream/1/:80/;stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "HITS RADIO ESTONIA",
+    "url": "https://artemis.streamerr.co/listen/hitsradioestonia/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 59.41378429445572,
+    "lon": 24.78515625,
+    "language": ""
+  },
+  {
+    "name": "Hitmix",
+    "url": "https://stream.hitmix.ee:8443/HIT_320",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Hits Show Radio",
+    "url": "https://stream.zeno.fm/7sreyeyustkuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 58.39249965939757,
+    "lon": 26.147460937500004,
+    "language": "english,estonia"
+  },
+  {
+    "name": "IDA",
+    "url": "https://broadcast.idaidaida.net:8000/stream",
+    "codec": "AAC",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 59.43970087491635,
+    "lon": 24.7286470725398,
+    "language": "english,estonian,finnish"
+  },
+  {
+    "name": "Jumor FM Estonia",
+    "url": "https://a10.asurahosting.com:7640/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Kaguraadio",
+    "url": "https://locomanoco.vlevelscdn.net/radio/kaguraadio.stream/playlist.m3u8",
+    "codec": "MP3",
+    "bitrate": 115,
+    "needsResolve": false,
+    "lat": 58.052897057327066,
+    "lon": 27.042846679687504,
+    "language": "english,estonian"
+  },
+  {
+    "name": "Kiss FM",
+    "url": "https://stream.skymedia.ee/live/KISS",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 59.403739548948366,
+    "lon": 24.731377959251407,
+    "language": "estonian"
+  },
+  {
+    "name": "Kiss FM",
+    "url": "https://edge02.cdn.bitflip.ee:8888/KISS",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 59.40371497525328,
+    "lon": 24.731442332267765,
+    "language": "estonian"
+  },
+  {
+    "name": "Kiss FM Eurovision",
+    "url": "https://stream.skymedia.ee/live/KissEurovisioon",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 59.40370678401759,
+    "lon": 24.731377959251407,
+    "language": ""
+  },
+  {
+    "name": "Kiss FM Pride",
+    "url": "https://stream.skymedia.ee/live/KissPride",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 59.40370405360528,
+    "lon": 24.731356501579288,
+    "language": ""
+  },
+  {
+    "name": "KlaRa Jazz",
+    "url": "https://icecast.err.ee/klarajazz.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 59.43462950646448,
+    "lon": 24.76766515823216,
+    "language": ""
+  },
+  {
+    "name": "KlaRa Klassika",
+    "url": "https://icecast.err.ee/klaraklassika.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 59.43460813797533,
+    "lon": 24.767696131361586,
+    "language": ""
+  },
+  {
+    "name": "KlaRa Nostalgia",
+    "url": "https://icecast.err.ee/klaranostalgia.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 59.43463755402645,
+    "lon": 24.76771964867655,
+    "language": ""
+  },
+  {
+    "name": "Klara Jazz",
+    "url": "http://icecast.err.ee/klarajazz.opus",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Klara Klassika (128 kbps Ogg Opus) | Eesti Rahvusringhääling | err.ee",
+    "url": "http://icecast.err.ee/klaraklassika.opus",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Klara Nostalgia (128 kbps Ogg Opus) | Eesti Rahvusringhääling | err.ee",
+    "url": "http://icecast.err.ee/klaranostalgia.opus",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Klassikaraadio (128 kbps Ogg Opus) | Eesti Rahvusringhääling | klassikaraadio.err.ee",
+    "url": "http://icecast.err.ee/klassikaraadio.opus",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Kuma FM 101.0",
+    "url": "http://5.39.16.62:8004/tre",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "estonian"
+  },
+  {
+    "name": "Legendaarne Raadio",
+    "url": "https://edge01.cdn.bitflip.ee:8888/Legendaarne?_i=52831a92",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 59.435916332831006,
+    "lon": 24.746360778808597,
+    "language": "english,estonian"
+  },
+  {
+    "name": "Legendaarne Raadio",
+    "url": "https://stream.skymedia.ee/live/Legendaarne",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 59.42798837101631,
+    "lon": 24.73159790039063,
+    "language": "english,estonian"
+  },
+  {
+    "name": "MyHits",
+    "url": "http://le05.euddn.net/571bc7e6e3dea1dcb2bad2c223b7fc4535a649e3e7a6957d9ad2b790abf78a108844f4e65d9fb3f25be9f0d3c962a3c717d339e9eec97ed7b60e26de4b5fbea17df38e25e79a74d24e4a53604c15a75b7cbedf3479ccbb76cf319e98b9090e81f49b0a5eddf67796c75ee835e34df178c27d359a6db29b280c18177d792340d856dabf2fd1558d8dc5bcf6f9dacc7f06a74d49ef1b15abdb5f51312c59913b4d44ab1b569028aed853b51114acb443a6/myhits.aac",
+    "codec": "AAC+",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 59.42609894840192,
+    "lon": 24.778627753257755,
+    "language": "estonian"
+  },
+  {
+    "name": "NRJ",
+    "url": "https://edge01.cdn.bitflip.ee:8888/NRJ?_i=5b8169cb",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 59.41065224070644,
+    "lon": 24.73659753799439,
+    "language": "estonian"
+  },
+  {
+    "name": "NRJ Tallinn",
+    "url": "https://edge03.cdn.bitflip.ee:8888/NRJ",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 59.431668313298346,
+    "lon": 24.73983764648438,
+    "language": "estonian"
+  },
+  {
+    "name": "NikRadofem",
+    "url": "https://live.nikradofem.online/live",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 58.77529227817853,
+    "lon": 24.81177186387013,
+    "language": "english,estonia,russian"
+  },
+  {
+    "name": "Pereraadio Kuressaare",
+    "url": "http://icecast.pereraadio.ee:8000/Kuressaare",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "estonian"
+  },
+  {
+    "name": "Pereraadio Tallinn",
+    "url": "http://icecast.pereraadio.ee:8000/Tallinn",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "estonian"
+  },
+  {
+    "name": "Pereraadio Tartu",
+    "url": "http://icecast.pereraadio.ee:8000/Tartu",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "estonian"
+  },
+  {
+    "name": "Power Hit Radio",
+    "url": "https://ice.leviracloud.eu/phr96-aac?",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "estonian"
+  },
+  {
+    "name": "R2 Eesti",
+    "url": "https://icecast.err.ee/r2eestikorge.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 59.434640281945406,
+    "lon": 24.767719228660816,
+    "language": ""
+  },
+  {
+    "name": "R2 Pop",
+    "url": "http://icecast.err.ee/r2pop.opus",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "R2 Rock",
+    "url": "http://icecast.err.ee/r2rock.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "R2Altpop",
+    "url": "http://icecast.err.ee/r2alternatiiv.opus",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "estonian"
+  },
+  {
+    "name": "R2Rock",
+    "url": "http://icecast.err.ee/r2rock.opus",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "estonian"
+  },
+  {
+    "name": "R2p",
+    "url": "https://icecast.err.ee/r2p.opus",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RUUT FM",
+    "url": "https://a1.asurahosting.com/listen/ruut_fm/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 57.77510180631683,
+    "lon": 26.04390621185303,
+    "language": ""
+  },
+  {
+    "name": "Raadio 2 (128 kbps Ogg Opus) | Eesti Rahvusringhääling | r2.err.ee",
+    "url": "http://icecast.err.ee/raadio2.opus",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "estonian"
+  },
+  {
+    "name": "Raadio 7",
+    "url": "https://edge05.cdn.bitflip.ee:8888/R7",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": 59.43578866867168,
+    "lon": 24.74430084228516,
+    "language": "estonian"
+  },
+  {
+    "name": "Raadio Duo",
+    "url": "https://le03.euddn.net/643e1d6549b37ef476e9291c8a2416f4c7a26fd8c57720075bfc75e9f8989cec756cd63e9bedeab335cb6d27c3cf06643a3b5e57c811be0e6789ef0d2b81e1d1a37bb18b37f32cd4af628f7044d43fa5f323de0c4edf8f1019b07a3fdeb4bac2410fbbe27a31a7c3f9c3d63da38af0935a770bf4447693219bf8317e70ab02c958b988455d7b1b47dc0715c9eaf503c9ecccde7213c5b4c9a328e2377aeac41517a186c7148f9b516b9cd799b32b8d8c/radioduo.aac",
+    "codec": "AAC+",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Raadio Elmar",
+    "url": "https://le06.euddn.net/06c6e9fec40c66f08e914c03863f9414453544f91420595482312a9fc4000bf6d1f2e38af14516a218d89b5a897a16f9500a64a80ed0da449f729d7f78de8bc5dcd07fb3a5925334697756f363102f773f78583b0e9c83bec1004f9b69bd211a11d59a39d295ac79d1f8c9848c83f83ffe16c9a65cb41f122ddcdc8c974c35a5f8d85b07cbd33b90325ddfd49b6a3e5666c05d27f019b6f1128741421b3d1e84/elmar.aac",
+    "codec": "AAC+",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 59.43166830264149,
+    "lon": 24.76249694824219,
+    "language": ""
+  },
+  {
+    "name": "Raadio KUKU",
+    "url": "http://le08.euddn.net/9f90862fb9d2787afa20eaa7b1d6762143442790aa807e96fd2a9ef7398e1653d7f21bd2959d52047d03e1324a71d9316e58d02d280bf92b0ecaf6b55664f093b6060823916c0dcae3adf5b64ea998263f211dc125d07d95f82a337c3432d16b6c499f9ab818e7a56f4fe397d87ce6ff733d5b212a9570f1df9eeed94d6db680510e2f39577ed285ff769fa7c8786ebc4588ee75b562644469dbc72b108fbb979a599107b89b05b331e39bc9ea0b8273/kuku_low.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "estonian"
+  },
+  {
+    "name": "Raadio Kadi",
+    "url": "https://edge06.cdn.bitflip.ee:8888/kadi",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 58.25322816300178,
+    "lon": 22.485797703266147,
+    "language": ""
+  },
+  {
+    "name": "Raadio Kidzone",
+    "url": "https://le01.euddn.net/d3234a63af1bebda7d8bf0638f93824f6667da6c452d3a510c06997367525934f604f84c3e966dfa65e330d3b40a4bb1a0ee63ae0f23e6a0203776e0a42bb03365cf559300967b9a4c739e5e9ab4f3f9fb8b5755ab42aaad4507cf3e35c5f5a23cd197d1b435a8c66c22298f65e41ec8a0e8818d86273bd1713706c829829d0e80a749ca4f59004ff5d62b3573eccf55420c548828e0157c66d487a91ab0c488e680b84ac7ae25af76ef1494f6032a9c/kidzone.aac",
+    "codec": "AAC+",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": 58.39901325109387,
+    "lon": 26.630859375,
+    "language": "english,estonian"
+  },
+  {
+    "name": "Raadio Kuku",
+    "url": "https://le06.euddn.net/c609d0fe2c72e9cd5237bd29bd9df83655ffab5d1c823d610d7ba65586a9433d4680ee5ab2704d2a15e826688f7267bdcf1ab20c25f6a4027d431be03d4d08107068c83415cf662173818d566f11a6eb7e2d37b015d77c3826e05b56899004fb469967cad9b2aa9c24d1ef5ecf67c01b868e48619b6fbd2137d6299f134a78e3ba9210c4266bfcb3085ca9ee7e25eb89c8b83e72c58f081bc6aa9ae33c2b487bff81ba61fee769267c7b4818b209f23a/kuku_high.mp3",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 59.43096988687643,
+    "lon": 24.771423339843754,
+    "language": ""
+  },
+  {
+    "name": "Raadio PRT",
+    "url": "https://jvrywgaxjrdgauspdrvr.supabase.co/functions/v1/stream-proxy",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Raadio Relax FM",
+    "url": "https://stream.relaxfm.ee/relax",
+    "codec": "AAC+",
+    "bitrate": 88,
+    "needsResolve": false,
+    "lat": 59.43320477511503,
+    "lon": 24.747390747070316,
+    "language": ""
+  },
+  {
+    "name": "Raadio Relax International",
+    "url": "https://stream.relaxfm.ee/international",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Raadio Tallinn",
+    "url": "http://icecast.err.ee/raadiotallinn.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Raadio Tallinn",
+    "url": "http://icecast.err.ee/raadiotallinn.mp3?type=.mp3/;stream.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "estonian"
+  },
+  {
+    "name": "Raadio Tallinn (128 kbps Ogg Opus) | Eesti Rahvusringhääling | raadiotallinn.err.ee",
+    "url": "http://icecast.err.ee/raadiotallinn.opus",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,estonian,french"
+  },
+  {
+    "name": "Radio Azathoth Revival",
+    "url": "https://cast4.asurahosting.com/proxy/aadu/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Radio Eli",
+    "url": "http://icecast.pereraadio.ee:8000/RadioEli",
+    "codec": "MP3",
+    "bitrate": 140,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "russian"
+  },
+  {
+    "name": "Radio Nostalgia",
+    "url": "https://c16.radioboss.fm:8327/stream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 59.427848580036745,
+    "lon": 24.702187478542328,
+    "language": ""
+  },
+  {
+    "name": "Relax cafe",
+    "url": "https://stream.relaxfm.ee/cafe",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "estonian"
+  },
+  {
+    "name": "Retro FM Estonia",
+    "url": "https://edge02.cdn.bitflip.ee:8888/RETRO?_i=258f436b",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 59.42677908959534,
+    "lon": 24.77897644042969,
+    "language": ""
+  },
+  {
+    "name": "Retro FM Estonia",
+    "url": "https://stream.skymedia.ee/live/RETRO_AAC",
+    "codec": "AAC+",
+    "bitrate": 88,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Retro Love",
+    "url": "https://edge05.cdn.bitflip.ee:8888/RetroJ6ulud",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 59.429573012105585,
+    "lon": 24.75082397460938,
+    "language": "english"
+  },
+  {
+    "name": "Retro fm disco",
+    "url": "https://edge05.cdn.bitflip.ee:8888/retro1.mp3?",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Ring FM",
+    "url": "http://cdn.treraadio.ee/tartustuudio",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "estonian"
+  },
+  {
+    "name": "Rock FM",
+    "url": "https://edge02.cdn.bitflip.ee:8888/rck?_i=5f5ab186",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 59.43348416306439,
+    "lon": 24.746429426595572,
+    "language": ""
+  },
+  {
+    "name": "Rock-FM Metal",
+    "url": "https://edge04.cdn.bitflip.ee:8888/rckmetal",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": 59.43683013884101,
+    "lon": 24.756145477294925,
+    "language": "english,estonian"
+  },
+  {
+    "name": "Semeinoje Radio",
+    "url": "http://icecast.pereraadio.ee:8000/Semeinoje",
+    "codec": "MP3",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "russian"
+  },
+  {
+    "name": "Sky Plus",
+    "url": "https://skymedia-live.bitflip.ee/SKYPLUS",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Sky Plus",
+    "url": "https://stream.skymedia.ee/live/SKYPLUS",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 59.43045480454073,
+    "lon": 24.72747802734375,
+    "language": "estonian"
+  },
+  {
+    "name": "Sky Plus D'N'B",
+    "url": "https://edge01.cdn.bitflip.ee:8888/NRJdnb",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": 58.76763052031727,
+    "lon": 25.597993108084555,
+    "language": ""
+  },
+  {
+    "name": "Sky Plus DnB",
+    "url": "https://edge03.cdn.bitflip.ee:8888/NRJdnb",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": 59.43986197380305,
+    "lon": 24.7796630859375,
+    "language": "estonian"
+  },
+  {
+    "name": "Sky-Radio",
+    "url": "https://stream.skymedia.ee/live/SKY",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "russian"
+  },
+  {
+    "name": "Sooviraadio",
+    "url": "http://media.uunox.net:8888/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "estonian"
+  },
+  {
+    "name": "Star FM",
+    "url": "https://ice.leviracloud.eu/star320-mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "estonian"
+  },
+  {
+    "name": "Star FM Eesti",
+    "url": "https://ice.leviracloud.eu/starFMEesti96-aac",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 59.348875588890515,
+    "lon": 24.774169921875004,
+    "language": "estonia"
+  },
+  {
+    "name": "Star Fm",
+    "url": "https://ice.leviracloud.eu/star96-aac",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "estonian"
+  },
+  {
+    "name": "Taifuun FM",
+    "url": "https://eagle.streemlion.com/proxy/taifuunfm?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Tre Raadio Kesk-Eesti",
+    "url": "http://cdn.treraadio.ee/kesk-eesti-tre",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "estonian"
+  },
+  {
+    "name": "Tre Raadio Pärnu",
+    "url": "http://cdn.treraadio.ee/parnu-tre",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "estonian"
+  },
+  {
+    "name": "Tre Raadio Põhja-Eesti",
+    "url": "http://cdn.treraadio.ee/pohja-tre",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "estonian"
+  },
+  {
+    "name": "Tre Raadio Rapla",
+    "url": "https://cdn.treraadio.ee/rapla-tre",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "estonian"
+  },
+  {
+    "name": "Tre Raadio Ring FM",
+    "url": "https://cdn.treraadio.ee/ringfm",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "estonian"
+  },
+  {
+    "name": "Tre Raadio Virumaa",
+    "url": "http://sc2.treraadio.ee/viru-tre",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "VIKERRAADIO",
+    "url": "http://icecast.err.ee/vikerraadiokorge.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Vikerraadio",
+    "url": "http://icecast.err.ee/vikerraadio.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "estonian"
+  },
+  {
+    "name": "Vikerraadio (128 kbps Ogg Opus) | Eesti Rahvusringhääling | vikerraadio.err.ee",
+    "url": "http://icecast.err.ee/vikerraadio.opus",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "estonian"
+  },
+  {
+    "name": "Võmba FM",
+    "url": "https://c4.radioboss.fm:18123/stream",
+    "codec": "AAC+",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 60.14884057111667,
+    "lon": 24.87953782081604,
+    "language": "estonian,finnish"
+  },
+  {
+    "name": "XFM",
+    "url": "https://sc2.treraadio.ee/ttesstttinggg",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": 59.42380748015369,
+    "lon": 24.787985980510715,
+    "language": "estonia"
+  },
+  {
+    "name": "XFM ESTONIA",
+    "url": "https://sc2.flamebox.org/XFM",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "r2chill",
+    "url": "http://icecast.err.ee/r2chill.opus",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "estonian"
+  },
+  {
+    "name": "Äripäeva Raadio",
+    "url": "https://www.aripaev.ee/raadio/stream.mp3",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "estonian"
+  },
+  {
+    "name": "Радио 4 / Raadio 4 (128 kbps Ogg Opus) | Eesti Rahvusringhääling | r4.err.ee",
+    "url": "http://icecast.err.ee/raadio4.opus",
+    "codec": "OGG",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "russian"
+  }
+]

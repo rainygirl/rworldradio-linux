@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Padamyar FM 88.2",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s260714",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Padamyar FM 88.2 (Variety)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s348111",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "m.CDM Radio (Local News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s351488",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

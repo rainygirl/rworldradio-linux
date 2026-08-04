@@ -1,0 +1,172 @@
+[
+  {
+    "name": "945 METRO SPORTS 94.5 (Sports Talk & News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s343235",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "96.5 Rock FM Zambia | (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s214604",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Breeze FM Zambia 89.3 (Local News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s110046",
+    "codec": "mp3",
+    "bitrate": 19,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Business Radio Zambia 92.5 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s348776",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Flava FM 87.7 (Soul)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s105323",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Hot 102.7FM",
+    "url": "https://edge.iono.fm/xice/57_medium.aac?ref=https%3A%2F%2Fhot1027.co.za%2F&adToken=",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Hot FM 87.7",
+    "url": "http://s2.yesstreaming.net:7091/stream?type=.mp3%2F%3Bstream.mp3&_=1",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Hot FM Zambia 87.7 (Easy Listening)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s131737",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "I Am Catholic Zambia online Radio",
+    "url": "https://ec4.yesstreaming.net:2015/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Iwave FM 90.1 (Arts & Entertainment News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s356190",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Kanele 97.7 FM | (Variety)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s358545",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "One Love Radio",
+    "url": "https://usa11.fastcast4u.com/proxy/thidhzuy?mp=/1&1745660099290",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Parliament Radio 92.6 (Government)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s110048",
+    "codec": "mp3",
+    "bitrate": 48,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Power FM Zambia 99.7 (Hip Hop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s228654",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Christian Voice",
+    "url": "https://streaming.shoutcast.com/rcv",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Sun Fm Zambia",
+    "url": "http://11233.cloudrad.io:9102/live",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Voice of kalomo community radio station 89.9 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s350225",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "name": "90.4 FM   الإذاعة-الإنجليزية",
+    "url": "https://partwota.cdn.mgmlcdn.com/omengrdoorg/omengrdo.stream_aac/chunklist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Al Wisal",
+    "url": "http://uk7.internet-radio.com:8067/;",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Al Wisal 96.5 (Variety)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s87938",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Hala FM",
+    "url": "https://listen-halafm.sharp-stream.com/halafmlow.mp3",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Hala FM 102.7 (Arabic Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s87937",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Hi FM Oman 95.9 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s87936",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Merge",
+    "url": "http://uk7.internet-radio.com:8040/",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic,english"
+  },
+  {
+    "name": "Merge 104.8 | (Dance)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s139430",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Quran Program Oman   إذاعة-القرآن-الكريم",
+    "url": "https://partwota.cdn.mgmlcdn.com/quranrdoorg/quranrdo.stream_aac/chunklist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Quran Radio Oman 93.2 (Religious Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s210277",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "So! Radio Oman 100 (Rock)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s345332",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Virgin Radio (Oman)",
+    "url": "http://uk5.internet-radio.com:8115/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 23.611840320319164,
+    "lon": 58.58791798353196,
+    "language": ""
+  },
+  {
+    "name": "Virgin Radio Oman (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s17875",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

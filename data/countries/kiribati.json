@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Radio Kiribati 1440 kHz",
+    "url": "https://streamer5.rightclickitservices.com:19790/stream",
+    "codec": "MP3",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

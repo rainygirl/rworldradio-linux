@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Choice FM 93.3",
+    "url": "http://stream.zeno.fm/ct0gvk9149puv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "FOP Radio 89 (Culture)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s355317",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Democracy 98.1 (Music News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s250130",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Sierra Network Radio",
+    "url": "http://45.79.181.148:8004/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

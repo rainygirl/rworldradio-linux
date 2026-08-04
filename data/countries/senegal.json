@@ -1,0 +1,402 @@
+[
+  {
+    "name": "AFRICA RADIO - MANU DIBANGO FOREVER 102.0 (World Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s36596",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Afia FM 93.0 Dakar",
+    "url": "https://stream.zeno.fm/skjrn6kzzxptv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Africa7 FM 90.7 | (Informative News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s333650",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bamtaare FM 103.4 Dodel",
+    "url": "https://stream.zeno.fm/n1mugn1am1duv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Central FM 107.1 Thiés",
+    "url": "https://stream.zeno.fm/t2e45xqkunhvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Dakar Musique",
+    "url": "http://listen.senemultimedia.net:8090/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Dakar Musique",
+    "url": "https://stream.dakarmusique.com/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Diassing FM 93.9 Marsassoum",
+    "url": "https://stream.zeno.fm/veaguaqvvk8uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "FM Sénégal 103.1 Dakar",
+    "url": "https://stream-154.zeno.fm/t8gcyq6ts0quv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "GMS FM 89.3 Ziguinchor",
+    "url": "https://myfm.acan.group/radio/8140/radio.mp3?1690707378",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "H24",
+    "url": "http://listen.senemultimedia.net:8070/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "H24 Senegal",
+    "url": "https://listen.senemultimedia.net:8072/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Lamp Fall FM 101.7 (French Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s47618",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Love FM 107.3 Dakar",
+    "url": "https://stream.zeno.fm/7cru7g7rcwzuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Manooré FM 89.4 Dakar",
+    "url": "https://stream.zeno.fm/sad0xwh0mg8uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Metraf FM 103.7 Dakar",
+    "url": "https://stream.zeno.fm/66yrv69ffv8uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Or FM 89.6 Orkadiéré",
+    "url": "https://stream.zeno.fm/gy7fpc2am1duv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Pikine Diaspora Radio",
+    "url": "http://cdn.voscast.com/resources/?key=563fcd75f43e77334d6fb664b7358f9e&c=winamp",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RFI Afrique 92.0 (World Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s16163",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RTS 92.5 RSI",
+    "url": "https://10gb1.acangroup.org:8000/rsi",
+    "codec": "AAC",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 14.711400429396372,
+    "lon": -17.45597949997248,
+    "language": "french"
+  },
+  {
+    "name": "RTS Kaolack 103",
+    "url": "https://stream.zeno.fm/2fkd4h0ts1duv.m4a",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "RTS Matam 89.1",
+    "url": "https://stream.zeno.fm/kxud8vhqt1duv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french,fulani"
+  },
+  {
+    "name": "RTS Tamba FM 92.0 (Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s238790",
+    "codec": "mp3",
+    "bitrate": 32,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RTS Tambacounda 92.0",
+    "url": "https://stream.zeno.fm/nqxg7p8pt1duv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french,fulani"
+  },
+  {
+    "name": "Radio AI",
+    "url": "https://a13.asurahosting.com/listen/radio_ai/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Al Fayda 90.1 Kaolack",
+    "url": "https://usa5.fastcast4u.com/proxy/lyartech?mp=/stream/1/",
+    "codec": "MP3",
+    "bitrate": 112,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Radio Alfayda 90.1 (African Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s203123",
+    "codec": "mp3",
+    "bitrate": 112,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Fulbe FM 102.6 Dakar",
+    "url": "https://stream.zeno.fm/e0grbn8e3rquv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "fulani"
+  },
+  {
+    "name": "Radio Keur Massar",
+    "url": "https://stream.keurmassar.info/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Oxy Jeunes 103.4 Pikine",
+    "url": "http://s9.voscast.com:7994/;stream.nsv",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Radio Thiossane",
+    "url": "https://stream.radiothiossane.com/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Thiossane",
+    "url": "https://listen.senemultimedia.net:8112/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Rewmi FM 97.5 Dakar",
+    "url": "https://stream-61.zeno.fm/nkzsqg16t8quv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Sud FM 98.5 (African Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s6977",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Sud FM Sen Radio",
+    "url": "http://stream.zenolive.com/rq40edfn3reuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Sweet Radio",
+    "url": "https://stream.zeno.fm/jemecjfbczhuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Timtimol FM 91.9 Ourossogui",
+    "url": "https://stream.zeno.fm/4yx608hnu1duv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Waar Fi FM 104.9 Sébikhotane",
+    "url": "https://stream.zeno.fm/rmg4rfewweruv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Zig FM 100.3 Kolda",
+    "url": "https://stream.zeno.fm/akh0t25nc18uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Zig FM 100.8 Ziguinchor",
+    "url": "https://stream.zeno.fm/zfdk0c69d3quv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  }
+]

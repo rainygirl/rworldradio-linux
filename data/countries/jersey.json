@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Channel 103",
+    "url": "https://n02-eu.rcs.revma.com/1b7wddebanzuv?rj-ttl=5&rj-tok=AAABnuSkRnsAKAPV9xwJDgAhEA&rp_source=1&___cb=931531437397347",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 49.19516658452546,
+    "lon": -2.1147149798487064,
+    "language": "british english"
+  },
+  {
+    "name": "Soleil Radio",
+    "url": "https://stream.rcs.revma.com/sa3ccwa9yy8uv?rp_source=1&=&&___cb=396383825633501",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 49.185922250841394,
+    "lon": -2.1086743347935255,
+    "language": "british english"
+  }
+]

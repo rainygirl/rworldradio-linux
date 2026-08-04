@@ -1,0 +1,262 @@
+[
+  {
+    "name": "Al rasheed fm",
+    "url": "https://streaming.shoutcast.com/alrasheed-fm?1719771692024",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Al rasheed fm )Kirkuk)",
+    "url": "https://streaming.shoutcast.com/alrasheed-kirkuk",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Al-bilad Radio/Yaqoubi",
+    "url": "https://streamer.radio.co/sb38bf6e66/listen",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 33.304669566567576,
+    "lon": 44.39743346166685,
+    "language": "arabic,persian"
+  },
+  {
+    "name": "Alseraj Radio Islam",
+    "url": "https://eu4.fastcast4u.com/proxy/aabdul00?mp=/1",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 32.604926105203255,
+    "lon": 44.01991023965726,
+    "language": "arabic"
+  },
+  {
+    "name": "Alseraj Radio Quran",
+    "url": "http://192.99.170.8:5550/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 32.61328406326153,
+    "lon": 44.03246026505296,
+    "language": "arabic"
+  },
+  {
+    "name": "Ankawa",
+    "url": "http://178.32.146.187/proxy/radioankawa?mp=/1/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic."
+  },
+  {
+    "name": "Babylon FM 99.3 (World Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s191646",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Darusalam Radio",
+    "url": "https://streams.radio.co/s0975ec186/listen",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 33.276047737429806,
+    "lon": 44.36561258856347,
+    "language": "arabic"
+  },
+  {
+    "name": "Dengi Kurdsat 96.3",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s267560",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Duhok Radio 88.50 (Arts & Culture Podcasts)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s114823",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "FM المستقبل",
+    "url": "https://edge.mixlr.com/channel/vnvcj",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Kurdistan 24",
+    "url": "https://audio-edge-3mayu.fra.h.radiomast.io/04b1ce4c-24f2-4172-b756-065832ef78bf",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "kurdish."
+  },
+  {
+    "name": "New Life Radio 97.1 (Christian Contemporary)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s218223",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Ashur  راديو أشور ܦܪܵܣ ܩܵܠܵܐ ܕܐܵܫܘܿܪ",
+    "url": "https://eu7.fastcast4u.com/proxy/radioashur?mp=/1",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Ashur 9090 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s345283",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Duhok FM",
+    "url": "https://stream-149.zeno.fm/unwq3jdyhmbuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "kurdish"
+  },
+  {
+    "name": "Radio Sawa Gulf 1548 (World Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s68324",
+    "codec": "mp3",
+    "bitrate": 160,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Sawa Iraq 100.4 (Arabic Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s37149",
+    "codec": "mp3",
+    "bitrate": 160,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Shanasheel",
+    "url": "https://stream-152.zeno.fm/a33ka0d94p8uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic."
+  },
+  {
+    "name": "Radyo  Şirvan Perwer",
+    "url": "https://stream-156.zeno.fm/x0xhw6c6g2zuv?zs=AfL9IRdsQ_qHIebZBo-9GA",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "kurdish"
+  },
+  {
+    "name": "Rudaw News Radio",
+    "url": "https://l3.itworkscdn.net/itwaudio/9006/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "kurdish"
+  },
+  {
+    "name": "Shafaq radio",
+    "url": "https://radio.shafaq.com/radio",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "SumerFm Iraq",
+    "url": "https://l3.itworkscdn.net/itwaudio/9012/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 33.305273314646655,
+    "lon": 44.38600074200708,
+    "language": "arabic"
+  },
+  {
+    "name": "Turkmen FM  تركمان إف إم",
+    "url": "https://radyo1.radyo-dinle.tc/8284/stream;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic,iraqi turkmen"
+  },
+  {
+    "name": "Waar Radio Official Stream",
+    "url": "https://c2.radioboss.fm:18564/stream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "kurdish"
+  },
+  {
+    "name": "Waar radio",
+    "url": "https://c2.radioboss.fm/stream/564",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

@@ -1,0 +1,532 @@
+[
+  {
+    "name": "AL TOPE RADIO",
+    "url": "https://server.laradio.online/proxy/edwin_chacon?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "AM Original 1180 Veraguas",
+    "url": "http://rosetta.shoutca.st:9264/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Am Original 1180 | (Latin Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s100902",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Antena 8 100.1 FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ANT8AAC.aac",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Beat Life Panama",
+    "url": "https://cast4.asurahosting.com/proxy/ondabra2/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 8.95904513573664,
+    "lon": -79.53882830215379,
+    "language": ""
+  },
+  {
+    "name": "Blast Panama 102.9 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s341374",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Boom 106.1 (Salsa Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s202791",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Brava Radio 507",
+    "url": "https://laradiossl.online:10660/",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "CHT FM 107.7",
+    "url": "https://radios.host-pa.com:8046/;",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Caribe Stereo 90.1 | (Latin Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s124800",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Dinamix fm",
+    "url": "https://jcbroadcast.org:8000/dinamixfm",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "ESTEREO VIDA 105.1 (Christian Spanish)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s16630",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Estéreo Azul 100.9 FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ESTEREOAZULAAC.aac",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "FM Corazón 102.5",
+    "url": "https://sp4.colombiatelecom.com.co/8006/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Fabulosa Estéreo 100.5 FM",
+    "url": "https://www.streaming507.net:8130/stream",
+    "codec": "AAC+",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Faro de David Stereo 104.7 (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s101001",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Festival 1540 AM",
+    "url": "http://streaming507.net:8128/stream",
+    "codec": "AAC",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Flow 92.7 FM",
+    "url": "http://streaming507.net:9980/stream",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Hosanna Capital 94.9 (Christian Spanish)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s143121",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Hosanna Carismatica 94.9 (Music Podcasts)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s212343",
+    "codec": "mp3",
+    "bitrate": 112,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "IMPERIAL MUZIK FM 0 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s341842",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Infinity Panama (Local Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s142524",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "L.A. Mega 98.1 FM",
+    "url": "https://www.streaming507.net:8152/stream",
+    "codec": "AAC",
+    "bitrate": 112,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "LA TIPIK",
+    "url": "https://stream.mixesurbanospty.com:8090/tipik.mp3",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "La Nueva 887 88.7 (Variety)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s346329",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Magic FM",
+    "url": "https://laradio.stream/proxy/magicfm/stream",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Okey 96.3 FM",
+    "url": "https://icy.cloudrad.io/5b3fc6b1",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Omega Stereo",
+    "url": "https://www.streaming507.net:8048/stream",
+    "codec": "AAC",
+    "bitrate": 160,
+    "needsResolve": false,
+    "lat": 8.990237931656342,
+    "lon": -79.52450187460748,
+    "language": ""
+  },
+  {
+    "name": "Original Stereo 90.7 FM",
+    "url": "https://original.radioca.st/;",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Original Stereo 90.7 FM",
+    "url": "http://rosetta.shoutca.st:8931/;",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "Original Stereo 90.7 | (Latin Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s100901",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "PRIMERISIMA RADIO 1470 (Folk Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s25032",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Quiubo Estereo 103.6 (Folk Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s210003",
+    "codec": "mp3",
+    "bitrate": 32,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO MARIA PANAMA",
+    "url": "http://dreamsiteradiocp.com:8082/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO MARIA PANAMA",
+    "url": "https://dreamsiteradiocp2.com/proxy/rmpanama2?mp=/stream",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RPC Radio",
+    "url": "https://s9.stweb.tv/thinkindot-fast-3/live/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 66,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Chiriquí 103.3 FM | (80's)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s353330",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Chiriquí 106.9 | (Pop Latino)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s2430",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Panama 94.5 (Spanish Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s100895",
+    "codec": "mp3",
+    "bitrate": 48,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio RED 104.5 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s341376",
+    "codec": "mp3",
+    "bitrate": 256,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Rumba FM",
+    "url": "https://laradiossl.online:10355/;stream.nsv",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "SHOK 360 102 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s350652",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "SUPER Q PANAMA 90.5 (Urbano Latino)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s17614",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Shalom FM 95.5 | (Christian Spanish)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s270116",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Stereo 89 89.0 (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s50065",
+    "codec": "mp3",
+    "bitrate": 256,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Stereo Vida Panama",
+    "url": "https://stream.zeno.fm/fz1rcfd1x1zuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "spanish"
+  },
+  {
+    "name": "TVN Radio",
+    "url": "https://mdstrm.com/audio/654a5c9f40fd924d7ba3cd41/live.m3u8?_=1742584558819&dnt=true&player=6652918b0895f378e25e2728&uid=bd4OLrAP9gIxbw92y28cJBSUgVhCxWFY&sid=XbHbf3SdW8OPynroe95JSyz2nfB3iN5C&pid=coEcFUo064cTG0feq0zr1KKM5touhYMQ&an=tvn-pass-app-web&at=web-app&av=v1.0.18&sc=0&ref=tvn-especiales-editorial-comercial.s3.us-east-2.amazonaws.com&res=1536x864",
+    "codec": "AAC",
+    "bitrate": 213,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Telemetro Radio",
+    "url": "https://s9.stweb.tv/thinkindot-fast-1/live/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 98,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "TropiQ",
+    "url": "https://www.streaming507.net:8140/stream",
+    "codec": "AAC+",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Ultra Stereo 98.9 FM",
+    "url": "https://www.streaming507.net:8134/stream",
+    "codec": "AAC",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Vision Global Radio 90.1 (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s141288",
+    "codec": "mp3",
+    "bitrate": 56,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "WAO 97.5 | (Variety)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s13274",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "YXY",
+    "url": "https://sp4.colombiatelecom.com.co:8006/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

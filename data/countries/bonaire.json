@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Alpha 93.1 FM Riscado",
+    "url": "http://kadushi.westream.cloud:8100/xstream",
+    "codec": "MP3",
+    "bitrate": 100,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "bonaire,spanish"
+  },
+  {
+    "name": "Bon FM 102.7  Riscado",
+    "url": "http://bonfm5.primcast.com:6482/;",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "papiamentu"
+  },
+  {
+    "name": "Caprice Spacesynth",
+    "url": "http://79.120.39.202:9111/",
+    "codec": "AAC+",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Carina FM",
+    "url": "http://185.198.27.187:8616/Cariba_FM",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Club De Daltons",
+    "url": "https://proxy1.audiostreamen.nl/clubdedaltons.mp3",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "KISS FM Nederland",
+    "url": "https://stream.kissfm.nl/kissfm",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": 52.385239381198055,
+    "lon": 4.898529052734376,
+    "language": "dutch"
+  },
+  {
+    "name": "Live99 FM - Kralendijk",
+    "url": "http://162.244.80.220:8000/;stream.mp3",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "papiamentu"
+  },
+  {
+    "name": "Mega Hit FM",
+    "url": "https://megahitfm.krioyohosting.com:1012/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RTV Purmerend",
+    "url": "http://stream.zxp.nl:8000/radiopurmerend_bb",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 52.49637508234775,
+    "lon": 4.967397451400758,
+    "language": ""
+  },
+  {
+    "name": "Solid FM 93.1",
+    "url": "https://caribspy.com/proxy/solidfm/stream/;?type=http&amp;nocache=107036",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Studio De Groene Knuppel",
+    "url": "https://mars.streamerr.co/8238/studiodegroeneknuppel",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "TROPICAL SPICE RADIO",
+    "url": "https://auds1.intacs.com/tropicalspiceradio",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Voz di Bonaire 94.7 - Riscado",
+    "url": "http://159.203.190.86:8304/;stream.mp3",
+    "codec": "MP3",
+    "bitrate": 100,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "papiamentu"
+  }
+]

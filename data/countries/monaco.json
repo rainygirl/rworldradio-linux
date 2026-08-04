@@ -1,0 +1,172 @@
+[
+  {
+    "name": "CITY 102.4 (Hip Hop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s103290",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Europe 2 101.1 (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s103292",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Hits 1 radio Monte-Carlo 103 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s170847",
+    "codec": "mp3",
+    "bitrate": 256,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Jazz Radio 96.4 (Soul)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s103285",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "M Radio 90.3 (French Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s50691",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "NOSTALGIE 93.8 (Classic Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s66632",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RMC 98.5 (French Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s50814",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RTL2 102.1 (Pop Country)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s103291",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Classique 102.7 (Classical)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s103288",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Monaco 95.4 (Music News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s87645",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Monaco 98.2",
+    "url": "http://radiomonaco.ice.infomaniak.ch/radiomonaco-128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Radio Monte Carlo 106.8 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s2475",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Monte Carlo Italia",
+    "url": "https://icy.unitedradio.it/rmcweb005",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "italian"
+  },
+  {
+    "name": "Riviera Radio",
+    "url": "http://rivieraradio.ice.infomaniak.ch/rivieraradio-high.mp3",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Riviera Radio 106.5 (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s15205",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Yellow Party",
+    "url": "https://yellowradio.ice.infomaniak.ch/yellow02.aac",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Yellow Riviera",
+    "url": "https://yellowradio.ice.infomaniak.ch/yellow01.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 43.73286965486682,
+    "lon": 7.424563765525819,
+    "language": "french"
+  }
+]

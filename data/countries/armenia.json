@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Armenian Bible Study Radio",
+    "url": "https://ssl.nexuscast.com:8082/stream?type=http&nocache=30722",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Armenian Christian Radio - Bashde Radio",
+    "url": "https://streams.radio.co/sa0bf8ec29/listen?sid=1",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Autoradio FM 89.7 | (Dance & Electronic)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s352771",
+    "codec": "mp3",
+    "bitrate": 256,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Fama",
+    "url": "http://eu.stream4cast.com:8036/stream/",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Jazz FM 106.9 Yerevan Radio",
+    "url": "https://de.auroramedia.am/jazz.mp3",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": 40.177753568182624,
+    "lon": 44.512566921602186,
+    "language": "armenian"
+  },
+  {
+    "name": "KISS FM Armenia 88.3 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s305106",
+    "codec": "mp3",
+    "bitrate": 256,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Kiss FM Armenia",
+    "url": "https://am.radioaurora.am/kiss",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": 40.17142328792078,
+    "lon": 44.51419830322266,
+    "language": ""
+  },
+  {
+    "name": "LOVE RADIO",
+    "url": "https://loveradio.streamingmedia.it/play",
+    "codec": "AAC+",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Lav Radio",
+    "url": "https://eu.stream4cast.com/proxy/lavradio/stream",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": 40.17778963637747,
+    "lon": 44.5125371858387,
+    "language": "armenian"
+  },
+  {
+    "name": "Lav Radio Mix",
+    "url": "http://live.lavradio.am:8006/stream2",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Lratvakan Radio",
+    "url": "http://212.34.233.78:8000/live",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 40.17761257410072,
+    "lon": 44.5126620418968,
+    "language": "armenian"
+  },
+  {
+    "name": "Luys TV Western Armenian TV",
+    "url": "http://luyse.mediatriple.net/luystv/luystv.smil/playlist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 1500,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "turkish"
+  },
+  {
+    "name": "Radio AYK",
+    "url": "http://s3.streammonster.com:8117/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Alpha Yerevan 104",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s347369",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Aurora",
+    "url": "http://am.radioaurora.am:8010/al.mp3",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Aurora Armenia 100.7 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s143165",
+    "codec": "mp3",
+    "bitrate": 256,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio JAZZ FM Armenia 106 (Jazz)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s347294",
+    "codec": "mp3",
+    "bitrate": 256,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Marshall",
+    "url": "https://eu.stream4cast.com/proxy/marshallfm/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Roks Armenia 106 (Rock)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s347298",
+    "codec": "mp3",
+    "bitrate": 256,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio VAN",
+    "url": "http://stream.radiovan.fm/stream/index.m3u8",
+    "codec": "AAC,H.264",
+    "bitrate": 1700,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Vem Radio 101.6 (Religious Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s48068",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "XFM Radio",
+    "url": "https://eu.stream4cast.com/proxy/xfmradio/stream",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Yerevan FM 101 (Jazz)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s347439",
+    "codec": "mp3",
+    "bitrate": 256,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "av",
+    "url": "https://surrit.com/b4162a97-f7ed-433f-872d-f3e1741d9dac/playlist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 800,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

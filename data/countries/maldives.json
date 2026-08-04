@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Dhivehi FM",
+    "url": "https://radio.psm.mv/fmair",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 4.174263155811882,
+    "lon": 73.5108842804422,
+    "language": ""
+  },
+  {
+    "name": "Dhivehi Raajjeyge Adu",
+    "url": "https://radio.psm.mv/draair",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 4.174583497582081,
+    "lon": 73.51114912803006,
+    "language": "dhivehi"
+  }
+]

@@ -1,0 +1,682 @@
+[
+  {
+    "name": "88.3JIA Cantopop - Best of All Time Cantonese Song",
+    "url": "https://22253.live.streamtheworld.com/HARRYS_S02.mp3",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "938 Now Radio",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/938NOWAAC.aac",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "973FM Blasts That Last",
+    "url": "http://c16.radioboss.fm:8115/autodj",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "973FM: Blasts That Last radio",
+    "url": "https://c16.radioboss.fm:18115/stream?icecast",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "987",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/987FM_PREM.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 1.2953420697341316,
+    "lon": 103.79227548837665,
+    "language": "english"
+  },
+  {
+    "name": "987",
+    "url": "https://14033.live.streamtheworld.com/987FM_SC",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "987FM",
+    "url": "https://22393.live.streamtheworld.com/987FM_PREM.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 1.2962761196418218,
+    "lon": 103.86062622070314,
+    "language": "english"
+  },
+  {
+    "name": "987FM 98.7 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s53927",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "AXR Manila",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AXR_MANILA.mp3",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 1.3022981837217622,
+    "lon": 103.86469084653072,
+    "language": ""
+  },
+  {
+    "name": "AXR Singapore",
+    "url": "http://singaporestream.axr.online/",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "AXR Singapore",
+    "url": "http://22243.live.streamtheworld.com:3690/AXR_SINGAPORE_SC",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Beam FM",
+    "url": "https://beamfm.streeemer.com/listen/beam_fm/radio.aac",
+    "codec": "AAC",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Bible Witness Web Radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3179571_SC",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "CAPITAL 958",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CAPITAL958FM_PREM.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 1.295374248016841,
+    "lon": 103.79223793745042,
+    "language": "chinese"
+  },
+  {
+    "name": "CLASS 95",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95_PREM.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 1.2953635219226556,
+    "lon": 103.7922513484955,
+    "language": "english"
+  },
+  {
+    "name": "CNA 938",
+    "url": "https://22893.live.streamtheworld.com/938NOW_SC",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "CNA 938 Live Singapore",
+    "url": "http://19183.live.streamtheworld.com:3690/938NOW_PREM_SC",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "CNA938",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/938NOW_PREM.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 1.2953581588755374,
+    "lon": 103.79225403070453,
+    "language": "english"
+  },
+  {
+    "name": "CNA938",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/938NOW_PREM.m3u8",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Capital 95.8FM 城市频道 | (Chinese Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s24959",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Capital 958 Radio",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CAPITAL958FMAAC.aac",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "Channel News Asia TV",
+    "url": "http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Class 95 Radio",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95AAC.aac",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "GOLD 905",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/GOLD905_PREM.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 1.2953635219226556,
+    "lon": 103.79224866628648,
+    "language": "english"
+  },
+  {
+    "name": "GOLD 905",
+    "url": "https://22403.live.streamtheworld.com/GOLD905_SC",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Gold 90.5 FM | (Classic Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s7796",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Gold 905 Radio",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/GOLD905AAC.aac",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Jia 883 Radio",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/883JIAAAC.aac",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "LOVE 972",
+    "url": "https://28333.live.streamtheworld.com/LOVE972FM_PREM.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "LOVE 972",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FM_PREM.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 1.295374248016841,
+    "lon": 103.79224330186848,
+    "language": "chinese"
+  },
+  {
+    "name": "Love 97.2 FM | (Easy Listening)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s25602",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Love 972",
+    "url": "http://22903.live.streamtheworld.com/LOVE972FMAAC.aac",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Love 972 Radio",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FMAAC.aac",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "Mediacorp 987 Radio",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/987FMAAC.aac",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Money 893 Radio",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/MONEY_893AAC.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Money FM 89.3",
+    "url": "https://22243.live.streamtheworld.com/MONEY_893AAC.aac?dist=sphradio-web&gdpr=0&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=f94bbefc-acee-4c13-ed7b-9accdb44b7a2",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "OLI 968",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FM_PREM.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 1.295368884969761,
+    "lon": 103.79226475954056,
+    "language": "tamil"
+  },
+  {
+    "name": "ONE FM",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/one_FM_913AAC.aac?dist=radiosingaporeapp",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "ONE FM 91.3 SPH AAC",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/ONE_FM_913AAC.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 1.3432224167794888,
+    "lon": 103.84874864671586,
+    "language": "english"
+  },
+  {
+    "name": "Oli 96.8 FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FMAAC.aac",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": 1.3449463546629483,
+    "lon": 103.82003747260612,
+    "language": "tamil"
+  },
+  {
+    "name": "Oli 968 Radio",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FMAAC.aac",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "tamil"
+  },
+  {
+    "name": "Oli FM 96.8 (Tamil Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s17453",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "One FM 91.3",
+    "url": "https://22283.live.streamtheworld.com/ONE_FM_913AAC_SC",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Power 98 Love Songs",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/POWER98_LOVESONGS.mp3",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 1.366529091899641,
+    "lon": 103.82194343021688,
+    "language": ""
+  },
+  {
+    "name": "Power 98 Love Songs 98.0 (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s3102",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RIA 897",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RIA897FM_PREM.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 1.2953635219226556,
+    "lon": 103.79223793745042,
+    "language": "malay"
+  },
+  {
+    "name": "RIA 897",
+    "url": "https://22393.live.streamtheworld.com/RIA897FM_SC",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Melody with Brother Bjorn",
+    "url": "https://ssl.geckohost.nz/proxy/bjorn?mp=/stream&1703130377563",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Ria 897 Radio",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RIA897FMAAC.aac",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "malay"
+  },
+  {
+    "name": "Ria FM 89.7 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s16407",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "SPH 963 Radio",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "Singapore Chinese POP YES FM 933",
+    "url": "https://22893.live.streamtheworld.com/YES933_SC?dist=radiosingapore",
+    "codec": "MP3",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "mandarin"
+  },
+  {
+    "name": "Symphony 924",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SYMPHONY924_PREM.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 1.295368884969761,
+    "lon": 103.79224330186848,
+    "language": "english"
+  },
+  {
+    "name": "Symphony 924 Radio",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SYMPHONY924AAC.aac",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Symphony FM 92.4 (Classical)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s25607",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "UFM 100.3 Radio",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003AAC.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "UFM 1003 (MP3)",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003_SC",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "Ufm 1003",
+    "url": "http://28093.live.streamtheworld.com/UFM_1003AAC.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "WARNA 942",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FM_PREM.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 1.2953581588755374,
+    "lon": 103.79224866628648,
+    "language": "malay"
+  },
+  {
+    "name": "Warna",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FMAAC.aac",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Warna 94.2 FM | (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s16508",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "YES 933",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/YES933_PREM.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 1.2953635219226556,
+    "lon": 103.79224330186848,
+    "language": "chinese"
+  },
+  {
+    "name": "YES 933 Radio",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/YES933AAC.aac",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "chinese"
+  },
+  {
+    "name": "Yes 933",
+    "url": "https://28393.live.streamtheworld.com/YES933_PREM.aac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Yes 933",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/YES933AAC_SC",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Yes 933",
+    "url": "http://28453.live.streamtheworld.com/YES933AAC.aac",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "indiego",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/INDIEGO_S01_PREM.aac",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 1.295352795828419,
+    "lon": 103.79221916198732,
+    "language": "english"
+  },
+  {
+    "name": "kiss92",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92_SC",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

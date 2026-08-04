@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Wallis & Futuna 1",
+    "url": "https://wallisetfutuna.ice.infomaniak.ch/wallisetfutuna-128.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Wallis-et-Futuna la 1ère 91.0 (Music News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s89496",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

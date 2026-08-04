@@ -1,0 +1,57 @@
+[package]
+name = "rworldradio"
+version = "1.0.0"
+edition = "2021"
+# Set by the dependency tree, not by this crate's own code: eframe 0.32 pulls
+# `image` (1.88) and, via accesskit, `zbus` (1.87). Debian/Mint's packaged rustc
+# is older than this, so install Rust through rustup - see README.
+rust-version = "1.88"
+description = "Internet radio player - Linux (X11/Wayland) port of the Haiku R World Radio app"
+license = "MIT"
+
+[lib]
+name = "rworldradio"
+path = "src/lib.rs"
+
+[[bin]]
+name = "rworldradio"
+path = "src/main.rs"
+
+[features]
+default = ["x11"]
+# X11, which is what XFCE runs. Build needs libx11 / libxkbcommon / libGL.
+x11 = ["eframe/x11"]
+# Native Wayland. Off by default because winit links libwayland-client at build
+# time (it does not dlopen it), so this would add libwayland-dev to the build
+# requirements of an X11-only desktop. Under a Wayland compositor the X11 build
+# still runs fine via XWayland.
+wayland = ["eframe/wayland"]
+
+[dependencies]
+eframe = { version = "0.32", default-features = false, features = [
+    "glow",
+    "default_fonts",
+    "accesskit",
+] }
+egui = "0.32"
+serde_json = "1"
+ureq = "2.12"
+cpal = "0.16"
+# `aac` brings both the AAC-LC decoder and the raw ADTS reader; `mp1`/`mp2`
+# cover the MPEG-1 Layer I/II that MPEG-TS segments occasionally carry.
+symphonia = { version = "0.5", default-features = false, features = [
+    "mp1",
+    "mp2",
+    "mp3",
+    "aac",
+    "isomp4",
+    "ogg",
+    "vorbis",
+    "flac",
+    "wav",
+    "pcm",
+] }
+
+[profile.release]
+opt-level = 3
+lto = "thin"

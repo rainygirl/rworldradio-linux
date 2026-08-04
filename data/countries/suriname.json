@@ -1,0 +1,232 @@
+[
+  {
+    "name": "ACME / Rapar 91.3 (Indian Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s100650",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Ishara",
+    "url": "https://a8.asurahosting.com:7030/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 5.942233809492641,
+    "lon": -56.97108238935471,
+    "language": ""
+  },
+  {
+    "name": "MPB Radio Suriname",
+    "url": "https://radiozender.mpbnetwerken.nl/radiosuriname",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "MPB Radio Suriname",
+    "url": "https://radiozender.mpbnetwerken.nl/radiosuriname.mp3",
+    "codec": "AAC+",
+    "bitrate": 384,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "NIO 107.5FM",
+    "url": "https://loa.beheerstream.nl:8060/stream",
+    "codec": "MP3",
+    "bitrate": 256,
+    "needsResolve": false,
+    "lat": 3.337953961416485,
+    "lon": -55.72265625,
+    "language": ""
+  },
+  {
+    "name": "NIO FM 107.5 (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s118729",
+    "codec": "mp3",
+    "bitrate": 256,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Pipel FM 94 (Easy Listening)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s85877",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio 10 Magic FM",
+    "url": "https://s5.radio.co/s85a633f73/listen",
+    "codec": "AAC",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio 10 Magic FM 88.1 (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s85876",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio 9 Suriname 98 (Easy Listening)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s262310",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Apintie",
+    "url": "http://surilive.com:8000/str",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 4.286157851321014,
+    "lon": -54.31640625000001,
+    "language": ""
+  },
+  {
+    "name": "Radio Katolica 93.1 (Christian Contemporary)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s121180",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Koyeba 104.9 (Dutch Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s163336",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Sangeetmala",
+    "url": "https://rs.suricloud.com/radio/8030/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hindi"
+  },
+  {
+    "name": "Radio Sangeetmala 100 (Indian Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s121212",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Sargam 89.3 (Indian Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s247931",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Sbe 90 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s348836",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Shruti",
+    "url": "https://rs.suricloud.com/radio/8000/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "hindi"
+  },
+  {
+    "name": "Rp The Hot one 89.7 (World Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s103120",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Shalom Radio 94.5 (Variety)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s142811",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Smooth FM 104.1 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s197042",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Surinet radio",
+    "url": "http://loa.beheerstream.nl:8066/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Trishul Broadcasting Network 90 (Indian Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s7190",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

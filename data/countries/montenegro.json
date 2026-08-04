@@ -1,0 +1,532 @@
+[
+  {
+    "name": "Antena M",
+    "url": "http://radioservis.me:8010/antenamlive",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Arena Radio",
+    "url": "https://radio.elmag.me/arena.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Boka News",
+    "url": "http://bokanews.me:8000/source?1734500086794",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bruškin",
+    "url": "https://player.radiobruskin.me/proxy/radiobruskin/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "City Radio",
+    "url": "http://eu7.fastcast4u.com:6166/;",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "montenegro"
+  },
+  {
+    "name": "Drugačija Radio Stanica",
+    "url": "https://eu2.fastcast4u.com/proxy/mic0?mp=/stream",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "montenegro"
+  },
+  {
+    "name": "El Radio Podgorica",
+    "url": "https://radio.elmag.me/el.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 42.43991270006206,
+    "lon": 19.25864696502686,
+    "language": ""
+  },
+  {
+    "name": "Elmag radio 96.0 (Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s1304",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Mag radio",
+    "url": "http://radio.elmag.me/mag.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "montenegro"
+  },
+  {
+    "name": "Novi Elmag radio",
+    "url": "http://radio.elmag.me/elmag.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "montenegro"
+  },
+  {
+    "name": "PLAY MONTENEGRO 102 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s271769",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "PLAY radio MNE Rock",
+    "url": "https://stream.playradio.me:8443/rock.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 42.4195070719763,
+    "lon": 19.258032033618942,
+    "language": "montenegrin"
+  },
+  {
+    "name": "Play Radio MNE Balkan",
+    "url": "https://stream.playradio.me:8443/balkan.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "montenegrin"
+  },
+  {
+    "name": "Play Radio MNE Party",
+    "url": "https://stream.playradio.me:8443/party.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "montenegrin"
+  },
+  {
+    "name": "Play Radio MNE Soft",
+    "url": "https://stream.playradio.me:8443/soft.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "montenegrin"
+  },
+  {
+    "name": "Play Radio MNE Urban",
+    "url": "https://stream.playradio.me:8443/urban.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "montenegrin"
+  },
+  {
+    "name": "Play Radio Montenegro",
+    "url": "https://stream.playradio.me:8443/play-me.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "montenegro"
+  },
+  {
+    "name": "RCG Millennium",
+    "url": "https://rtcg.ipradio.rs:9102/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,french,italian,spanish"
+  },
+  {
+    "name": "RCG1 (Music TV)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s100679",
+    "codec": "mp3",
+    "bitrate": 32,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Andrijevica",
+    "url": "https://mpc2.mediacp.eu/stream/andrijevica/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Antena M 87.6 (World Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s16032",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Berane",
+    "url": "https://stream.iradio.pro/proxy/radioberane?mp=/stream;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "montenegro"
+  },
+  {
+    "name": "Radio Bijelo Polje",
+    "url": "http://136.243.134.202:8122/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "montenegrin"
+  },
+  {
+    "name": "Radio Boka News",
+    "url": "http://bokanews.me:8000/source",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "montenegro"
+  },
+  {
+    "name": "Radio Budva",
+    "url": "https://c8.radioboss.fm:18199/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "montenegro"
+  },
+  {
+    "name": "Radio Cetinje",
+    "url": "http://78.129.228.187:8007/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "montenegrin"
+  },
+  {
+    "name": "Radio Crne Gore 1",
+    "url": "https://rtcg.ipradio.rs:9008/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio Crne Gore 2 R98",
+    "url": "https://r98.ipradio.rs:10100/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "montenegrin"
+  },
+  {
+    "name": "Radio D plus",
+    "url": "https://radiodplus.radioca.st/xstream",
+    "codec": "MP3",
+    "bitrate": 140,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "montenegro"
+  },
+  {
+    "name": "Radio Elmag Caffe",
+    "url": "https://radio.elmag.me/cafe.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "montenegro"
+  },
+  {
+    "name": "Radio Elmag Evergreen",
+    "url": "https://radio.elmag.me/evergreen.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "montenegro"
+  },
+  {
+    "name": "Radio Elmag Folk Gold",
+    "url": "https://radio.elmag.me/folkgold.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "montenegro"
+  },
+  {
+    "name": "Radio Elmag Izvorne i Starogradske",
+    "url": "https://radio.elmag.me/izvorne.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "montenegro"
+  },
+  {
+    "name": "Radio Elmag Kids",
+    "url": "https://radio.elmag.me/kids.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "montenegro"
+  },
+  {
+    "name": "Radio Elmag Love",
+    "url": "https://radio.elmag.me/love.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "montenegro"
+  },
+  {
+    "name": "Radio Elmag Nostalgija",
+    "url": "https://radio.elmag.me/nostalgija.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "montenegrin"
+  },
+  {
+    "name": "Radio Elmag Party",
+    "url": "https://radio.elmag.me/party.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "montenegrin"
+  },
+  {
+    "name": "Radio Elmag Pop Rock EX YU",
+    "url": "https://radio.elmag.me/poprock.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "montenegro"
+  },
+  {
+    "name": "Radio Jupok 98.7 (Folk Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s9631",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Kotor",
+    "url": "https://stream.iradio.pro/proxy/radiokotor?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "montenegrin"
+  },
+  {
+    "name": "Radio Podgorica 103.0",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s25937",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Porto Montenegro",
+    "url": "https://malta1491.startdedicated.de:8443/main",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,montenegrin"
+  },
+  {
+    "name": "Radio S1 Crna Gora",
+    "url": "https://stream.radios.rs:9008/;",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "montenegro"
+  },
+  {
+    "name": "Radio S2 Crna Gora",
+    "url": "https://stream.radios.rs:9010/;",
+    "codec": "AAC+",
+    "bitrate": 36,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "montenegro"
+  },
+  {
+    "name": "Radio S3 Crna Gora",
+    "url": "https://stream.radios.rs:9018/",
+    "codec": "AAC+",
+    "bitrate": 36,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "montenegro"
+  },
+  {
+    "name": "Radio Saraj",
+    "url": "https://eu4.fastcast4u.com/proxy/stilradiomk?mp=/s",
+    "codec": "AAC+",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "montenegro"
+  },
+  {
+    "name": "Radio Svetigora",
+    "url": "http://svetigoralive.com:8879/;",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  },
+  {
+    "name": "Radio Titograd 101.5 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s348388",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Fatih",
+    "url": "https://radioservis.me/radio/8070/radiofatih?1702660538716",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "montenegrin"
+  },
+  {
+    "name": "Rcg Yug",
+    "url": "https://rtcg.ipradio.rs:9103/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 42.42994411032264,
+    "lon": 19.274991152001764,
+    "language": "montenegro"
+  },
+  {
+    "name": "Reggaeneracija Montenegro",
+    "url": "http://5.189.179.77:8000/stream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Skadar",
+    "url": "http://radioservis.me:8050/radioskadar",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "РЦГ Classic",
+    "url": "http://rtcg1.ipradio.rs:10004/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "serbian"
+  }
+]

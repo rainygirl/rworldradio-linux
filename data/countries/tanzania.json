@@ -1,0 +1,582 @@
+[
+  {
+    "name": "87.5 PLANETFM | (Entertainment & Media)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s253284",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "88.9 Storm FM | (African Rhythms)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s265633",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "94.5 SIBUKA FM | (Religion & Spirituality)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s339647",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "A.FM 92.9 Kuwa Tofauti | (African Rhythms)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s261916",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "ABM RADIO 91.2 (Gospel)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s339984",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "ABOOD FM 89.7 (World Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s204750",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Abood Radio 88.3 Fm | (Local Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s346614",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "BOMBA RADIO 104.1 (Gospel)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s339986",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bethel Radio 102 (Gospel)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s238964",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Bunda Fm 92.1 (Entertainment)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s339242",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "CG FM RADIO 88.5 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s202282",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Capital Radio",
+    "url": "https://capitalradio.radioca.st/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,swahili"
+  },
+  {
+    "name": "Christian FM Radio",
+    "url": "http://stream.zeno.fm/eequgfw72hhvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Clouds FM",
+    "url": "http://eu6.fastcast4u.com:5306/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Clouds FM 88.5 (African Rhythms)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s6417",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Crown FM",
+    "url": "https://radio.crownmedia.co.tz:8443/crown",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Dream FM Mbeya 91.3 (African Rhythms)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s267770",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "E-FM RADIO TANZANI 93.7 (African Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s224740",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "East Africa Radio 88.1 (Variety)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s164297",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "East Africa Radio FM",
+    "url": "https://eatv.radioca.st/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swahili"
+  },
+  {
+    "name": "Flamingo FM 104.5",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s331589",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Furaha FM 90.9 (African Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s263270",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "IBN TV",
+    "url": "http://138.68.138.119:8080/low/5a8993709ea19/index.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "IDEA FM 95.7 (Gospel)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s339983",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "ImbaNasi",
+    "url": "https://stream.zeno.fm/dsfhivkawjiuv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Ishizwe FM",
+    "url": "https://stream.zeno.fm/zhhawbqoikatv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": -2.5002278194337233,
+    "lon": 30.666685402393345,
+    "language": ""
+  },
+  {
+    "name": "Kings FM Radio 89.5 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s263641",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Malkia Choice Fm 102.5 (Classical)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s337394",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Mazingira Fm 91.7 (Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s350288",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Mjini FM 92 (Entertainment)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s354575",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Morning Star Radio 105.3 (Christian Contemporary)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s201151",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Mungu Kwanza",
+    "url": "https://mungukwanza.radioca.st/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Nuru FM",
+    "url": "https://radiotadio.co.tz/nuru-fm-stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Qiblatain FM 103.6 (Fiction - Religious)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s356313",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Qiblaten FM 103.6 (Islamic Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s145818",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "RADIO MARIA TANZANIA",
+    "url": "http://dreamsiteradiocp2.com:8034/stream",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Free Africa 1377 (African Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s6431",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Joy 90.5fm | (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s339710",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Kwizera",
+    "url": "https://uk4-vn.mixstream.net/:8052/;listen.mp3",
+    "codec": "MP3",
+    "bitrate": 112,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Kwizera 97.9 (Catholic Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s6427",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Mbiu",
+    "url": "http://dreamsiteradiocp5.com:8004/stream.mp3",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swahili"
+  },
+  {
+    "name": "Radio Ngamia",
+    "url": "http://stream.zeno.fm/41e3gsdgmdouv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": -8.514477408346133,
+    "lon": 39.02343750000001,
+    "language": ""
+  },
+  {
+    "name": "Radio Nuur fm 94 (Religious Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s341746",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio One 89.7 (Variety)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s6419",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio One Stereo",
+    "url": "https://radioonetanzania.radioca.st/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Uhai",
+    "url": "https://s2.citrus3.com:8050/stream",
+    "codec": "AAC",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "swahili"
+  },
+  {
+    "name": "SAUTI YA QURAN FM 102.1 (Islamic Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s349660",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "SIBUKA FM 94.5 (Christian Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s337703",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Shalom 97.3 FM | (Religion & Spirituality)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s326204",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Shammah FM Radio 90.9 (Christian Contemporary)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s333610",
+    "codec": "",
+    "bitrate": 0,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Sheddy's New Look FM 87.7 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s339901",
+    "codec": "mp3",
+    "bitrate": 233,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "TOP RADIO 99.5 (Religion & Spirituality)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s339982",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Times FM 100.5 (Sports)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s346500",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "UYUI FM RADIO (UFR) 99.3",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s353624",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "UpendoFM Radio 107.7 (Gospel)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s354296",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "VOICE RADIO 89 (Gospel)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s339985",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "VOS FM RADIO 90.1 (Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s339965",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "street One radio",
+    "url": "http://stream.zeno.fm/d3as2fmadnruv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  }
+]

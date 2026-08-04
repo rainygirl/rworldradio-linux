@@ -1,0 +1,112 @@
+[
+  {
+    "name": "AFRICA RADIO - MANU DIBANGO FOREVER 102.0 (World Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s50242",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "AFRICA RADIO - MANU DIBANGO FOREVER 106.7 (World Talk)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s36602",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Balla Radio",
+    "url": "http://167.114.11.79:5730/;stream/1",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,french"
+  },
+  {
+    "name": "CRTV Radio",
+    "url": "https://listen.radioking.com/radio/39218/stream/75659",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "french"
+  },
+  {
+    "name": "Equinoxe Radio",
+    "url": "https://listen.radioking.com/radio/39218/stream/76118",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Globe 360 Radio",
+    "url": "http://139.84.240.171:8000/globe360",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 4.577398146550086,
+    "lon": 11.325685511339108,
+    "language": "english,french"
+  },
+  {
+    "name": "ROOTS RADIO 105.9 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s341659",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "ROOTS RADIO CAMEROUN 105.9 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s345924",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "ROOTS RADIO Cameroun 105.9 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s341699",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Balafon 90.2 (Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s203540",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Truth Gospel Radio FM 93.2 | (Gospel)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s348215",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  }
+]

@@ -1,0 +1,842 @@
+[
+  {
+    "name": "3j Radio",
+    "url": "https://de1.streamingpulse.com/ssl/9085",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "90.7FM | (Dance & Electronic)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s355130",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "91.7FM Al Nour Radio - 91.9 / 92.2    إذاعة النور :: رائدة الصوت والكلمة :: بيروت - لبنان",
+    "url": "http://audiostreaming.itworkscdn.com:9066/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "ADEEM (Arabic Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s251693",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Adeem",
+    "url": "https://usa19.fastcast4u.com/adeem",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Aghani Aghani 87.9 FM",
+    "url": "https://streaming.nrjaudio.fm/ou6pfgxp336f",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Aghani Aghani 98.7 (Arabic Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s212875",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Aghani Aghani TV",
+    "url": "https://cdn.streamlane.tv/hls/aghanitv/master.m3u8",
+    "codec": "AAC,H.264",
+    "bitrate": 2040,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Aghani Aghani TV",
+    "url": "https://streaming-a-1035.cdn.nextologies.com/6zj8y5nemi8a32vyjjbkv0oqx/77pcakd8reik3g8qdqnexlkmq/playlist.m3u8",
+    "codec": "AAC,H.264",
+    "bitrate": 3576,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Al Bal Radio",
+    "url": "https://albal-lbnet2.radioca.st/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Anghamy",
+    "url": "https://radio.avazfarsi.com:8010/radio.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Arabica TV",
+    "url": "http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8",
+    "codec": "UNKNOWN",
+    "bitrate": 1152,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Ashohra Radio (Arabic Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s242639",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Beirut Nights",
+    "url": "http://byblosnights.com:8000/liveaac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Beirut Nights Radio (AAC)",
+    "url": "http://byblosnights.com:6190/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "BeirutNights.com",
+    "url": "http://byblosnights.com:6190/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Belight FM 104.1 (Religious Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s345916",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Byblos Radio",
+    "url": "http://byblosnights.com:8000/byblosaac",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Byblos Radio (AAC)",
+    "url": "http://byblosnights.com:8360/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Click FM Lebanon",
+    "url": "https://a12.my-control-panel.com:7530/radio.mp3",
+    "codec": "AAC",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic,english,french"
+  },
+  {
+    "name": "Delta 101.7",
+    "url": "https://radiodelta.fm/mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Fairouz",
+    "url": "https://stream-155.zeno.fm/9vrahqqfuuhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI5dnJhaHFxZnV1aHZ2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlJWZ1h0SmNZUlZxUm9XeTd6amlkTVEiLCJpYXQiOjE3NDg2Nzg2NTksImV4cCI6MTc0ODY3ODcxOX0.JUJKFflQ3A2RrO_QB-EmeqGocncaUaCXOs_tSTYAqAA",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Fame FM Lebanon",
+    "url": "https://l3.itworkscdn.net/itwaudio/9044/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Hit 90",
+    "url": "http://nrj.de/hits90",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Ibi Radio",
+    "url": "http://andromeda.shoutca.st:8192/;",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Jabal Lebnan Radio Station",
+    "url": "https://streaming.nrjaudio.fm/ousra9m4z85f",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "LBI Radio",
+    "url": "https://live.lbiradio.com/listen/station_1/1",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic,english,french"
+  },
+  {
+    "name": "Libano",
+    "url": "https://c7.radioboss.fm:18299/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 33.88922749934704,
+    "lon": 35.51157126493419,
+    "language": "armenian"
+  },
+  {
+    "name": "Light FM 90.5 & 90.7 Beirut",
+    "url": "http://28573.live.streamtheworld.com/LIGHTFMAAC_SC",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english,french"
+  },
+  {
+    "name": "Light FM 90.5 (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s8209",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "NRJ Lebanon 99.1 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s14226",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "NTL RADIO LEBANON 87.7 (Arabic Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s357047",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Naim Halawe",
+    "url": "https://streamer.radio.co/sf2fa6ce9d/listen",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Nidaa FM",
+    "url": "http://nidaa.fm:8811/stream.mp3",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Nostalgie Lebanon 88.1 (Classic Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s2918",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Nour Mariam TV",
+    "url": "http://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8",
+    "codec": "AAC,H.264",
+    "bitrate": 564,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "One FM",
+    "url": "https://hms.pfs.gdn/v1/broadcast/onefmaudio/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 170,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Radio Charity 106.1 (Christian Contemporary)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s1507",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Delta Lebanon",
+    "url": "http://radiodelta.fm/live",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Radio Delta Lebanon 101.7 (Arabic Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s16200",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Liban",
+    "url": "https://media2.streambrothers.com:2020/stream/8194",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": 33.894672570451036,
+    "lon": 35.487746894359596,
+    "language": "arabic"
+  },
+  {
+    "name": "Radio Liban 96.2FM",
+    "url": "https://media2.streambrothers.com:8202/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": 33.89457906136783,
+    "lon": 35.48784613609315,
+    "language": "french"
+  },
+  {
+    "name": "Radio Liban Libre",
+    "url": "https://edge.mixlr.com/channel/qtqeb",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": 33.95504910606795,
+    "lon": 35.6132259964943,
+    "language": "arabic"
+  },
+  {
+    "name": "Radio Maria Lebanon 90.3 (Religion & Spirituality Podcasts)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s345045",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Orient 88.6 (Asian Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s14213",
+    "codec": "mp3",
+    "bitrate": 96,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Rama",
+    "url": "https://radiorama-lbnet2.radioca.st/rama",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Reve Lebanon",
+    "url": "http://eu9.fastcast4u.com:5072/",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Sawa Lebanon 87.7 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s50451",
+    "codec": "mp3",
+    "bitrate": 160,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Sawt El Noujoum 95.9 (World Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s113356",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Radio Voice of Van",
+    "url": "https://vovan.s3ming.com/vovan.mp3",
+    "codec": "MP3",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": 33.8896834946548,
+    "lon": 35.53801526871682,
+    "language": "armenian"
+  },
+  {
+    "name": "Radio Voice of Van",
+    "url": "https://vovan.s3ming.com/vovan.aac",
+    "codec": "MP3",
+    "bitrate": 32,
+    "needsResolve": false,
+    "lat": 33.88978324405087,
+    "lon": 35.538534812524915,
+    "language": "armenian"
+  },
+  {
+    "name": "Radio Voice of Van 94.7 (News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s14223",
+    "codec": "mp3",
+    "bitrate": 32,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "SBI Lebanon",
+    "url": "http://s4.voscast.com:7648/;stream.mp3",
+    "codec": "MP3",
+    "bitrate": 80,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Sancta Maria Radio 99.3 (Religious Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s278423",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Sawt El Ghad",
+    "url": "https://l3.itworkscdn.net/itwaudio/9030/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Sawt El Ghad - FM 96.7",
+    "url": "https://l3.itworkscdn.net/itwaudio/9030/stream/",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Sawt El Ghad 96.7 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s2823",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Sawt El Mada",
+    "url": "http://audiostreaming.itworkscdn.com:9018/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Sawt El Shaeb",
+    "url": "https://audio.osina.cloud:9320/stream",
+    "codec": "MP3",
+    "bitrate": 96,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Sawt el Mada 92.4 (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s14220",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Sawtlebnan Radio 100.5 (News)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s221798",
+    "codec": "mp3",
+    "bitrate": 64,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Star FM Lebanon 94.5 (Arabic Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s243781",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Tripoli FM Lebanon",
+    "url": "https://cast4.my-control-panel.com/proxy/tripolifm/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Virgin Radio Lebanon",
+    "url": "http://stream.zeno.fm/dwxw3p9vea0uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Virgin Radio Lebanon",
+    "url": "https://stream.zeno.fm/dwxw3p9vea0uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic,english"
+  },
+  {
+    "name": "Virgin Radio Lebanon 89.5 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s201483",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Virgin Radio Lebanon Stars",
+    "url": "https://stream.zeno.fm/h66yxnapga0uv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic,english"
+  },
+  {
+    "name": "Virgin Radio Stars 89.7 (80's)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s347414",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Voice Of Grace 97.9 (Religious Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s237776",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Voice of Lebanon (Sawtlebnan) Radio",
+    "url": "https://l3.itworkscdn.net/itwaudio/9054/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "Voix Du Liban 93.3 (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s3013",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Yeridasartoutian Tsayne",
+    "url": "http://65.108.98.93:8123/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": 33.889861617873265,
+    "lon": 35.53759802808557,
+    "language": "armenian"
+  },
+  {
+    "name": "Youth Radio 87.9 (Variety)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s186962",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "lbi Radio",
+    "url": "http://andromeda.shoutca.st:8192/;stream.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic,english,french"
+  },
+  {
+    "name": "mfm",
+    "url": "https://hms.pfs.gdn/hms/v1/broadcast/hlmvmp2jtth90njc1/playlist.m3u8",
+    "codec": "AAC",
+    "bitrate": 90,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "radio maria arabic",
+    "url": "http://dreamsiteradiocp4.com:8014/stream",
+    "codec": "MP3",
+    "bitrate": 64,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "sancta maria radio",
+    "url": "http://streaming.radio.co/sa7e0251a2/listen",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "voice of Grace",
+    "url": "https://securestreams5.reliastream.com:1820/;l",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "voice of charity",
+    "url": "http://cassini.shoutca.st:9496/xstream",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "ذكريات",
+    "url": "https://stream.zeno.fm/ctmapun6ot5vv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "راديو عالبال",
+    "url": "https://albal-lbnet2.radioca.st/stream.mp3",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "رحبانيات",
+    "url": "https://stream.zeno.fm/4g8xck48kfhvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "صوت كل لبنان",
+    "url": "https://audio.osina.cloud:9323/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  },
+  {
+    "name": "فيروز",
+    "url": "https://stream.zeno.fm/9vrahqqfuuhvv",
+    "codec": "MP3",
+    "bitrate": 0,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "arabic"
+  }
+]

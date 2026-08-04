@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Dr Dick's Dub Shack",
+    "url": "http://streamer.radio.co/s0635c8b0d/listen",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Dr Dick's Dub Shack (Local Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s51000",
+    "codec": "mp3",
+    "bitrate": 192,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Dr. Dick’s Dub Shack",
+    "url": "http://streamer.radio.co/s0635c8b0d/listen?fbclid=IwAR16t5mC5UFT9Fp8pbWe0dvYn9VEI3FYJTogE5AJtUF3G1dJi38lwLgD9as",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "Hott 107.5 | (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s47638",
+    "codec": "mp3",
+    "bitrate": 75,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Inspire 105 105.1 (World Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s264448",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Inspire 105.1",
+    "url": "http://us1.internet-radio.com:8008/live",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Irie 98 FM",
+    "url": "https://usa19.fastcast4u.com:7430/;?type=http&nocache=1711133099",
+    "codec": "MP3",
+    "bitrate": 320,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Irie 98 FM 98.3 (Reggae)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s158175",
+    "codec": "mp3",
+    "bitrate": 320,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Magic 102.7 | (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s222592",
+    "codec": "mp3",
+    "bitrate": 86,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Mix 106 Bermuda 106.1 (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s7031",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Ocean 89",
+    "url": "https://us2.internet-radio.com/proxy/ocean89?mp=/stream",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Ocean 89 89.1 (Adult Hits)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s98425",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Power 95 Bermuda | (Soul)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s13330",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Slow Radio",
+    "url": "http://stream2.slowradio.com/",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "Vibe 103 FM 103.3 (Top 40 & Pop Music)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s156854",
+    "codec": "mp3",
+    "bitrate": 128,
+    "needsResolve": true,
+    "lat": null,
+    "lon": null,
+    "language": ""
+  },
+  {
+    "name": "ZBM 89.1 \"Ocean 89\" Hamilton",
+    "url": "http://us2.internet-radio.com:8016/live",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "ZFB 94.9 \"Power 95\" Hamilton",
+    "url": "http://us3.internet-radio.com:8026/live",
+    "codec": "MP3",
+    "bitrate": 128,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  },
+  {
+    "name": "dr_dick's dub shack",
+    "url": "https://streamer.radio.co/s0635c8b0d/listen",
+    "codec": "MP3",
+    "bitrate": 192,
+    "needsResolve": false,
+    "lat": null,
+    "lon": null,
+    "language": "english"
+  }
+]

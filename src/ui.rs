@@ -191,6 +191,41 @@ impl RadioApp {
         self.player.play(station);
     }
 
+    /// The station the ▶ button would start, if any.
+    fn selected_station(&self) -> Option<Station> {
+        self.selected_station
+            .and_then(|index| self.stations_of_selected_country().get(index))
+            .cloned()
+    }
+
+    /// True from the moment a station is invoked until playback actually stops.
+    ///
+    /// For transport controls outside the window, which have to report state
+    /// back to whatever draws them (the macOS Now Playing centre, MPRIS).
+    pub fn is_active(&self) -> bool {
+        matches!(
+            self.playback,
+            PlaybackState::Playing | PlaybackState::Connecting
+        )
+    }
+
+    /// What the currently playing station is called, for the same consumers.
+    pub fn current_station_name(&self) -> Option<&str> {
+        self.current_station.as_ref().map(|station| station.name.as_str())
+    }
+
+    /// Play/stop toggle for a control outside the window - a media key, an MPRIS
+    /// client. Stops if anything is playing or connecting, otherwise starts the
+    /// selected station; does nothing when nothing is selected, since there is no
+    /// sensible "some station" to fall back to in a 51k-station list.
+    pub fn toggle_playback(&mut self) {
+        if self.is_active() {
+            self.player.stop();
+        } else if let Some(station) = self.selected_station() {
+            self.play(station);
+        }
+    }
+
     fn draw_country_list(&mut self, ui: &mut egui::Ui) {
         // Just a search field, no caption: the panel it heads is obviously the
         // country list, and the hint text says what typing here does.
@@ -309,11 +344,7 @@ impl RadioApp {
                 .on_hover_text("Play the selected station (or double-click it in the list)")
                 .clicked()
             {
-                if let Some(station) = self
-                    .selected_station
-                    .and_then(|index| self.stations_of_selected_country().get(index))
-                    .cloned()
-                {
+                if let Some(station) = self.selected_station() {
                     self.play(station);
                 }
             }
